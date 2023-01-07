@@ -1,4 +1,6 @@
-# Character Sheets Readme
+# Skill Trees Readme
+
+![Stabbomancer Skill Tree](Character-Sheets/Stabbomancer/Stabbo-Skill-Tree.png)
 
 ## Required Obsidian Core Plugins
 
@@ -16,7 +18,7 @@
 
 ## Currently Available Functionality
 
-Stabbomancer Skill Tree in Canvas
+Stabbomancer Skill Tree in Canvas. Class courtesy of [Scout's BnB DLC3](https://docs.google.com/document/d/1MLOgrWwcLNTnP9PuXrKiLImy7SUh4hXO8arVUAlmdp0/edit)
 
 ## How to Install
 

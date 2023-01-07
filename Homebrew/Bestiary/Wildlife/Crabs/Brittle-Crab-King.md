@@ -2,21 +2,26 @@
 ac: 0
 alias: ["Brittle Crab King"]
 cr: 3
-cssclass: bunkers, wonderlands
+cssclass: bunkers 
 hp: 30
 initiative: 
 statblock: true
-tags:
-- BnB/Bestiary/Crab/Brittle-Crab-King
-- BnB/Homebrew
 ---
-## Brittle Crab King
+# Brittle Crab King
 
->[!homebrew]
-> __Warning__: This content is a Homebrew created for Bunkers and Badasses.
+The Brittle Crab King is a fierce and feisty land crab native to the Snoring Valley region of the Mellow Steppes province. Though small in size, this crab packs a punch with its sharp pincers and lightning-fast scuttling movements. Its prey includes giant squirrels, fat-ass bass, and the occasional human. The Brittle Crab King is known for calling upon its numerous offspring to join the fight in battle.
+
+In terms of appearance, the Brittle Crab King sports a hard, brown shell covered in small spikes. It can often be found lurking underground, waiting for unsuspecting prey to pass by. Once defeated, this crab's shell can be pried open to reveal an old hewn axe that was used to impale it long ago.
+
+Normally not an overly aggressive species, the Brittle Crab King has recently been attacking anything that crosses its path as it searches frantically for its missing queen.
+
+> If spared from death in it's defeat, it may offer a quest to players to help find its beloved mate.
+
+## Statblock
 
 ```statblock
 layout: Bunkers
+source: Bunkers-Wildlife
 dice: true
 name: Brittle Crab King
 type: 
@@ -56,3 +61,6 @@ loot:
   desc: "Long Ago, Brittle Crab King was impaled with a Hewn Axe. Once free of the shell, the rusted head will do 3 (1d4) damage per swing."
 ```
 
+>[!abstract]- Bestiary Inline Metadata
+> source:: __Bunkers-Wildlife__
+> tags:: #BnB/Homebrew/Bestiary #BnB/Bestiary/Wildlife/Crabs/Brittle-Crab-King

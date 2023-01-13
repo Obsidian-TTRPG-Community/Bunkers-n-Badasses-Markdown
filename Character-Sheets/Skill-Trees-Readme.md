@@ -1,6 +1,6 @@
 # Skill Trees Readme
 
-![Stabbomancer Skill Tree](Character-Sheets/Stabbomancer/Stabbo-Skill-Tree.png)
+![](https://github.com/sigrunixia/Obsidian-Bunkers-n-Badasses/blob/main/Character-Sheets/Stabbomancer/Stabbo-Skill-Tree.png)
 
 ## Required Obsidian Core Plugins
 

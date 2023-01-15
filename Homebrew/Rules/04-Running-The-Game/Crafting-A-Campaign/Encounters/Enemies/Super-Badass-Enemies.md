@@ -1,0 +1,1 @@
+/Users/sigrunshepherd/Documents/Tenebra/Bunkers-and-Badasses/04-Running-The-Game/Crafting-A-Campaign/Encounters/Enemies/Super-Badass-Enemies.md

@@ -13,7 +13,7 @@ Please note... You will not be able to see the icons in this Readme properly unt
 
 ## Files you will need
 
-1. [Bunkers-Font-Icons-V1](Bunkers-Font-Icons-V1.css)
+1. [Bunkers-Font-Icons-V1](_attachments/Bunkers-Font-Icons-V1.css)
 2. All the files in the [Fonts](../Fonts) directory if you want the physical fonts to encode into your website.
 
 ### Optional Files
@@ -64,6 +64,12 @@ Statblocks is already set up to skin these two variables towards `p` and `h1-h6`
 **󡄙 using Unicode Press Key + Type the rest**
 `e1119`
 
+
+*Image for those who still are working to install the font.*
+![Using HTML to invoke a font](_attachments/example-html-usage.png)
+
+***
+
 ### One Webpage or One Note
 
 What about in the entirety of the note as I am now? There is a table below that I am using to show you how to change the icons. How am I doing it there? Individual web pages, or in Obsidian's case, notes, can have selective toggling of css per page. Here are how the two line up in language terms.
@@ -88,6 +94,11 @@ sans-serif;
 As a result, now after the system-ui font, the glyphs will render in any of the body fields. This means it will render 󡄛, 󡄝, and 󡄙 here and...
 󡄛, 󡄝, and 󡄙  as well.
 
+*Image rendition*
+![](_attachments/image-example-2.png)
+
+***
+
 Realistically, I would never usually go as broad as body, but it is contained within this one file because of the `cssclass: Bunkers`. The equivalent in html is `<link rel="stylesheet" href="style.css">`.
 
 Which, is how you also would use it throughout your entire site, but once you begin doing that, you stop using embeds and you go straight to using font file, which is found in the font folder. As I mentioned before, reusing glyphs can be a problem in broad cases, and are used in short term to maximize compatibility. 
@@ -102,12 +113,17 @@ background-color: red; /* this colors background red*/
 }
 ```
 
-However the font file does contain individual classes for each icon, so you can ensure certain specifications happen to the icon everytime its used.. Or you can color it individually when using it... <p style="color: skyblue">󡄟</p>
+However the font file does contain individual classes for each icon, so you can ensure certain specifications happen to the icon everytime its used.. Or you can color it individually when using it... <p style="color: skyblue">󡄟 Snooooooow</p>
 
 ````html
-<p style="color: skyblue">󡄟</p> U+e111f
+<p style="color: skyblue">󡄟 Snooooowwww</p> U+e111f
 ````
 
+
+*Image Rendition*
+![](_attachments/image-example-3.png)
+
+---
 
 ## Table of Font Icons
 
@@ -115,9 +131,9 @@ However the font file does contain individual classes for each icon, so you can 
 | --------------------- | -------- | ---------- | --- | ------------- |
 | **Unarmed**           | 󡄀        | e1100      | `&#xe1100;`    | Unarmed       |
 | **Valora**            | 󡄁       | e1101          | `&#xe1101;`    | Valora        |
-| **Pangoblin** | 󡄂       | 76fe       | `&#xe1102;`    | Pangoblin  |
+| **Pangoblin** | 󡄂       | e1102       | `&#xe1102;`    | Pangoblin  |
 
 
 
-### Image of Font Icons (Will be removed when table is done)
+### Image Table of Font Icons
 ![](_attachments/Bunkers-Font-Icons.png)

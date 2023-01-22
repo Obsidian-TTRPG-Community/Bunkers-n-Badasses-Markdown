@@ -16,9 +16,9 @@ tags:
 
 # Commando Gunner
 
->[!summary] Gunner and Iron Bear
+>[!summary]- Gunner Base Stats
 >
-> | __Beastmaster Type__ | ___Score___      | __Beastmaster Type__  | ___Score___                      |
+> | __Gunner Type__ | ___Score___      | __Gunnder Type__  | ___Score___                      |
 > | -------------------- | ------------ | --------------------- | ---------------------------- |
 > | __Accuracy__         | +2           | __Damage__            | +1                           |
 > | __Speed__            | +1           | __Mastery__           | +0                           |

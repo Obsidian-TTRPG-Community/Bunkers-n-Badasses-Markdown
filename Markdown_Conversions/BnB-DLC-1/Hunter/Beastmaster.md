@@ -16,19 +16,19 @@ tags:
 
 # Hunter Beastmaster
 
->[!summary] Beastmaster and Familiar Base Stats
+>[!summary]- Beastmaster and Familiar Base Stats
 >
-| __Beastmaster Type__ | ___Score___      | __Beastmaster Type__  | ___Score___                      |
-| -------------------- | ------------ | --------------------- | ---------------------------- |
-| __Accuracy__         | +1           | __Damage__            | +1                           |
-| __Speed__            | +0           | __Mastery__           | +2                           |
-| __Melee Die__        | 1d8          | __Action Skill__      | __[Gamma Burst](../Action_Skill/Gamma-Burst.md)__ |
-| __Favored Gun__      | Sniper Rifle | __Favored Gun__       | Pistol                       |
-|                      |              |                       |                              |
-| ___Familiar Melee___ | ___Score___      | ___Familiar Ranged___ | ___Score___                      |
-| __2-7__              | -1 DMG       | __2-7__                   | 1 - 0                          |
-| __8-15__             | Normal       | __8-15__                  | 2 - 0                          |
-| __16+__              | +1 DMG       | __16+__                   | 3 - 0                             |
+> | __Beastmaster Type__ | ___Score___      | __Beastmaster Type__  | ___Score___                      |
+> | -------------------- | ------------ | --------------------- | ---------------------------- |
+> | __Accuracy__         | +1           | __Damage__            | +1                           |
+> | __Speed__            | +0           | __Mastery__           | +2                           |
+> | __Melee Die__        | 1d8          | __Action Skill__      | __[Gamma Burst](../Action_Skill/Gamma-Burst.md)__ |
+> | __Favored Gun__      | Sniper Rifle | __Favored Gun__       | Pistol                       |
+> |                      |              |                       |                              |
+> | ___Familiar Melee___ | ___Score___      | ___Familiar Ranged___ | ___Score___                      |
+> | __2-7__              | -1 DMG       | __2-7__                   | 1 - 0                          |
+> | __8-15__             | Normal       | __8-15__                  | 2 - 0                          |
+> | __16+__              | +1 DMG       | __16+__                   | 3 - 0                             |
 
 ## Action Skill
 

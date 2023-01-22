@@ -59,14 +59,14 @@ Statblocks is already set up to skin these two variables towards `p` and `h1-h6`
 `&#xe1119;`
 
 **󡄙 using Unicode Character Copy + Paste**
-`㮡`
+`󡄙`
 
 **󡄙 using Unicode Press Key + Type the rest**
 `e1119`
 
 
 *Image for those who still are working to install the font.*
-![Using HTML to invoke a font](_attachments/example-html-usage.png)
+![](_attachments/HTML-As-Icon.png)
 
 ***
 

@@ -1,19 +1,22 @@
 ---
 alias: [Gamma Burst]
+class: Hunter
 cssclass: 
 skilltree: Beastmaster
-class: Hunter
 source: Homebrew
 sourceurl: https://docs.google.com/document/d/1mjXpoVLi-NuoOolvlEiYb9cNrDb_v0MtbY8qv0hTrJw/
-tags: 
+tags:
 - BnB/Homebrew/ActionSkills
 - BnB/PC/ActionSkills
 - BnB/ActionSkills/Hunter/Beastmaster
 ---
-# Gamma Burst
-**Special Effect:** *Choose **1** Familiar*
 
-Create a _Rift_ at a target location for **2** rounds. 
+# Gamma Burst
+
+__(MST Mod per Day + 1/Encounter)__
+__Special Effect:__ _Choose __1__ Familiar_
+
+Create a _Rift_ at a target location for __2__ rounds. 
 
 When activated, the _Rift_ teleports your Familiar to its location, and empowers it for the duration: 
 - It deals +2 Dice on each attack and the Familiar cannot die while the _Rift_ is open. 

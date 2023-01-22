@@ -1,13 +1,14 @@
 ---
-alias: [Spiderant Familiar]
-cssclass: 
-class: Hunter
-skilltree: Beastmaster
-health: 10
-armor: 15
 acc: 1
+alias: [Spiderant Familiar]
+armor: 15
+class: Hunter
+cssclass: 
+health: 10
 move: "move 5"
+skilltree: Beastmaster
 ---
+
 # Spiderant Familiar
 
 ```statblock

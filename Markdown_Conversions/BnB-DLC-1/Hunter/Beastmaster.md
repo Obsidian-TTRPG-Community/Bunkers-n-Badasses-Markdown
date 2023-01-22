@@ -9,47 +9,39 @@ mst: +2
 skilltree: Beastmaster
 spd: +0
 ---
-# Beastmaster
 
+# Hunter Beastmaster
 
->[!summary]- Beastmaster and Familiar Base Stats
+>[!summary] Beastmaster and Familiar Base Stats
 >
-| **Beastmaster Type** | *Score*      | **Beastmaster Type**  | *Score*                      |
+| __Beastmaster Type__ | ___Score___      | __Beastmaster Type__  | ___Score___                      |
 | -------------------- | ------------ | --------------------- | ---------------------------- |
-| **Accuracy**         | +1           | **Damage**            | +1                           |
-| **Speed**            | +0           | **Mastery**           | +2                           |
-| **Melee Die**        | 1d8          | **Action Skill**      | [Gamma Burst](../Action_Skill/Gamma-Burst.md) |
-| **Favored Gun**      | Sniper Rifle | **Favored Gun**       | Pistol                       |
+| __Accuracy__         | +1           | __Damage__            | +1                           |
+| __Speed__            | +0           | __Mastery__           | +2                           |
+| __Melee Die__        | 1d8          | __Action Skill__      | __[Gamma Burst](../Action_Skill/Gamma-Burst.md)__ |
+| __Favored Gun__      | Sniper Rifle | __Favored Gun__       | Pistol                       |
 |                      |              |                       |                              |
-| ***Familiar Melee*** | *Score*      | ***Familiar Ranged*** | *Score*                      |
-| __2-7__              | -1 DMG       | **2-7**                   | 1 - 0                          |
-| **8-15**             | Normal       | **8-15**                  | 2 - 0                          |
-| **16+**              | +1 DMG       | **16+**                   | 3 - 0                             |
+| ___Familiar Melee___ | ___Score___      | ___Familiar Ranged___ | ___Score___                      |
+| __2-7__              | -1 DMG       | __2-7__                   | 1 - 0                          |
+| __8-15__             | Normal       | __8-15__                  | 2 - 0                          |
+| __16+__              | +1 DMG       | __16+__                   | 3 - 0                             |
 
+## Action Skill
 
+![Gamma Burst](../Action_Skill/Gamma-Burst.md#Gamma%20Burst)
 
-| **Stat**     | __Familiar: Jabber__             | __Familiar: Skag__       | __Familiar: Spiderant__ |
+## Familiars
+
+| __Stat__     | __Familiar: Jabber__             | __Familiar: Skag__       | __Familiar: Spiderant__ |
 | ------------ | -------------------------------- | ------------------------ | ----------------------- |
-| **Health**   | 20                               | 10                       | 10                        |
-| **Shields**  | 0                                | 0                        |   0                      |
-| **Armor**    | 0                                | 10                       |    15                     |
-| **ACC**      | +1                               | +2                       | +1                      |
-| **Movement** | Land 4 Sq, Climb 4 sq            | Land 6 Sq                |      5 Sq                   |
-| **Turn**     | 1 Attack/Turn                    | 1 Attack/Turn            |          2 Attacks/Turn               |
-| **Type**     | **Pistol**: *Range* 6, 2d4 / Hit | **Bite**: *Melee*, 1d8+2 | **Acid**: *Range* 5, 1d4 / Hit,                         |
+| __Health__   | 20                               | 10                       | 10                        |
+| __Shields__  | 0                                | 0                        |   0                      |
+| __Armor__    | 0                                | 10                       |    15                     |
+| __ACC__      | +1                               | +2                       | +1                      |
+| __Movement__ | Land 4 Sq, Climb 4 sq            | Land 6 Sq                |      5 Sq                   |
+| __Turn__     | 1 Attack/Turn                    | 1 Attack/Turn            |          2 Attacks/Turn               |
+| __Type__     | __Pistol__: _Range_ 6, 2d4 / Hit | __Bite__: _Melee_, 1d8+2 | __Acid__: _Range_ 5, 1d4 / Hit,                         |
 
+## Beastmaster Skill Tree
 
-
-__Hunter Familiar (Spiderant)__
-
-Health: 10 Health, 15 Armor
-
-ACC: +1
-
-Movement: 5sq
-
-2 Attacks/Turn
-
-_Sting_: Melee 1d4+2
-
-_Acid_: Range 5, 1d4/Hit, Corrosive.
+![Beastmaster Skill Tree](Markdown_Conversions/BnB-DLC-1/Skill_Tables/Beastmaster-Skill-Tree.md#^bunkersdlc1beastmaster)

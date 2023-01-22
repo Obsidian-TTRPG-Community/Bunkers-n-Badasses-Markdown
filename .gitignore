@@ -4,6 +4,7 @@
 # Ignore Obsidian Files
 .obsidian
 .trash
+.development
 
 # Ignore vscode and friends
 .vscode

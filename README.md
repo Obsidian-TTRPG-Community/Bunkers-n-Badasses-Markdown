@@ -1,6 +1,6 @@
 # Obsidian Bunkers and Badasses Resource Repository
 
-A repository for resources for resources for [Obsidian.md](https://obsidian.md) and the TTRPG game Bunkers &amp; Badasses.
+A repository of resources the TTRPG game Bunkers and Badasses by [Nerdvana Games](https://nerdvanagames.com), primarily oriented towards utilization within [Obsidian.md](https://obsidian.md). 
 
 ## TTRPG Statblocks Layout
 

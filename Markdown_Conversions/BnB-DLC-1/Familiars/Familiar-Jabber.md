@@ -1,4 +1,0 @@
----
-alias: [Familiar: Jabber]
-cssclass: 
----

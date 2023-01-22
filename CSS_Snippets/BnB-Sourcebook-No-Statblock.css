@@ -1,0 +1,534 @@
+/* 
+Made for Bunkers & Badasses Theming.
+
+Add the following to the frontmatter of Obsidian to enable this snippet on select pages.
+
+cssclass: bunkers
+
+If using other snippets or sections, add their names next to this one. For example:
+
+cssclass: bunkers, wonderlands
+
+The text must be lowercase.
+
+Embedded Icons sourced from https://lucide.dev and https://game-icons.net, licensed via CC BY 3.0..
+
+Don't like a section? Delete it. Want to add more? Add it!
+
+by Sigrunixia / LittleMaelstrom
+*/
+
+
+/* 
+
+Theming Section 
+
+*/
+
+/* Render Blockquotes better in reader */
+.bunkers .markdown-rendered blockquote {
+  padding: 5px 5px 5px 10px;
+}
+
+/* Change Highlighted ==Markdown Text== to reflect Tina's colors*/
+.bunkers .markdown-preview-section mark,
+.bunkers .cm-s-obsidian span.cm-highlight {
+  background-color: rgb(247, 170, 211);
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+/* Tina's Paragraphs in Callout Form */
+.bunkers .callout[data-callout="tina"] {
+  --callout-color: 254, 159, 146;
+  --callout-icon: <svg style="height: 24px; width: 24px;" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" ><g class="" style="" transform="translate(0,0)" ><path d="M188.28 59.47c-19.086 0-34.56 15.468-34.56 34.56 0 16.077 10.983 29.57 25.843 33.44l-35.344 81.936c15.877 2.885 27.905 16.784 27.905 33.5 0 18.806-15.23 34.063-34.03 34.063-18.802 0-34.032-15.258-34.032-34.064 0-13.37 7.703-24.924 18.906-30.5l-50.814-79.22c8.007-5.82 13.22-15.24 13.22-25.905 0-17.693-14.314-32.06-32-32.06-17.688 0-32.032 14.37-32.032 32.06 0 17.693 14.344 32.032 32.03 32.032.734 0 1.468-.014 2.188-.062l41.907 227h316l41.936-227c.72.048 1.455.063 2.188.063 17.686 0 32.03-14.34 32.03-32.032 0-17.693-14.344-32.06-32.03-32.06-17.687 0-32.03 14.37-32.03 32.06-.002 10.723 5.286 20.187 13.373 26l-50.656 79.532c10.778 5.72 18.126 17.04 18.126 30.094 0 18.806-15.23 34.063-34.03 34.063s-34.032-15.258-34.032-34.064c0-17.11 12.602-31.267 29.03-33.687l-34.75-81.532c15.275-3.577 26.657-17.287 26.657-33.657 0-19.094-15.474-34.56-34.56-34.56-19.09 0-34.564 15.468-34.564 34.56 0 14.798 9.308 27.415 22.375 32.345L268 202.345c14.62 4.52 25.25 18.112 25.25 34.218 0 19.796-16.053 35.843-35.844 35.843-19.79 0-35.812-16.047-35.812-35.844 0-15.158 9.403-28.102 22.687-33.343l-44.124-76.72c13.234-4.845 22.688-17.552 22.688-32.47 0-19.094-15.475-34.56-34.563-34.56zM97.438 384.936c-23.978 3.763-22.86 39.844 4.188 39.844h6.656l.064.345h294.28l.063-.344h7.625c26.034 0 27.88-35.928 4.313-39.842H97.437z" fill="#ff99cc" fill-opacity="1" ></path></g></svg>;
+  border-style: hidden;
+  border-width: 1px;
+  margin: 1px;
+  padding: 1px;
+  padding-top: 1px;
+}
+
+.bunkers .callout[data-callout="tina"] .callout-title {
+  background-color: rgba(254, 159, 146), 1;
+  color: rgb(254, 146, 187);
+  padding: 4px;
+}
+
+.bunkers .callout[data-callout="tina"] .callout-content {
+  background-color: rgba(var(--callout-color)), 1;
+}
+
+.bunkers .callout[data-callout="tina"] .callout-content p {
+  color: rgb(203, 104, 142);
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: calc(0.9*var(--font-text-size));
+  font-style: normal;
+  padding: 4px;
+  text-align: left;
+}
+
+
+/* Sourcebook Excerpts in Callout Form */
+.bunkers .callout[data-callout="sourcebook"] {
+  --callout-color: 254, 237, 185;
+  --callout-icon: <svg style="height: 24px; width: 24px;" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" ><g class="" style="" transform="translate(0,0)" ><path d="M149.7 17.6c-1.2 0-2.5 0-3.7.1-33.9.8-75.52 10.7-127.22 33.7v371.4c60.7-28.8 106.62-37.1 144.12-33.1 33.5 3.5 59.7 16.6 83.6 31.2h18.3c23.9-14.6 50.1-27.7 83.6-31.2 37.5-4 83.5 4.3 144.2 33.1V51.4c-51.7-23-93.3-32.9-127.2-33.7-1.3 0-2.5-.1-3.7-.1-3.7 0-7.4.1-10.9.3-35.8 2-62.7 14.3-86 32h-18.3c-23.2-17.7-50.2-30-86-32-3.5-.2-7.1-.3-10.8-.3zm106.2 51.2c4.5 0 9.4 1.1 12.8 2.9l115.9 67.1c7.4 4.1 7.4 10.9 0 15.2l-115.9 66.9c-7.2 4.3-18.5 4.3-25.7 0L126.8 154c-7.3-4.3-7.3-11.1 0-15.2L243 71.7c3.4-1.8 7.9-2.9 12.9-2.9zm-89 62.6c-21.6-.4-33.1 15-18.2 24.3 9.6 4.8 23.7 4.4 32.7-.8 8.8-5.3 9.5-13.7 1.5-19.4-4.3-2.5-10-4-16-4.1zm178.6.1c-20.8.4-31.3 15.5-16.3 24.5 9.6 4.9 23.9 4.6 33-.7 8.9-5.3 9.5-13.9 1.2-19.6-4.2-2.4-9.9-4-15.9-4.2h-2zm-89 0c-6.6-.1-13 1.5-17.7 4.2-10.2 5.6-10.4 15.1-.6 20.9 9.9 5.8 25.8 5.6 35.1-.6 15-9 4.6-24.3-16.8-24.5zm-141 41c1.5.1 3.4.5 5.6 1.6l111.5 64.5c7.2 4.1 12.9 14.2 12.9 22.5v119.7c0 8.3-5.7 11.7-12.9 7.6L121.2 324c-7.4-4.3-13.2-14.2-13.2-22.6V181.7c0-6.2 3-9.2 7.5-9.2zm281.3 0c4.2 0 7.2 3 7.2 9.2v119.7c0 8.4-6 18.3-13 22.6l-111.5 64.4c-7.2 4.1-12.9.7-12.9-7.6V261.1c0-8.3 5.7-18.4 12.9-22.5L391 174.1c2.1-1.1 4.2-1.5 5.8-1.6zm-185 65.5h-1.1c-5.3.4-8.5 4.8-8.5 11.6-.6 10.4 7.2 24.1 16.9 29.8 9.8 5.6 17.6 1.1 17.2-9.9.2-14.2-13.3-31.1-24.5-31.5zm130.9 21.8c-11.2.1-24.8 17.2-24.7 31.4.1 10.4 7.7 14.4 17.2 8.9 9.4-5.5 17-18.3 17.1-28.8 0-6.7-3.3-11.1-8.5-11.5h-1.1zm-216.9 22.5c-5.4.3-8.7 4.7-8.7 11.6-.5 10.5 7.3 24.1 17 29.8 9.8 5.5 17.6 1 17.2-10.1 0-14.5-14.1-31.8-25.5-31.3zm17.6 125.1c-32 .3-71.83 9.8-124.63 36v42.5c60.7-28.8 106.63-37.1 144.13-33.1 18.6 2 34.9 6.9 49.8 13.3-4.7 6.1-9.3 13.3-13.9 21.7H316c-6-8.2-11.8-15.4-17.7-21.6 15-6.5 31.4-11.4 50.1-13.4 37.5-4 83.5 4.3 144.2 33.1v-42.5c-53.1-26.3-93.1-35.9-125.2-36h-3.1c-4.8.1-9.4.4-13.9.9-34 3.6-59.6 18-85.6 34.4v.3c-6.5-2-13-2.4-19.4-1-25.5-16.1-51-30.2-84.4-33.7-5.6-.6-11.5-.9-17.6-.9z" fill="#ffcc66" fill-opacity="1" ></path></g></svg>;
+  border-style: inset;
+  border-width: 1px;
+  margin: 1px;
+  padding: 1px;
+  padding-top: 1px;
+}
+
+.theme-dark .bunkers .callout[data-callout="sourcebook"] .callout-title {
+  background-color: rgba(var(--callout-color)), 1;
+  color: goldenrod;
+  padding: 4px;
+}
+
+.theme-light .bunkers .callout[data-callout="sourcebook"] .callout-title {
+  background-color: rgba(var(--callout-color)), 1;
+  color: darkorange;
+  padding: 4px;
+}
+
+.bunkers .callout[data-callout="sourcebook"] .callout-title-inner {
+  text-transform: capitalize;
+  text-align: center;
+}
+
+.bunkers .callout[data-callout="sourcebook"] .callout-content {
+  background-color: rgba(var(--callout-color)), 1;
+  border-top-style: none;
+  padding: 8px;
+  /* Some text breathing room when combined with Justify */
+}
+
+.bunkers .callout[data-callout="sourcebook"] .callout-content p {
+  font-family: 'Times New Roman', Times, serif;
+  font-style: normal;
+  font-size: calc(0.9*var(--font-text-size));
+  text-align: justify;
+}
+
+
+/* 
+
+Wonderlands Characters Callouts
+
+Real Icons coming soon.
+
+*/
+
+.bunkers .callout[data-callout="valentine"] {
+  --callout-color: 65, 105, 225;
+  --callout-icon: <svg style="height: 24px; width: 24px;" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" ><g class="" style="" transform="translate(0,0)" ><path d="M62.522 17.166c-.412-.005-.826 0-1.243.012l-.003-.002c-9.747.288-20.823 5.23-29.843 14.25C16.242 46.62 12.596 67.62 23.31 78.334c7.99 7.988 21.715 8.026 34.47 1.22 16.166 30.05 42.153 57.687 71.437 76.374-18.77 24.156-29.97 54.48-29.97 87.375h18.69c0-28.9 9.826-55.474 26.342-76.53l2.156 39.405c2.91 2.622 5.82 5.224 8.732 7.832 4.356-12.66 10.49-24.082 18.785-33.344l13.057-14.578 2.568 19.4c3.6 27.192 6.476 50.554 9.908 67.99 15.483 13.69 30.924 27.27 46.223 40.555 5.405-2.125 11.38-3.683 17.63-5.1 18.31-4.148 40.412-6.538 60.058-9.835-37.685-43.742-77.43-88.55-117.246-132.668l-38.968-2.125c20.764-15.68 46.636-24.966 74.718-24.97v-18.69c-32.2.003-61.944 10.726-85.843 28.78-18.697-29.382-46.39-55.48-76.53-71.685 6.794-12.748 6.796-26.422-1.188-34.406-4.08-4.08-9.646-6.094-15.82-6.168zm319.773 2.682l-51.34 54.99 27.06 85.992L419.642 176l16.407-49.58-45.104-23.934-8.447 23.213 15.62 9.597 2.673-11.535 14.618 7.54-5.765 27.046-49.16-27.498L384 78l43.107 24.766 17.795-57.682-62.607-25.236zM203.79 32.305c-23.41 22.86-38.652 47.65-46.438 71.302.95 1.23 1.894 2.47 2.818 3.72 19.074-11.54 40.616-18.787 62.72-21.53-8.528-18.76-16.008-37.234-19.1-53.492zm139.29 3.027c-2.256.45-43.49 8.084-53.945 9.863l-13.783 97.078 75.595 85.483 116.612-14.272 24.63-100.953-44.635-18.63-4.655 15.092 12.768 8.856-26.49 79.732-85.477-21.86-31.407-99.814 30.787-40.574zm-99.756 99.93c-8.035.007-15.983.746-23.94 2.43a9462.44 9462.44 0 0 1 40.825 45.27c-.502-13.06-6.45-29.622-14.358-47.657-.843-.015-1.687-.044-2.528-.043zm49.067 53.3a233.982 233.982 0 0 0-15.814 12.737 6065.473 6065.473 0 0 1 40.684 46.173c13-2.56 26.228-6.366 38.982-11.928-21.436-4.717-51.77-8.685-60.724-26.168a234.736 234.736 0 0 1 9.285-6.922c-2.27-2.522-2.445-2.703-4.967-5.52-2.645-2.954-4.985-5.603-7.445-8.374zm-117.267 24.686c-7.373 17.72-11.074 40.45-10.783 63.322.422 33.24 5.29 63.63 16.855 79.524-18.443 39.608-40.69 81.563-69.343 102.687h-.004c-26.502 18.904-51.61 14.405-63.866.624-6.127-6.89-9.442-16.274-7.98-28.258 1.45-11.88 7.926-26.43 22.246-42.21 11.966-10.248 21.69-14.276 28.156-14.954 6.552-.687 9.854 1.214 12.336 4.327 4.963 6.226 5.048 20.812-7.48 31.327l12.013 14.316c19.1-16.03 22.676-41.487 10.082-57.29-6.297-7.9-17.036-12.51-28.9-11.268-11.865 1.245-24.787 7.553-38.885 19.76l-.41.357-.365.4c-16.57 18.11-25.296 36.22-27.34 52.973-2.045 16.753 2.874 32.043 12.564 42.94 19.38 21.79 56.224 25.322 88.68 2.175l.003-.002a160.698 160.698 0 0 0 16.992-13.967c29.887-7.726 58.962-10.74 92.3-37.436-21.193.977-40.373-1.7-53.542-15.13 13.405-25.285 23.347-52.815 34.78-79.87 4.153-9.833 8.482-19.624 13.212-29.285a8956.346 8956.346 0 0 1-13.22-11.605 47.82 47.82 0 0 1-1.582-.322l-5.325 15.978c-7.244-2.413-12.01-8.344-15.4-15.106-3.39-6.763-5.785-14.94-7.92-24.63-2.96-13.43-5.385-30.65-7.875-49.376zm192.2 78.113c-.95 3.686-2.002 7.268-3.15 10.75a3912.925 3912.925 0 0 1 38.073 45.722c15.284-8.49 29.937-19.356 42.938-32.674-23-3.926-50.907-14.148-77.862-23.797zm-19.044 1.066c-26.425 7.104-58.293 8.925-80.964 14.062-13.756 3.117-23.042 7.92-25.418 11.51-1.187 1.795-1.65 3.264-.867 6.848.784 3.583 3.327 9.055 8.585 16.04l.004.005.003.007c15.597 20.782 35.098 23.19 55.207 12.3 17.34-9.387 34.29-30.29 43.45-60.77zm9.195 26.633c-8.447 18.075-19.744 32.47-32.63 42.465 62.56 52.325 120.89 98.433 169.995 133.31-34.996-50.882-83.143-111.51-137.365-175.776z" fill="#F66A5F" fill-opacity="1" ></path></g></svg>;
+  border-style: hidden;
+  border-width: 1px;
+  margin: 1px;
+  padding: 1px;
+  padding-top: 1px;
+}
+
+.bunkers .callout[data-callout="valentine"] .callout-content {
+  background-color: rgba(var(--callout-color)), 1;
+  margin: 8px;
+}
+
+.bunkers .callout[data-callout="valentine"] .callout-content p {
+  font-style: normal;
+  font-size: calc(0.9*var(--font-text-size));
+  text-align: justify;
+}
+
+/*Callout Frette*/
+.bunkers .callout[data-callout="frette"] {
+  --callout-color: 113, 144, 4;
+  --callout-content-padding: 0;
+  --callout-icon: <svg style="height: 24px; width: 24px;" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" ><g class="" style="" transform="translate(0,0)" ><path d="M214.475 29.258L161.77 81.96c16.936 20.538 28.36 42.014 27.927 65.403-.452 24.518-14.472 48.98-43.79 73.528l5.99 17.694c71.606-19.315 130.42-50.42 170.478-101.428l-107.9-107.898zm-57.424 77.54L21.24 211.07v51.764l149.748-115.11c.008-.236.02-.472.026-.706.24-13-4.75-26.334-13.96-40.22zm276.18 3.19l-36.34 84.352 70.038-48.074-33.7-36.278zm-97.543 40.48c-42.955 53.685-105.04 86.063-177.787 105.852l14.08 41.59c18.005.184 38.99-3.06 60.754-9.574.94-1.584 1.904-3.157 2.924-4.705 23.146-35.122 66.755-62.113 114.967-66.79 8.404-8.93 16.06-18.51 22.73-28.705l-37.668-37.666zm29.745 84.34c-47.143 0-92.654 26.458-114.168 59.106-10.757 16.324-15.532 33.768-12.805 50.416 2.726 16.648 12.827 33.23 34.772 48.188l6.118 4.168c13.21 6.097 27.513 9.598 40.26 10.794l-38.04 5.555-20.562 43.145c11.34 9.924 24.012 17.9 37.492 23.927l10.53-45.236 18.202 4.24-11.09 47.646c13.566 4.21 27.673 6.614 41.858 7.203v-52.015h18.688v51.74c13.787-.973 27.45-3.665 40.56-8.07l-10.443-46.578 18.236-4.09 9.77 43.57c11.56-5.517 22.482-12.496 32.422-20.94l-21.39-44.884-35.71-5.213c10.606-.995 22.29-3.588 33.524-7.94l12.13-5.782c24.48-15.652 35.938-32.698 39.337-49.32 3.44-16.818-1.263-34.156-12.35-50.5-22.174-32.69-70.172-59.13-117.34-59.13zm-50.62 84.174c19.09 0 34.567 15.475 34.567 34.565 0 19.09-15.48 34.566-34.567 34.566-19.09 0-34.565-15.476-34.565-34.566 0-19.09 15.474-34.565 34.565-34.565zm105.547 0c19.09 0 34.564 15.476 34.564 34.565 0 19.09-15.476 34.566-34.565 34.566-19.09 0-34.565-15.476-34.565-34.566 0-19.09 15.474-34.565 34.564-34.565zm-233.737 3.747l-108.115.26 24.996 43.334 83.12-43.595zm23.623 15.715l-56.36 83.56 44.692 15.724 11.668-99.285zm107.7 9.703c-5.715 0-10.147 4.433-10.147 10.147 0 5.715 4.432 10.146 10.145 10.146 5.714 0 10.147-4.43 10.147-10.145s-4.43-10.147-10.147-10.147zm99.28 0c-5.715 0-10.146 4.432-10.146 10.147 0 5.714 4.433 10.146 10.147 10.146 5.713 0 10.146-4.43 10.146-10.145 0-5.714-4.432-10.147-10.146-10.147zm-49.835 14.297l23.046 53.694c-11.686 7.06-33.125 7.013-44.42 1.95l21.375-55.645z" fill="#1E2200" fill-opacity="1" ></path></g></svg> 
+  border-style: hidden;
+  border-width: 1px;
+  margin: 1px;
+  padding: 1px;
+  padding-top: 1px;
+}
+
+.bunkers .callout[data-callout="frette"] .callout-content {
+  background-color: rgba(var(--callout-color)), 1;
+  border-top-style: none;
+  margin: 8px;
+}
+
+.bunkers .callout[data-callout="frette"] .callout-content p {
+  font-style: normal;
+  font-size: calc(0.9*var(--font-text-size));
+  text-align: justify;
+}
+
+
+
+/* 
+Misc Callout Section 
+
+Table of Contents:
+Business
+Chat-Left
+Chat-Right
+Excerpt
+Faction
+Location
+Quest
+Skills
+
+*/
+
+
+/* Business Descriptions */
+.bunkers .callout[data-callout="business"] {
+  --callout-color: 158, 186, 188;
+  /* Image from https://game-icons.net/1x1/delapouite/shop.html */
+  --callout-icon: <svg style="height: 24px; width: 24px;" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" ><g class="" style="" transform="translate(0,0)" ><path d="M256.18 21c-23.242 0-46.577 3.01-63.186 8.54-8.304 2.763-14.868 6.196-18.808 9.558-3.94 3.36-5.167 5.956-5.186 8.96L168.943 57H41v14h430V57H342.967l.033-9.033c.01-3.002-1.17-5.55-5.057-8.895-3.887-3.344-10.407-6.773-18.677-9.535C302.724 24.014 279.42 21 256.18 21zM38.277 89l-10.443 94h80.9l20.243-86.36L122.81 183h81.07l17.114-86.68-3.096 86.68h75.75l-4.634-86.518L307.694 183h81.497l-6.167-86.36L403.266 183h80.9l-10.443-94H38.277zM25.834 201l-.51 4.588C39.822 226.445 52.968 235 64 235c11.32 0 24.852-8.89 39.8-30.96l.714-3.04h-78.68zm95.687 0l-.32 4.498C135.753 226.495 148.935 235 160 235c11.293 0 24.788-8.85 39.693-30.803l.63-3.197h-78.802zm95.736 0l-.156 4.352C231.69 226.455 244.908 235 256 235c11.08 0 24.28-8.525 38.85-29.576l-.237-4.424h-77.357zm94.324 0l.674 3.12c15 22.192 28.503 31.044 39.773 31.013 11.03-.03 24.212-8.62 38.772-29.637l-.32-4.496h-78.9zm95.906 0l.713 3.04C423.147 226.11 436.68 235 448 235c11.032 0 24.178-8.555 38.676-29.412l-.51-4.588h-78.68zM112 223.31C97.313 242.11 81.492 253 64 253c-13.972 0-26.884-6.906-39-19.264V487h318V279h114v208h30V233.736C474.884 246.094 461.972 253 448 253c-17.49 0-33.31-10.888-47.996-29.684-14.664 18.808-30.432 29.77-47.926 29.817-17.508.048-33.352-10.87-48.092-29.807C289.303 242.116 273.486 253 256 253c-17.492 0-33.313-10.89-48-29.69-14.687 18.8-30.508 29.69-48 29.69s-33.313-10.89-48-29.69zM55 279h258v178H55V279zm18 18v142h222V297H73zm288 0v71.064l78 .573V297h-78zM88 312h128c-108.235 8-116.31 24-128 113.11V312zm273 74.066v13.998l78 .573v-14.002l-78-.57zm0 32V487h78v-68.365l-78-.57z" fill="8BB9BC" fill-opacity="1" ></path></g></svg>;
+  border-style: hidden;
+  border-width: 1px;
+  margin: 1px;
+  padding: 1px;
+  padding-top: 1px;
+}
+
+.bunkers .callout[data-callout="business"] .callout-title {
+  color: #336666;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: calc(0.9*var(--font-text-size));
+  padding: 1px;
+}
+
+.bunkers .callout[data-callout="business"] .callout-content {
+  background-color: rgba(var(--callout-color)), 1;
+  margin: 8px; /* Breathing space for text */
+  padding: 0px; /* Breathing space for text */
+}
+
+.bunkers .callout[data-callout="business"] .callout-content p {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: calc(0.8*var(--font-text-size));
+  font-style: normal;
+  text-align: justify;
+}
+
+
+/* Chat - NPC Chatter Left */
+.bunkers .callout[data-callout="chat-left"] {
+  --callout-color: 61, 126, 123;
+  --callout-icon: <svg style="height: 24px; width: 24px;" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" ><g class="" style="" transform="translate(0,0)" ><path d="M211.313 21.094c-51.776 0-98.754 12.252-133.5 32.718C43.066 74.28 19.874 103.78 19.874 137.69c0 33.54 22.692 62.81 56.813 83.25L48.156 327.094l96.97-79.844c20.65 4.58 42.924 7.063 66.186 7.063 51.776 0 98.786-12.252 133.532-32.72 34.746-20.466 57.937-49.997 57.937-83.905s-23.19-63.41-57.936-83.875c-34.746-20.467-81.756-32.72-133.53-32.72zm0 18.687c48.8 0 92.866 11.77 124.03 30.126 31.165 18.357 48.75 42.447 48.75 67.78 0 25.338-17.585 49.457-48.75 67.814-31.164 18.357-75.23 30.125-124.03 30.125S118.445 223.857 87.28 205.5c-31.163-18.357-48.718-42.476-48.718-67.813 0-25.336 17.555-49.424 48.72-67.78C118.445 51.55 162.51 39.78 211.31 39.78zM96.53 89.938v18.688h93.126V89.937H96.53zm111.814 0v18.688h28.094V89.937h-28.094zm46.78 0v18.688h71.97V89.937h-71.97zM96.532 129.844v18.72h29.657v-18.72H96.53zm48.345 0v18.72h65.938v-18.72h-65.938zm84.656 0v18.72h38.095v-18.72H229.53zm56.782 0v18.72h40.782v-18.72h-40.78zM96.532 166.78v18.69h70.874v-18.69H96.53zm89.562 0v18.69h57.03v-18.69h-57.03zm75.72 0l-.002 18.69h65.282v-18.69h-65.28zm92.342 90.25c-74.88 0-135.594 41.762-135.594 93.283 0 51.52 60.716 93.28 135.594 93.28 18.23 0 35.623-2.48 51.5-6.968l68.53 51.156-24.873-71.03c24.947-16.918 40.437-40.432 40.437-66.438 0-51.518-60.714-93.28-135.594-93.28zm-70.344 42.345h32.907v18.688H283.81v-18.688zm51.594 0h90.344v18.688h-90.344v-18.688zm-78.97 41.75h78.314v18.688h-78.313v-18.688zm97.002 0h20.968v18.688h-20.97l.002-18.688zm39.656 0h51v18.688h-51v-18.688zm-109.28 39h79.06v18.688h-79.062v-18.688zm97.748 0h44.188v18.688h-44.188v-18.688z" fill="#00724D" fill-opacity="1" ></path></g></svg>;
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+  float: left;
+  text-align: left;
+  justify-items: center;
+}
+
+.bunkers .theme-dark .callout[data-callout="chat-left"] .callout-title {
+  color: lightseagreen;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: calc(0.9*var(--font-text-size));
+  padding: 1px;
+}
+
+.bunkers .theme-light .callout[data-callout="chat-left"] .callout-title {
+  color: seagreen;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: calc(0.9*var(--font-text-size));
+  padding: 1px;
+}
+
+.callout[data-callout="chat-left"] .callout-title-inner {
+  flex: unset;
+}
+
+.bunkers .callout[data-callout="chat-left"] .callout-content {
+  background-color: rgba(var(--callout-color)), 1;
+  margin: 8px;
+  padding: 0px;
+}
+
+.bunkers .callout[data-callout="chat-left"] .callout-content p {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: calc(0.8*var(--font-text-size));
+  font-style: normal;
+  text-align: justify;
+}
+
+/* Chat - NPC Chatter Right */
+.bunkers .callout[data-callout="chat-right"] {
+  --callout-color: 126, 61, 64;
+  --callout-icon: <svg style="height: 24px; width: 24px;" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" ><g class="" style="" transform="translate(0,0)" ><path d="M211.313 21.094c-51.776 0-98.754 12.252-133.5 32.718C43.066 74.28 19.874 103.78 19.874 137.69c0 33.54 22.692 62.81 56.813 83.25L48.156 327.094l96.97-79.844c20.65 4.58 42.924 7.063 66.186 7.063 51.776 0 98.786-12.252 133.532-32.72 34.746-20.466 57.937-49.997 57.937-83.905s-23.19-63.41-57.936-83.875c-34.746-20.467-81.756-32.72-133.53-32.72zm0 18.687c48.8 0 92.866 11.77 124.03 30.126 31.165 18.357 48.75 42.447 48.75 67.78 0 25.338-17.585 49.457-48.75 67.814-31.164 18.357-75.23 30.125-124.03 30.125S118.445 223.857 87.28 205.5c-31.163-18.357-48.718-42.476-48.718-67.813 0-25.336 17.555-49.424 48.72-67.78C118.445 51.55 162.51 39.78 211.31 39.78zM96.53 89.938v18.688h93.126V89.937H96.53zm111.814 0v18.688h28.094V89.937h-28.094zm46.78 0v18.688h71.97V89.937h-71.97zM96.532 129.844v18.72h29.657v-18.72H96.53zm48.345 0v18.72h65.938v-18.72h-65.938zm84.656 0v18.72h38.095v-18.72H229.53zm56.782 0v18.72h40.782v-18.72h-40.78zM96.532 166.78v18.69h70.874v-18.69H96.53zm89.562 0v18.69h57.03v-18.69h-57.03zm75.72 0l-.002 18.69h65.282v-18.69h-65.28zm92.342 90.25c-74.88 0-135.594 41.762-135.594 93.283 0 51.52 60.716 93.28 135.594 93.28 18.23 0 35.623-2.48 51.5-6.968l68.53 51.156-24.873-71.03c24.947-16.918 40.437-40.432 40.437-66.438 0-51.518-60.714-93.28-135.594-93.28zm-70.344 42.345h32.907v18.688H283.81v-18.688zm51.594 0h90.344v18.688h-90.344v-18.688zm-78.97 41.75h78.314v18.688h-78.313v-18.688zm97.002 0h20.968v18.688h-20.97l.002-18.688zm39.656 0h51v18.688h-51v-18.688zm-109.28 39h79.06v18.688h-79.062v-18.688zm97.748 0h44.188v18.688h-44.188v-18.688z" fill="#7E3034" fill-opacity="1" ></path></g></svg>;
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+  float: right;
+  text-align: right;
+  justify-items: center;
+}
+
+.bunkers .theme-dark .callout[data-callout="chat-left"] .callout-title {
+  color: #B56E70;
+  flex-direction: row-reverse;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  padding: 1px;
+}
+
+.bunkers .theme-light .callout[data-callout="chat-left"] .callout-title {
+  color: #cc7885;
+  flex-direction: row-reverse;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  padding: 1px;
+}
+
+.bunkers .callout[data-callout="chat-right"] .callout-title-inner {
+  flex: unset;
+}
+
+.bunkers .callout[data-callout="chat-right"] .callout-content {
+  background-color: rgba(var(--callout-color)), 1;
+  margin: 8px;
+  padding: 0px;
+}
+
+.bunkers .callout[data-callout="chat-right"] .callout-content p {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: calc(0.8*var(--font-text-size));
+  font-style: normal;
+  text-align: justify;
+}
+
+
+/* Excerpt - Passage from a Chat, Text, or Tome */
+.bunkers .callout[data-callout="excerpt"] {
+  --callout-color: 53, 120, 175;
+  --callout-icon: <svg style="height: 24px; width: 24px;" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" ><g class="" style="" transform="translate(0,0)" ><path d="M204.055 213.905q-18.12-5.28-34.61-9a145.92 145.92 0 0 1-6.78-44.33c0-65.61 42.17-118.8 94.19-118.8 52.02 0 94.15 53.14 94.15 118.76a146.3 146.3 0 0 1-6.16 42.32q-20.52 4.3-43.72 11.05c-22 6.42-39.79 12.78-48.56 16.05-8.72-3.27-26.51-9.63-48.51-16.05zm-127.95 84.94a55.16 55.16 0 1 0 55.16 55.15 55.16 55.16 0 0 0-55.16-55.15zm359.79 0a55.16 55.16 0 1 0 55.16 55.15 55.16 55.16 0 0 0-55.15-55.15zm-71.15 55.15a71.24 71.24 0 0 1 42.26-65v-77.55c-64.49 0-154.44 35.64-154.44 35.64s-89.95-35.64-154.44-35.64v74.92a71.14 71.14 0 0 1 0 135.28v7c64.49 0 154.44 41.58 154.44 41.58s89.99-41.55 154.44-41.55v-9.68a71.24 71.24 0 0 1-42.26-65z" fill="00487A" fill-opacity="1" ></path></g></svg>;
+  border-style: inset;
+  border-width: 1px;
+  margin: 1px;
+  padding: 1px;
+  padding-top: 1px;
+}
+
+.theme-dark .bunkers .callout[data-callout="excerpt"] .callout-title {
+  color: #99ccff;
+  font-family: cursive;
+  padding: 1px;
+}
+
+.theme-light .bunkers .callout[data-callout="excerpt"] .callout-title {
+  color: #336666;
+  font-family: cursive;
+  padding: 1px;
+}
+
+.bunkers .callout[data-callout="excerpt"] .callout-content {
+  background-color: rgba(var(--callout-color)), 1;
+  margin: 8px;
+  /* Makes text start a bit more on the right of the callout content */
+}
+
+.bunkers .callout[data-callout="excerpt"] .callout-content p {
+  border-bottom-style: ridge;
+  border-bottom-color: rgb(var(--callout-color));
+  font-family: cursive;
+  font-style: normal;
+  font-size: calc(0.9*var(--font-text-size));
+  text-align: justify;
+}
+
+/* Faction Descriptions */
+.bunkers .callout[data-callout="faction"] {
+  --callout-color: 205,205,205;
+  --callout-icon: <svg style="height: 24px; width: 24px;" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><g class="" style="" transform="translate(0,0)"><path d="M64.865 21.293c-11.48 0-20.785 10.696-20.785 23.887 0 8.72 4.068 16.345 10.14 20.515H15.308v18.688h40.228v23.365l-24.56 49.422 16.736 8.318 17.17-34.547 17.167 34.548 16.736-8.318-24.56-49.422V84.383h40.228V65.695H75.51c6.072-4.17 10.14-11.796 10.14-20.515 0-13.193-9.305-23.887-20.785-23.887zm126.895 0c-11.48 0-20.785 10.696-20.785 23.887 0 8.72 4.068 16.345 10.14 20.515H142.2v18.688h40.23v23.365l-24.56 49.422 16.735 8.318 17.168-34.547 17.168 34.548 16.738-8.318-24.56-49.422V84.383h40.228V65.695h-38.942c6.073-4.17 10.14-11.796 10.14-20.515 0-13.193-9.305-23.887-20.784-23.887zm123.244 0c-11.48 0-20.785 10.696-20.785 23.887 0 8.72 4.067 16.345 10.14 20.515h-38.913v18.688h40.227v23.365l-24.56 49.422 16.736 8.318 17.17-34.55 17.168 34.55 16.734-8.318-24.56-49.418v-23.37h40.228V65.696h-38.94c6.073-4.17 10.14-11.796 10.14-20.515 0-13.193-9.307-23.887-20.786-23.887zm122.164 0c-11.48 0-20.785 10.696-20.785 23.887 0 8.72 4.068 16.345 10.14 20.515H387.61v18.688h40.228v23.365l-24.56 49.422 16.736 8.318 17.168-34.547 17.168 34.548 16.736-8.318-24.56-49.418v-23.37h40.228V65.696h-38.94c6.073-4.17 10.14-11.796 10.14-20.515 0-13.193-9.307-23.887-20.786-23.887zM64.865 187.153c-11.48 0-20.785 10.697-20.785 23.888 0 8.72 4.067 16.344 10.14 20.515H15.306v18.69h40.228v23.364l-24.56 49.42 16.736 8.318L64.88 296.8l17.167 34.548 16.736-8.317-24.56-49.42v-23.366h40.228v-18.69H75.513c6.07-4.17 10.138-11.794 10.138-20.513 0-13.192-9.305-23.886-20.785-23.886zm126.895 0c-11.48 0-20.785 10.697-20.785 23.888 0 8.72 4.067 16.344 10.138 20.515H142.2v18.69h40.23v23.364l-24.56 49.42 16.735 8.318 17.168-34.547 17.168 34.548 16.738-8.317-24.56-49.42v-23.366h40.228v-18.69h-38.94c6.072-4.17 10.14-11.794 10.14-20.513 0-13.192-9.307-23.886-20.786-23.886zm123.244 0c-11.48 0-20.785 10.697-20.785 23.888 0 8.72 4.066 16.344 10.137 20.515h-38.91v18.69h40.227v23.364l-24.56 49.42 16.736 8.318 17.17-34.547 17.168 34.548 16.734-8.317-24.56-49.417v-23.37h40.228v-18.688h-38.938c6.072-4.17 10.14-11.795 10.14-20.514 0-13.192-9.31-23.886-20.788-23.886zm122.164 0c-11.48 0-20.785 10.697-20.785 23.888 0 8.72 4.067 16.344 10.138 20.515h-38.91v18.69h40.228v23.364l-24.56 49.42 16.736 8.318 17.168-34.547 17.168 34.548 16.736-8.317-24.56-49.417v-23.37h40.228v-18.688h-38.938c6.072-4.17 10.14-11.795 10.14-20.514 0-13.192-9.31-23.886-20.788-23.886zM64.865 352.43c-11.48 0-20.785 10.695-20.785 23.886 0 8.72 4.067 16.345 10.14 20.516H15.306v18.69h40.228v23.365l-24.56 49.422 16.736 8.315 17.17-34.547 17.167 34.547 16.736-8.316-24.56-49.423V415.52h40.228v-18.688H75.513c6.07-4.17 10.138-11.797 10.138-20.516 0-13.192-9.305-23.886-20.785-23.886zm126.895 0c-11.48 0-20.785 10.695-20.785 23.886 0 8.72 4.067 16.345 10.138 20.516H142.2v18.69h40.23v23.365l-24.56 49.422 16.735 8.315 17.168-34.547 17.168 34.547 16.738-8.316-24.56-49.423V415.52h40.228v-18.688h-38.94c6.072-4.17 10.14-11.797 10.14-20.516 0-13.192-9.307-23.886-20.786-23.886zm123.244 0c-11.48 0-20.785 10.695-20.785 23.886 0 8.72 4.066 16.345 10.137 20.516h-38.91v18.69h40.227v23.365l-24.56 49.422 16.736 8.315 17.17-34.547 17.168 34.547 16.734-8.316-24.56-49.42v-23.37h40.228v-18.688h-38.938c6.072-4.17 10.14-11.797 10.14-20.516 0-13.192-9.31-23.886-20.788-23.886zm122.164 0c-11.48 0-20.785 10.695-20.785 23.886 0 8.72 4.067 16.345 10.138 20.516h-38.91v18.69h40.228v23.365l-24.56 49.422 16.736 8.315 17.168-34.547 17.168 34.547 16.736-8.316-24.56-49.42v-23.37h40.228v-18.688h-38.938c6.072-4.17 10.14-11.797 10.14-20.516 0-13.192-9.31-23.886-20.788-23.886z" fill="#cdcdcd" fill-opacity="1"></path></g></svg>;
+  border-style: hidden;
+  border-width: 1px;
+  margin: 1px;
+  padding: 1px;
+  padding-top: 1px;
+}
+
+.theme-dark .bunkers .callout[data-callout="faction"] .callout-title {
+  color: rgb(217,217,217);
+  padding: 1px;
+}
+
+.theme-light .bunkers .callout[data-callout="faction"] .callout-title {
+  color: rgb(66,66,66);
+  padding: 1px;
+}
+
+.bunkers .callout[data-callout="faction"] .callout-content {
+  background-color: rgba(var(--callout-color)), 1;
+  margin: 8px;
+}
+
+.bunkers .callout[data-callout="faction"] .callout-content p {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-style: unset;
+  font-size: calc(0.9*var(--font-text-size));
+  text-align: justify;
+}
+
+/* Homebrew - This page or callout has Homebrew Items */
+.bunkers .callout[data-callout="homebrew"] {
+  border-style: hidden;
+  border-width: 1px;
+  --callout-color: 176, 88, 0;
+  --callout-content-padding: 0;
+  --callout-icon: <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" ><path d="M17.5 5.5C19 7 20.5 9 21 11c-2.5.5-5 .5-8.5-1" ></path><path d="M5.5 17.5C7 19 9 20.5 11 21c.5-2.5.5-5-1-8.5" ></path><path d="M16.5 11.5c1 2 1 3.5 1 6-2.5 0-4 0-6-1" ></path><path d="M20 11.5c1 1.5 2 3.5 2 4.5-1.5.5-3 0-4.5-.5" ></path><path d="M11.5 20c1.5 1 3.5 2 4.5 2 .5-1.5 0-3-.5-4.5" ></path><path d="M20.5 16.5c1 2 1.5 3.5 1.5 5.5-2 0-3.5-.5-5.5-1.5" ></path><path d="M4.783 4.782C8.493 1.072 14.5 1 18 5c-1 1-4.5 2-6.5 1.5 1 1.5 1 4 .5 5.5-1.5.5-4 .5-5.5-.5C7 13.5 6 17 5 18c-4-3.5-3.927-9.508-.217-13.218Z" ></path><path d="M4.5 4.5 3 3c-.184-.185-.184-.816 0-1" ></path></svg>;
+  margin: 2px;
+  padding: 4x;
+  padding-top: 4px;
+}
+
+.theme-dark .bunkers .callout[data-callout="homebrew"] .callout-title {
+  background-color: rgba(var(--callout-color)), 1;
+  color: sandybrown;
+  padding: 1px;
+}
+
+.theme-light .bunkers .callout[data-callout="homebrew"] .callout-title {
+  background-color: rgba(var(--callout-color)), 1;
+  color: brown;
+  padding: 1px;
+}
+
+.bunkers .callout[data-callout="homebrew"] .callout-content {
+  background-color: rgba(var(--callout-color)), 1;
+  border-top-style: none;
+  padding: 4px;
+}
+
+.bunkers .callout[data-callout="homebrew"] .callout-content p {
+  font-style: normal;
+  text-align: left;
+}
+
+/* Locations Descriptions */
+.bunkers .callout[data-callout="location"] {
+  --callout-color: 199, 110, 133;
+  --callout-icon: <svg style="height: 24px; width: 24px;" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><g class="" style="" transform="translate(0,0)"><path d="M125.764 18c-4.02 8.272-12.89 14.838-21.764 14.838 12 0 24 12 24 24 0-12 12-24 24-24-8.874 0-17.743-6.566-21.764-14.838zM416 32c0 8-8 16-16 16 8 0 16 8 16 16 0-8 8-16 16-16-8 0-16-8-16-16zm-72 40c0 12-12 24-24 24 12 0 24 12 24 24 0-12 12-24 24-24-12 0-24-12-24-24zM18 106.068v316.23c94.01-4 200.183-5.655 302.393-33.824 42.877-10.915 76.61-23.748 100.337-38.332 23.73-14.583 38.647-31.723 38.647-51.642-.09-8.624-3.61-17.682-8.012-24.502-3.336-4.935-7.64-9.66-12.78-14.174 1.484-3.638 2.307-7.627 2.307-11.824 0-17.228-13.772-31-31-31-17.227 0-31 13.772-31 31 0 17.227 13.773 31 31 31 6.414 0 12.346-1.91 17.27-5.196 7.304 6.808 13.886 15.314 14.215 24.696 0 10.556-8.86 23.27-30.072 36.306-21.212 13.037-53.58 25.59-95.354 36.225C224 393.99 112.045 402.37 29.4 404.14c24.183-4.757 46.276-15.274 64.803-30.066 26.898-1.776 50.93-3.913 76.447-7.078-2.67-6.236-3.957-11.75-3.527-17.71-18.175 2.115-36.955 4.04-52.676 5.3C137.233 328.146 151 293.706 151 256c0-77.41-58.01-141.054-133-149.932zm133.584 75.24c3.01 6.086 5.663 12.38 7.934 18.854 58.29 5.684 111.76 14.434 156.433 25.807 16.794 4.274 32.037 8.863 45.677 13.665 1.057-6.08 3.232-11.79 6.324-16.893-14.32-5.045-30.173-9.79-47.557-14.217-48.34-12.306-106.08-21.52-168.81-27.218zm12.926 35.917c1.43 6.073 2.528 12.27 3.28 18.576 26.678 3.332 51.106 7.403 72.524 12.104 30.658 6.73 55.29 14.78 71.508 23.196 8.11 4.207 14.065 8.524 17.606 12.322 3.54 3.798 4.572 6.636 4.572 9.078 0 2.442-1.03 5.28-4.572 9.078-3.54 3.798-9.497 8.115-17.606 12.322-16.217 8.416-40.85 16.467-71.508 23.196-3.503.773-6.587 1.408-9.93 2.086 2.285 6.26 3.146 11.893 2.216 17.916 3.81-.756 7.903-1.615 11.574-2.42 31.594-6.934 57.34-15.15 75.937-24.8 9.3-4.826 16.86-9.993 22.484-16.025 5.623-6.03 9.406-13.37 9.406-21.353 0-7.982-3.783-15.322-9.406-21.354-5.624-6.03-13.184-11.198-22.483-16.023-18.596-9.65-44.342-17.867-75.936-24.8-23.563-5.172-50.365-9.59-79.664-13.098zM200 337c-8.39 0-15 6.61-15 15s6.61 15 15 15 15-6.61 15-15-6.61-15-15-15zm56 95c0 8-8 16-16 16 8 0 16 8 16 16 0-8 8-16 16-16-8 0-16-8-16-16z" fill="#993366" fill-opacity="1"></path></g></svg>;
+  border-style: hidden;
+  border-width: 1px;
+  margin: 1px;
+  padding: 1px;
+  padding-top: 1px;
+}
+
+.bunkers .theme-dark .callout[data-callout="location"] .callout-title {
+  color: rgb(255, 163, 186);
+  padding: 1px;
+}
+
+.bunkers .theme-light .callout[data-callout="location"] .callout-title {
+  color: rgb(142,59,84);
+  padding: 1px;
+}
+
+.bunkers .callout[data-callout="location"] .callout-content {
+  background-color: rgba(var(--callout-color)), 1;
+  margin: 8px;
+}
+
+.bunkers .callout[data-callout="location"] .callout-content p {
+  font-style: normal;
+  font-size: calc(0.9*var(--font-text-size));
+  text-align: justify;
+}
+
+
+/* Pantheon NPC */
+.bunkers .callout[data-callout="deity"] {
+  --callout-color: 46,43,77;
+  --callout-icon: <svg style="height: 24px; width: 24px;" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><g class="" style="" transform="translate(0,0)"><path d="M152.313 19.438C138.075 73.11 172.984 126.662 178.25 180.25c-28.744-16.01-71.286-25.18-88.656-43.656 9.36 29.558 51.055 44.096 77.094 66.312-57.236 1.556-101.637 65.75-148.125 79 54.52 31.628 111.427.296 167.437 23.875-27.654 34.76-47.284 67.888-57.97 107.283C148.787 384.2 174.07 351.39 198.72 326c-11.686 54.742 1.313 109.477 28.155 164.22 13.028-52.977 67.36-98.796 75.03-157.533 22.665 36.313 53.4 62.266 83.158 103.938-14.644-51.287-47.12-87.914-64.22-123.625 52.358 5.59 115.075 28.68 168.5 43.47-29.835-58.79-64.534-103.922-107.78-125.158 33.01.717 70.858 5.604 103.312 10.907-33.377-19.14-68.513-28.226-110-33.032 49.013-47.885 68.943-95.774 68.406-143.657-48.033 32.51-96.09 58.57-144.124 74.75 17.206-28.64 40.82-59.57 62-85.468-35.326 20.535-61.807 48.477-88.22 85.094-23.716-46.89-79.993-64.068-120.623-120.47zm35.625 72.937c8.325 26.55 49.006 61.23 63.718 91.625-7.935 2.196-15.188 5.65-21.437 10.063-9.67-33.43-46.513-71.114-42.282-101.688zm213.28 31.906c-20.144 34.656-47.403 60.806-83 86.72-2.394-7.408-7.083-13.755-13.124-18.563 31.454-17.384 66.972-44.313 96.125-68.156zm-129.812 75.814c6.66.108 12.638 1.57 17.375 3.97 7.22 3.653 11.376 8.906 12.345 15.436.97 6.53-1.55 13.663-7.53 20.188-5.983 6.524-15.326 12.01-26.283 14.218-10.956 2.208-21.094.686-28.312-2.97-7.218-3.653-11.374-8.906-12.344-15.436-.97-6.53 1.55-13.694 7.53-20.22 5.983-6.524 15.328-11.98 26.283-14.186 2.738-.552 5.424-.86 8.03-.97.977-.04 1.955-.046 2.906-.03zm-63.562 30.562c-.138 2.495-.034 5.02.344 7.563.983 6.622 3.748 12.55 7.718 17.56-36.236-7.654-91.958 24.29-125.062 10.157 34.23-.804 77.367-27.78 117-35.28zm107.5 10.25c43.444 16.685 78.393 35.883 108.406 65.72-39.556-17.844-87.918-37.4-126.563-45.47 3.768-2.62 7.204-5.558 10.188-8.812 3.177-3.465 5.884-7.328 7.97-11.438zM274.156 271.5l.22.03c-19.568 32.856-17.574 83.757-44.313 131.845 8.36-50.135 3.05-88.19 17.593-130.438 7.4 1.1 15.3.903 23.344-.718 1.07-.217 2.108-.46 3.156-.72z" fill="9799E9" fill-opacity="1"></path></g></svg>;
+  border-style: ridge;
+  border-width: 1px;
+  margin: 1px;
+  padding: 1px;
+  padding-top: 1px;
+}
+
+.theme-dark .bunkers .callout[data-callout="deity"] .callout-title {
+  color: rgb(247, 228, 247);
+  padding: 1px;
+}
+
+.theme-light .bunkers .callout[data-callout="deity"] .callout-title {
+  color: rgb(79, 74, 78);
+  padding: 1px;
+}
+
+.bunkers .callout[data-callout="deity"] .callout-content {
+  background-color: rgba(var(--callout-color)), 1;
+  margin: 8px;
+}
+
+.bunkers .callout[data-callout="deity"] .callout-content p {
+  font-style: normal;
+  font-size: calc(0.9*var(--font-text-size));
+  text-align: justify;
+}
+
+
+/*Callout Quest*/
+.bunkers .callout[data-callout="quest"] {
+  --callout-color: 234, 175, 0;
+  --callout-icon: <svg style="height: 24px; width: 24px;" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" ><g class="" style="" transform="translate(0,0)" ><path d="M255.78 21C128.098 21 23.47 125.628 23.47 253.313c0 127.685 104.627 230.78 232.31 230.78 127.685 0 230.782-103.095 230.782-230.78S383.466 21 255.782 21zm-1.06 82l117.374 117.97-23.938 25.093-65.406-37.938v172.47c79.295-13.13 139.78-81.987 139.78-165 0-39.265-13.54-75.368-36.186-103.907 37.702 35.365 61.22 85.81 61.22 141.625-.002 106.395-85.385 191.78-191.783 191.78-106.398 0-193.31-85.385-193.31-191.78 0-55.123 23.342-105.018 60.624-140.313-22.028 28.33-35.156 63.928-35.156 102.594 0 82.46 59.645 150.973 138.156 164.75v-168.72l-62.5 35.626-25.094-26.28L254.72 103z" fill="#EAAF00" fill-opacity="1" ></path></g></svg> --callout-title-color: 234, 175, 0;
+  border-style: hidden;
+  border-width: 1px;
+  margin: 1px;
+  padding: 1px;
+  padding-top: 1px;
+}
+
+.bunkers .callout[data-callout="quest"] .callout-content {
+  background-color: rgba(var(--callout-color)), 1;
+  border-top-style: none;
+}
+
+.bunkers .callout[data-callout="quest"] .callout-content p {
+  font-style: normal;
+  font-size: calc(0.9*var(--font-text-size));
+  text-align: justify;
+}
+
+
+/* Skills - Choose from or Use of skills */
+.bunkers .callout[data-callout="skill"] {
+  --callout-color: 201,202,245;
+  --callout-icon: <svg style="height: 24px; width: 24px;" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><g class="" style="" transform="translate(0,0)"><path d="M119.1 25v.1c-25 3.2-47.1 32-47.1 68.8 0 20.4 7.1 38.4 17.5 50.9L99.7 157 84 159.9c-13.7 2.6-23.8 9.9-32.2 21.5-8.5 11.5-14.9 27.5-19.4 45.8-8.2 33.6-9.9 74.7-10.1 110.5h44l11.9 158.4h96.3L185 337.7h41.9c0-36.2-.3-77.8-7.8-111.7-4-18.5-10.2-34.4-18.7-45.9-8.6-11.4-19.2-18.7-34.5-21l-16-2.5L160 144c10-12.5 16.7-30.2 16.7-50.1 0-39.2-24.8-68.8-52.4-68.8-2.9 0-4.7-.1-5.2-.1zM440 33c-17.2 0-31 13.77-31 31s13.8 31 31 31 31-13.77 31-31-13.8-31-31-31zM311 55v48H208v18h103v158h-55v18h55v110H208v18h103v32h80.8c-.5-2.9-.8-5.9-.8-9 0-3.1.3-6.1.8-9H329V297h62.8c-.5-2.9-.8-5.9-.8-9 0-3.1.3-6.1.8-9H329V73h62.8c-.5-2.92-.8-5.93-.8-9 0-3.07.3-6.08.8-9H311zm129 202c-17.2 0-31 13.8-31 31s13.8 31 31 31 31-13.8 31-31-13.8-31-31-31zm0 160c-17.2 0-31 13.8-31 31s13.8 31 31 31 31-13.8 31-31-13.8-31-31-31z" fill="505062" fill-opacity="1"></path></g></svg>;
+  border-style: hidden;
+  border-width: 1px;
+  margin: 1px;
+  padding: 1px;
+  padding-top: 1px;
+}
+
+.bunkers .theme-dark .callout[data-callout="skill"] .callout-title {
+  background-color: rgba(var(--callout-color)), 1;
+  color: rgb(113, 114, 188);
+  padding: 1px;
+}
+
+.bunkers .theme-light .callout[data-callout="skill"] .callout-title {
+  background-color: rgba(var(--callout-color)), 1;
+  color: rgb(33, 33, 56);
+  padding: 1px;
+}
+
+.bunkers .callout[data-callout="skill"] .callout-content {
+  background-color: rgba(var(--callout-color)), 1;
+  border-top-style: none;
+  margin: 8px;
+}
+
+.bunkers .callout[data-callout="skill"] .callout-content p {
+  font-style: normal;
+  font-size: calc(0.9*var(--font-text-size));
+  text-align: justify;
+}

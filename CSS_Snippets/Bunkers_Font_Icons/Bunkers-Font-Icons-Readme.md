@@ -1,14 +1,15 @@
 ---
-alias: [Bunkers Embedded Fonts Readme]
+alias: [Bunkers Font Icons Readme]
 cssclass: bunkers
 ---
+
 # Readme Introduction
 
 Hello! This is a readme for an embedded `.css` file made up of currently 34 `.svg` icons that have been turned into a font, or glyphs. These glyphs have been configured to start taking up slots beginning at unicode e1100 range. If you already have custom fonts at the e1100 range, let me know and we can figure this out. 
 
-Please note... You will not be able to see the icons in this file properly until you have installed the fonts, whether you read it in Obsidian, or installed them on your computer and enabled them in your browser. The image at the end shows you what the font icons look like, and all the images used in SVG format can be found in the [Assets](../../Assets) directory.
+Please note... You will not be able to see the icons in this Readme properly until you have loaded the css snippet or installed the fonts. This includes whether you read it in Obsidian, or installed them on your computer and enabled them in your browser. The image at the end shows you what the font icons look like, and all the images used in SVG format can be found in the [Assets](../../Assets) directory.
 
-==This line will be updated with a link to the SVG-CSS snippet when completed.==
+> This line will be updated with a link to the SVG-CSS snippet when completed.
 
 ## Files you will need
 

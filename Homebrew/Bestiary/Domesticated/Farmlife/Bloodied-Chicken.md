@@ -1,6 +1,10 @@
 ---
+filetype: Bestiary
 alias: ["Chicken"]
 cssclass: 
+tags: 
+- BnB/Bestiary/Domesticated/Farmlife/Chicken-Bloodied
+- BnB/Homebrew/Bestiary
 ---
 # Bloodied Chicken
 The Lone Survivor of the events after [The Hills Have Eggs](https://www.youtube.com/watch?v=Tl_TTTUd_y0)(18+, NSFW).

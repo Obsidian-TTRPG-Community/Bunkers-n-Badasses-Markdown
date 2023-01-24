@@ -12,4 +12,5 @@ tags:
 # Ghost Blade
 
 Fire a spinning blade at a square you can see that deals `dice: 2d6` (2d6) _Melee_ __Damage__ to all enemies it passes through and all Targets adjacent to the chosen square for __2__ Turns.
+
 __(MST Mod per Day + 1/Encounter)__

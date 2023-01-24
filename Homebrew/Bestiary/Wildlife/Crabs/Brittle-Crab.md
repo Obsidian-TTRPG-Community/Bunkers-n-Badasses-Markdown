@@ -21,7 +21,7 @@ shield:
 armor: 
 traits: 
 weapon:  Pincers
-special: If Brittle Crab is the presensence of a Brittle Crab King or Queen, it gains +1 Damage.
+special: If Brittle Crab is the presence of a Brittle Crab King or Queen, it gains +1 Damage.
 actions:
 - name: Pinch
   desc: 

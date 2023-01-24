@@ -6,16 +6,19 @@ cssclass: bunkers
 hp: 30
 modifier: 
 statblock: true
+tags: 
+- BnB/Bestiary/Wildlife/Crab/Brittle-Crab
+- BnB/Homebrew/Bestiary
 ---
 # Brittle Crab King
 
-The Brittle Crab King is a fierce and feisty land crab native to the Snoring Valley region of the Mellow Steppes province. Though small in size, this crab packs a punch with its sharp pincers and lightning-fast scuttling movements. Its prey includes giant squirrels, fat-ass bass, and the occasional human. The Brittle Crab King is known for calling upon its numerous offspring to join the fight in battle.
+>[!tina]
+> As you continue on your journey with your newfound trusty axe, you come across a large, frantic land crab. As you approach, the crab screeches and attacks you with its sharp pincers and lightning-fast scuttling movements.
 
-In terms of appearance, the Brittle Crab King sports a hard, brown shell covered in small spikes. It can often be found lurking underground, waiting for unsuspecting prey to pass by. Once defeated, this crab's shell can be pried open to reveal an old hewn axe that was used to impale it long ago.
-
-Normally not an overly aggressive species, the Brittle Crab King has recently been attacking anything that crosses its path as it searches frantically for its missing queen.
-
+> [!quest]
 > If spared from death in it's defeat, it may offer a quest to players to help find its beloved mate.
+> 
+> See [[The-Queen-of-the-Mellow-Crustaceans|The Queen of the Mellow Crustaceans]]
 
 ## Statblock
 
@@ -61,6 +64,15 @@ loot:
   desc: "Long Ago, Brittle Crab King was impaled with a Hewn Axe. Once free of the shell, the rusted head will do 3 (1d4) damage per swing."
 ```
 
+## Lore
+The Brittle Crab King is a fierce and feisty land crab native to the Snoring Valley region of the Mellow Steppes province. Though small in size, this crab packs a punch with its sharp pincers and lightning-fast scuttling movements. Its prey includes giant squirrels, fat-ass bass, and the occasional human. The Brittle Crab King is known for calling upon its numerous offspring to join the fight in battle.
+
+In terms of appearance, the Brittle Crab King sports a hard, brown shell covered in small spikes. It can often be found lurking underground, waiting for unsuspecting prey to pass by. Once defeated, this crab's shell can be pried open to reveal an old hewn axe that was used to impale it long ago.
+
+Normally not an overly aggressive species, the Brittle Crab King has recently been attacking anything that crosses its path as it searches frantically for its missing queen.
+
+
+
 >[!abstract]- Bestiary Inline Metadata
 > source:: __Bunkers-Wildlife__
- #BnB/Homebrew/Bestiary #BnB/Bestiary/Wildlife/Crabs/Brittle-Crab-King
+

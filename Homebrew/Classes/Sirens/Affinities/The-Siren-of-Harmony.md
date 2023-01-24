@@ -33,4 +33,4 @@ a->B
 ### Passive Skill
 
 
-## Feats in the [[The-Siren|Affinity of the Siren]]
+## Feats in the [Affinity of the Siren](../../The-Siren.md)

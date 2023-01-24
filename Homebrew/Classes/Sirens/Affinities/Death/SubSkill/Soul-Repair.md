@@ -7,7 +7,7 @@ tags:
 - BnB/PC/Classes/Siren/Death/Abilities
 ---
 # Soul Repair
-*Requires*: [[The-Siren-of-Death|The Siren of Death]]
+*Requires*: [The Siren of Death](../The-Siren-of-Death.md)
 _25 Life Energy_
 
 The Siren of Death channels a large amount of life energy into a recently deceased ally, reviving them with `dice: 1d20+2` (1d20+MST) hit points, `dice: 1d20+2`(1d20+MST) shield points, and (`dice: 1d4-2`) (1d4-MST) temporary traumas.

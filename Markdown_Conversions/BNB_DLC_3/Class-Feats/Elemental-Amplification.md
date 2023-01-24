@@ -4,7 +4,7 @@ cssclass:
 tags: BnB/Homebrew/Feats, BnB/PC/Feats/Siren/Lightwalk
 ---
 # Elemental Amplification
-___Requires:___ [Lightwalk](Lightwalk.md)
+___Requires:___ [Lightwalk](../../../../60-Wyrmscriber/Gamemaster/Mechanics/Classes/Siren/Lightwalk.md)
 Choose an Elemental Type.
 All Damage you deal of that type gains +1d4 Damage.
 If it matches your Siren Element, instead gain +2d4 Damage.

@@ -4,7 +4,7 @@ cssclass:
 tags: BnB/Homebrew/Feats, BnB/PC/Feats/Assassin/Mercenary
 ---
 # The Professional
-___Requires:___ [Mercenary](Mercenary.md)
+___Requires:___ [Mercenary](../../../../60-Wyrmscriber/Gamemaster/Mechanics/Classes/Assassin/Mercenary.md)
 Choose a Skill.
 When you make a Skill Check for that Skill and roll an 8 or lower on the d20, treat the result as a 9 instead.
 

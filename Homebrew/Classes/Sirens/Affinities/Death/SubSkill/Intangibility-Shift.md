@@ -5,7 +5,7 @@ filetype: SubSkill
 tags: BnB/BunkerMaster/Homebrew, BnB/PC/Classes/Siren/Death/Abilities
 ---
 # Intangibility Shift
-*Requires*: [[The-Siren-of-Death|The Siren of Death]]
+*Requires*: [The Siren of Death](../The-Siren-of-Death.md)
 _10 Life Energy_
 
 The Siren of Death becomes _invisible_, gaining +5 to Sneak Checks and +`dice: 1d20` (1d20) to Active Shield Recharge for `dice: 1d4` (1d4) rounds.

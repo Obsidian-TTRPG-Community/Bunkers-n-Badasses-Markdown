@@ -5,7 +5,7 @@ filetype: SubSkill
 tags: BnB/BunkerMaster/Homebrew, BnB/PC/Classes/Siren/Death/Abilities
 ---
 # Entropic Blast
-*Requires*: [[The-Siren-of-Death|The Siren of Death]]
+*Requires*: [The Siren of Death](../The-Siren-of-Death.md)
 _10 Life Energy_
 
 The Siren of Death unleashes a wave of _radiation_ energy at a target within __5__ squares, dealing `dice: 1d10+1` (1d10 + ACC) damage and potentially killing them instantly if they have less than 50% health remaining. Generates 1 Mayhem point.

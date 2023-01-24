@@ -13,7 +13,7 @@ tags:
 
 >[!infobox|right]
 ># `=this.skilltree` `=this.class`
->![](75-BunkerShare/Markdown_Conversions/BNB_DLC_3/Classes/Assassin/Stabbomancer/_attachments/Stabbomancer.png)
+>![](_attachments/Stabbomancer.png)
 > ###### Class Features
 > | ___Type___ | ___Stat___ |
 > |:---|:---|
@@ -35,11 +35,11 @@ But the Stabbomancers are more than just skilled killers. Each member of this sh
 Whether wielding guns, melee weapons, or magic spells, the Stabbomancers are a tactical force to be contended with. Though they may be fragile, their superior speed and agility allow them to evade damage and strike their foes with lightning-fast precision. They are masters of misdirection and surprise, using their stealth and cunning to exploit the weaknesses of their enemies.
 
 ## Action Skill
-**[[Ghost-Blade|Ghost Blade]]**: Fire a spinning blade at a square you can see that deals `dice: 2d6` (2d6) _Melee_ __Damage__ to all enemies it passes through and all Targets adjacent to the chosen square for __2__ Turns.
+**[Ghost Blade](../../../Abilities/Assassin/Ghost-Blade.md)**: Fire a spinning blade at a square you can see that deals `dice: 2d6` (2d6) _Melee_ __Damage__ to all enemies it passes through and all Targets adjacent to the chosen square for __2__ Turns.
 __(MST Mod per Day + 1/Encounter)__
 
 ## Skill Tree - Canvas
-![](75-BunkerShare/Markdown_Conversions/BNB_DLC_3/Classes/Assassin/Stabbomancer/Stabbo-Skill-Tree.canvas)
+![](_attachments/Stabbo-Skill-Tree.canvas)
 
 
 ## Skill Tree - Table
@@ -75,10 +75,10 @@ __(MST Mod per Day + 1/Encounter)__
 
 >[!meta]- Class Inline Metadata
 > accuracy:: 0
-> classfeat:: [Dirty Fighting](Dirty-Fighting.md)
+> classfeat:: [Dirty Fighting](../../../Class-Feats/Dirty-Fighting.md)
 > damage:: 1
 > filetype:: Skilltree
-> image:: [Stabbomancer.png](75-BunkerShare/Markdown_Conversions/BNB_DLC_3/Classes/Assassin/Stabbomancer/_attachments/Stabbomancer.png)
+> image:: [Stabbomancer.png](_attachments/Stabbomancer.png)
 > mastery:: 1
 > meleedie:: __1d8__
 > skilltree:: Stabbomancer

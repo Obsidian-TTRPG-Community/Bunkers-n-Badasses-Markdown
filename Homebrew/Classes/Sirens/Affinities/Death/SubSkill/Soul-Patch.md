@@ -7,7 +7,7 @@ tags:
 - BnB/PC/Classes/Siren/Death/Abilities
 ---
 # Soul Patch
-*Requires*: [[The-Siren-of-Death|The Siren of Death]]
+*Requires*: [The Siren of Death](../The-Siren-of-Death.md)
 _15 Life Energy_
 
 The Siren of Death channels her life energy into a target, restoring `dice: 1d20+2` (1d20+MST) hit points and `dice: 1d20+2` (1d20+MST) shield points.

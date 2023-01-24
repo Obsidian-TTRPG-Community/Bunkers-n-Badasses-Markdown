@@ -5,7 +5,7 @@ filetype: ActionSkill
 tags: BnB/Homebrew/ActionSkills, BnB/PC/Classes/Siren/Law/Abilities
 ---
 # PhaseScream
-*Requires*: [[The-Siren-of-Law|The Siren of Law]]
+*Requires*: [The Siren of Law](../The-Siren-of-Law.md)
 
 The Siren of Law unleashes a powerful sonic scream that shatters objects and forms a vortex in reality. They can move up to __5__ squares and release a PhaseScream, dealing `dice: 1d10` (__1d10__) shock damage and `dice: 1d10` (__1d10__) physical damage to each target in or adjacent to any square moved past.
 

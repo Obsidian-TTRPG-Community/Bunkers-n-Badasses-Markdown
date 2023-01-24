@@ -5,7 +5,7 @@ filetype: ActionSkill
 tags: BnB/Homebrew/ActionSkills, BnB/PC/Classes/Siren/Law/Abilities
 ---
 # PhaseShout
-_Requires_: [[The-Siren-of-Law|The Siren of Law]]
+_Requires_: [The Siren of Law](../The-Siren-of-Law.md)
 
 The Siren of Law unleashes a powerful sonic shout that shatters objects and ripples through reality. They can move up to __4__ squares, dealing `dice: 1d10`(__1d10__) shock damage and `dice: 1d10`(__1d10__) physical damage to each target in or adjacent to any square moved past.
 

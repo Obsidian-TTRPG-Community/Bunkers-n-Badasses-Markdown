@@ -5,7 +5,7 @@ filetype: SubSkill
 tags: BnB/BunkerMaster/Homebrew, BnB/PC/Classes/Siren/Death/Abilities
 ---
 # Frostbite Strike
-*Requires*: [[The-Siren-of-Death|The Siren of Death]]
+*Requires*: [The Siren of Death](../The-Siren-of-Death.md)
 _10 Life Energy_
 
 The Siren of Death delivers a icy cryonic strike to a target within an adjacent square, dealing `dice: 1d6+1` (1d6 + ACC) damage and slowing their movement for `dice: 1d4` (1d4) rounds. Generates 1 Mayhem point.

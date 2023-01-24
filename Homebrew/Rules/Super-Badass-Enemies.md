@@ -22,7 +22,7 @@ Super Badass Enemies also have the following compared to their base counterparts
 Additionally, they get a two modifiers from the modifier table below, rolled at random or chosen by the BM.
 
 (Link to your Modifier Table Below)
-![[77-Bunkers-n-Badasses-Sourcebook/005-Resources/Enemies-Tables/Enemy-Traits.md#^bunkersEnemyTraits]]
+![](77-Bunkers-n-Badasses-Sourcebook/005-Resources/Enemies-Tables/Enemy-Traits.md#^bunkersEnemyTraits)
 They may also be subject to the traits found on the Homebrew modifier table below.
 
-![[Homebrew-Enemy-Traits#^bunkersHomebrewEnemyTraits|Homebrew Enemy Traits]]
+![](Homebrew-Enemy-Traits#^bunkersHomebrewEnemyTraits)

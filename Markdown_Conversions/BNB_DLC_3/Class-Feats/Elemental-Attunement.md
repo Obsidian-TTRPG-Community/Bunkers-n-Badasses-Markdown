@@ -4,7 +4,7 @@ cssclass:
 tags: BnB/Homebrew/Feats, BnB/PC/Feats/Siren/Phaselocker
 ---
 # Elemental Attunement
-___Requires:___ [Phaselocker](Phaselocker.md)
+___Requires:___ [Phaselocker](../../../../60-Wyrmscriber/Gamemaster/Mechanics/Classes/Siren/Phaselocker.md)
 Choose an Elemental Type.
 Gain +1d4 Damage Resistance against that Element.
 If it matches your Siren Element, instead gain +2d4 Damage Resistance.

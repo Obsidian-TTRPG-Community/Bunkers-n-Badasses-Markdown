@@ -63,7 +63,7 @@ But the Blightcaller's power is not without its cost. They walk a fine line betw
 
 >[!meta]- Class Inline Metadata
 > accuracy:: 1
-> classfeat:: [Whisper of Rot](Whisper-of-Rot.md)
+> classfeat:: [Whisper of Rot](../../Class-Feats/Whisper-of-Rot.md)
 > damage:: 0
 > image:: [Blightcaller.png](_attachments/Blightcaller.png)
 > mastery:: 2

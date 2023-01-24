@@ -7,7 +7,7 @@ tags:
 - BnB/PC/Classes/Siren/Affinity/Law/PassiveSkill
 ---
 # My Universe, My Rules
-*Requires*: [[The-Siren-of-Law|The Siren of Law]]
+*Requires*: [The Siren of Law](../The-Siren-of-Law.md)
 
 The Siren of Law has a natural talent for persuasion and manipulation, and can use their charisma and powers of suggestion to influence the behavior of others, convincing them to follow the rules and laws that they deem necessary for maintaining order. 
 

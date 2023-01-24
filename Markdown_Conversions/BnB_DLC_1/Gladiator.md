@@ -31,7 +31,7 @@ These warriors epitomize the frontier Corporate motto: "Killing is our business,
 
 >[!meta]- Class Inline Metadata
 > accuracy:: 2
-> classfeat:: [Efficient](Efficient.md)
+> classfeat:: [Efficient](../BNB_DLC_3/Class-Feats/Efficient.md)
 > damage:: 0
 > filetype:: Skilltree
 > image::

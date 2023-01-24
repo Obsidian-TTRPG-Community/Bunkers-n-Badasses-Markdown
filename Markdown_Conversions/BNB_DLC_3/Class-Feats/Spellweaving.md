@@ -4,7 +4,7 @@ cssclass:
 tags: BnB/Homebrew/Feats, BnB/PC/Feats/Siren/Spellshot
 ---
 # Spellweaving
-___Requires:___ [Spellshot](Spellshot.md)
+___Requires:___ [Spellshot](../Classes/Siren/Spellshot.md)
 Tossing a Grenade or Reloading grants you a point of Spellweaving, up to 5, until the end of the Day.
 Gain +1 Grenade Damage for each point of Spellweaving.
 

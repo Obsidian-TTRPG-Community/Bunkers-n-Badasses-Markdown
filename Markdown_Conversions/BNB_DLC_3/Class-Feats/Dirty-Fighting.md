@@ -4,7 +4,7 @@ cssclass:
 tags: BnB/PC/Feats/Assassin/Stabbomancer, BnB/Homebrew/Feats
 ---
 # Dirty Fighting
-___Requires:___ [Stabbomancer](60-Wyrmscriber/Gamemaster/Mechanics/Classes/Assassin/Stabbomancer/Stabbomancer.md)
+___Requires:___ [Stabbomancer](../../../../60-Wyrmscriber/Gamemaster/Mechanics/Classes/Assassin/Stabbomancer/Stabbomancer.md)
 Add a Crit Die to the 2-7 Accuracy Range for all Favored Weapons.
 
 > [!meta]- Feat Inline Metadata

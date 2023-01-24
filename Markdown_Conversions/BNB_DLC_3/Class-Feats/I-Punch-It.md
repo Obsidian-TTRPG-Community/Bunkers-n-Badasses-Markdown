@@ -4,7 +4,7 @@ cssclass:
 tags: BnB/Homebrew/Feats, BnB/PC/Feats/Berserker/Brute
 ---
 # I Punch It
-___Requires:___ [Brute](Brute.md)
+___Requires:___ [Brute](../../../../60-Wyrmscriber/Gamemaster/Mechanics/Classes/Berserker/Brute.md)
 Add +1 Melee Die to the 8-15 Accuracy Range for your Melee Attacks.
 
 > [!meta]- Feat Inline Metadata

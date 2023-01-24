@@ -7,7 +7,7 @@ tags:
 - BnB/PC/Classes/Siren/Death/Abilities
 ---
 # Lightning Tear
-*Requires*: [[The-Siren-of-Death|The Siren of Death]]
+*Requires*: [The Siren of Death](../The-Siren-of-Death.md)
 _10 Life Energy_
 
 The Siren of Death unleashes a line of _shocking_ energy, reaching out and pulling an object towards her with a range of 7 squares. This ability can be used to disarm enemies, or tear off heads. If used to dismember enemies, deals `dice: 1d8+1` (1d8 + DMG) _shock_ damage. Generates 1 Mayhem point.

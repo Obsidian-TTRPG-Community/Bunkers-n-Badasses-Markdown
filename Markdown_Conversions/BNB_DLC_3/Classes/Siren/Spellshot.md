@@ -26,7 +26,7 @@ cssclass:
 
 >[!meta] Class Inline Metadata
 > accuracy:: 1
-> classfeat:: [Spellweaving](Spellweaving.md)
+> classfeat:: [Spellweaving](../../Class-Feats/Spellweaving.md)
 > damage:: 2
 > image:: [Spellshot.png](_attachments/Spellshot.png)
 > mastery:: 1

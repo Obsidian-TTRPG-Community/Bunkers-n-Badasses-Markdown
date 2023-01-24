@@ -14,11 +14,11 @@ This is a proof of concept for using canvas as a skill/progression tree tracker.
 
 ### Snippets for the Looks (Optional)
 1. [S - Callouts](https://github.com/SlRvb/Obsidian--ITS-Theme/tree/main/Snippets)
-2. [BnB-Sourcebook-No-Statblock](BnB-Sourcebook-No-Statblock.css) or [BnB-Sourcebook-Yes-Statblock](BnB-Sourcebook-Yes-Statblock.css)
+2. [BnB-Sourcebook-No-Statblock](_attachments/BnB-Sourcebook-No-Statblock.css) or [BnB-Sourcebook-Yes-Statblock](_attachments/BnB-Sourcebook-Yes-Statblock.css)
 
 ## Instructions
 1. Download the [Stabbomancer](../Stabbomancer/) folder in full and place it in your vault. 
-2. Open [Stabbo-Skill-Tree](75-BunkerShare/Markdown_Conversions/BNB_DLC_3/Classes/Assassin/Stabbomancer/Stabbo-Skill-Tree.canvas).
+2. Open [Stabbo-Skill-Tree](_attachments/Stabbo-Skill-Tree.canvas).
 3. You may need to rename and re-attach the individual canvas pieces. I have  moved everything to root to try to prevent this issue, but no guarantees. 
 4. Explore. Make it better, and share it with the world. :)
 

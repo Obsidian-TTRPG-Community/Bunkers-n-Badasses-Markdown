@@ -4,7 +4,7 @@ cssclass:
 tags: BnB/Homebrew/Feats, BnB/PC/Feats/Commando/Blightcaller
 ---
 # Whisper of Rot
-___Requires:___ [Blightcaller](Blightcaller.md)
+___Requires:___ [Blightcaller](../Classes/Commando/Blightcaller.md)
 After dealing Elemental Damage, gain +1d4 Elemental Damage for 2 turns.
 
 > [!meta]- Feat Inline Metadata

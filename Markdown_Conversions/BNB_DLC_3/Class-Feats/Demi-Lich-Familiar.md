@@ -4,7 +4,7 @@ cssclass:
 tags: demilichstatblock, BnB/Homebrew/Feats, BnB/PC/Feats/Siren/Graveborn
 ---
 # Demi-Lich Familiar
-___Requires:___ [Graveborn](Graveborn.md)
+___Requires:___ [Graveborn](../Classes/Siren/Graveborn.md)
 An arcane Demi-Lich Familiar floats around you and will automatically Melee Attack (using your stats) any Target that enters an adjacent square.
 If it dies, it respawns at the end of the encounter.
 

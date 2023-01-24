@@ -37,7 +37,7 @@ cssclass:
 >[!meta]- Class Inline Metadata
 > accuracy:: 1
 > actionskill::
-> classfeat:: [Whisper of Rot](Whisper-of-Rot.md)
+> classfeat:: [Whisper of Rot](../../Class-Feats/Whisper-of-Rot.md)
 > damage:: 0
 > image:: [Graveborn.png](_attachments/Graveborn.png)
 > mastery:: 2

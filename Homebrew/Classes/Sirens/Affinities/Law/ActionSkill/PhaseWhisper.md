@@ -5,7 +5,7 @@ filetype: ActionSkill
 tags: BnB/Homebrew/ActionSkills, BnB/PC/Classes/Siren/Law/Abilities
 ---
 # PhaseWhisper
-*Requires*: [[The-Siren-of-Law|The Siren of Law]]
+*Requires*: [The Siren of Law](../The-Siren-of-Law.md)
 
 The Siren of Law unleashes a sonic whisper that ripples through objects and briefly bends reality. They can move up to __2__ squares, dealing `dice: 1d4`(__1d4__) shock damage and `dice: 1d4`(__1d4__) physical damage to each target in or adjacent to any square moved past.
 

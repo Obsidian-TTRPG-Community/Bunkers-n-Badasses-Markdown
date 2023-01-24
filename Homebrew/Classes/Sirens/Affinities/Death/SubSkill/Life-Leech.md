@@ -7,7 +7,7 @@ tags:
 - BnB/PC/Classes/Siren/Death/Abilities
 ---
 # Life Leech
-*Requires*: [[The-Siren-of-Death|The Siren of Death]]
+*Requires*: [The Siren of Death](../The-Siren-of-Death.md)
 _15 Life Energy_
 
 The Siren of Death drains life energy from a target, restoring `dice: 1d20`(1d20+MST) hit points and `dice: 1d20` (1d20+MST) shield points to herself.

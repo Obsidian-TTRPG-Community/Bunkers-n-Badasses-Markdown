@@ -30,7 +30,7 @@ PhaseBomb
 __My Time is Written__: The Siren of Time can access knowledge and information from different points in time by consulting with her past or future selves, or accessing a time-lost database or library.
 
 
-## Feats in the [[The-Siren|Affinity of the Siren]]
+## Feats in the [Affinity of the Siren](../../The-Siren.md)
 
 
 

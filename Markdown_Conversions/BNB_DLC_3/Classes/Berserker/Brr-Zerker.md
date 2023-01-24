@@ -65,7 +65,7 @@ But beware, for the Brr-Zerker is not to be underestimated. They are bound to sp
 
 >[!meta]- Class Inline Metadata
 > accuracy:: 0
-> classfeat:: [Rage of the Ancients](Rage-of-the-Ancients.md)
+> classfeat:: [Rage of the Ancients](../../Class-Feats/Rage-of-the-Ancients.md)
 > damage:: 2
 > image:: [Brr-Zerker.png](_attachments/Brr-Zerker.png)
 > mastery:: 1

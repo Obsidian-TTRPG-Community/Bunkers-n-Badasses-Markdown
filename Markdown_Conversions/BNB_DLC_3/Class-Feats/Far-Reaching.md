@@ -4,7 +4,7 @@ cssclass:
 tags: BnB/Homebrew/Feats, BnB/PC/Feats/Hunter/Sharp-Shooter
 ---
 # Far Reaching
-___Requires:___ [Sharp Shooter](Sharp-Shooter.md)
+___Requires:___ [Sharp Shooter](../../../../60-Wyrmscriber/Gamemaster/Mechanics/Classes/Hunter/Sharp-Shooter.md)
 All Favored Guns get +2 Range.
 Attacks beyond Range 5 get +1 Crit Die.
 

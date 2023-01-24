@@ -7,7 +7,7 @@ tags:
 - BnB/PC/Classes/Siren/Death/Abilities
 ---
 # Teleport Flicker
-*Requires*: [[The-Siren-of-Death|The Siren of Death]]
+*Requires*: [The Siren of Death](../The-Siren-of-Death.md)
 _05 Life Energy_
 
 The Siren of Death instantly teleports herself up to 5 squares in any direction, allowing her to quickly move around the battlefield or escape danger.

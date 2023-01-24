@@ -21,8 +21,8 @@ While she is generally peaceful, the Siren of Renewal is not afraid to embrace c
 
 ## Abilities of the Siren of Renewal
 ### Action Skill
-![[Phasewalk|Phasewalk]]
+![](_attachments/Phasewalk.md)
 
 ### Passive Skill
 
-## Feats in the [[The-Siren|Affinity of the Siren]]
+## Feats in the [Affinity of the Siren](../../The-Siren.md)

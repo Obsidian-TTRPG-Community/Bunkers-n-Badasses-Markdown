@@ -18,7 +18,7 @@ tags:
 > [!quest]
 > If spared from death in it's defeat, it may offer a quest to players to help find its beloved mate.
 > 
-> See [[The-Queen-of-the-Mellow-Crustaceans|The Queen of the Mellow Crustaceans]]
+> See [The Queen of the Mellow Crustaceans](../../../Quests/Rescue/The-Queen-of-the-Mellow-Crustaceans.md)
 
 ## Statblock
 

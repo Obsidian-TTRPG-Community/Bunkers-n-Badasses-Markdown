@@ -26,7 +26,7 @@ Valora is a guild that specializes in crafting large, two-handed swords that dea
 #### Elemental Roll
 Roll on the Elemental Table.
 
-![](Elemental-Table#^bunkersElemental)
+![](Elemental-Table.md#^bunkersElemental)
 
 > [!abstract]- Note Metadata
 > modified:: Sigrunixia

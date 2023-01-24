@@ -24,7 +24,7 @@ The Swift guild is known for their expertise in crafting swords and other bladed
 ### Element Roll
 To choose an element, roll on the element table. 
 
-![](Elemental-Table#^bunkersElemental)
+![](Elemental-Table.md#^bunkersElemental)
 
 > [!abstract]Note Metadata
 > modified:: Sigrunixia

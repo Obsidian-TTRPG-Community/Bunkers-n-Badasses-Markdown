@@ -15,7 +15,7 @@ Since Spells are so in-depth, it’d feel pretty bad if you were forced to compa
 ### Rarity
 Roll on the Gun Rarity table.
 
-![](Rarity-Table#^bunkersRarity)
+![](Rarity-Table.md#^bunkersRarity)
 
 ### Manufacturer 
 Then roll 1d8 for a Manufacturer and 1d4 for type. It’s worth noting that any grenade can be Elemental, not just “Elemental” grenades.

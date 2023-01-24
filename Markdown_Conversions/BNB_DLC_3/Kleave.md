@@ -28,7 +28,7 @@ The Kleave Guild is a group of skilled blacksmiths who specialize in crafting ax
 
 Roll on the Element Table.
 
-![](Elemental-Table#^bunkersElemental)
+![](Elemental-Table.md#^bunkersElemental)
 
 > [!abstract]- Note Metadata
 > modified:: Sigrunixia

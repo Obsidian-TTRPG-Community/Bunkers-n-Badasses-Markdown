@@ -25,7 +25,7 @@ The guild of BONK! specializes in crafting heavy-hitting blunt weapons such as c
 
 Roll on the Element Table.
 
-![](Elemental-Table#^bunkersElemental)
+![](Elemental-Table.md#^bunkersElemental)
 
 > [!abstract] Note Metadata
 > modified:: Sigrunixia

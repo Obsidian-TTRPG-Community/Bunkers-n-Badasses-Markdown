@@ -4,7 +4,7 @@ alias: ["Brittle Crab King"]
 cr: 3
 cssclass: bunkers 
 hp: 30
-initiative: 
+modifier: 
 statblock: true
 ---
 # Brittle Crab King
@@ -63,4 +63,4 @@ loot:
 
 >[!abstract]- Bestiary Inline Metadata
 > source:: __Bunkers-Wildlife__
-> tags:: #BnB/Homebrew/Bestiary #BnB/Bestiary/Wildlife/Crabs/Brittle-Crab-King
+ #BnB/Homebrew/Bestiary #BnB/Bestiary/Wildlife/Crabs/Brittle-Crab-King

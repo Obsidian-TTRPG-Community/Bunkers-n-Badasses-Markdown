@@ -1,5 +1,5 @@
 ---
-alias: ["Whisper of Rot"]
+alias: [Whisper of Rot]
 cssclass: 
 tags: BnB/Homebrew/Feats, BnB/PC/Feats/Commando/Blightcaller
 ---

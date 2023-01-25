@@ -24,7 +24,7 @@ While she is generally peaceful, the Siren of Renewal is not afraid to embrace c
 
 ### Action Skill
 
-![](Phasewalk%201.md)
+![Link to your phasewalk file in your vault](Phasewalk%201.md)
 
 ### Passive Skill
 

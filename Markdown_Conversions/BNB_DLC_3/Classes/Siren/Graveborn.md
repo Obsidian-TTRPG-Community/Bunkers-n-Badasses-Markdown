@@ -30,7 +30,7 @@ tags: [BnB/Homebrew/Classes, BnB/PC/Classes/Siren/Graveborn]
 >
 
 ## Action Skill
-![[Reaper-of-Bones#Reaper of Bones]]
+![](Reaper-of-Bones#Reaper%20of%20Bones)
 
 
 
@@ -38,7 +38,7 @@ tags: [BnB/Homebrew/Classes, BnB/PC/Classes/Siren/Graveborn]
 >[!meta]- Class Inline Metadata
 > accuracy:: 1
 > actionskill::
-> classfeat:: [[75-BunkerShare/Markdown_Conversions/BNB_DLC_3/Class-Feats/Demi-Lich-Familiar|Demi-Lich Familiar]]
+> classfeat:: [Demi-Lich Familiar](75-BunkerShare/Markdown_Conversions/BNB_DLC_3/Class-Feats/Demi-Lich-Familiar.md)
 > damage:: 0
 > image:: [Graveborn.png](_attachments/Graveborn.png)
 > mastery:: 2

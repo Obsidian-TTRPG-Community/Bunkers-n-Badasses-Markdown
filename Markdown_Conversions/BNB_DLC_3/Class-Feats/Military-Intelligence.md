@@ -2,9 +2,11 @@
 alias: ["Military Intelligence"]
 cssclass: 
 tags: BnB/Homebrew/Feats, BnB/PC/Feats/Commando/Sabre
+title: Military Intelligence
 ---
+
 # Military Intelligence
-___Requires:___ [Sabre](../../../../60-Wyrmscriber/Gamemaster/Mechanics/Classes/Commando/Sabre.md)
+***Requires:*** [Sabre](../../../../60-Wyrmscriber/Gamemaster/Mechanics/Classes/Commando/Sabre.md)
 Choose a Skill.
 You get +5 to Checks for that Skill. You get -1 to all other Skill Checks.
 

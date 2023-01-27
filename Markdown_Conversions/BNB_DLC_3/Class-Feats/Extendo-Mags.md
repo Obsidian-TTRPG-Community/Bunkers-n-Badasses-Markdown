@@ -2,9 +2,11 @@
 alias: ["Extendo-Mags"]
 cssclass: 
 tags: BnB/Homebrew/Feats, BnB/PC/Feats/Gunzerker/Gun-Lust
+title: Extendo-Mags
 ---
+
 # Extendo-Mags
-___Requires:___ [Gun Lust](../../../../60-Wyrmscriber/Gamemaster/Mechanics/Classes/Gunzerker/Gun-Lust.md)
+***Requires:*** [Gun Lust](../../../../60-Wyrmscriber/Gamemaster/Mechanics/Classes/Gunzerker/Gun-Lust.md)
 You can equip a 4th Gun.
 
 > [!meta]- Feat Inline Metadata

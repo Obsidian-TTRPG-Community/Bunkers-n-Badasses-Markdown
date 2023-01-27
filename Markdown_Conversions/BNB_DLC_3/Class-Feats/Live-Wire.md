@@ -2,9 +2,11 @@
 alias: ["Live Wire"]
 cssclass: 
 tags: BnB/Homebrew/Feats, BnB/PC/Feats/Mechromancer/Shock-and-Claws
+title: Live Wire
 ---
+
 # Live Wire
-___Requires:___ [Shock and Claws](Shock-and-Claws)
+***Requires:*** [Shock and Claws](Shock-and-Claws)
 When you deal Shock Damage, gain 1+MST Mod Health.
 
 > [!meta]- Feat Inline Metadata

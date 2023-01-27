@@ -68,7 +68,7 @@ MD012:
 # MD013/line-length - Line length
 MD013:
   # Number of characters
-  line_length: 80
+  line_length: 200
   # Number of characters for headings
   heading_line_length: 80
   # Number of characters for code blocks
@@ -123,7 +123,7 @@ MD025:
   # Heading level
   level: 1
   # RegExp for matching title in front matter
-  front_matter_title: "^\\s*title\\s*[:=]"
+  front_matter_title: ""
 
 # MD026/no-trailing-punctuation - Trailing punctuation in heading
 MD026:

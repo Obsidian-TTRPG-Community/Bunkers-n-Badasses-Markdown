@@ -2,9 +2,11 @@
 alias: ["Efficient"]
 cssclass: 
 tags: BnB/Homebrew/Feats, BnB/PC/Feats/Assassin/Gladiator
+title: Efficient
 ---
+
 # Efficient
-___Requires:___ [Gladiator](../../BnB_DLC_1/Gladiator.md)
+***Requires:*** [Gladiator](../../BnB_DLC_1/Gladiator.md)
 When you deal Damage with a Favored Gun or Melee Attack, treat any die result of 1 as a 2 instead.
 
 > [!meta]- Feat Inline Metadata

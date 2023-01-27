@@ -18,16 +18,19 @@
 ###############
 # Rules by id #
 ###############
+MD002: false                  # Depreciated First heading should be a top-level heading
 MD004: false                  # Unordered list style
 MD007:
   indent: 2                   # Unordered list indentation
 MD013:
   line_length: 400            # Line length 80 is far to short
+MD025: false                  # Multiple top-level headings in the same document and title and alias set this off too easily
 MD026:
   punctuation: ".,;:!。，；:"  # List of not allowed
 MD029: false                  # Ordered list item prefix
 MD033: false                  # Allow inline HTML
 MD036: false                  # Emphasis used instead of a heading
+MD041: false                  # First line in a file should be a top-level heading
 
 #################
 # Rules by tags #

@@ -34,6 +34,6 @@ These can be used for NPC's, Enemies, Badasses, Superbadasses, and Bosses alike.
 | 17           | **CANT JUMP**: This Creature Cannot Jump. Really. It Can't.                                                     |
 | 18           | **ARMOR PIERCING**: Is carrying special armor-piercing rounds that ignore up to 5 points of a creature's armor. |
 | 19           | **LEVIATHAN**: Can attack all adjacent squares with its melee attack, and has increased health.                              |
-| 20             |  **CURSED REGENERATION**: This cursed creature can regenerate lost limbs, but each time it does so, it loses one ability point or a badass token. The GM chooses the outcome.                                                                                                             |
+| 20             |  **CURSED REGENERATION**: This cursed creature can regenerate lost limbs, but each time it does so, it loses one base stat point or a badass token. The GM chooses the outcome.                                                                                                             |
 ^bunkersHomebrewEnemyTraits1
 

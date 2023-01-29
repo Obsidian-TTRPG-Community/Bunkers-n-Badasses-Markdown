@@ -19,7 +19,7 @@ title: Bog Totem
 **Movement**: Fly 5 squares per turn.
 Damage: `dice: 2d8` splash, matching your equipped gun’s element.
 
->[!meta]- Action Skill Inline Metadata
+>[!abstract]- Action Skill Inline Metadata
 > skilltree:: Blightcaller
 > source:: **Homebrew**
 > sourceurl:: [Scout's B&B DLC 3: Into the Wonderlands](https://docs.google.com/document/d/1MLOgrWwcLNTnP9PuXrKiLImy7SUh4hXO8arVUAlmdp0/edit)

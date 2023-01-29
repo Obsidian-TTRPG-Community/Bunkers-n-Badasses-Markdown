@@ -1,17 +1,18 @@
 ---
 alias: [Spellshot]
-cssclass: 
+cssclass: bunkers
 title: Spellshot
 ---
 
 # Spellshot
+
 > [!homebrew]
 > Warning: This content is a Homebrew created for Bunkers and Badasses.
 
 >[!infobox|right]
-># `=this.skilltree` `=this.class`
+>## `=this.skilltree` `=this.class`
 >![](_attachments/Spellshot.png)
-> ###### Class Features
+> ### Class Features
 >
 > | ***Type*** | ***Stat*** |
 > |:---|:---|
@@ -22,6 +23,19 @@ title: Spellshot
 > | **MST** | +`=this.mastery` |
 > | **Class Feat** (*Optional Homebrew*) | `=this.classfeat` |
 >
+
+## Action Skill
+***[Ambihexterous](../../Abilities/Siren/Ambihexterous.md)***
+Whenever you find a Grenade Mod, you can make it your Action Skill, replacing the previous Grenade Mod, if any.
+- You can Toss this Grenade whenever you activate your Action Skill.
+- Grenades that are your Action Skill can’t be Tossed using your Grenade Stock.
+- Using your Action Skill Grenade doesn’t prevent you from attacking on your turn.
+
+**(MST Mod per Day + 1/Encounter)**
+
+## Skill Tree
+
+
 
 >[!meta] Class Inline Metadata
 > accuracy:: 1

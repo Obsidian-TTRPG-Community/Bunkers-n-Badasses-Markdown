@@ -6,8 +6,11 @@ title: Demi-Lich Familiar
 ---
 
 # Demi-Lich Familiar
+
 ***Requires:*** [Graveborn](../Classes/Siren/Graveborn.md)
+
 An arcane Demi-Lich Familiar floats around you and will automatically Melee Attack (using your stats) any Target that enters an adjacent square.
+
 If it dies, it respawns at the end of the encounter.
 
 > [!meta]- Feat Inline Metadata

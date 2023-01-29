@@ -5,13 +5,14 @@ title: Blightcaller
 ---
 
 # Blightcaller
+
 >[!homebrew]
 > **Warning**: This page is a Homebrew class of Tiny Tina Wonderlands' Blightcaller.
 
 >[!infobox|right]
-># `=this.skilltree` `=this.class`
+>## `=this.skilltree` `=this.class`
 >![](_attachments/Blightcaller.png)
-> ###### Class Features
+> ### Class Features
 >
 > | ***Type*** | ***Stat*** |
 > |:---|:---|
@@ -32,7 +33,19 @@ But the Blightcaller's true strength lies in their connection to the spirits of 
 But the Blightcaller's power is not without its cost. They walk a fine line between life and death, balancing on the edge of rot and rebirth. And as they embrace their dark powers, they risk becoming consumed by their own dark desires, forever lost to the swamp and the spirits that dwell within it.
 
 ## Action Skill
-![](Bog-Totem.md#Bog%20Totem)
+***[Bog Totem](../../Abilities/Commando/Bog-Totem.md)***
+*Conjure* a Bog Totem Familiar in a space you can see to fire Bog Spirits that seek the nearest enemy and explode.
+- Whenever you or your Familiar kill an enemy, the Bog Totem’s duration increases by 1 turn.
+*Destroyed when its Armor is depleted*
+**(MST Mod per Day + 1/Encounter)**
+
+***Familiar: Bog Totem***
+**Totem Armor**: 20
+
+***Bog Spirits***
+**Fired each turn**: 2.
+**Movement**: Fly 5 Squares per Turn
+**Damage**: `dice: 2d8` (**2d8**) splash, matching your equipped gun’s element.
 
 ## Skill Tree
 | Tier 1 Skills |  |
@@ -62,7 +75,6 @@ But the Blightcaller's power is not without its cost. They walk a fine line betw
 | Soul Fortress | Your Bog Totem projects a Shield around all adjacent squares with 15 Capacity/SL and the same effect as your equipped shield. |
 | **Tier 6 Skills** |  |
 | Spirit Swarm\* | After dealing Elemental Damage, roll 1d20+MST Mod. On a 16+, conjure a Bog Spirit Swarm Familiar for 2+MST Mod turns. It has 60 Health, Fly 8, deals 2d8 Damage to any enemy in or adjacent to its square each turn, and explodes on death.  Triggering the ability again refreshes its duration and changes its Elemental Damage to that Element, but doesn’t restore its Health. |
-
 ^bunkersDLC3BlightcallerSkillTree
 
 >[!meta]- Class Inline Metadata

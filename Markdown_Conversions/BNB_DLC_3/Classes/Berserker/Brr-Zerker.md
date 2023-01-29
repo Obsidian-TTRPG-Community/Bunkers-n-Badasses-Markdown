@@ -6,13 +6,14 @@ title: Brr-Zerker
 ---
 
 # Brr-Zerker
+
 >[!homebrew]
 > **Warning**: This page is a Homebrew class of Tiny Tina Wonderlands' Brr-Zerker.
 
 >[!infobox|right]
-># `=this.skilltree` `=this.class`
+>## `=this.skilltree` `=this.class`
 >![](_attachments/Brr-Zerker.png)
-> ###### Class Features
+> ### Class Features
 >
 > | ***Type*** | ***Stat*** |
 > |:---|:---|
@@ -31,10 +32,12 @@ However, there is more to the Brr-Zerker than just brute strength and icy abilit
 But beware, for the Brr-Zerker is not to be underestimated. They are bound to spectral entities, ancient spirits who lend their power to the warrior in exchange for their unwavering loyalty. It is this bond that allows the Brr-Zerker to harness the power of frost and channel it into their melee attacks, turning their weapons into instruments of icy death. So beware, for the Brr-Zerker is a force to be reckoned with on the battlefield, a relentless warrior who will stop at nothing to see their enemies defeated.
 
 ## Action Skill
+
 **Feral Surge**: Leap forward up to 4 squares, dealing `dice: 1d6` Cryo Damage to each Target in or adjacent to any square moved past.
 (MST Mod per Day + 1/Encounter)
 
 ## Skill Tree
+
 | Tier 1 Skills |  |
 |---|---|
 | Ancestral Frost | +1/SL Cryo Damage. +1/SL to Traverse Checks. |
@@ -63,7 +66,6 @@ But beware, for the Brr-Zerker is not to be underestimated. They are bound to sp
 | Ham Fisted | +1 Melee Damage/SL. +1/SL to Interact Checks. Double these bonuses while Enraged. |
 | **Tier 6 Skills** |  |
 | Blood of the Fallen\* | When you kill a Target, you may activate Feral Surge for free. +2 MST. |
-
 ^bunkersBrrZerkerTree
 
 >[!meta]- Class Inline Metadata

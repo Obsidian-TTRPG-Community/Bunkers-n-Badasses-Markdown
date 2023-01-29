@@ -35,9 +35,27 @@ Phasewhisper has a `dice: 1d6`(**1d6**) potential to stun targets for one round 
 
 - At level 8, this ability becomes becomes [PhaseTalk](PhaseTalk.md).
 
-[PhaseTalk](ActionSkill/PhaseTalk.md)
-[PhaseShout](ActionSkill/PhaseShout.md)
-[PhaseScream](ActionSkill/PhaseScream.md)
+**[PhaseTalk](ActionSkill/PhaseTalk.md)**
+The Siren of Law unleashes a sonic shout that echoes through objects and briefly disrupts reality. They can move up to **3** squares, dealing `dice: 1d8`(**1d8**) shock damage and `dice: 1d8`(**1d8**) physical damage to each target in or adjacent to any square moved past.
+
+Phasetalk has a `dice: 1d8`(**1d8**) potential to stun targets for one round if it lands on a **1-4**.
+
+- At level 16, this ability becomes [PhaseShout](PhaseShout.md)
+
+
+**[PhaseShout](ActionSkill/PhaseShout.md)**
+The Siren of Law unleashes a powerful sonic shout that shatters objects and ripples through reality. They can move up to **4** squares, dealing `dice: 1d10`(**1d10**) shock damage and `dice: 1d10`(**1d10**) physical damage to each target in or adjacent to any square moved past.
+
+PhaseShout has a `dice: 1d12`(**1d12**) potential to stun targets for one round if it lands on a **1-5**.
+
+- At level 30, this ability becomes [PhaseScream](ActionSkill/PhaseScream.md)
+
+**[PhaseScream](ActionSkill/PhaseScream.md)**
+The Siren of Law unleashes a powerful sonic scream that shatters objects and forms a vortex in reality. They can move up to **5** squares and release a PhaseScream, dealing `dice: 1d10` (**1d10**) shock damage and `dice: 1d10` (**1d10**) physical damage to each target in or adjacent to any square moved past.
+
+PhaseScream has a `dice: 1d20`(**1d20**) potential to stun targets for one round if it lands on a **1-8**.
+
+PhaseScream can be used ***twice*** per MST mod per encounter.
 
 ### Passive Skill
 **[My Universe, My Rules](PassiveSkill/My-Universe-My-Rules.md)**: The Siren of Law has a natural talent for persuasion and manipulation, and can use their charisma and powers of suggestion to influence the behavior of others, convincing them to follow the rules and laws that they deem necessary for maintaining order. 
@@ -59,4 +77,4 @@ I have not decided much of this yet. This is just brainstorming.
 | Skill Name       | Description | Points |
 | ---------------- | ----------- | ------ |
 | ***Tier 3 Skills***                 |             |        |
-| **Judgment Day** | +2 DMG Mod against known criminals or enemies of the state. +1 to Insight Checks when identifying potential targets.           | 1 Point       |
+| **Judgment Day** | +2 DMG Mod against known criminals or enemies of the state. +1 to Insight Checks when identifying potential targets.           | 0/1 Point       |

@@ -10,6 +10,7 @@ title: Fatemaker
 ---
 
 # Fatemaker
+
 >[!homebrew]
 > **Warning**: This page is a Homebrew Archetype of Tiny Tina Wonderlands' Fatemaker.
 
@@ -22,13 +23,14 @@ Fatemakers are Badasses that often find themselves at the center of many dire-go
 > "Fate "Brings Us Together"? ***She*** got that *off a fanfic* on the ECHOnet!"
 
 ## Starting Stats
+
 | **Accuracy** | **Damage** | **Speed** | **Mastery** |
 | ------------ | ---------- | --------- | ----------- |
 | 0            | 1          | 2         | 4           |
-
 ^bunkersDLC3FatemakersStart
 
 ## Progression Tree
+
 | **Level** | **XP Per Segment** | **Rewards**                                  |
 | ----- | -------------- | ---------------------------------------- |
 | 1     | 100            | 1 Skill Point, Fatemaker Feat              |
@@ -61,10 +63,10 @@ Fatemakers are Badasses that often find themselves at the center of many dire-go
 | 28    | 600            | 1 Skill Point, +Health, +2 MST           |
 | 29    | 650            | 1 Skill Point, +Health, +1  Badass Rolls      |
 | 30    | 650            | 1 Skill Point, +Health, Fatemaker Feat     |
-
 ^bunkersDLC3FatemakerProgression
 
 ## Feats
+
 | **Feat Name** | **Feat Text** | **Requirements** |
 |---|---|---|
 | **Newbie** | Gain 2 extra Health at each Level. Gain +2 Health Regen. |  |
@@ -84,5 +86,4 @@ Fatemakers are Badasses that often find themselves at the center of many dire-go
 | **Fell the Monster** | Deal +`dice: 1d8` Damage to Bosses. | Lv 15+ |
 | **Defy Fate** | When your health reaches 0, you can spend 10 Badass Tokens to gain 3d10 Health. | Lv 20+ |
 | **Fatemaker** | Killing an enemy grants you 1 Badass Token. +1 to all Checks. | Lv 20+ |
-
 ^bunkersDLC3FatemakerFeats

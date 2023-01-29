@@ -1,11 +1,12 @@
 ---
 alias: ["Graveborn Siren"]
-cssclass: 
+cssclass: bunkers
 tags: [BnB/Homebrew/Classes, BnB/PC/Classes/Siren/Graveborn]
 title: Graveborn
 ---
 
 # Graveborn
+
 > [!homebrew]
 > Warning: This content is a Homebrew created for Bunkers and Badasses.
 
@@ -29,7 +30,18 @@ title: Graveborn
 >
 
 ## Action Skill
-![](Reaper-of-Bones#Reaper%20of%20Bones)
+***[Reaper of Bones](../../Abilities/Siren/Reaper-of-Bones.md)***
+_Become the Reaper of Bones._  
+While in this form, roll an extra 6(2d12) when rolling for Damage.
+-   The higher value is added to the attack as Damage, while the lower value is taken by you as Health Loss.
+-   When you would drop below 1 Health, remain at 1 Health and exit Reaper of Bones instead.  
+**(MST Mod per Day + 1/Encounter)**
+
+ 
+## Skill Tree
+
+
+
 
 >[!meta]- Class Inline Metadata
 > accuracy:: 1

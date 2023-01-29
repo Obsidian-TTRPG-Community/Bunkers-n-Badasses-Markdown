@@ -16,7 +16,8 @@ title: Commando Gunner
 ---
 
 # Commando Gunner
->[!summary]- Gunner Base Stats
+
+>[!summary] Gunner Base Stats
 >
 > | **Gunner Type** | ***Score***      | **Gunnder Type**  | ***Score***                      |
 > | -------------------- | ------------ | --------------------- | ---------------------------- |
@@ -27,18 +28,20 @@ title: Commando Gunner
 >
 
 ## Action Skill
+
 ***Iron Bear***
 **(MST Mod per Day +1/Encounter)**
 
 Summon and drive your personal Mech/Vehicle, **Iron Bear**, for **2** turns.
 - While driving it:
-	- On your turn you can attack with each of its mounted weapons and perform a *Slam* attack.
+- On your turn you can attack with each of its mounted weapons and perform a *Slam* attack.
 Only you can drive **Iron Bear**.
 Iron Bear is destroyed if its armor is depleted.
 - If occupying the vehicle when it is destroyed, you will take no damage.
 
 ## The Iron Bear
-**Vehicle**:  (Iron Bear)
+
+**Vehicle**:  Iron Bear
 **Armor**: 10 Armor + 10+MST Mod armor per Level
 **Repair**: 0
 **Size**: 2x2sq
@@ -46,7 +49,8 @@ Iron Bear is destroyed if its armor is depleted.
 **Boost Meter**: 1+SPD Mod
 **Seats**: Driver
 
-###
+### Preferred Weapon
+
 **Mounted Weapon**: When activated, choose from two in any combination:
 - Minigun
 - Grenade Launcher
@@ -55,6 +59,7 @@ Iron Bear is destroyed if its armor is depleted.
 Mounted Weapons gain +1 Damage Progress at Levels 7, 13, 19, and 25.
 
 ### Base Slam
+
 **Base Slam**: `dice: 2d8` requires no movement. +1 Damage Progress at levels 7, 13, 19, and 25.)
 
 > #suggestion **Iron Slam**: The Iron Bear drops its heavy weight into the ground in a tremoring slam, dealing `dice: 2d8` damage.
@@ -127,7 +132,5 @@ Base Slam: 2d8, requires no movement. (+1 Damage Progress at levels 7, 13, 19, a
 - +1 Damage Progress at levels 7, 13, 19, and 25.
 
 **2-7** : 2 | 0
-
 **8-15** : 3 | 0
-
 **16+** : 4 | 0

@@ -1,9 +1,10 @@
 ---
 alias: 
 cssclass: 
+title: Beast-Cart
 ---
-# Beast-Cart
 
+# Beast-Cart
 ```statblock
 layout: BunkersVehicle
 source: Bunkers-Vehicles

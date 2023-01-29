@@ -6,10 +6,11 @@ skilltree: Stabbomancer
 slevel: 0
 slevelmax: 3
 supgrade: 0
+title: Haste
 ---
-# Haste
 
-__+__ *`= this.supgrade + this.slevel`* to __Movement.__
+# Haste
+**+** *`= this.supgrade + this.slevel`* to **Movement.**
 
 `$= const output = dv.current().slevel === 3 ? "Gain **One** *Extra* Melee Attack each turn." : "**No** *Extra Attack* Each Turn."; output`
 

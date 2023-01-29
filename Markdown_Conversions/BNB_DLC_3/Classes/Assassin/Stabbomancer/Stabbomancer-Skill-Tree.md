@@ -1,4 +1,10 @@
+---
+alias: 
+cssclass: 
+title: Stabbomancer-Skill-Tree
+---
 
+# Stabbomancer-Skill-Tree
 | Tier 1 Skills          |                                                                                                                                                           |
 | ---------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Arsenal                | +1 Gun Damage/SL. +1 Grenade Damage/SL. +1 Melee Damage/SL.                                                                                               |
@@ -26,6 +32,7 @@
 | Now You See Me*        | When you activate Ghost Blade, Cloak until you Attack, throw a Grenade, or Ghost Blade ends.                                                              |
 | **Tier 6 Skills**      |                                                                                                                                                           |
 | Executioner’s Blade\*  | When you Crit, roll 1d20. On a 16+, deal +1 Melee Die of Bonus Damage.                                                                                    |
+
 ^bunkersStabbomancerTree
 
 > [!abstract]- Note Metadata

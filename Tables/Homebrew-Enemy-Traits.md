@@ -4,9 +4,10 @@ cssclass:
 tags:
 - BnB/Tables/BadassTags
 - BnB/Homebrew/Tables
+title: Homebrew Enemy Traits
 ---
-# Homebrew Enemy Traits
 
+# Homebrew Enemy Traits
 | `dice: 1d100` | **Homebrew Badass Trait**                                 |
 | ------------- | --------------------------------------------------------- |
 | 1             | **WISE**: Increases Insight, Talk, and Sneak Checks by +5 |

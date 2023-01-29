@@ -4,7 +4,9 @@ class: Assassin
 cssclass: 
 skilltree: Stabbomancer
 slevel: 0
+title: Swift Death
 ---
+
 # Swift Death
 > `$=const slevel = dv.current().slevel; dv.span(slevel);` / 3 Skill Points
 
@@ -83,6 +85,3 @@ if (dv.current().slevel === 0){
     });
 }
 ```
-
-
-

@@ -2,12 +2,14 @@
 alias: ["The Siren of Renewal"]
 cssclass: 
 filetype: Skilltree
-tags: 
+tags:
 - Bnb/Homebrew/Classes/Siren/Affinity/Renewal
 - BnB/PC/Classes/Siren/Renewal
 - BnB/PC/Classes/Siren/Phasewalk
 - BnB/Homebrew/WIP
+title: The Siren of Renewal
 ---
+
 # The Siren of Renewal
 
 | Holder    | Figurehead | Manifestation | Sphere  |
@@ -24,8 +26,7 @@ While she is generally peaceful, the Siren of Renewal is not afraid to embrace c
 
 ### Action Skill
 
-![Link to your phasewalk file in your vault](Phasewalk%201.md)
 
 ### Passive Skill
 
-## Feats in the [Affinity of the Siren](../../The-Siren.md)
+## Affinity Feats

@@ -1,12 +1,15 @@
 ---
 alias: ["Super Badass Enemies"]
 cssclass: bunkers, wonderlands
-tags: 
+tags:
 - BnB/Bunkermaster/Enemies/SuperBadass
 - BnB/Homebrew/Rules/Enemies
+title: Super-Badass-Enemies
 ---
-## Super Badass Enemies
 
+# Super-Badass-Enemies
+
+## Super Badass Enemies
 >[!homebrew]
 > Warning: This content is a Homebrew created for Bunkers and Badasses.
 
@@ -16,9 +19,9 @@ For example, a Super Badass Skeleton would have a Badass Rank of 9 instead of th
 
 Super Badass Enemies also have the following compared to their base counterparts:
 
-* Triple the base Health, Armor, and Shields
-* Gain Shields and Armor Equal to 1/2 Health if they did not have Shields and Armor before
-* They use Actions and Mayhem Actions freely.
+- Triple the base Health, Armor, and Shields
+- Gain Shields and Armor Equal to 1/2 Health if they did not have Shields and Armor before
+- They use Actions and Mayhem Actions freely.
 
 Additionally, they get a two modifiers from the modifier table below, rolled at random or chosen by the BM.
 

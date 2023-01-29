@@ -4,13 +4,15 @@ class: Assassin
 cssclass: 
 skilltree: Stabbomancer
 slevel: 0
+title: Knife in the Dark
 ---
+
 # Knife in the Dark
 > `$=const slevel = dv.current().slevel; dv.span(slevel);` / 3 Skill Points
 
 [Ghost Blade](../Ghost-Blade.md) gains `$=const slevel = dv.current().slevel; dv.span(slevel);` Crit Dice.
 
-+_1_ MST.
++*1* MST.
 
 ```dataviewjs
 const {createButton} = app.plugins.plugins["buttons"];

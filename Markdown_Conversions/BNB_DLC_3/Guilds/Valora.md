@@ -1,19 +1,21 @@
 ---
 alias: ["Valora"]
 cssclass: 
-tags: 
+tags:
 - BnB/Loot/Guilds/Valora
 - BnB/Homebrew/Guilds
+title: Valora
 ---
-## Valora
 
+# Valora
+
+## Valora
 >[!homebrew]
 > Warning: This content is a Homebrew created for Bunkers and Badasses.
 
 Valora is a guild that specializes in crafting large, two-handed swords that deal impressive amounts of damage but have slightly lower accuracy. These powerful weapons require great strength and skill to wield effectively, making them the choice of many seasoned warriors.
 
 ### Generating Valora Weapons
-
 | Rarity | Bonuses |
 |---|---|
 | Common | +1d4 Melee Damage, -3 ACC Mod. |
@@ -21,6 +23,7 @@ Valora is a guild that specializes in crafting large, two-handed swords that dea
 | Rare | +1d8 Melee Damage, -1 ACC Mod. |
 | Epic | +1d10 Melee Damage. |
 | Legendary | +1d12 Melee Damage. |
+
 ^bunkersValoraMelee
 
 #### Elemental Roll

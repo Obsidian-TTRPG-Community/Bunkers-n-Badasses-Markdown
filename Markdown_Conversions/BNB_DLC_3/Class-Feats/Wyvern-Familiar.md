@@ -12,4 +12,3 @@ If it dies, it respawns at the end of the Encounter.
 
 > [!abstract]- Feat Inline Metadata
 > sourceurl:: [Scout's B&B DLC 3: Into the Wonderlands](https://docs.google.com/document/d/1MLOgrWwcLNTnP9PuXrKiLImy7SUh4hXO8arVUAlmdp0/edit)
-

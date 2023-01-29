@@ -4,7 +4,9 @@ class: Assassin
 cssclass: 
 skilltree: Stabbomancer
 slevel: 0
+title: Alchemical Agent
 ---
+
 # Alchemical Agent
 > `$=const slevel = dv.current().slevel; dv.span(slevel);` / 3 Skill Points
 

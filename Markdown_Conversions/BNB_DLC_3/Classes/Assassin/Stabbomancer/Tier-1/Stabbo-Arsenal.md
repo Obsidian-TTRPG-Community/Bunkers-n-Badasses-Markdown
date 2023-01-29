@@ -4,13 +4,15 @@ class: Assassin
 cssclass: 
 skilltree: Stabbomancer
 slevel: 0
+title: Arsenal 
 ---
-# Arsenal 
+
+# Arsenal
 > `$=const slevel = dv.current().slevel; dv.span(slevel);` / 3
 
-+ `$=const slevel = dv.current().slevel; dv.span(slevel);` Gun Damage.
-+ `$=const slevel = dv.current().slevel; dv.span(slevel);` Grenade Damage.
-+ `$=const slevel = dv.current().slevel; dv.span(slevel);` Melee Damage.
+- `$=const slevel = dv.current().slevel; dv.span(slevel);` Gun Damage.
+- `$=const slevel = dv.current().slevel; dv.span(slevel);` Grenade Damage.
+- `$=const slevel = dv.current().slevel; dv.span(slevel);` Melee Damage.
 
 ```dataviewjs
 const {createButton} = app.plugins.plugins["buttons"];

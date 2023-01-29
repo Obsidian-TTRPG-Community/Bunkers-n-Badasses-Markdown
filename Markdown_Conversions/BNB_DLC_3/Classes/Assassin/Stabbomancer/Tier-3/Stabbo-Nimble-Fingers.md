@@ -4,7 +4,9 @@ class: Assassin
 cssclass: 
 skilltree: Stabbomancer
 slevel: 0
+title: Nimble Fingers
 ---
+
 # Nimble Fingers
 > `$=const slevel = dv.current().slevel; dv.span(slevel);` / 3 Skill Points
 

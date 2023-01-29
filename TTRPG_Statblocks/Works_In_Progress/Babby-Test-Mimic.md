@@ -1,4 +1,10 @@
+---
+alias: 
+cssclass: 
+title: Babby-Test-Mimic
+---
 
+# Babby-Test-Mimic
 ```statblock
 layout: Bunkers
 name: Babby Mimic

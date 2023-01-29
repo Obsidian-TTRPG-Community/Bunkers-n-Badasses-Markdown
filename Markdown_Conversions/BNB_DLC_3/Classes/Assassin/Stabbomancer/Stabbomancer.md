@@ -1,13 +1,13 @@
 ---
 alias: ["Assassin: Stabbomancer"]
 cssclass: bunkers
-tags: 
+tags:
 - BnB/Homebrew/Classes
 - BnB/PC/Classes/Assassin/Stabbomancer
+title: Stabbomancer
 ---
 
 # Stabbomancer
-
 > [!homebrew]
 > Warning: This page is a Homebrew class created for Bunkers and Badasses.
 
@@ -15,14 +15,16 @@ tags:
 ># `=this.skilltree` `=this.class`
 >![](_attachments/Stabbomancer.png)
 > ###### Class Features
-> | ___Type___ | ___Stat___ |
+>
+> | ***Type*** | ***Stat*** |
 > |:---|:---|
-> | __Melee Die__ | `=this.meleedie` |
-> | __ACC__ | +`=this.accuracy`|
-> | __DMG__ | +`=this.damage` |
-> | __SPD__ | +`=this.speed` |
-> | __MST__ | +`=this.mastery` |
-> | __Class Feat__ (_Optional Homebrew_) | `=this.classfeat` |
+> | **Melee Die** | `=this.meleedie` |
+> | **ACC** | +`=this.accuracy`|
+> | **DMG** | +`=this.damage` |
+> | **SPD** | +`=this.speed` |
+> | **MST** | +`=this.mastery` |
+> | **Class Feat** (*Optional Homebrew*) | `=this.classfeat` |
+>
 
 The Stabbomancers are a shadowy group of assassins who have mastered the art of Critical Hits and Status Effects. Hailing from various walks of life, these cunning individuals have united under a common goal: to strike from the shadows and take down their enemies with swift, precise strikes.
 
@@ -31,19 +33,16 @@ But the Stabbomancers are more than just skilled killers. Each member of this sh
 > [!excerpt] Back Stahb, Stabbomancer
 > Look, Stabbomancy isn't really its own school of magic—it's a way of thinking. Specifically, "How do I stab that guy?" Up close with a dagger in the dark? A well-aimed bullet from afar? Or even an ethereal psychic ghost sword? The thing is, Stabbomancers are all about creating, and capitalizing on, opportunities. Jacks of all trades, masters of none, the skillful Stabbomancer exploits foes' weaknesses to stealthily strike vital targets to bring enemies down before they know what hit them.
 
-
 Whether wielding guns, melee weapons, or magic spells, the Stabbomancers are a tactical force to be contended with. Though they may be fragile, their superior speed and agility allow them to evade damage and strike their foes with lightning-fast precision. They are masters of misdirection and surprise, using their stealth and cunning to exploit the weaknesses of their enemies.
 
 ## Action Skill
-**[Ghost Blade](../../../Abilities/Assassin/Ghost-Blade.md)**: Fire a spinning blade at a square you can see that deals `dice: 2d6` (2d6) _Melee_ __Damage__ to all enemies it passes through and all Targets adjacent to the chosen square for __2__ Turns.
-__(MST Mod per Day + 1/Encounter)__
+**[Ghost Blade](../../../Abilities/Assassin/Ghost-Blade.md)**: Fire a spinning blade at a square you can see that deals `dice: 2d6` (2d6) *Melee* **Damage** to all enemies it passes through and all Targets adjacent to the chosen square for **2** Turns.
+**(MST Mod per Day + 1/Encounter)**
 
 ## Skill Tree - Canvas
 ![](_attachments/Stabbo-Skill-Tree.canvas)
 
-
 ## Skill Tree - Table
-
 | Tier 1 Skills          |                                                                                                                                                           |
 | ---------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Arsenal                | +1 Gun Damage/SL. +1 Grenade Damage/SL. +1 Melee Damage/SL.                                                                                               |
@@ -72,7 +71,6 @@ __(MST Mod per Day + 1/Encounter)__
 | **Tier 6 Skills**      |                                                                                                                                                           |
 | Executioner’s Blade\*  | When you Crit, roll 1d20. On a 16+, deal +1 Melee Die of Bonus Damage.                                                                                    |
 
-
 >[!meta]- Class Inline Metadata
 > accuracy:: 0
 > classfeat:: [Dirty Fighting](../../../Class-Feats/Dirty-Fighting.md)
@@ -80,9 +78,9 @@ __(MST Mod per Day + 1/Encounter)__
 > filetype:: Skilltree
 > image:: [Stabbomancer.png](_attachments/Stabbomancer.png)
 > mastery:: 1
-> meleedie:: __1d8__
+> meleedie:: **1d8**
 > skilltree:: Stabbomancer
-> source:: __Homebrew__
+> source:: **Homebrew**
 > sourceurl:: [Scout's B&B DLC 3: Into the Wonderlands](https://docs.google.com/document/d/1MLOgrWwcLNTnP9PuXrKiLImy7SUh4hXO8arVUAlmdp0/edit)
 > speed:: 2
 > stats:: 0 ACC 1 DMG 2 SPD 1 MST

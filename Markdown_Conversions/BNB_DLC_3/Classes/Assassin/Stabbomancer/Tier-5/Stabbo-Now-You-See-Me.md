@@ -4,12 +4,13 @@ class: Assassin
 cssclass: 
 skilltree: Stabbomancer
 slevel: 0
+title: Now You See Me
 ---
+
 # Now You See Me
 > `$=const slevel = dv.current().slevel; dv.span(slevel);` / 1
 
-When you activate [Ghost Blade](../Ghost-Blade.md), _Cloak_ until you **Attack**, throw a **Grenade**, or **Ghost Blade** ends.
-
+When you activate [Ghost Blade](../Ghost-Blade.md), *Cloak* until you **Attack**, throw a **Grenade**, or **Ghost Blade** ends.
 
 ```dataviewjs
 const {createButton} = app.plugins.plugins["buttons"];

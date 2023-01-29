@@ -1,12 +1,15 @@
 ---
 alias: ["Swift"]
 cssclass: 
-tags: 
+tags:
 - BnB/Loot/Guilds/Swift
 - BnB/Homebrew/Guilds
+title: Swift
 ---
-## Swift
 
+# Swift
+
+## Swift
 >[!homebrew]
 > Warning: This content is a Homebrew created for Bunkers and Badasses.
 
@@ -22,7 +25,7 @@ The Swift guild is known for their expertise in crafting swords and other bladed
 | Legendary | Extra Melee Attack, Extra Melee Attack |
 
 ### Element Roll
-To choose an element, roll on the element table. 
+To choose an element, roll on the element table.
 
 ![](Elemental-Table.md#^bunkersElemental)
 

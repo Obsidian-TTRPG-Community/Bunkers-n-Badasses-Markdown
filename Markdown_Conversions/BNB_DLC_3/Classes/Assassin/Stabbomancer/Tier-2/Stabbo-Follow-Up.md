@@ -4,7 +4,9 @@ class: Assassin
 cssclass: 
 skilltree: Stabbomancer
 slevel: 0
+title: Follow-Up
 ---
+
 # Follow-Up
 > `$=const slevel = dv.current().slevel; dv.span(slevel);` / 3 Skill Points
 

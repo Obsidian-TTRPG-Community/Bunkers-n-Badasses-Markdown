@@ -1,11 +1,13 @@
 ---
-filetype: ActionSkill
 alias: [PhaseHarness]
 cssclass: 
+filetype: ActionSkill
 tags:
 - BnB/BunkerMaster/Homebrew
 - BnB/PC/Classes/Siren/Death/Abilities
+title: PhaseHarness
 ---
+
 # PhaseHarness
 *Requires*: [The Siren of Death](../The-Siren-of-Death.md)
 
@@ -19,6 +21,7 @@ Active Combat LE at 30: 25
 
 ## Abilities Powered by PhaseHarness
 >[!cards|dataview]
+>
 >```dataview
 >Table Without ID
 >	link(file.path, name) as Name,
@@ -28,7 +31,7 @@ Active Combat LE at 30: 25
 >WHERE contains(sirenaffinity, "Death")
 >SORT lifeenergy asc
 >```
-
+>
 
 >[!abstract]- Action Skill Inline Metadata
 > sourceurl:: Sigrunixia / LittleMaelstrom

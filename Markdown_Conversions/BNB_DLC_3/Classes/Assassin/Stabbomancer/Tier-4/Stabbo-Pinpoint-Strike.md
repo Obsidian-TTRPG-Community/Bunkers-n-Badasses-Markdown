@@ -4,7 +4,9 @@ class: Assassin
 cssclass: 
 skilltree: Stabbomancer
 slevel: 0
+title: Pinpoint Strike
 ---
+
 # Pinpoint Strike
 > `$=const slevel = dv.current().slevel; dv.span(slevel);` / 1
 

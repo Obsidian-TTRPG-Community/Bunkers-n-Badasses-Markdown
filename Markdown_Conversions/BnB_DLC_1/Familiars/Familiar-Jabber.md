@@ -1,4 +1,7 @@
 ---
-alias: [Familiar: Jabber]
+alias: ["Familiar: Jabber"]
 cssclass: 
+title: Familiar-Jabber
 ---
+
+# Familiar-Jabber

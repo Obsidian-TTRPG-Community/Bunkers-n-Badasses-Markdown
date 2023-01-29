@@ -1,12 +1,14 @@
 ---
-filetype: Skilltree
 alias: ["The Siren of Law"]
 cssclass: 
-tags: 
+filetype: Skilltree
+tags:
 - Bnb/Homebrew/Classes/Siren/Affinity/Law
 - BnB/PC/Classes/Siren/Law
 - BnB/Homebrew/WIP
+title: The Siren of Law
 ---
+
 # The Siren of Law
 
 | Holder         | Figurehead | Manifestation | Sphere  |
@@ -24,27 +26,25 @@ At the same time, however, the Siren of Law is also aware of the dangers of impo
 This title was last held by Commandant Steele until their passing, it was then consumed by the Siren of Death.
 
 ## Abilities of the Siren of Law
-### Action Skills
-```dataview
-table without ID
-link(file.path, alias) as Name,
-levelgained as Level
-from #BnB/PC/Classes/Siren/Law
-where contains(filetype, "ActionSkill")
-sort levelgained asc
-```
 
-[PhaseWhisper](ActionSkill/PhaseWhisper.md)
+### Action Skills
+**[PhaseWhisper](ActionSkill/PhaseWhisper.md)**
+The Siren of Law unleashes a sonic whisper that ripples through objects and briefly bends reality. They can move up to **2** squares, dealing `dice: 1d4`(**1d4**) shock damage and `dice: 1d4`(**1d4**) physical damage to each target in or adjacent to any square moved past.
+
+Phasewhisper has a `dice: 1d6`(**1d6**) potential to stun targets for one round if it lands on a **1-2**.
+
+- At level 8, this ability becomes becomes [PhaseTalk](PhaseTalk.md).
+
 [PhaseTalk](ActionSkill/PhaseTalk.md)
 [PhaseShout](ActionSkill/PhaseShout.md)
 [PhaseScream](ActionSkill/PhaseScream.md)
 
-
 ### Passive Skill
-**[My Universe, My Rules](PassiveSkill/My-Universe-My-Rules.md)**: The Siren of Law has a natural talent for persuasion and manipulation, and can use their charisma and powers of suggestion to influence the behavior of others, convincing them to follow the rules and laws that they deem necessary for maintaining order. This ability grants them a +10 bonus to all Talk Checks related to convincing others to follow laws and rules.
+**[My Universe, My Rules](PassiveSkill/My-Universe-My-Rules.md)**: The Siren of Law has a natural talent for persuasion and manipulation, and can use their charisma and powers of suggestion to influence the behavior of others, convincing them to follow the rules and laws that they deem necessary for maintaining order. 
 
-_**Limitation(s)**_: The laws and rules that the Siren of Law wishes to enforce must already be known and recognized by the community or society they are trying to govern. They cannot impose new laws or rules without formal notice of changes.
+This ability grants them a +10 bonus to all Talk Checks related to convincing others to follow laws and rules.
 
+***Limitation(s)***: The laws and rules that the Siren of Law wishes to enforce must already be known and recognized by the community or society they are trying to govern. They cannot impose new laws or rules without formal notice of changes.
 
 ## Affinity Feats
 
@@ -53,14 +53,10 @@ _**Limitation(s)**_: The laws and rules that the Siren of Law wishes to enforce 
 |           |           |              |
 
 ## Skill Tree - Still a WIP
+
 I have not decided much of this yet. This is just brainstorming.
 
 | Skill Name       | Description | Points |
 | ---------------- | ----------- | ------ |
 | ***Tier 3 Skills***                 |             |        |
 | **Judgment Day** | +2 DMG Mod against known criminals or enemies of the state. +1 to Insight Checks when identifying potential targets.           | 1 Point       |
-
-
-
-
-

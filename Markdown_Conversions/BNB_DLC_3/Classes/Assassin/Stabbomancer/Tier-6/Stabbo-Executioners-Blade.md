@@ -4,11 +4,13 @@ class: Assassin
 cssclass: 
 skilltree: Stabbomancer
 slevel: 0
+title: "Executioner's Blade"
 ---
+
 # Executioner's Blade
 > `$=const slevel = dv.current().slevel; dv.span(slevel);` / 1
 
-When you Crit, roll `dice: 1d20`(1d20). On a __16__ _+_, deal __+__ `$=const slevel = dv.current().slevel; dv.span(slevel);` MeleeDie of _Bonus_ Damage.
+When you Crit, roll `dice: 1d20`(1d20). On a **16** *+*, deal **+** `$=const slevel = dv.current().slevel; dv.span(slevel);` MeleeDie of *Bonus* Damage.
 
 ```dataviewjs
 const {createButton} = app.plugins.plugins["buttons"];

@@ -6,10 +6,11 @@ skilltree: Stabbomancer
 slevel: 0
 slevelmax: 1
 supgrade: 0
+title: Alchemical Agent
 ---
-# Alchemical Agent
 
-Each *Melee* __Attack__ gains __+__ `=this.slevel` *Melee* Die of a random *Element*.
+# Alchemical Agent
+Each *Melee* **Attack** gains **+** `=this.slevel` *Melee* Die of a random *Element*.
 
 | `dice: 1d6` | Element    | 1d6 | Element   |
 | ----------- | ---------- | --- | --------- |

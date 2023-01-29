@@ -1,12 +1,14 @@
 ---
-filetype: Skilltree
 alias: ["The Siren of Harmony"]
 cssclass: bunkers
-tags: 
+filetype: Skilltree
+tags:
 - Bnb/Homebrew/Classes/Siren/Affinity/Harmont
 - BnB/PC/Classes/Siren/Harmony
 - BnB/Homebrew/WIP
+title: The Siren of Harmony
 ---
+
 # The Siren of Harmony
 
 | Holder          | Figurehead | Manifestation | Sphere |
@@ -20,17 +22,11 @@ While she is generally peaceful, the Siren of Harmony is not afraid to take deci
 
 ### Lineage
 
-```mermaid
-a=Angel
-b=Patricia Tannis
-a->B
-```
 
 ## Abilities of the Siren of Harmony
-### Action Skill
 
+### Action Skill
 
 ### Passive Skill
 
-
-## Feats in the [Affinity of the Siren](../../The-Siren.md)
+## Affinity Feats

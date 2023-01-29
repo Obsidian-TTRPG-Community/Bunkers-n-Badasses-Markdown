@@ -6,7 +6,6 @@ title: Spellweaving
 ---
 
 # Spellweaving
-
 ***Requires:*** [Spellshot](../Classes/Siren/Spellshot.md)
 
 Tossing a Grenade or Reloading grants you a point of Spellweaving, up to 5, until the end of the Day.

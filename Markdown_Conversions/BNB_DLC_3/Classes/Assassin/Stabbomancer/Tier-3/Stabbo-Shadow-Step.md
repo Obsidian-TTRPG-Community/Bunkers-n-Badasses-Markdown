@@ -1,10 +1,12 @@
 ---
 alias: ["Stabbomancer Shadow Step"]
 class: Assassin
-cssclass:
+cssclass: 
 skilltree: Stabbomancer
 slevel: 0
+title: Shadow Step
 ---
+
 # Shadow Step
 > `$=const slevel = dv.current().slevel; dv.span(slevel);` / 1 Skill Point
 

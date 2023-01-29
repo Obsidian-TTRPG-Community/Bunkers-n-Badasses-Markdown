@@ -9,19 +9,19 @@ tags:
 - BnB/Homebrew/ActionSkills
 - BnB/PC/ActionSkills
 - BnB/ActionSkills/Commando/Gunner
+title: Iron Bear
 ---
 
 # Iron Bear
+**(MST Mod per Day +1/Encounter)**
 
-__(MST Mod per Day +1/Encounter)__
-
-Summon and drive your personal Mech/Vehicle, __Iron Bear__, for **2** turns. 
+Summon and drive your personal Mech/Vehicle, **Iron Bear**, for **2** turns.
 - While driving it:
-	- On your turn you can attack with each of its mounted weapons and perform a _Slam_ attack. 
-Only you can drive __Iron Bear__.
+	- On your turn you can attack with each of its mounted weapons and perform a *Slam* attack.
+Only you can drive **Iron Bear**.
 Iron Bear is destroyed if its armor is depleted.
-- If occupying the vehicle when it is destroyed, you will take no damage. 
+- If occupying the vehicle when it is destroyed, you will take no damage.
 
-( __NOTE__ : __Iron Bear uses the Vehicle rules found within this DLC Folder Group__.)
+( **NOTE** : **Iron Bear uses the Vehicle rules found within this DLC Folder Group**.)
 
 #directlinkDLC

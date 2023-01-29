@@ -6,11 +6,12 @@ skilltree: Stabbomancer
 slevel: 0
 slevelmax: 1
 supgrade: 0
+title: Pinpoint Strike
 ---
+
 # Pinpoint Strike
+Your first *Melee* **Attack** each Encounter is a Natural **20**.
 
-Your first *Melee* __Attack__ each Encounter is a Natural __20__.
-
-__+__ *`=this.slevel`* __ACC__.
+**+** *`=this.slevel`* **ACC**.
 
 `$= const value = Math.round((dv.current().slevel / dv.current().slevelmax) * 1); const output = "<progress style='margin: auto' value='" + value + "' max='1'></progress>"+ "\n" + "<i>" + value + "</i>" + "<b>" + " Skill Level" + "</b>" + (value === 1 ? "" : "<b>" + "s" + "</b>");output`

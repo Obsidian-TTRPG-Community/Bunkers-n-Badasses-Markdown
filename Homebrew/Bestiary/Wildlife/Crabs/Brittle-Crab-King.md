@@ -6,22 +6,22 @@ cssclass: bunkers
 hp: 30
 modifier: 
 statblock: true
-tags: 
+tags:
 - BnB/Bestiary/Wildlife/Crab/Brittle-Crab
 - BnB/Homebrew/Bestiary
+title: Brittle Crab King
 ---
-# Brittle Crab King
 
+# Brittle Crab King
 >[!tina]
 > As you continue on your journey with your newfound trusty axe, you come across a large, frantic land crab. As you approach, the crab screeches and attacks you with its sharp pincers and lightning-fast scuttling movements.
 
 > [!quest]
 > If spared from death in it's defeat, it may offer a quest to players to help find its beloved mate.
-> 
+>
 > See [The Queen of the Mellow Crustaceans](../../../Quests/Rescue/The-Queen-of-the-Mellow-Crustaceans.md)
 
 ## Statblock
-
 ```statblock
 layout: Bunkers
 source: Bunkers-Wildlife
@@ -71,8 +71,6 @@ In terms of appearance, the Brittle Crab King sports a hard, brown shell covered
 
 Normally not an overly aggressive species, the Brittle Crab King has recently been attacking anything that crosses its path as it searches frantically for its missing queen.
 
-
-
 >[!abstract]- Bestiary Inline Metadata
-> source:: __Bunkers-Wildlife__
+> source:: **Bunkers-Wildlife**
 

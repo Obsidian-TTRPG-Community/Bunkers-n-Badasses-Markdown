@@ -1,11 +1,13 @@
 ---
 alias: ["Brittle Crab"]
 cssclass: bunkers, wonderlands
-tags: 
+tags:
 - BnB/Bestiary/Wildlife/Crab/Brittle-Crab
 - BnB/Homebrew/Bestiary
+title: Brittle-Crab
 ---
 
+# Brittle-Crab
 ```statblock
 layout: Bunkers
 dice: true

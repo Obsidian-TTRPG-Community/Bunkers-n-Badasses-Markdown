@@ -6,7 +6,6 @@ title: Rage of the Ancients
 ---
 
 # Rage of the Ancients
-
 ***Requires:*** [Brr-Zerker](../Classes/Berserker/Brr-Zerker.md)
 
 After activating your Action Skill, become *Enraged* for 2 turns.

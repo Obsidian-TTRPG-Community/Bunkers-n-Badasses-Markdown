@@ -1,14 +1,16 @@
 ---
-filetype: SubSkill
 alias: ["Teleport Flicker"]
 cssclass: 
+filetype: SubSkill
 tags:
 - BnB/BunkerMaster/Homebrew
 - BnB/PC/Classes/Siren/Death/Abilities
+title: Teleport Flicker
 ---
+
 # Teleport Flicker
 *Requires*: [The Siren of Death](../The-Siren-of-Death.md)
-_05 Life Energy_
+*05 Life Energy*
 
 The Siren of Death instantly teleports herself up to 5 squares in any direction, allowing her to quickly move around the battlefield or escape danger.
 
@@ -16,6 +18,6 @@ The Siren of Death instantly teleports herself up to 5 squares in any direction,
 > actionclass:: Siren
 > actiontype:: Defense
 > description:: The Siren of Death instantly teleports herself up to 5 squares in any direction, allowing her to quickly move around the battlefield or escape danger.
-> lifeenergy:: _05 Life Energy_
+> lifeenergy:: *05 Life Energy*
 > sirenaffinity:: Death
 > sourceurl:: Sigrunixia / LittleMaelstrom

@@ -4,7 +4,9 @@ cssclass:
 filetype: Damage
 tags:
 - BnB/Homebrew/Rules/DamageType
+title: Eldritch Damage
 ---
+
 # Eldritch Damage
 Eldritch damage is a unique combination of various elemental damage types, including radiation, incendiary, and cryo.
 

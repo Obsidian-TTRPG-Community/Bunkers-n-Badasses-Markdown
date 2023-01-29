@@ -1,11 +1,12 @@
 ---
-alias: ["Matcha Latcha"]
+alias: ["Recipe: Matcha Latcha"]
 cssclass: 
 filetype: Article
-title: Matcha Latcha
+title: "Recipe: Matcha Latcha"
+tag: BnB/Homebrew/Lore
 ---
 
-# Matcha Latcha
+# Recipe: Matcha Latcha
 > [!abstract] [Creature Feature](../../../../Arbiters-of-Fate/Resort-Me/Creature%20Feature.md): Recipes and More…
 > Welcome to another transcribed version of week's edition of *Creature Feature: Recipes and More*… I'm your lovely, brilliantly shining unicorn host, Devvie Tells! This week in our recipe section, we have the famous Matcha Latcha, presented by its very creator, [Jrust](../../../../Arbiters-of-Fate/Locations/Wonderlands/Lightspire/Brighthoof/Glitteryards/The-Handsome-Hag/Jrust.md), owner and proprietor of Brighthoof's first and only lesbian bar [The Handsome Hag](../../../../Arbiters-of-Fate/Locations/Wonderlands/Lightspire/Brighthoof/Glitteryards/The-Handsome-Hag/The-Handsome-Hag.md). Take it away Lady Jrust.
 > \- Devvie Tells

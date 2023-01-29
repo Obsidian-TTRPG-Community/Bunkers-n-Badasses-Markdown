@@ -1,11 +1,15 @@
+---
+alias: 
+cssclass: 
+title: Bunkers & Badasses Statblock Layout for Obsidian TTRPG Plugin
+---
+
 # Bunkers & Badasses Statblock Layout for Obsidian TTRPG Plugin
 
-## What does it Looks Like?
-
+## What Does it Looks Like?
 ![BnB Layout Version 1](_attachments/BNB-V1.png)
 
 ## The Codeblock
-
 Note: `Layout: Bunkers` Must always remain in the codeblock for the CSS and Layout to work.
 
 ```yaml
@@ -50,17 +54,12 @@ loot:
 ```
 
 ### How to Install
-
 1. Download [Bunkers.json](_attachments/Bunkers.json) and import it into your Obsidian TTRPG Statblocks Plugin.
-
 2. Download [BnB-TTRPG-Statblock-Monsters](_attachments/BnB-TTRPG-Statblock-Monsters.css) and place into your `.obsidian/snippets` directory.
-
 3. Enable the snippet.
-
 4. Copy the codeblock above and surround with the ` ```statblock ` codeblock. Confirm you see a screenshot similar to above.
 
 ## How to Use: Movement
-
 The Movement property currently supports the following items:
 
 - move x
@@ -74,18 +73,15 @@ x equals the amount of squares the monster can move.
 
 You can use any of these and it will list them under the movement arrow, along with an icon indicating what type of movement and how many squares it will move. Do not use commas.
 
-_Hover can be treat the same as flight, or be utilized as a Trait._
+*Hover can be treat the same as flight, or be utilized as a Trait.*
 
 ## How to Use: Traits
-
 Traits currently will wrap text if you have a monster that has many traits. However, this can make your code-block very, very big and weird looking. If possible, try to make your custom traits a special or an action.
 
 ## How to Use: Loot
-
 The Loot section is intended only for the weird, obscure loot items you want to absolutely include on a monster in that bestiary at all times, typically bosses who drop a peculiar quest item. The is optional and if there is nothing entered in loot, the field disappears.
 
 ## Explanatory Codeblock
-
 ```yaml
 layout: Bunkers
 dice: true
@@ -128,5 +124,4 @@ loot:
   ```
 
 ## Explanatory Screenshot
-
-![Explanation in a Screenshot](_attachments/BNB-Explanation.png)  
+![Explanation in a Screenshot](_attachments/BNB-Explanation.png)

@@ -4,7 +4,9 @@ class: Assassin
 cssclass: 
 skilltree: Stabbomancer
 slevel: 0
+title: Inception
 ---
+
 # Inception
 > `$=const slevel = dv.current().slevel; dv.span(slevel);` / 3 Skill Points
 

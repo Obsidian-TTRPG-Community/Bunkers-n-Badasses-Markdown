@@ -2,23 +2,23 @@
 alias: ["Apprentice Barnacle Snapper"]
 cssclass: 
 tags: BnB/Homebrew/Backgrounds, BnB/PC/Backgrounds/Any
+title: Apprentice Barnacle Snapper
 ---
+
 # Apprentice Barnacle Snapper
 From the day you laid eyes on your first galleon, encrusted in sea warts from the pox'd kiss of the Umpteen Seas, it was your dream to someday wedge a chisel underneath those bad boys. It wasn't long before that dream became reality. You have a dockworker's brawn and a union paycheck, but now it's time for a new, less stupid dream.
 
 ## Background Traits
-__Ability Score Modifiers:__ Str +3; Int -6; Att +7
+**Ability Score Modifiers:** Str +3; Int -6; Att +7
 
 ## ?
 
 ### Feature
 A possible feature for this background could be an ability to detect the presence of magical creatures, including barnacles and snappers. This could be done through a special sense or even a limited form of magical divination. This would allow the character to find hidden creatures or areas of magical activity, giving them an edge when exploring unknown lands.
 
-
 ### Suggested Characteristics
 
 #### Personality Traits
-
 | d6 | `dice: 1d6` Personality Trait |
 | --- | --- |
 | 1 | Adventurous: Always looking for a new challenge and willing to take risks to get the job done. |
@@ -29,7 +29,6 @@ A possible feature for this background could be an ability to detect the presenc
 | 6 | Confident: Unafraid of failure, they are not scared of making mistakes as they strive towards their goals, knowing that from each setback comes knowledge and growth.|
 
 #### Ideals
-
 Generate six ideals on a rollable table for the background of the Apprentice Barnacle Snapper.  One for Any, one for Lawful, One for Neutral, One for Evil, One for Good, and one for Chaotic.
 
 | d6 | `dice: 1d6` Ideal |
@@ -42,7 +41,6 @@ Generate six ideals on a rollable table for the background of the Apprentice Bar
 | 6 |  (Chaotic) To live wild and free, taking whatever the ocean offers without thought or care for consequence.|
 
 #### Bonds
-
 | d6 | `dice: 1d6` Bond |
 | --- | --- |
 | 1 |  |
@@ -53,7 +51,6 @@ Generate six ideals on a rollable table for the background of the Apprentice Bar
 | 6 |  |
 
 #### Flaws
-
 | d6  | `dice: 1d6` Flaw |
 | --- | ---------------- |
 | 1   |                  |

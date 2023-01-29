@@ -1,18 +1,19 @@
 ---
-filetype: Archetype
-class: Siren
 alias: ["Affinity of the Siren"]
+class: Siren
 cssclass: 
+filetype: Archetype
 tags: BnB/Homebrew/Archetype
+title: Affinity of the Siren
 ---
+
 # Affinity of the Siren
 > Technically its an Archetype but its a Siren-only Archetype so here it belongs!
 
-You were chosen, ambitious, or perhaps unlucky. Whatever the reason, you are a Siren. Yet a Siren is not just about flashing tattoos and looking like a tribal psycho's bride, though that could be described as a perk, it is so much more. You are a manifestation of ideals, of nature, of elements. And guess what dearie? Today is the day you've just hit Siren puberty so buckle up, because its going to get ugly. 
+You were chosen, ambitious, or perhaps unlucky. Whatever the reason, you are a Siren. Yet a Siren is not just about flashing tattoos and looking like a tribal psycho's bride, though that could be described as a perk, it is so much more. You are a manifestation of ideals, of nature, of elements. And guess what dearie? Today is the day you've just hit Siren puberty so buckle up, because its going to get ugly.
 
 ## Pick an Affinity
-
-There can only be one of each affinity at any time. Affinities are very personal, destructive if known, and must be kept secret from other players, especially other Siren's who have reached their Affinity. 
+There can only be one of each affinity at any time. Affinities are very personal, destructive if known, and must be kept secret from other players, especially other Siren's who have reached their Affinity.
 
 The player must pick the affinity by their figurehead name after the Bunker Master has ensured any unavailable Affinity has been removed.
 
@@ -22,37 +23,30 @@ The player must pick the affinity by their figurehead name after the Bunker Mast
 | War        | Chaos   | DMG      |    SPD            |
 | Angel      | Order   | ACC      |   DMG             |
 
+The **Primary Stat** also controls the **Siren Mod** for Siren-Specific Abilities and additional Elemental Rolls.
 
-The **Primary Stat** also controls the **Siren Mod** for Siren-Specific Abilities and additional Elemental Rolls. 
-
-The **Secondary Stat** controls the **Affinity Mod** which will be utilized to change or boost certain effects. An ability on a gun rolled with an Affinity Mod will act differently than one rolled with a Siren Mod. 
+The **Secondary Stat** controls the **Affinity Mod** which will be utilized to change or boost certain effects. An ability on a gun rolled with an Affinity Mod will act differently than one rolled with a Siren Mod.
 
 The details of these effects will be listed where available the Affinity Mod is available.
 
-
 ## The Siren's Starting Stats
 You are allotted 7 points from your Archetype at level 1.
-You may reroll each column once. 
+You may reroll each column once.
 
 ### Chaos
-
 | ACC         | DMG         | SPD         | MST       | Siren Mod | Affinity Mod |
 | ----------- | ----------- | ----------- | --------- | --------- | ------------ |
 | `dice: 1d1` | `dice: 1d3` | `dice: 1d3` | Remainder | DMG       | SPD             |
 
-
 ### Balance
-
 | ACC       | DMG         | SPD         | MST         | Siren Mod | Affinity Mod |
 | --------- | ----------- | ----------- | ----------- | --------- | ------------ |
 | Remainder | `dice: 1d3` | `dice: 1d1` | `dice: 1d3` | MST       |  DMG            |
 
 ### Order
-
 | ACC         | DMG         | SPD       | MST         | Siren Mod | Affinity Mod |
 | ----------- | ----------- | --------- | ----------- | --------- | ------------ |
 | `dice: 1d3` | `dice: 1d3` | Remainder | `dice: 1d1` | ACC       |  DMG            |
-
 
 ### Prestige Mode
 If you are already leveled within the campaign and are "prestiging" into a new Archetype then follow this formula instead.
@@ -65,9 +59,8 @@ If you are already leveled within the campaign and are "prestiging" into a new A
 
 If not dealing with whole, dividable numbers, round up or down as needed in the Tertiary and Remainder Stats
 
-
 ## The Siren Progression Tree
-| __Level__ | __XP Per Segment__ | __Rewards__                                         |
+| **Level** | **XP Per Segment** | **Rewards**                                         |
 | --------- | ------------------ | --------------------------------------------------- |
 | 1         | 100                | 1 Skill Point, +1 Siren Feat or Affinity Feat          |
 | 2         | 100                | 1 Skill Point, +Health, +1 Primary Stat                  |
@@ -100,20 +93,19 @@ If not dealing with whole, dividable numbers, round up or down as needed in the 
 | 29        | 650                | 1 Skill Point, +Health, +1 Primary                  |
 | 30        | 650                | 1 Skill Point, +Health, +1 Siren Feat or Affinity Feat |
 
-
-
 ## Siren Feats
-Unlike a normal archetype tree of feats, your abilities are varied, and thus you must be varied. Feats are grouped by what they do, and if they have any interlinking requirements. 
+Unlike a normal archetype tree of feats, your abilities are varied, and thus you must be varied. Feats are grouped by what they do, and if they have any interlinking requirements.
 
-Rather nab an Affinity Feat? Check your Skill Tree Page Instead. 
+Rather nab an Affinity Feat? Check your Skill Tree Page Instead.
 
 ### Elemental Feats
-| Feat Name           | Feat Description                                                                                                                                                                                                                 | Requirements                 |     |
-| ------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------- | --- |
-| Elemental Aura      | Choose an element type. Gain a pulsing aura equal to `dice: 1d4` damage of that type with a range of **1** square. This damage affects allies, objects, and enemies within the range of the aura.                                |                              |     |
-| Elemental Fusion    | When using an elemental gun, you may choose to apply an additional singular Element type to your damage. This damage will be equal to **1/2** the elemental gun's *primary element* damage.                                      | *Elemental Aura, Level 6*    |     |
-| Elemental Decay     | Whenever you deal elemental damage, the target also takes `dice: 1d4` + **Primary Stat Mod** damage of that element type at the start of their next turn for the next **2** turns.                                               | *Elemental Fusion, Level 10* |     |
-| Eldritch Invocation | Whenever you deal elemental damage, the target also takes `dice: 1d6` *[Eldritch Damage](../Glossary/Eldritch-Damage.md)* at the start of their next turn for the next **3** turns. This effect stacks with each hit, up to a maximum of 6d6. | *Elemental Decay, Level 16*  |     |
+| Feat Name           | Feat Description                                                                                                                                                                                                                              | Requirements                 |
+| ------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------- |
+| Elemental Aura      | Choose an element type. Gain a pulsing aura equal to `dice: 1d4` damage of that type with a range of **1** square. This damage affects allies, objects, and enemies within the range of the aura.                                             |                              |
+| Elemental Fusion    | When using an elemental gun, you may choose to apply an additional singular Element type to your damage. This damage will be equal to **1/2** the elemental gun's *primary element* damage.                                                   | *Elemental Aura, Level 6*    |
+| Elemental Decay     | Whenever you deal elemental damage, the target also takes `dice: 1d4` + **Primary Stat Mod** damage of that element type at the start of their next turn for the next **2** turns.                                                            | *Elemental Fusion, Level 10* |
+| Eldritch Invocation | Whenever you deal elemental damage, the target also takes `dice: 1d6` *[Eldritch Damage](../Glossary/Eldritch-Damage.md)* at the start of their next turn for the next **3** turns. This effect stacks with each hit, up to a maximum of 6d6. | *Elemental Decay, Level 16*  |
+
 ^bunkersTheSirenElementalFeats
 
 ### Check Feats
@@ -130,5 +122,6 @@ Rather nab an Affinity Feat? Check your Skill Tree Page Instead.
 | Master of Disguise  | +2 on all Sneak Checks when in disguise. Stacks with *Silent, but Deadly.*                                                                                             | Lvl 15+                        |
 | Element of Surprise | +3 DMG Mod on your next Action Skill when you make a successful Sneak Check.                                                                                           | Lvl 20+, *Master of Disguise*  |
 | Leader of the Gang  | Adjacent allies within two squares gain +1 DMG Mod on all their attacks, including unintentional attacks.                                                              | Lvl 25+, *Element of Surprise* |
+
 ^bunkersTheSirenCheckFeats
 

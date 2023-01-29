@@ -10,12 +10,12 @@ modifier: 3
 name: StabboMan
 statblock: true
 statblock-link: "#^statblock"
+title: Testing Mini Class Statblock
 ---
 
 # Testing Mini Class Statblock
 
 # Statblock
-
 ```statblock
 layout: Class
 name: StabboMan Actives

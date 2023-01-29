@@ -7,10 +7,10 @@ cssclass:
 health: 10
 move: "move 5"
 skilltree: Beastmaster
+title: Spiderant Familiar
 ---
 
 # Spiderant Familiar
-
 ```statblock
 layout: BunkersFamiliars
 source: Bunkers-Familiars

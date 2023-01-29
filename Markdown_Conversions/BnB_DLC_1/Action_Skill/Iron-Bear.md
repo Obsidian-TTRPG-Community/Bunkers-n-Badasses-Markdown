@@ -4,7 +4,6 @@ class: Commando
 cssclass: 
 skilltree: Gunner
 source: Homebrew
-sourceurl: https://docs.google.com/document/d/1mjXpoVLi-NuoOolvlEiYb9cNrDb_v0MtbY8qv0hTrJw/
 tags:
 - BnB/Homebrew/ActionSkills
 - BnB/PC/ActionSkills
@@ -13,6 +12,7 @@ title: Iron Bear
 ---
 
 # Iron Bear
+
 **(MST Mod per Day +1/Encounter)**
 
 Summon and drive your personal Mech/Vehicle, **Iron Bear**, for **2** turns.
@@ -24,4 +24,6 @@ Iron Bear is destroyed if its armor is depleted.
 
 ( **NOTE** : **Iron Bear uses the Vehicle rules found within this DLC Folder Group**.)
 
-#directlinkDLC
+
+>[!abstract]- Action Skill Inline Metadata
+> sourceurl:: [Scout's B&B DLC 1](https://docs.google.com/document/d/1mjXpoVLi-NuoOolvlEiYb9cNrDb_v0MtbY8qv0hTrJw/)

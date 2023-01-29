@@ -8,7 +8,6 @@ title: Grenades-Into-The-Wonderlands
 
 # Grenades-Into-The-Wonderlands
 
-## Grenades: Into the Wonderlands
 >[!homebrew]
 > Warning: This content is a Homebrew created for Bunkers and Badasses.
 
@@ -17,9 +16,16 @@ Since Spells are so in-depth, it’d feel pretty bad if you were forced to compa
 ## Generating a Grenade
 
 ### Rarity
+
 Roll on the Gun Rarity table.
 
-![](Rarity-Table.md#^bunkersRarity)
+| `dice: 1d4` Roll | 1                       | 2                     | 3                     | 4                       | 5                        | 6                        |
+| ------- | ----------------------- | --------------------- | --------------------- | ----------------------- | ------------------------ | ------------------------ |
+| 1       | Common                  | Common (Element Roll) | Common (Element Roll) | Uncommon                | Uncommon (Element Roll)  | Rare                     |
+| 2       | Common                  | Common (Element Roll) | Uncommon              | Uncommon (Element Roll) | Rare (Element Roll)      | Epic                     |
+| 3       | Uncommon (Element Roll) |  Rare                     |   Rare (Element Roll)                    | Epic                    | Epic (Element Roll)      | Legendary (Element Roll) |
+| 4       | Rare (Element Roll)     | Rare (Element Roll)   | Epic (Element Roll)   | Epic    (Element Roll)  | Legendary (Element Roll) | Legendary (Element Roll) |
+^bunkersRarity
 
 ### Manufacturer
 Then roll 1d8 for a Manufacturer and 1d4 for type. It’s worth noting that any grenade can be Elemental, not just “Elemental” grenades.
@@ -36,8 +42,10 @@ Then roll 1d8 for a Manufacturer and 1d4 for type. It’s worth noting that any 
 | 6   | Pangoblin  | Rubberized      | Force           |
 | 7   | Stoker     | Rain            | Proximity Mine  |
 | 8   | Torgue     | Splash          | Mirv            |
+^bunkersGrenadeManufacturer
 
 ### Types
+
 | Type | Effect |
 |---|---|
 | Transfusion | Gain Health equal to Damage dealt. |
@@ -56,10 +64,10 @@ Then roll 1d8 for a Manufacturer and 1d4 for type. It’s worth noting that any 
 | Proximity Mine | Won’t detonate until target is adjacent. |
 | Splash | Splash deals full Damage. |
 | MIRV | Splits into 3 grenades. |
-
 ^bunkersAltGrenadetype
 
 ### Bonus Damage by Rarity
+
 | Bonus Damage By Rarity | Common | Uncommon | Rare | Epic | Legendary |
 |---|---|---|---|---|---|
 | Lv 1-6 | +1 | +2 | +3 | +4 | +5 |
@@ -67,10 +75,10 @@ Then roll 1d8 for a Manufacturer and 1d4 for type. It’s worth noting that any 
 | Lv 13-18 | +3 | +6 | +9 | +12 | +15 |
 | Lv 19-24 | +4 | +8 | +12 | +16 | +20 |
 | Lv 25-30 | +5 | +10 | +15 | +20 | +25 |
-
 ^bunkersAltGrenadeDMGBonus
 
 ### Grenade Damage by Level
+
 | Level | Trans | Homing | Generator | Bouncing Bettie | Jumping | Sticky | Longbow | Roider |
 |---|---|---|---|---|---|---|---|---|
 | 1-6 | 1d8 | 1d8 | 1d8 | 1d8 | 1d8 | 1d8 | 1d8 | 1d10 |
@@ -84,7 +92,6 @@ Then roll 1d8 for a Manufacturer and 1d4 for type. It’s worth noting that any 
 | 13-18 | 3d6 | 3d8 | 3d8 | 3d8 | 3d8 | 3d8 | 3d8 | 3d8 |
 | 19-24 | 4d6 | 4d8 | 4d8 | 4d8 | 4d8 | 4d8 | 4d8 | 4d8 |
 | 25-30 | 5d6 | 5d8 | 5d8 | 5d8 | 5d8 | 5d8 | 5d8 | 5d8 |
-
 ^bunkersAltGrenadeDMGLevel
 
 > [!abstract]- Note Metadata

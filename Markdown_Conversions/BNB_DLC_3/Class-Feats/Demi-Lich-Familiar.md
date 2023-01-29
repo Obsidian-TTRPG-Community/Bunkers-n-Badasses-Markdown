@@ -13,5 +13,9 @@ An arcane Demi-Lich Familiar floats around you and will automatically Melee Atta
 
 If it dies, it respawns at the end of the encounter.
 
-> [!meta]- Feat Inline Metadata
+**HP**: 30
+
+
+
+> [!abstract]- Feat Inline Metadata
 > sourceurl:: [Scout's B&B DLC 3: Into the Wonderlands](https://docs.google.com/document/d/1MLOgrWwcLNTnP9PuXrKiLImy7SUh4hXO8arVUAlmdp0/edit)

@@ -1,12 +1,15 @@
 ---
 alias: ["Raised by Elves"]
+class: Any
 cssclass: 
 tags: BnB/Homebrew/Backgrounds, BnB/PC/Backgrounds/Any
-title: Background Traits
+title: Raised by Elves
 ---
+
+# Raised by Elves
+
 You really don't like bringing it up, but you grew up in an Elven commune. A steady diet of uncooked leaves and tree sap has left you light on your feet but scrawny. Also, if you have to hear one more harp solo in your life, you're gonna lose your gourd.
 
-# Background Traits
 **Ability Score Modifiers:** Dex +4; Con -4; Cha/Att +2
 **Skill Proficiencies:** ?, ?
 **Tool Proficiencies:** None
@@ -19,6 +22,7 @@ You really don't like bringing it up, but you grew up in an Elven commune. A ste
 ## Suggested Characteristics
 
 ### Personality Traits
+
 | d6 | `dice: 1d6` Personality Trait |
 | --- | --- |
 | 1 |  |
@@ -29,6 +33,7 @@ You really don't like bringing it up, but you grew up in an Elven commune. A ste
 | 6 |  |
 
 ### Ideals
+
 | d6 | `dice: 1d6` Ideal |
 | --- | --- |
 | 1 | (Any) |
@@ -39,6 +44,7 @@ You really don't like bringing it up, but you grew up in an Elven commune. A ste
 | 6 |  (Chaotic) |
 
 ### Bonds
+
 | d6 | `dice: 1d6` Bond |
 | --- | --- |
 | 1 |  |
@@ -49,6 +55,7 @@ You really don't like bringing it up, but you grew up in an Elven commune. A ste
 | 6 |  |
 
 ### Flaws
+
 | d6  | `dice: 1d6` Flaw |
 | --- | ---------------- |
 | 1   |                  |

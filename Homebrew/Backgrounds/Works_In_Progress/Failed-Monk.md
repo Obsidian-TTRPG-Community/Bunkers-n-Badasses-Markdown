@@ -1,12 +1,23 @@
 ---
 alias: ["Failed Monk"]
 cssclass: 
-tags: BnB/Homebrew/Backgrounds, BnB/PC/Backgrounds/Any
-title: Background Traits
+class: Any
+tags: 
+- BnB/Homebrew/Backgrounds
+- BnB/PC/Backgrounds/Any
+title: Failed Monk
 ---
+
+# Failed Monk
+
+## BnB Stuff
+
+## Old In Progress DnD Stuff
+
 A powerful calling led you to leave your life behind and travel to a mountain monastery, where you could learn ancient teachings and contemplate the meaning of all things in peace. Then you emptied a chamber pot out the window and hit the head monk mid-yawn. Fearing that vows of nonviolence can only extend so far, you fled in the night, seeking another calling.
 
-# Background Traits
+## Background Traits
+
 **Ability Score Modifiers:** Str -4; Dex -2; Int +3; Wis +6
 **Skill Proficiencies:** ?, ?
 **Tool Proficiencies:** None
@@ -19,6 +30,7 @@ A powerful calling led you to leave your life behind and travel to a mountain mo
 ## Suggested Characteristics
 
 ### Personality Traits
+
 | d6 | `dice: 1d6` Personality Trait |
 | --- | --- |
 | 1 |  |
@@ -29,6 +41,7 @@ A powerful calling led you to leave your life behind and travel to a mountain mo
 | 6 |  |
 
 ### Ideals
+
 | d6 | `dice: 1d6` Ideal |
 | --- | --- |
 | 1 | (Any) |
@@ -39,6 +52,7 @@ A powerful calling led you to leave your life behind and travel to a mountain mo
 | 6 |  (Chaotic) |
 
 ### Bonds
+
 | d6 | `dice: 1d6` Bond |
 | --- | --- |
 | 1 |  |
@@ -49,6 +63,7 @@ A powerful calling led you to leave your life behind and travel to a mountain mo
 | 6 |  |
 
 ### Flaws
+
 | d6  | `dice: 1d6` Flaw |
 | --- | ---------------- |
 | 1   |                  |

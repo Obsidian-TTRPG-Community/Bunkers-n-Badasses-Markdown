@@ -1,12 +1,17 @@
 ---
 alias: ["Recovering Inventory Hoarder"]
+class: Any
 cssclass: 
 tags: BnB/Homebrew/Backgrounds, BnB/PC/Backgrounds/Any
-title: Background Traits
+title: Recovering Inventory Hoarder
 ---
+
+# Recovering Inventory Hoarder
+
 You once scrambled across your fantastical world, stuffing your pockets with every last candlestick and wheel of cheese you could sweep off the shelves. You've sworn off junk, but now your eye turns toward implements of destruction and their gleaming loot beams.
 
-# Background Traits
+## Background Traits
+
 **Ability Score Modifiers:** Dex -2; Int+2; Con -2; Cha/Att +5
 **Skill Proficiencies:** ?, ?
 **Tool Proficiencies:** None
@@ -19,6 +24,7 @@ You once scrambled across your fantastical world, stuffing your pockets with eve
 ## Suggested Characteristics
 
 ### Personality Traits
+
 | d6 | `dice: 1d6` Personality Trait |
 | --- | --- |
 | 1 |  |
@@ -29,6 +35,7 @@ You once scrambled across your fantastical world, stuffing your pockets with eve
 | 6 |  |
 
 ### Ideals
+
 | d6 | `dice: 1d6` Ideal |
 | --- | --- |
 | 1 | (Any) |
@@ -39,6 +46,7 @@ You once scrambled across your fantastical world, stuffing your pockets with eve
 | 6 |  (Chaotic) |
 
 ### Bonds
+
 | d6 | `dice: 1d6` Bond |
 | --- | --- |
 | 1 |  |
@@ -49,6 +57,7 @@ You once scrambled across your fantastical world, stuffing your pockets with eve
 | 6 |  |
 
 ### Flaws
+
 | d6  | `dice: 1d6` Flaw |
 | --- | ---------------- |
 | 1   |                  |

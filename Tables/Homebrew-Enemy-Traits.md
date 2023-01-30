@@ -10,8 +10,7 @@ title: Homebrew Enemy Traits
 
 # Homebrew Enemy Traits
 
-These can be used for NPC's, Enemies, Badasses, Superbadasses, and Bosses alike. These were in my playtested and approved folder, so assume they have *some* value. You may still need to adjust them for your table. 
-
+These can be used for NPC's, Enemies, Badasses, Superbadasses, and Bosses alike. These were in my playtested and approved folder, so assume they have *some* value. You may still need to adjust them for your table.
 
 | `dice: 1d20` | **Homebrew Enemy Traits**                                                                                       |
 | ------------ | --------------------------------------------------------------------------------------------------------------- |
@@ -36,4 +35,3 @@ These can be used for NPC's, Enemies, Badasses, Superbadasses, and Bosses alike.
 | 19           | **LEVIATHAN**: Can attack all adjacent squares with its melee attack, and has increased health.                              |
 | 20             |  **CURSED REGENERATION**: This cursed creature can regenerate lost limbs, but each time it does so, it loses one base stat point or a badass token. The GM chooses the outcome.                                                                                                             |
 ^bunkersHomebrewEnemyTraits1
-

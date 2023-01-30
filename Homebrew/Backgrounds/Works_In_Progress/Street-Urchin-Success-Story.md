@@ -10,7 +10,9 @@ title: Street Urchin Success Story
 
 # Street Urchin Success Story
 
-It's the oldest story in the book. You and your filthy crew of pickpockets, and thieves had found yourselves one last job - the Big One. Something stank about it - worse than you - but you were just malnourished and desperate enough to try it. We all know what happened next; it went pretty well. You all made a comfortable amount of money and moved out to the suburbs. Sometimes you write letters to each other, but it's been a while.
+It's the oldest story in the book. You and your filthy crew of pickpockets, and thieves had found yourselves one last job - the Big One. Something stank about it - worse than you - but you were just malnourished and desperate enough to try it.
+
+We all know what happened next; it went pretty well. You all made a comfortable amount of money and moved out to the suburbs. Sometimes you write letters to each other, but it's been a while.
 
 ## Background Traits
 

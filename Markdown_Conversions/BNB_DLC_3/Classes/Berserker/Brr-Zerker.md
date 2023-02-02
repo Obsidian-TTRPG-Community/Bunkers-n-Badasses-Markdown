@@ -1,14 +1,13 @@
 ---
 alias: ["Berserker: Brr-Zerker"]
 cssclass: bunkers
-tags: BnB/Homebrew/Classes, BnB/PC/Classes/Assassin/Brr-Zerker
+tags:
+- BnB/Homebrew/Classes
+- BnB/PC/Classes/Berserker/Brr-Zerker
 title: Brr-Zerker
 ---
 
 # Brr-Zerker
-
->[!homebrew]
-> **Warning**: This page is a Homebrew class of Tiny Tina Wonderlands' Brr-Zerker.
 
 >[!infobox|right]
 >## `=this.skilltree` `=this.class`
@@ -68,8 +67,9 @@ But beware, for the Brr-Zerker is not to be underestimated. They are bound to sp
 | Blood of the Fallen\* | When you kill a Target, you may activate Feral Surge for free. +2 MST. |
 ^bunkersBrrZerkerTree
 
->[!meta]- Class Inline Metadata
+>[!danger]- Berserker Inline Metadata
 > accuracy:: 0
+> actionskill:: [feral Surge](../../Abilities/Berserker/Feral-Surge.md)
 > classfeat:: [Rage of the Ancients](../../Class-Feats/Rage-of-the-Ancients.md)
 > damage:: 2
 > image:: [Brr-Zerker.png](_attachments/Brr-Zerker.png)

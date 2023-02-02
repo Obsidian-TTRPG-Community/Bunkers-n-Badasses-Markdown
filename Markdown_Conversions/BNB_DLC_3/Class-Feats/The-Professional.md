@@ -6,7 +6,7 @@ title: The Professional
 ---
 
 # The Professional
-***Requires:*** [Mercenary](../../../../60-Wyrmscriber/Gamemaster/Mechanics/Classes/Assassin/Mercenary.md)
+***Requires:*** [Mercenary](../../../../77-Bunkers-n-Badasses-Sourcebook/Chapter-01-Creating-A-Vault-Hunter/Choosing-A-Class/Assassin/Mercenary.md)
 Choose a Skill.
 When you make a Skill Check for that Skill and roll an 8 or lower on the d20, treat the result as a 9 instead.
 

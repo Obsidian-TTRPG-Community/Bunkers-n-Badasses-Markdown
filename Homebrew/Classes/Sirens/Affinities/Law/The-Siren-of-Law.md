@@ -33,14 +33,14 @@ The Siren of Law unleashes a sonic whisper that ripples through objects and brie
 
 Phasewhisper has a `dice: 1d6`(**1d6**) potential to stun targets for one round if it lands on a **1-2**.
 
-- At level 8, this ability becomes becomes [PhaseTalk](PhaseTalk.md).
+- At level 8, this ability becomes becomes [PhaseTalk](ActionSkill/PhaseTalk.md).
 
 **[PhaseTalk](ActionSkill/PhaseTalk.md)**
 The Siren of Law unleashes a sonic shout that echoes through objects and briefly disrupts reality. They can move up to **3** squares, dealing `dice: 1d8`(**1d8**) shock damage and `dice: 1d8`(**1d8**) physical damage to each target in or adjacent to any square moved past.
 
 Phasetalk has a `dice: 1d8`(**1d8**) potential to stun targets for one round if it lands on a **1-4**.
 
-- At level 16, this ability becomes [PhaseShout](PhaseShout.md)
+- At level 16, this ability becomes [PhaseShout](ActionSkill/PhaseShout.md)
 
 
 **[PhaseShout](ActionSkill/PhaseShout.md)**

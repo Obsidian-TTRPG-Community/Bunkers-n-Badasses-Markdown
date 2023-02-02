@@ -60,7 +60,7 @@ If the player decides they want to seek out Ribula again, begin next quest.
 > Raising dead dragons is the pinnacle of any necromancers power. However, to learn that ability can be hard for the living indeed. It requires undeniable proof of putting the needs of the undead above the needs of the living. And currently the only one who can teach any tenacious living necromancer to raise undead of this magnitude is the Dragon Lord. Like the dragon that he represents, he guards his secrets carefully.
 >
 > **Objectives**
-> - [ ] Betray the [Diamondguard](../../../../Arbiters-of-Fate/Resort-Me/Diamondguard.md). This may be done in secret
+> - [ ] Betray the [Diamondguard](../../../../60-Wyrmscriber/0-Courier/Resort-Me/Diamondguard.md). This may be done in secret
 > - [ ] Assist the [Undead](../../../../30-Sathe-Shuna/01-ObsidianTTRPGShare/TTRPGShare_Community_Vaults/Pathfinder_2E/Traits/Undead.md) or [Skeleton Army](../../../../60-Wyrmscriber/Gamemaster/Mechanics/Guilds-And-Groups/Skeleton-Army.md) in destroying six Humanoid settlements
 > - [ ] Fortify six undead settlements by raising additional undead; at least ten per settlement of BR 10 or higher.
 > - [ ] Kill [Peter Fill](Peter%20Fill), the Archbishop of Rainbow's Blossom, quietly

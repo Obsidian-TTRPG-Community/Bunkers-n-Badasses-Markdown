@@ -6,7 +6,7 @@ title: Dirty Fighting
 ---
 
 # Dirty Fighting
-***Requires:*** [Stabbomancer](../../../../60-Wyrmscriber/Gamemaster/Mechanics/Classes/Assassin/Stabbomancer/Stabbomancer.md)
+***Requires:*** [Stabbomancer](../../../../77-Bunkers-n-Badasses-Sourcebook/Chapter-01-Creating-A-Vault-Hunter/Choosing-A-Class/Assassin/Stabbomancer/Stabbomancer.md)
 Add a Crit Die to the 2-7 Accuracy Range for all Favored Weapons.
 
 > [!meta]- Feat Inline Metadata

@@ -33,5 +33,4 @@ title: Beastmaster Skill Tree
 | Who Rescued Who?\* | On Familiar Damage, gain **1d6** Health. Gun Damage heals Familiar for half the damage. |
 | **Tier 6 Skills** | **Description** |
 | The Power Inside\* | You and your Familiar deal **+2d8** extra Damage while **Gamma Burst** is active. While you are at full Health, this bonus increases to **+4d8** for the both of you. |
-
 ^bunkersdlc1beastmaster

@@ -7,8 +7,8 @@ tag: BnB/Homebrew/Lore
 ---
 
 # Recipe: Matcha Latcha
-> [!abstract] [Creature Feature](../../../../Arbiters-of-Fate/Resort-Me/Creature%20Feature.md): Recipes and More…
-> Welcome to another transcribed version of week's edition of *Creature Feature: Recipes and More*… I'm your lovely, brilliantly shining unicorn host, Devvie Tells! This week in our recipe section, we have the famous Matcha Latcha, presented by its very creator, [Jrust](../../../../Arbiters-of-Fate/Locations/Wonderlands/Lightspire/Brighthoof/Glitteryards/The-Handsome-Hag/Jrust.md), owner and proprietor of Brighthoof's first and only lesbian bar [The Handsome Hag](../../../../Arbiters-of-Fate/Locations/Wonderlands/Lightspire/Brighthoof/Glitteryards/The-Handsome-Hag/The-Handsome-Hag.md). Take it away Lady Jrust.
+> [!abstract] [Creature Feature](../../../../60-Wyrmscriber/0-Courier/Resort-Me/Creature%20Feature.md): Recipes and More…
+> Welcome to another transcribed version of week's edition of *Creature Feature: Recipes and More*… I'm your lovely, brilliantly shining unicorn host, Devvie Tells! This week in our recipe section, we have the famous Matcha Latcha, presented by its very creator, [Jrust](../../../../60-Wyrmscriber/0-Courier/Locations/Wonderlands/Lightspire/Brighthoof/Glitteryards/The-Handsome-Hag/Jrust.md), owner and proprietor of Brighthoof's first and only lesbian bar [The Handsome Hag](../../../../60-Wyrmscriber/0-Courier/Locations/Wonderlands/Lightspire/Brighthoof/Glitteryards/The-Handsome-Hag/The-Handsome-Hag.md). Take it away Lady Jrust.
 > \- Devvie Tells
 
 >[!quote] Thank you Devvie. I'm sure your readers are acquainted with the dual purpose concoction of Matcha Latcha: an edible skin or scale paste. Today, I've decided to reveal the recipe for those brave enough to make it at home. Let's begin.
@@ -19,7 +19,7 @@ tag: BnB/Homebrew/Lore
 - Three Fresh [GOB-lin](../../../../60-Wyrmscriber/Gamemaster/Mechanics/Bestiary/Goblinoids/Gob-Lins/Gob-Lins.md) Bouncing Beans from unwilling donors, mashed.
 > [!quote] **Note**: *Pickled and Dried GOB-Lin Bouncing Beans will produce hallucinogenic effects, and may be considered a poison. I and the Handsome Hag are not liable for any resulting deaths as the result of any misapplication of the recipe.*
 - Two [Troll](../../../../60-Wyrmscriber/Gamemaster/Mechanics/Bestiary/Trolls/Troll.md) Toes, crushed. Any variant will do.
-- One barrel of [Adult-Skag](../../../../Arbiters-of-Fate/Resort-Me/Adult-Skag.md)'s blood; Normal Variant Only. May also be found as [Blood-of-the-Skag](../../../../Arbiters-of-Fate/Resort-Me/Blood-of-the-Skag.md).
+- One barrel of [Adult-Skag](../../../../60-Wyrmscriber/0-Courier/Resort-Me/Adult-Skag.md)'s blood; Normal Variant Only. May also be found as [Blood-of-the-Skag](../../../../60-Wyrmscriber/0-Courier/Resort-Me/Blood-of-the-Skag.md).
 >[!abstract] What happens if the reader uses a different variant of Skag, such as a Spitter or a baby skag? \- Devvie
 >> [!quote] The recipe tastes like a horses ass. Moving on…
 - One satchel of powdered Green Tea Leaf, available for purchase at any purveyor of fine Tea Leaf.

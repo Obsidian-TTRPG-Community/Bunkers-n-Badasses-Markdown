@@ -6,7 +6,7 @@ title: Wyvern Familiar
 ---
 
 # Wyvern Familiar
-***Requires:*** [Clawbringer](Clawbringer)
+***Requires:*** [Clawbringer](../../../../77-Bunkers-n-Badasses-Sourcebook/Chapter-01-Creating-A-Vault-Hunter/Choosing-A-Class/Psycho/Clawbringer.md)
 You gain a Wyvern Familiar that deals `dice: 1d6`(1d6) Incendiary Damage to any Target it flies past.
 If it dies, it respawns at the end of the Encounter.
 

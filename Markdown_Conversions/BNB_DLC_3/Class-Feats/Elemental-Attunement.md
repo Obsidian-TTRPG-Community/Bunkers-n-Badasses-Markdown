@@ -6,7 +6,7 @@ title: Elemental Attunement
 ---
 
 # Elemental Attunement
-***Requires:*** [Phaselocker](../../../../60-Wyrmscriber/Gamemaster/Mechanics/Classes/Siren/Phaselocker.md)
+***Requires:*** [Phaselocker](../../../../77-Bunkers-n-Badasses-Sourcebook/Chapter-01-Creating-A-Vault-Hunter/Choosing-A-Class/Siren/Phaselocker.md)
 Choose an Elemental Type.
 Gain +1d4 Damage Resistance against that Element.
 If it matches your Siren Element, instead gain +2d4 Damage Resistance.

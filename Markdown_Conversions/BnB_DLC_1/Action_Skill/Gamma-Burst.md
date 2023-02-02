@@ -7,8 +7,8 @@ source: Homebrew
 sourceurl: https://docs.google.com/document/d/1mjXpoVLi-NuoOolvlEiYb9cNrDb_v0MtbY8qv0hTrJw/
 tags:
 - BnB/Homebrew/ActionSkills
-- BnB/PC/ActionSkills
-- BnB/ActionSkills/Hunter/Beastmaster
+- BnB/PC/ActionSkill
+- BnB/PC/ActionSkill/Hunter/Beastmaster
 title: Gamma Burst
 ---
 

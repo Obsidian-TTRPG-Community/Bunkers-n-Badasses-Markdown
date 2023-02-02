@@ -6,7 +6,7 @@ title: Military Intelligence
 ---
 
 # Military Intelligence
-***Requires:*** [Sabre](../../../../60-Wyrmscriber/Gamemaster/Mechanics/Classes/Commando/Sabre.md)
+***Requires:*** [Sabre](../../../../77-Bunkers-n-Badasses-Sourcebook/Chapter-01-Creating-A-Vault-Hunter/Choosing-A-Class/Commando/Sabre.md)
 Choose a Skill.
 You get +5 to Checks for that Skill. You get -1 to all other Skill Checks.
 

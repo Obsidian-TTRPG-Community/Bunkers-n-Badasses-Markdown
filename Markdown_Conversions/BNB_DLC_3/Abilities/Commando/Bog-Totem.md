@@ -1,7 +1,7 @@
 ---
 alias: ["Bog Totem"]
 cssclass: bunkers
-tags: BnB/Homebrew/ActionSkills, BnB/PC/ActionSkills/Blightcaller/Bog-Totem
+tags: BnB/Homebrew/ActionSkills, BnB/PC/ActionSkill/Blightcaller/Bog-Totem
 title: Bog Totem
 ---
 

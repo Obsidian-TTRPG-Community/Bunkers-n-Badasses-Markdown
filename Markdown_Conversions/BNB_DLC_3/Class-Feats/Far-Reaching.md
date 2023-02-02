@@ -6,7 +6,7 @@ title: Far Reaching
 ---
 
 # Far Reaching
-***Requires:*** [Sharp Shooter](../../../../60-Wyrmscriber/Gamemaster/Mechanics/Classes/Hunter/Sharp-Shooter.md)
+***Requires:*** [Sharp Shooter](../../../../77-Bunkers-n-Badasses-Sourcebook/Chapter-01-Creating-A-Vault-Hunter/Choosing-A-Class/Hunter/Sharp-Shooter.md)
 All Favored Guns get +2 Range.
 Attacks beyond Range 5 get +1 Crit Die.
 

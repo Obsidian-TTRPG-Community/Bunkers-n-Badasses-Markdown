@@ -6,7 +6,7 @@ title: Elemental Amplification
 ---
 
 # Elemental Amplification
-***Requires:*** [Lightwalk](../../../../60-Wyrmscriber/Gamemaster/Mechanics/Classes/Siren/Lightwalk.md)
+***Requires:*** [Lightwalk](../../../../77-Bunkers-n-Badasses-Sourcebook/Chapter-01-Creating-A-Vault-Hunter/Choosing-A-Class/Siren/Lightwalk.md)
 Choose an Elemental Type.
 All Damage you deal of that type gains +1d4 Damage.
 If it matches your Siren Element, instead gain +2d4 Damage.

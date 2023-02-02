@@ -23,7 +23,7 @@ title: Brittle Crab King
 
 ## Statblock
 ```statblock
-layout: Bunkers
+layout: BunkersBestiary
 source: Bunkers-Wildlife
 dice: true
 name: Brittle Crab King

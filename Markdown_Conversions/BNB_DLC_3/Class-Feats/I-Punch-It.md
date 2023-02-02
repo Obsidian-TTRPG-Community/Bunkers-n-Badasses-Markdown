@@ -6,7 +6,7 @@ title: I Punch It
 ---
 
 # I Punch It
-***Requires:*** [Brute](../../../../60-Wyrmscriber/Gamemaster/Mechanics/Classes/Berserker/Brute.md)
+***Requires:*** [Brute](../../../../77-Bunkers-n-Badasses-Sourcebook/Chapter-01-Creating-A-Vault-Hunter/Choosing-A-Class/Berserker/Brute.md)
 Add +1 Melee Die to the 8-15 Accuracy Range for your Melee Attacks.
 
 > [!meta]- Feat Inline Metadata

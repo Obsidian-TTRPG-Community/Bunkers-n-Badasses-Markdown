@@ -6,7 +6,7 @@ title: Extendo-Mags
 ---
 
 # Extendo-Mags
-***Requires:*** [Gun Lust](../../../../60-Wyrmscriber/Gamemaster/Mechanics/Classes/Gunzerker/Gun-Lust.md)
+***Requires:*** [Gun Lust](../../../../77-Bunkers-n-Badasses-Sourcebook/Chapter-01-Creating-A-Vault-Hunter/Choosing-A-Class/Gunzerker/Gun-Lust.md)
 You can equip a 4th Gun.
 
 > [!meta]- Feat Inline Metadata

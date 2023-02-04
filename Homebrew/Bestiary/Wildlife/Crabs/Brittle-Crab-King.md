@@ -13,13 +13,8 @@ title: Brittle Crab King
 ---
 
 # Brittle Crab King
->[!tina]
+>[!tina] Bunkermaster Tina
 > As you continue on your journey with your newfound trusty axe, you come across a large, frantic land crab. As you approach, the crab screeches and attacks you with its sharp pincers and lightning-fast scuttling movements.
-
-> [!quest]
-> If spared from death in it's defeat, it may offer a quest to players to help find its beloved mate.
->
-> See [The Queen of the Mellow Crustaceans](../../../Quests/Rescue/The-Queen-of-the-Mellow-Crustaceans.md)
 
 ## Statblock
 ```statblock
@@ -27,11 +22,12 @@ layout: BunkersBestiary
 source: Bunkers-Wildlife
 dice: true
 name: Brittle Crab King
-type: 
+type: Wildlife
 bossextra: King Brittle Crabby
 subtitle: Only Semi-Brittle
 bosstype: Scrub Crab Boss
-badass: 3
+image_small: "[D12](../../../../../77-Bunkers-n-Badasses-Sourcebook/Chapter-00-Introduction/_attachments/D12.png)"
+badass_rank: 3
 movement: move 2 swim 1
 health: 10
 shield: 10
@@ -41,27 +37,18 @@ weapon: Head, Pincers
 special: When first encountered, King Brittle Crab will summon 3 Brittle Crab.
 actions:
 - name: Pinch
-  desc: 
-- name: 
   desc: "Brittle Crab King pinches at an adjacent target, dealing 4 (2d4) Damage."
 - name: Scuttle
-  desc: 
-- name: 
   desc: "Brittle Crab King scuttles up to 3 squares to a target."
 mayhem: 
 - name: Headbutt and Slash
-  desc: 
-- name: 
   desc: "Brittle Crab King will use its head and forelimbs to Attack an adjacent target, dealing 6 (2d6+6) Damage."
 - name: Burrow
-  desc: 
-- name: 
   desc: "Brittle Crab King will attempt to burrow underground and move behind or farther away from its Attackers."
 loot: 
 - name: Old Hewn Axe
-  desc:
-- name: 
   desc: "Long Ago, Brittle Crab King was impaled with a Hewn Axe. Once free of the shell, the rusted head will do 3 (1d4) damage per swing."
+image_big: "[Dragon-Lord-Compress](../../../../../00-Vault-Hunter/2-Images/Characters/Dragon-Lord-Compress.png)"
 ```
 
 ## Lore
@@ -71,6 +58,7 @@ In terms of appearance, the Brittle Crab King sports a hard, brown shell covered
 
 Normally not an overly aggressive species, the Brittle Crab King has recently been attacking anything that crosses its path as it searches frantically for its missing queen.
 
->[!abstract]- Bestiary Inline Metadata
-> source:: **Bunkers-Wildlife**
-
+> [!quest]
+> If spared from death in it's defeat, it may offer a quest to players to help find its beloved mate.
+>
+> See [The Queen of the Mellow Crustaceans](../../../Quests/Rescue/The-Queen-of-the-Mellow-Crustaceans.md)

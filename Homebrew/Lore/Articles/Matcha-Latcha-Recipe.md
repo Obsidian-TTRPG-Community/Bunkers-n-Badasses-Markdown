@@ -13,7 +13,7 @@ tag: BnB/Homebrew/Lore
 
 >[!quote] Thank you Devvie. I'm sure your readers are acquainted with the dual purpose concoction of Matcha Latcha: an edible skin or scale paste. Today, I've decided to reveal the recipe for those brave enough to make it at home. Let's begin.
 
- ![](_attachments/Matcha-Latcha.jpg)
+ ![Brewing Matcha Latcha](_attachments/Matcha-Latcha.jpg)
 
 **Ingredients**
 - Three Fresh [GOB-lin](../../../../60-Wyrmscriber/Gamemaster/Mechanics/Bestiary/Goblinoids/Gob-Lins/Gob-Lins.md) Bouncing Beans from unwilling donors, mashed.

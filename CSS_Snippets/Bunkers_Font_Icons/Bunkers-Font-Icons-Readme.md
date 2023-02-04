@@ -120,15 +120,7 @@ However the font file does contain individual classes for each icon, so you can 
 *Image Rendition*
 ![Example Image 3](_attachments/image-example-3.png)
 
----
-
-## Table of Font Icons
-
-| **Name**              | **Icon** | **U+ Key** |  **Entity**   | **Ligatures** |
-| --------------------- | -------- | ---------- | --- | ------------- |
-| **Unarmed**           | 󡄀        | e1100      | `&#xe1100;`    | Unarmed       |
-| **Valora**            | 󡄁       | e1101          | `&#xe1101;`    | Valora        |
-| **Pangoblin** | 󡄂       | e1102       | `&#xe1102;`    | Pangoblin  |
+***
 
 ### Image Table of Font Icons
 ![](_attachments/Bunkers-Font-Icons.png)

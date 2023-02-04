@@ -17,7 +17,7 @@ title: Iron Bear
 
 Summon and drive your personal Mech/Vehicle, **Iron Bear**, for **2** turns.
 - While driving it:
-	- On your turn you can attack with each of its mounted weapons and perform a *Slam* attack.
+    - On your turn you can attack with each of its mounted weapons and perform a *Slam* attack.
 Only you can drive **Iron Bear**.
 Iron Bear is destroyed if its armor is depleted.
 - If occupying the vehicle when it is destroyed, you will take no damage.

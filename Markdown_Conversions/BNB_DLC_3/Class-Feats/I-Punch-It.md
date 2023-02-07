@@ -1,7 +1,7 @@
 ---
 alias: ["I Punch It"]
 cssclass: 
-tags: BnB/Homebrew/Feats, BnB/PC/Feats/Berserker/Brute
+tags: BnB/Homebrew/Feats, bnb/character/Feats/Berserker/Brute
 title: I Punch It
 ---
 

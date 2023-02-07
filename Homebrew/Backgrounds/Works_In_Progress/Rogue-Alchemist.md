@@ -4,7 +4,7 @@ archtype: Savvy
 class: Any
 cssclass: 
 source: "Tiny Tina's Wonderlands"
-tags: BnB/Homebrew/Backgrounds, BnB/PC/Backgrounds/Any
+tags: BnB/Homebrew/Backgrounds, bnb/character/Backgrounds/Any
 title: Rogue Alchemist
 ---
 

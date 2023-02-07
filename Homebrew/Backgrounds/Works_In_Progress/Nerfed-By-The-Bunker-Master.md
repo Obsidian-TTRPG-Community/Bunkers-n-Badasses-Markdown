@@ -3,7 +3,7 @@ alias: ["Nerfed By The Bunker Master"]
 cssclass: 
 class: Any
 plane: Wonderlands
-tags: BnB/Homebrew/Backgrounds, BnB/PC/Backgrounds/Any
+tags: BnB/Homebrew/Backgrounds, bnb/character/Backgrounds/Any
 title: Nerfed by the Bunker Master
 ---
 

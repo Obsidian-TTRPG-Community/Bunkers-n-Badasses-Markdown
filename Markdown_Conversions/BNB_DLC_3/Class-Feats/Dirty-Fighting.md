@@ -1,7 +1,7 @@
 ---
 alias: ["Dirty Fighting"]
 cssclass: 
-tags: BnB/PC/Feats/Assassin/Stabbomancer, BnB/Homebrew/Feats
+tags: bnb/character/Feats/Assassin/Stabbomancer, BnB/Homebrew/Feats
 title: Dirty Fighting
 ---
 

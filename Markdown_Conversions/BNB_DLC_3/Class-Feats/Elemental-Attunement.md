@@ -1,7 +1,7 @@
 ---
 alias: ["Elemental Attunement"]
 cssclass: 
-tags: BnB/Homebrew/Feats, BnB/PC/Feats/Siren/Phaselocker
+tags: BnB/Homebrew/Feats, bnb/character/Feats/Siren/Phaselocker
 title: Elemental Attunement
 ---
 

@@ -4,8 +4,8 @@ cssclass:
 filetype: Skilltree
 tags:
 - Bnb/Homebrew/Classes/Siren/Affinity/Renewal
-- BnB/PC/Classes/Siren/Renewal
-- BnB/PC/Classes/Siren/Phasewalk
+- bnb/character/Classes/Siren/Renewal
+- bnb/character/Classes/Siren/Phasewalk
 - BnB/Homebrew/WIP
 title: The Siren of Renewal
 ---

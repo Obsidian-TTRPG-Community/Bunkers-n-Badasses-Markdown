@@ -1,7 +1,7 @@
 ---
 alias: ["Assassin: Gladiator"]
 cssclass: bunkers, wonderlands
-tags: BnB/Homebrew/Classes, BnB/PC/Classes/Assassin/Gladiator
+tags: BnB/Homebrew/Classes, bnb/character/Classes/Assassin/Gladiator
 title: Gladiator
 ---
 

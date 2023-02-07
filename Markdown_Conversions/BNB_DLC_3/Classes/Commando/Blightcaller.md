@@ -90,4 +90,4 @@ But the Blightcaller's power is not without its cost. They walk a fine line betw
 > speed:: 1
 > stats:: 1 ACC 0 DMG 1 SPD 2 MST
 > class:: Commando
- #BnB/Homebrew/Classes #BnB/PC/Classes/Commando/Blightcaller
+ #BnB/Homebrew/Classes #bnb/character/Classes/Commando/Blightcaller

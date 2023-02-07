@@ -5,7 +5,7 @@ cssclass:
 skilltree: Stabbomancer
 sourceurl: https://docs.google.com/document/d/1MLOgrWwcLNTnP9PuXrKiLImy7SUh4hXO8arVUAlmdp0
 tags:
-- BnB/PC/Classes/ActionSkill/GhostBlade
+- bnb/character/Classes/ActionSkill/GhostBlade
 - BnB/Homebrew/ActionSkills
 title: Ghost Blade
 ---

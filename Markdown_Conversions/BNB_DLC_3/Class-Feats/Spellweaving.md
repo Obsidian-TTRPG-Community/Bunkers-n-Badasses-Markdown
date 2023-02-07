@@ -1,7 +1,7 @@
 ---
 alias: ["Spellweaving"]
 cssclass: 
-tags: BnB/Homebrew/Feats, BnB/PC/Feats/Siren/Spellshot
+tags: BnB/Homebrew/Feats, bnb/character/Feats/Siren/Spellshot
 title: Spellweaving
 ---
 

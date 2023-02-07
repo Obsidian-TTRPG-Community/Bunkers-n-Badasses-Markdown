@@ -1,7 +1,7 @@
 ---
 alias: ["Elemental Amplification"]
 cssclass: 
-tags: BnB/Homebrew/Feats, BnB/PC/Feats/Siren/Lightwalk
+tags: BnB/Homebrew/Feats, bnb/character/Feats/Siren/Lightwalk
 title: Elemental Amplification
 ---
 

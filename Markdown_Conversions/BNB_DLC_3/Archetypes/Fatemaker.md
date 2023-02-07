@@ -2,7 +2,7 @@
 alias: ["Archetypes: Fatemaker", "Fatemaker"]
 cssclass: bunkers, wonderlands, word-wrap
 tags:
-- BnB/PC/Archetypes/Fatemaker
+- bnb/character/Archetypes/Fatemaker
 - BnB/HomeBrew/Archetypes
 - BnB/Homebrew/Scout
 - BnB/Tables/Archetypes/Fatemaker

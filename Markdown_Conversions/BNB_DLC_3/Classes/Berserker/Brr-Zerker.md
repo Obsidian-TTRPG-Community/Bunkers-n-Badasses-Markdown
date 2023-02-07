@@ -3,7 +3,7 @@ alias: ["Berserker: Brr-Zerker"]
 cssclass: bunkers
 tags:
 - BnB/Homebrew/Classes
-- BnB/PC/Classes/Berserker/Brr-Zerker
+- bnb/character/Classes/Berserker/Brr-Zerker
 title: Brr-Zerker
 ---
 

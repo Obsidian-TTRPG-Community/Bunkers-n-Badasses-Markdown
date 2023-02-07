@@ -1,7 +1,7 @@
 ---
 alias: ["The Professional"]
 cssclass: 
-tags: BnB/Homebrew/Feats, BnB/PC/Feats/Assassin/Mercenary
+tags: BnB/Homebrew/Feats, bnb/character/Feats/Assassin/Mercenary
 title: The Professional
 ---
 

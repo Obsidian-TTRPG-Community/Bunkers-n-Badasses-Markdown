@@ -36,4 +36,4 @@ These warriors epitomize the frontier Corporate motto: "Killing is our business,
 > stats:: 2 ACC 0 DMG 1 SPD 1 MST
 > speed:: 1
 > class:: Assassin
-> tags:: #BnB/Homebrew/Classes #BnB/PC/Classes/Assassin/Gladiator
+> tags:: #BnB/Homebrew/Classes #bnb/character/Classes/Assassin/Gladiator

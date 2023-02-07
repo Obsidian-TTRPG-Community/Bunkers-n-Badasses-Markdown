@@ -1,7 +1,7 @@
 ---
 alias: ["Efficient"]
 cssclass: 
-tags: BnB/Homebrew/Feats, BnB/PC/Feats/Assassin/Gladiator
+tags: BnB/Homebrew/Feats, bnb/character/Feats/Assassin/Gladiator
 title: Efficient
 ---
 

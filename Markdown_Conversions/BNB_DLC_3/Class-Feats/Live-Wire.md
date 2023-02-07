@@ -1,7 +1,7 @@
 ---
 alias: ["Live Wire"]
 cssclass: 
-tags: BnB/Homebrew/Feats, BnB/PC/Feats/Mechromancer/Shock-and-Claws
+tags: BnB/Homebrew/Feats, bnb/character/Feats/Mechromancer/Shock-and-Claws
 title: Live Wire
 ---
 

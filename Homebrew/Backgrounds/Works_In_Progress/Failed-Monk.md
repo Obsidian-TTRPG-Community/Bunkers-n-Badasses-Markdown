@@ -4,7 +4,7 @@ cssclass:
 class: Any
 tags: 
 - BnB/Homebrew/Backgrounds
-- BnB/PC/Backgrounds/Any
+- bnb/character/Backgrounds/Any
 title: Failed Monk
 ---
 

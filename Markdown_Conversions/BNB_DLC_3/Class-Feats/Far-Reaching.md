@@ -1,7 +1,7 @@
 ---
 alias: ["Far Reaching"]
 cssclass: 
-tags: BnB/Homebrew/Feats, BnB/PC/Feats/Hunter/Sharp-Shooter
+tags: BnB/Homebrew/Feats, bnb/character/Feats/Hunter/Sharp-Shooter
 title: Far Reaching
 ---
 

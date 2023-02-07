@@ -1,7 +1,7 @@
 ---
 alias: ["Demi-Lich Familiar"]
 cssclass: 
-tags: demilichstatblock, BnB/Homebrew/Feats, BnB/PC/Feats/Siren/Graveborn
+tags: demilichstatblock, BnB/Homebrew/Feats, bnb/character/Feats/Siren/Graveborn
 title: Demi-Lich Familiar
 ---
 

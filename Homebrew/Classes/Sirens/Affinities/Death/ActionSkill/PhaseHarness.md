@@ -4,7 +4,7 @@ cssclass:
 filetype: ActionSkill
 tags:
 - BnB/BunkerMaster/Homebrew
-- BnB/PC/Classes/Siren/Death/Abilities
+- bnb/character/Classes/Siren/Death/Abilities
 title: PhaseHarness
 ---
 

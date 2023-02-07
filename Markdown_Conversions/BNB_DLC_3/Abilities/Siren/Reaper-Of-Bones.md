@@ -1,7 +1,7 @@
 ---
 alias: ["Reaper of Bones"]
 cssclass: bunkers
-tags: BnB/Homebrew/ActionSkills, BnB/PC/ActionSkill/Graveborn/Reaper-of-Bones
+tags: BnB/Homebrew/ActionSkills, bnb/character/actionSkill/Graveborn/Reaper-of-Bones
 title: Reaper of Bones
 ---
 

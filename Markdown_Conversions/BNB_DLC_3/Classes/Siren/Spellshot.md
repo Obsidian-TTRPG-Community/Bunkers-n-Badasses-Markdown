@@ -82,4 +82,4 @@ Whenever you find a Grenade Mod, you can make it your Action Skill, replacing th
 > speed:: 0
 > stats:: 1 ACC 2 DMG 1 SPD 1 MST
 > class:: Siren
- #BnB/Homebrew/Classes #BnB/PC/Classes/Siren/Spellshot
+ #BnB/Homebrew/Classes #bnb/character/Classes/Siren/Spellshot

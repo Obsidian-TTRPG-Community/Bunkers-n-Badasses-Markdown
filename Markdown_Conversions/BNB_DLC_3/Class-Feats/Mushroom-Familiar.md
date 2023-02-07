@@ -1,7 +1,7 @@
 ---
 alias: ["Mushroom Familiar"]
 cssclass: 
-tags: mushroomstatblock, BnB/Homebrew/Feats, BnB/PC/Feats/Hunter/Sporewarden
+tags: mushroomstatblock, BnB/Homebrew/Feats, bnb/character/Feats/Hunter/Sporewarden
 title: Mushroom Familiar
 ---
 

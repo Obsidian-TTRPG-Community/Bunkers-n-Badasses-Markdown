@@ -3,7 +3,7 @@ alias: ["Assassin: Stabbomancer"]
 cssclass: bunkers
 tags:
 - BnB/Homebrew/Classes
-- BnB/PC/Classes/Assassin/Stabbomancer
+- bnb/character/Classes/Assassin/Stabbomancer
 title: Stabbomancer
 ---
 

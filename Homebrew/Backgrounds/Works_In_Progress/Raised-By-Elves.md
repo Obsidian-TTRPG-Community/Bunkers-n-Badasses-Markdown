@@ -2,7 +2,7 @@
 alias: ["Raised by Elves"]
 class: Any
 cssclass: 
-tags: BnB/Homebrew/Backgrounds, BnB/PC/Backgrounds/Any
+tags: BnB/Homebrew/Backgrounds, bnb/character/Backgrounds/Any
 title: Raised by Elves
 ---
 

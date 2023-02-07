@@ -4,7 +4,7 @@ cssclass:
 filetype: SubSkill
 tags:
 - BnB/BunkerMaster/Homebrew
-- BnB/PC/Classes/Siren/Death/Abilities
+- bnb/character/Classes/Siren/Death/Abilities
 title: Lightning Tear
 ---
 

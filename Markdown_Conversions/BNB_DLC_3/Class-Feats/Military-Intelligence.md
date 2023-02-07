@@ -1,7 +1,7 @@
 ---
 alias: ["Military Intelligence"]
 cssclass: 
-tags: BnB/Homebrew/Feats, BnB/PC/Feats/Commando/Sabre
+tags: BnB/Homebrew/Feats, bnb/character/Feats/Commando/Sabre
 title: Military Intelligence
 ---
 

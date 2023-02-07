@@ -2,7 +2,7 @@
 ac: 0
 alias: ["Brittle Crab King"]
 cr: 3
-cssclass: bunkers 
+cssclass: Bunkers, BnB
 hp: 30
 modifier: 
 statblock: true
@@ -22,7 +22,7 @@ layout: BunkersBestiary
 source: Bunkers-Wildlife
 dice: true
 name: Brittle Crab King
-type: Wildlife
+type: "Wildlife."
 bossextra: King Brittle Crabby
 subtitle: Only Semi-Brittle
 bosstype: Scrub Crab Boss
@@ -48,8 +48,10 @@ mayhem:
 loot: 
 - name: Old Hewn Axe
   desc: "Long Ago, Brittle Crab King was impaled with a Hewn Axe. Once free of the shell, the rusted head will do 3 (1d4) damage per swing."
-image_big: "[Dragon-Lord-Compress](../../../../../00-Vault-Hunter/2-Images/Characters/Dragon-Lord-Compress.png)"
+image_big: "[You've Found the King](../../../../../00-Vault-Hunter/2-Images/Entities/Wonderlands/Creatures/Brittle-Crab-King.png)"
 ```
+
+
 
 ## Lore
 The Brittle Crab King is a fierce and feisty land crab native to the Snoring Valley region of the Mellow Steppes province. Though small in size, this crab packs a punch with its sharp pincers and lightning-fast scuttling movements. Its prey includes giant squirrels, fat-ass bass, and the occasional human. The Brittle Crab King is known for calling upon its numerous offspring to join the fight in battle.

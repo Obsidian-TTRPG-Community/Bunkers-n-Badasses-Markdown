@@ -1,7 +1,7 @@
 ---
 alias: ["Graveborn Siren"]
 cssclass: bunkers
-tags: [BnB/Homebrew/Classes, BnB/PC/Classes/Siren/Graveborn]
+tags: [BnB/Homebrew/Classes, bnb/character/Classes/Siren/Graveborn]
 title: Graveborn
 ---
 

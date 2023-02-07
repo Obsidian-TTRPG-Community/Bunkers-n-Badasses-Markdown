@@ -1,7 +1,7 @@
 ---
 alias: ["Extendo-Mags"]
 cssclass: 
-tags: BnB/Homebrew/Feats, BnB/PC/Feats/Gunzerker/Gun-Lust
+tags: BnB/Homebrew/Feats, bnb/character/Feats/Gunzerker/Gun-Lust
 title: Extendo-Mags
 ---
 

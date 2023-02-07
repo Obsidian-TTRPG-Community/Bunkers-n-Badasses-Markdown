@@ -4,7 +4,7 @@ cssclass: bunkers
 filetype: Skilltree
 tags:
 - Bnb/Homebrew/Classes/Siren/Affinity/Death
-- BnB/PC/Classes/Siren/Death
+- bnb/character/Classes/Siren/Death
 - BnB/Homebrew/WIP
 title: The Siren of Death
 ---

@@ -1,7 +1,7 @@
 ---
 alias: ["Ambihexterous"]
 cssclass: 
-tags: BnB/Homebrew/ActionSkills, BnB/PC/ActionSkill/Spellshot/Ambihexterous
+tags: BnB/Homebrew/ActionSkills, bnb/character/actionskill/spellshot/Ambihexterous
 title: Ambihexterous
 ---
 

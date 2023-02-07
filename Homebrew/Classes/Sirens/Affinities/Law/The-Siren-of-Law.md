@@ -4,7 +4,7 @@ cssclass:
 filetype: Skilltree
 tags:
 - Bnb/Homebrew/Classes/Siren/Affinity/Law
-- BnB/PC/Classes/Siren/Law
+- bnb/character/Classes/Siren/Law
 - BnB/Homebrew/WIP
 title: The Siren of Law
 ---

@@ -10,8 +10,8 @@ skilltree: Gunner
 spd: +1
 tags:
 - BnB/Homebrew/Classes
-- BnB/PC/Classes
-- BnB/Classes/Commando/Gunner
+- bnb/character/Classes
+- bnb/character/classes/Commando/Gunner
 title: Commando Gunner
 ---
 

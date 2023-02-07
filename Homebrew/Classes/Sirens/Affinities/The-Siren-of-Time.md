@@ -4,7 +4,7 @@ cssclass: bunkers
 filetype: SkillTree
 tags:
 - Bnb/Homebrew/Classes/Siren/Affinity/Time
-- BnB/PC/Classes/Siren/Time
+- bnb/character/Classes/Siren/Time
 - BnB/Homebrew/WIP
 title: The-Siren-of-Time
 ---

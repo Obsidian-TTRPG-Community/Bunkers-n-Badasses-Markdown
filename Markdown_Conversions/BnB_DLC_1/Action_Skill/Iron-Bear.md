@@ -6,8 +6,8 @@ skilltree: Gunner
 source: Homebrew
 tags:
 - BnB/Homebrew/ActionSkills
-- BnB/PC/ActionSkill
-- BnB/PC/ActionSkill/Commando/Gunner
+- bnb/character/actionSkill
+- bnb/character/actionSkill/Commando/Gunner
 title: Iron Bear
 ---
 

@@ -1,7 +1,7 @@
 ---
 alias: ["Wyvern Familiar"]
 cssclass: 
-tags: wyvernstatblock, BnB/Homebrew/Feats, BnB/PC/Feats/Psycho/Clawbringer
+tags: wyvernstatblock, BnB/Homebrew/Feats, bnb/character/Feats/Psycho/Clawbringer
 title: Wyvern Familiar
 ---
 

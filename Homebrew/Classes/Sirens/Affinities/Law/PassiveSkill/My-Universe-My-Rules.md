@@ -4,7 +4,7 @@ cssclass:
 filetype: PassiveSkill
 tags:
 - BnB/HomeBrew/PassiveSkill
-- BnB/PC/Classes/Siren/Affinity/Law/PassiveSkill
+- bnb/character/Classes/Siren/Affinity/Law/PassiveSkill
 title: My Universe, My Rules
 ---
 

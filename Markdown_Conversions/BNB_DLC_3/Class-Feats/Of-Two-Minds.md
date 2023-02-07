@@ -1,7 +1,7 @@
 ---
 alias: ["Of Two Minds"]
 cssclass: 
-tags: BnB/Homebrew/Feats, BnB/PC/Feats/Psycho/Fire-and-Blood
+tags: BnB/Homebrew/Feats, bnb/character/Feats/Psycho/Fire-and-Blood
 title: Of Two Minds
 ---
 

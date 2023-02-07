@@ -4,7 +4,7 @@ cssclass:
 filetype: Skilltree
 tags:
 - Bnb/Homebrew/Classes/Siren/Affinity/Tranquility
-- BnB/PC/Classes/Siren/Tranquility
+- bnb/character/Classes/Siren/Tranquility
 - BnB/Homebrew/WIP
 title: The Siren of Tranquility
 ---

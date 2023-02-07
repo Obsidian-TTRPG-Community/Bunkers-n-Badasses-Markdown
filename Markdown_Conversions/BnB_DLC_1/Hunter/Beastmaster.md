@@ -10,8 +10,8 @@ skilltree: Beastmaster
 spd: +0
 tags:
 - BnB/Homebrew/Classes
-- BnB/PC/Classes
-- BnB/Classes/Hunter/Beastmaster
+- bnb/character/Classes
+- bnb/character/classes/Hunter/Beastmaster
 title: Hunter Beastmaster
 ---
 

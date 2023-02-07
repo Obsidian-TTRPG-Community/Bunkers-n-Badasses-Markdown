@@ -2,7 +2,7 @@
 alias: ["Echoing Visage"]
 cssclass: 
 filetype: SubSkill
-tags: BnB/BunkerMaster/Homebrew, BnB/PC/Classes/Siren/Death/Abilities
+tags: BnB/BunkerMaster/Homebrew, bnb/character/Classes/Siren/Death/Abilities
 title: Echoing Visage
 ---
 

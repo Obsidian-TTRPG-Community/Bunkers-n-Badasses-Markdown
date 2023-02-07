@@ -2,7 +2,7 @@
 alias: [PhaseWhisper]
 cssclass: 
 filetype: ActionSkill
-tags: BnB/Homebrew/ActionSkills, BnB/PC/Classes/Siren/Law/Abilities
+tags: BnB/Homebrew/ActionSkills, bnb/character/Classes/Siren/Law/Abilities
 title: PhaseWhisper
 ---
 

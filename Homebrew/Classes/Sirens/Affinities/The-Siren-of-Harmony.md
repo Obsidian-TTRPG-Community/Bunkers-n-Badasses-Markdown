@@ -4,7 +4,7 @@ cssclass: bunkers
 filetype: Skilltree
 tags:
 - Bnb/Homebrew/Classes/Siren/Affinity/Harmont
-- BnB/PC/Classes/Siren/Harmony
+- bnb/character/Classes/Siren/Harmony
 - BnB/Homebrew/WIP
 title: The Siren of Harmony
 ---

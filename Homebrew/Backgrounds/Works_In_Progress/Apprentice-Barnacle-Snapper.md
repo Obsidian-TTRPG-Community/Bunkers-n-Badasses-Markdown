@@ -1,7 +1,7 @@
 ---
 alias: ["Apprentice Barnacle Snapper"]
 cssclass: 
-tags: BnB/Homebrew/Backgrounds, BnB/PC/Backgrounds/Any
+tags: BnB/Homebrew/Backgrounds, bnb/character/Backgrounds/Any
 title: Apprentice Barnacle Snapper
 class: Any
 ---

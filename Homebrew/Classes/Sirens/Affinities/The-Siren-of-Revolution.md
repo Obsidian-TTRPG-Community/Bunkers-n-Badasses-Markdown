@@ -4,7 +4,7 @@ cssclass: bunkers
 filetype: Skilltree 
 tags:
 - Bnb/Homebrew/Classes/Siren/Affinity/Revolution
-- BnB/PC/Classes/Siren/Revolution
+- bnb/character/Classes/Siren/Revolution
 - BnB/Homebrew/WIP
 title: The Siren of Revolution
 ---

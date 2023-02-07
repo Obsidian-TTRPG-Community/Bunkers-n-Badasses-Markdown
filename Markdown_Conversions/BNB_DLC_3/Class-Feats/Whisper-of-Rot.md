@@ -1,7 +1,7 @@
 ---
 alias: [Whisper of Rot]
 cssclass: 
-tags: BnB/Homebrew/Feats, BnB/PC/Feats/Commando/Blightcaller
+tags: BnB/Homebrew/Feats, bnb/character/Feats/Commando/Blightcaller
 title: Whisper of Rot
 ---
 

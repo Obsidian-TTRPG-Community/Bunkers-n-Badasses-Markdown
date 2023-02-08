@@ -40,8 +40,8 @@
    br_spaces: 2
    list_item_empty_lines: true
 
-   # Once again, this is due to parsers. Javascript and YAML in particular have certain end of line and spacing parsing requirements.
-   # List empty Lines to true due to tabs being used otherwise
+# Once again, this is due to parsers. Javascript and YAML in particular have certain end of line and spacing parsing requirements.
+# List empty Lines to true due to tabs being used otherwise
 
  # MD010 - Hard tabs
  no-hard-tabs: true

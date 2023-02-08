@@ -32,7 +32,7 @@ A Graveborn's ultimate goal is to attain the ultimate form of death magic, the R
 
 ## Action Skill
 
-***[Reaper of Bones](../../Abilities/Siren/Reaper-of-Bones.md)***
+***[Reaper of Bones](../../Abilities/Siren/Reaper-Of-Bones.md)***
 *Become the Reaper of Bones.*
 While in this form, roll an extra 6(2d12) when rolling for Damage.
 - The higher value is added to the attack as Damage, while the lower value is taken by you as Health Loss.
@@ -73,7 +73,7 @@ While in this form, roll an extra 6(2d12) when rolling for Damage.
 
 >[!abstract]- Graveborn Inline Metadata
 > accuracy:: 1
-> actionskill:: [Reaper of Bones](../../Abilities/Siren/Reaper-of-Bones.md)
+> actionskill:: [Reaper of Bones](../../Abilities/Siren/Reaper-Of-Bones.md)
 > classfeat:: [Demi-Lich Familiar](../../Class-Feats/Demi-Lich-Familiar.md)
 > damage:: 0
 > image:: [Graveborn.png](_attachments/Graveborn.png)

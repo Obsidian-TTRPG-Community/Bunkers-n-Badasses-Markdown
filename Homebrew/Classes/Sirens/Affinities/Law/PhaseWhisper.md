@@ -7,7 +7,7 @@ title: PhaseWhisper
 ---
 
 # PhaseWhisper
-*Requires*: [The Siren of Law](../The-Siren-of-Law.md)
+*Requires*: [The Siren of Law](The-Siren-of-Law.md)
 
 The Siren of Law unleashes a sonic whisper that ripples through objects and briefly bends reality. They can move up to **2** squares, dealing `dice: 1d4`(**1d4**) shock damage and `dice: 1d4`(**1d4**) physical damage to each target in or adjacent to any square moved past.
 

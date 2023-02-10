@@ -12,13 +12,14 @@ title: Bloodied Chicken
 The Lone Survivor of the events after [The Hills Have Eggs](https://www.youtube.com/watch?v=Tl_TTTUd_y0)(18+, NSFW).
 
 ```statblock
-layout: Bunkers
+layout: BunkersBestiary
 source: Bunkers-Domesticated
 columns: 1
 force-columns: true
 dice: true
-name: Bloodied Chicken
-type: Farm Animal
+
+Name: Bloodied Chicken
+Type: Farm Animal
 bossextra: 
 subtitle: 
 bosstype: 

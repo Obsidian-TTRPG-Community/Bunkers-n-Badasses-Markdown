@@ -7,7 +7,7 @@ title: PhaseShout
 ---
 
 # PhaseShout
-*Requires*: [The Siren of Law](../The-Siren-of-Law.md)
+*Requires*: [The Siren of Law](The-Siren-of-Law.md)
 
 The Siren of Law unleashes a powerful sonic shout that shatters objects and ripples through reality. They can move up to **4** squares, dealing `dice: 1d10`(**1d10**) shock damage and `dice: 1d10`(**1d10**) physical damage to each target in or adjacent to any square moved past.
 

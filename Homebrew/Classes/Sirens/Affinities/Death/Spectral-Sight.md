@@ -8,7 +8,7 @@ title: Spectral Sight
 ---
 
 # Spectral Sight
-*Requires*: [The Siren of Death](../The-Siren-of-Death.md)
+*Requires*: [The Siren of Death](The-Siren-of-Death.md)
 
 As a passive ability, the Siren of Death possesses an innate understanding and connection to the realms of the dead, as well as other metaphysical realms in between. This grants them the ability to see and communicate with the dead and other metaphysical beings, as well as the ability to project their consciousness between realms.
 

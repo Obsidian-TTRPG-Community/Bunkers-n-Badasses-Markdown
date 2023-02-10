@@ -6,7 +6,6 @@ tags:
 - Bnb/Homebrew/Classes/Siren/Affinity/Tranquility
 - bnb/character/Classes/Siren/Tranquility
 - BnB/Homebrew/WIP
-title: The Siren of Tranquility
 ---
 
 # The Siren of Tranquility
@@ -21,4 +20,8 @@ title: The Siren of Tranquility
 
 While she is generally peaceful, the Siren of Tranquility is not afraid to take decisive action when necessary, using her powers to protect the innocent or defend the weak. She always strives to minimize harm and promote reconciliation and understanding in her actions. The Siren of Tranquility is a compassionate and wise figure who seeks to bring peace and balance to the world through her powers of tranquility and understanding.
 
-## Feats in the [Affinity of the Siren](../../The-Siren.md)
+
+
+
+
+## Affinity Feats

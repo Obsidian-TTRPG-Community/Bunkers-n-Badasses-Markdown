@@ -8,6 +8,7 @@ title: Affinity of the Siren
 ---
 
 # Affinity of the Siren
+
 > Technically its an Archetype but its a Siren-only Archetype so here it belongs!
 
 You were chosen, ambitious, or perhaps unlucky. Whatever the reason, you are a Siren. Yet a Siren is not just about flashing tattoos and looking like a tribal psycho's bride, though that could be described as a perk, it is so much more. You are a manifestation of ideals, of nature, of elements. And guess what dearie? Today is the day you've just hit Siren puberty so buckle up, because its going to get ugly.
@@ -17,11 +18,15 @@ There can only be one of each affinity at any time. Affinities are very personal
 
 The player must pick the affinity by their figurehead name after the Bunker Master has ensured any unavailable Affinity has been removed.
 
-| **Figurehead** | **Sphere**  | **Primary Stat** | **Secondary Stat** |
-| ---------- | ------- | ------------- | -------------- |
-| Protection | Balance | MST      |  DMG              |
-| War        | Chaos   | DMG      |    SPD            |
-| Angel      | Order   | ACC      |   DMG             |
+| **Figurehead** | **Sphere** | **Primary Stat** | **Secondary Stat** |
+| -------------- | ---------- | ---------------- | ------------------ |
+| Protection     | Balance    | MST              | DMG                |
+| War            | Chaos      | DMG              | SPD                |
+| Peace          | Order      | ACC              | DMG                |
+| Justice        | Order      | ACC              | DMG                |
+| Evolution               | Balance    | MST              | DMG                |
+| Life           | Balance    | MST              | DMG                |
+| Mayhem         | Chaos      | DMG              | SPD                   |
 
 The **Primary Stat** also controls the **Siren Mod** for Siren-Specific Abilities and additional Elemental Rolls.
 
@@ -31,7 +36,7 @@ The details of these effects will be listed where available the Affinity Mod is 
 
 ## The Siren's Starting Stats
 You are allotted 7 points from your Archetype at level 1.
-You may reroll each column once.
+You may re-roll each column once.
 
 ### Chaos
 | ACC         | DMG         | SPD         | MST       | Siren Mod | Affinity Mod |
@@ -105,7 +110,6 @@ Rather nab an Affinity Feat? Check your Skill Tree Page Instead.
 | Elemental Fusion    | When using an elemental gun, you may choose to apply an additional singular Element type to your damage. This damage will be equal to **1/2** the elemental gun's *primary element* damage.                                                   | *Elemental Aura, Level 6*    |
 | Elemental Decay     | Whenever you deal elemental damage, the target also takes `dice: 1d4` + **Primary Stat Mod** damage of that element type at the start of their next turn for the next **2** turns.                                                            | *Elemental Fusion, Level 10* |
 | Eldritch Invocation | Whenever you deal elemental damage, the target also takes `dice: 1d6` *[Eldritch Damage](../Glossary/Eldritch-Damage.md)* at the start of their next turn for the next **3** turns. This effect stacks with each hit, up to a maximum of 6d6. | *Elemental Decay, Level 16*  |
-
 ^bunkersTheSirenElementalFeats
 
 ### Check Feats
@@ -122,6 +126,5 @@ Rather nab an Affinity Feat? Check your Skill Tree Page Instead.
 | Master of Disguise  | +2 on all Sneak Checks when in disguise. Stacks with *Silent, but Deadly.*                                                                                             | Lvl 15+                        |
 | Element of Surprise | +3 DMG Mod on your next Action Skill when you make a successful Sneak Check.                                                                                           | Lvl 20+, *Master of Disguise*  |
 | Leader of the Gang  | Adjacent allies within two squares gain +1 DMG Mod on all their attacks, including unintentional attacks.                                                              | Lvl 25+, *Element of Surprise* |
-
 ^bunkersTheSirenCheckFeats
 

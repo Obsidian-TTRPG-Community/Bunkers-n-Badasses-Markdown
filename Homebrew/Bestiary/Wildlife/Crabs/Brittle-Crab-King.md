@@ -2,7 +2,7 @@
 ac: 0
 alias: ["Brittle Crab King"]
 cr: 3
-cssclass: Bunkers, BnB
+cssclass: Bunkers, BnB, BunkersnBadasses
 hp: 30
 modifier: 
 statblock: true
@@ -11,6 +11,8 @@ tags:
 - BnB/Homebrew/Bestiary
 title: Brittle Crab King
 ---
+
+
 
 # Brittle Crab King
 >[!tina] Bunkermaster Tina
@@ -21,36 +23,129 @@ title: Brittle Crab King
 layout: BunkersBestiary
 source: Bunkers-Wildlife
 dice: true
-name: Brittle Crab King
-type: "Wildlife."
-bossextra: King Brittle Crabby
-subtitle: Only Semi-Brittle
-bosstype: Scrub Crab Boss
-image_small: "[D12](../../../../../77-Bunkers-n-Badasses-Sourcebook/Chapter-00-Introduction/_attachments/D12.png)"
-badass_rank: 3
-movement: move 2 swim 1
-health: 10
-shield: 10
-armor: 10
-traits: Tiny Armor. Impaled.
-weapon: Head, Pincers
-special: When first encountered, King Brittle Crab will summon 3 Brittle Crab.
-actions:
+Name: Brittle Crab King
+Type: "Wildlife."
+
+TitleOfMob: King Brittle Crabby
+FlavorText: Only Semi-Brittle
+TypeOfBoss: Scrub Crab Boss
+
+BadassRank: 3
+MovementType: move 2 swim 1
+Health: 10
+Shield: 10
+Armor: 10
+Traits: Tiny Armor. Impaled.
+Weapon: Head, Pincers
+Special: When first encountered, King Brittle Crab will summon 3 Brittle Crab.
+SuperSpecial:
+Actions:
 - name: Pinch
   desc: "Brittle Crab King pinches at an adjacent target, dealing 4 (2d4) Damage."
-- name: Scuttle
-  desc: "Brittle Crab King scuttles up to 3 squares to a target."
-mayhem: 
+Mayhem: 
 - name: Headbutt and Slash
   desc: "Brittle Crab King will use its head and forelimbs to Attack an adjacent target, dealing 6 (2d6+6) Damage."
-- name: Burrow
-  desc: "Brittle Crab King will attempt to burrow underground and move behind or farther away from its Attackers."
-loot: 
-- name: Old Hewn Axe
-  desc: "Long Ago, Brittle Crab King was impaled with a Hewn Axe. Once free of the shell, the rusted head will do 3 (1d4) damage per swing."
-image_big: "[You've Found the King](../../../../../00-Vault-Hunter/2-Images/Entities/Wonderlands/Creatures/Brittle-Crab-King.png)"
+ImageBig: "[You've Found the King](../../../../../00-Vault-Hunter/2-Images/Entities/Wonderlands/Creatures/Brittle-Crab-King.png)"
 ```
 
+```statblock
+# Layout is needed to force the Bunkers Layout
+layout: BunkersBestiary
+# Source helps the Bestiary Organize the Entity
+source: Bunkers-Treant
+# Ensures Dice Rolls Turned on even if Off Elsewhere
+dice: true
+# Entity Stats
+Name: Treant
+Type: "Treant."
+# Boss/Subtitle Sttuff Below
+
+TitleOfMob: 
+FlavorText: 
+TypeOfBoss: 
+
+BadassRank: 9
+# Use move, swim, fly, hover, leap, climb, or swim + number i.e., swim 3 fly 4 hover 5 move 1
+MovementType: move 3
+# Will automatically switch to N/A if Empty
+Health: 70
+Shield: 
+Armor: 
+Traits: Wood. Large. 
+Weapon: Branches.
+Special:
+SuperSpecial:
+Actions:
+- name: Ground Slam
+  desc: "Treant slams the ground with its trunk, dealing 2d12 (2d12) Damage to all adjacent targets."
+- name: Orbs
+  desc: "Treant releases 6 blue orbs that seek out targets within 3 squares, dealing 1d6 Shock Damage each."
+Mayhem: 
+- name: Bramble
+  desc: "Treant pushes 3 branches into the ground that sprout up to 2 squares away and turn into fully grown plants in 1 turn. Once fully grown, the plants explode when any target is adjacent, dealing 2d6 (2d6) Corrosive Damage."
+- name: Ground Slam x2
+  desc: "Treant slams the ground with its trunk twice, dealing 2d12 (2d12) Damage per slam to all adjacent targets."
+ImageBig: "[Treat](../../../../../00-Vault-Hunter/2-Images/00-Sort/LittleMaelstrom_treant_in_the_style_of_bunkers_and_badasses_bor_3a5eb7c6-a0ad-4df9-8183-6b8362a4a571.png)"
+```
+
+
+
+```statblock
+# Layouts until other style of releases should be BunkersBestiary
+layout: BunkersBestiary
+source: Bunkers-Example
+dice: true
+# If Its a Badass or a SuperBadass, make sure to put that First... Badass Potion Master... SuperBadass Treant
+Name: "Super Badass Deep Dragon"
+# "Landshark."
+Type: "Dragon."
+# Title of the Boss here, like King of the Hill or Wakisobi
+TitleOfMob: "Cruncher of Rocks"
+# Flavor Text Here such as Really Loves Fish
+FlavorText: "Rocks means your bones actually"
+# Miniboss, NPC, Made-Up Boss…
+TypeOfBoss: "Miniboss"
+# Self Explanatory, right? What is its BR
+BadassRank: 21
+# Options are move, flight, swim, burrow, teleport, hover, Leap,climb, 
+MovementType: "move 4 flight 6 teleport 2"
+# Hitpoints
+Health: 200
+# Shield Points
+Shield: 50
+# Armor Points
+Armor: 50
+# Any existing Traits. Badasses will automatically get assigned a trait, so dont add one unless it exists in base, like Flesh.
+Traits: Large
+# What weapon does it use?
+Weapon: "Breath, Bite (+3 Damage)"
+# Any special stuff we out to know?
+Special: ""
+# Super_Special is for use with some weird entities like Potion Master and some Bosses. Usually leave the name blank as "".
+SuperSpecial:
+- name: "Fixation"
+  desc: "After performing an Air Bite the Dragon will become fixated on the target for two turns, and will pursue the target up to its maximum flight speed per turn."
+# Main Actions. Leave Empty if None
+Actions:
+- name: Concoct
+  desc: "Potion Master mixes a batch of ingredients into a slurry and then caps the Random Potion (Special) with a cork stopper."
+- name: Bite
+  desc: "If Landed, the Dragon charges up to 3 squares and Bites up to 2 adjacent targets for 1d10+3 (1d10+3) Damage per Bite."
+- name: Air Bite
+  desc: "If flying and adjacent to 1 target, the Dragon bites that one target for 2d10 (2d10) Damage. The dragon becomes fixated on this target for two turns."
+# Mayhem Actions. Leave Empty if None
+Mayhem: 
+- name: Improved Concoction
+  desc: "Potion Master mixes all the ingredients for an improved potion and then caps it with a stopper. +2 to the result of the Random Potion roll result (Special)." 
+- name: Air Bite
+  desc: "If flying and adjacent to 1 target, the Dragon bites that one target for 2d10 (2d10) Damage. The dragon enter _fixation_."
+# Does this Entity Carry Super Special Loot? Leave Empty if None
+Loot:
+ - name: A Purple Scale
+   desc: "This Deep Dragon was carying a strange, purple scale, embossed with a series of scratches."
+# Does this Entity Have an Image? Accepts Wikilink or Markdown Link. Leave Empty if None
+ImageBig: ""
+```
 
 
 ## Lore

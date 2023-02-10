@@ -7,7 +7,7 @@ title: Intangibility Shift
 ---
 
 # Intangibility Shift
-*Requires*: [The Siren of Death](../The-Siren-of-Death.md)
+*Requires*: [The Siren of Death](The-Siren-of-Death.md)
 *10 Life Energy*
 
 The Siren of Death becomes *invisible*, gaining +5 to Sneak Checks and +`dice: 1d20` (1d20) to Active Shield Recharge for `dice: 1d4` (1d4) rounds.

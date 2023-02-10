@@ -19,19 +19,29 @@ title: The Siren of Death
 ## Summary
 The Siren of Death is a being of fable and fairy tales due to their holders never being fully human, who are closely tied to the forces of death and mortality. They are often portrayed as a dark and ominous figure, feared and respected by those who encounter them. However, even with their association with death, the Siren of Death is not viewed in these tales as evil, but rather is seen as a necessary aspect of the cycle of life and death. You still never want to see them arrive at your doorstep though!
 
-Outside the myth, The Siren of Death is a force of nature. They are highly skilled in the arts of magic and the arcane, including the use of necromancy, and are rumored to possess powerful psychic abilities as well. They also possess a range of abilities at their disposal that allow them to control and manipulate the speed of death itself, which has made them an enemy of [The Siren of Time](../The-Siren-of-Time.md).
+Outside the myth, The Siren of Death is a force of nature. They are highly skilled in the arts of magic and the arcane, including the use of necromancy, and are rumored to possess powerful psychic abilities as well. They also possess a range of abilities at their disposal that allow them to control and manipulate the speed of death itself, which has made them an enemy of [The Siren of Time](../Time/The-Siren-of-Time.md).
 
 Although they are seemingly steeped in the realm of Death, the Siren of Death is not immune to the forces of life, and can be swayed by the motivations and circumstances of those who seek their aid. It is through this the title has earned a reputation as a protector in the ages of old before the affinity faded into obscurity and was thought lost.
 
 ## Abilities of the Siren of Death
 
 ### Action Skill
-**[PhaseHarness](ActionSkill/PhaseHarness.md)**: PhaseHarness is a powerful and versatile ability possessed by the Siren of Death. It allows her to draw life energy from others, and use it to power special sub-abilities.
+**[PhaseHarness](PhaseHarness.md)**: PhaseHarness is a powerful and versatile ability possessed by the Siren of Death. It allows her to draw life energy from others, and use it to power special sub-abilities.
 
 These sub-abilities are unique to each Siren of Death and are not possessed by other Sirens.
 
+```dataview
+table without id
+link(file.path, title) as Name,
+lifeenergy as Energy,
+description as Description
+from #bnb/character/Classes/Siren/Death/Abilities 
+sort Energy Desc
+```
+
+
 ### Passive Skill
-**[Spectral Sight](PassiveSkill/Spectral-Sight.md)**: As a passive ability, the Siren of Death possesses an innate understanding and connection to the realms of the dead, as well as other metaphysical realms in between. This grants them the ability to see and communicate with the dead and other metaphysical beings, as well as the ability to project their consciousness between realms.
+**[Spectral Sight](Spectral-Sight.md)**: As a passive ability, the Siren of Death possesses an innate understanding and connection to the realms of the dead, as well as other metaphysical realms in between. This grants them the ability to see and communicate with the dead and other metaphysical beings, as well as the ability to project their consciousness between realms.
 
 This grants them a +10 Bonus to all Telepathic Talk Checks with *Spectral* and *Metaphysical* beings.
 

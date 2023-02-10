@@ -9,7 +9,7 @@ title: Soul Repair
 ---
 
 # Soul Repair
-*Requires*: [The Siren of Death](../The-Siren-of-Death.md)
+*Requires*: [The Siren of Death](The-Siren-of-Death.md)
 *25 Life Energy*
 
 The Siren of Death channels a large amount of life energy into a recently deceased ally, reviving them with `dice: 1d20+2` (1d20+MST) hit points, `dice: 1d20+2`(1d20+MST) shield points, and (`dice: 1d4-2`) (1d4-MST) temporary traumas.

@@ -6,8 +6,6 @@ title: Blightcaller
 
 # Blightcaller
 
->[!homebrew]
-> **Warning**: This page is a Homebrew class of Tiny Tina Wonderlands' Blightcaller.
 
 >[!infobox|right]
 >## `=this.skilltree` `=this.class`

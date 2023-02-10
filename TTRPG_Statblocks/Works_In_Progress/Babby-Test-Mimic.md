@@ -30,7 +30,7 @@ actions:
   desc: "Baby mimic slams a target within 2 squares, dealing 4 (1d8+2) damage."
 mayhem: 
 - name: Ankle Biter
-  desc: "❷ Babby mimic sticks itself to the targets ankle, reducing their movement by half until the target throws the babby mimic to another target, or successfully removes the babby mimic by force."
+  desc: "Babby mimic sticks itself to the targets ankle, reducing their movement by half until the target throws the babby mimic to another target, or successfully removes the babby mimic by force."
 - name: Burp the Babby 
   desc: "Babby mimic ate a bit too much magic and wonder. For the next 1 (1d3) turns, the Babby Mimic is immune to all magic attacks, and can only be damaged by melee attacks made with a gentle, open hand."
 ```

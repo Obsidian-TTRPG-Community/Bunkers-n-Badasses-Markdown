@@ -7,7 +7,7 @@ title: PhaseScream
 ---
 
 # PhaseScream
-*Requires*: [The Siren of Law](../The-Siren-of-Law.md)
+*Requires*: [The Siren of Law](The-Siren-of-Law.md)
 
 The Siren of Law unleashes a powerful sonic scream that shatters objects and forms a vortex in reality. They can move up to **5** squares and release a PhaseScream, dealing `dice: 1d10` (**1d10**) shock damage and `dice: 1d10` (**1d10**) physical damage to each target in or adjacent to any square moved past.
 

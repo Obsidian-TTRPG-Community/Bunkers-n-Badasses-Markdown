@@ -28,29 +28,29 @@ This title was last held by Commandant Steele until their passing, it was then c
 ## Abilities of the Siren of Law
 
 ### Action Skills
-**[PhaseWhisper](ActionSkill/PhaseWhisper.md)**
+**[PhaseWhisper](PhaseWhisper.md)**
 The Siren of Law unleashes a sonic whisper that ripples through objects and briefly bends reality. They can move up to **2** squares, dealing `dice: 1d4`(**1d4**) shock damage and `dice: 1d4`(**1d4**) physical damage to each target in or adjacent to any square moved past.
 
 Phasewhisper has a `dice: 1d6`(**1d6**) potential to stun targets for one round if it lands on a **1-2**.
 
-- At level 8, this ability becomes becomes [PhaseTalk](ActionSkill/PhaseTalk.md).
+- At level 8, this ability becomes becomes [PhaseTalk](PhaseTalk.md).
 
-**[PhaseTalk](ActionSkill/PhaseTalk.md)**
+**[PhaseTalk](PhaseTalk.md)**
 The Siren of Law unleashes a sonic shout that echoes through objects and briefly disrupts reality. They can move up to **3** squares, dealing `dice: 1d8`(**1d8**) shock damage and `dice: 1d8`(**1d8**) physical damage to each target in or adjacent to any square moved past.
 
 Phasetalk has a `dice: 1d8`(**1d8**) potential to stun targets for one round if it lands on a **1-4**.
 
-- At level 16, this ability becomes [PhaseShout](ActionSkill/PhaseShout.md)
+- At level 16, this ability becomes [PhaseShout](PhaseShout.md)
 
 
-**[PhaseShout](ActionSkill/PhaseShout.md)**
+**[PhaseShout](PhaseShout.md)**
 The Siren of Law unleashes a powerful sonic shout that shatters objects and ripples through reality. They can move up to **4** squares, dealing `dice: 1d10`(**1d10**) shock damage and `dice: 1d10`(**1d10**) physical damage to each target in or adjacent to any square moved past.
 
 PhaseShout has a `dice: 1d12`(**1d12**) potential to stun targets for one round if it lands on a **1-5**.
 
-- At level 30, this ability becomes [PhaseScream](ActionSkill/PhaseScream.md)
+- At level 30, this ability becomes [PhaseScream](PhaseScream.md)
 
-**[PhaseScream](ActionSkill/PhaseScream.md)**
+**[PhaseScream](PhaseScream.md)**
 The Siren of Law unleashes a powerful sonic scream that shatters objects and forms a vortex in reality. They can move up to **5** squares and release a PhaseScream, dealing `dice: 1d10` (**1d10**) shock damage and `dice: 1d10` (**1d10**) physical damage to each target in or adjacent to any square moved past.
 
 PhaseScream has a `dice: 1d20`(**1d20**) potential to stun targets for one round if it lands on a **1-8**.
@@ -58,7 +58,7 @@ PhaseScream has a `dice: 1d20`(**1d20**) potential to stun targets for one round
 PhaseScream can be used ***twice*** per MST mod per encounter.
 
 ### Passive Skill
-**[My Universe, My Rules](PassiveSkill/My-Universe-My-Rules.md)**: The Siren of Law has a natural talent for persuasion and manipulation, and can use their charisma and powers of suggestion to influence the behavior of others, convincing them to follow the rules and laws that they deem necessary for maintaining order. 
+**[My Universe, My Rules](My-Universe-My-Rules.md)**: The Siren of Law has a natural talent for persuasion and manipulation, and can use their charisma and powers of suggestion to influence the behavior of others, convincing them to follow the rules and laws that they deem necessary for maintaining order. 
 
 This ability grants them a +10 bonus to all Talk Checks related to convincing others to follow laws and rules.
 

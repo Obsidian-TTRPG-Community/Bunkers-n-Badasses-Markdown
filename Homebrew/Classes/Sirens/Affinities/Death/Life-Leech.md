@@ -9,7 +9,7 @@ title: Life Leech
 ---
 
 # Life Leech
-*Requires*: [The Siren of Death](../The-Siren-of-Death.md)
+*Requires*: [The Siren of Death](The-Siren-of-Death.md)
 *15 Life Energy*
 
 The Siren of Death drains life energy from a target, restoring `dice: 1d20`(1d20+MST) hit points and `dice: 1d20` (1d20+MST) shield points to herself.

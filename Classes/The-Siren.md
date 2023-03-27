@@ -109,8 +109,8 @@ Rather nab an Affinity Feat? Check your Skill Tree Page Instead.
 | Elemental Aura      | Choose an element type. Gain a pulsing aura equal to `dice: 1d4` damage of that type with a range of **1** square. This damage affects allies, objects, and enemies within the range of the aura.                                             |                              |
 | Elemental Fusion    | When using an elemental gun, you may choose to apply an additional singular Element type to your damage. This damage will be equal to **1/2** the elemental gun's *primary element* damage.                                                   | *Elemental Aura, Level 6*    |
 | Elemental Decay     | Whenever you deal elemental damage, the target also takes `dice: 1d4` + **Primary Stat Mod** damage of that element type at the start of their next turn for the next **2** turns.                                                            | *Elemental Fusion, Level 10* |
-| Eldritch Invocation | Whenever you deal elemental damage, the target also takes `dice: 1d6` *[Eldritch Damage](../Glossary/Eldritch-Damage.md)* at the start of their next turn for the next **3** turns. This effect stacks with each hit, up to a maximum of 6d6. | *Elemental Decay, Level 16*  |
-^bunkersTheSirenElementalFeats
+| Eldritch Invocation | Whenever you deal elemental damage, the target also takes `dice: 1d6` *[[Damage Types#Eldritch Damage\|Eldritch Damage]]* at the start of their next turn for the next **3** turns. This effect stacks with each hit, up to a maximum of 6d6. | *Elemental Decay, Level 16*  |
+^BnBTheSirenElementalFeats
 
 ### Check Feats
 | Feat Name           | Feat Desc                                                                                                                                                              | Requirements                   |
@@ -126,5 +126,4 @@ Rather nab an Affinity Feat? Check your Skill Tree Page Instead.
 | Master of Disguise  | +2 on all Sneak Checks when in disguise. Stacks with *Silent, but Deadly.*                                                                                             | Lvl 15+                        |
 | Element of Surprise | +3 DMG Mod on your next Action Skill when you make a successful Sneak Check.                                                                                           | Lvl 20+, *Master of Disguise*  |
 | Leader of the Gang  | Adjacent allies within two squares gain +1 DMG Mod on all their attacks, including unintentional attacks.                                                              | Lvl 25+, *Element of Surprise* |
-^bunkersTheSirenCheckFeats
-
+^BnBTheSirenCheckFeats

@@ -5,7 +5,7 @@ title: Bunkers & Badasses Statblock Layout for Obsidian Fantasy Statblocks Plugi
 # Bunkers & Badasses Statblock Layout for Obsidian TTRPG Plugin
 
 ## What Does it Looks Like?
-![BnB Layout Version 1](zz-attachment/BNB-V1.png)
+![BnB Layout Version 1](_attachments/BNB-V1.png)
 
 ## The Codeblock: Bestiary
 Note: `Layout: BunkersBestiary` Must be placed within the codeblock during the following conditions:
@@ -81,8 +81,8 @@ ImageBig: ""
 ````
 
 ### How to Install
-1. Download [Bunkers.json](zz-attachment/Bunkers.json) and import it into your Obsidian TTRPG Statblocks Plugin.
-2. Download [BnB-TTRPG-Statblock-Monsters](zz-attachment/BnB-TTRPG-Statblock-Monsters.css) and place into your `.obsidian/snippets` directory.
+1. Download [Bunkers.json](_attachments/Bunkers.json) and import it into your Obsidian TTRPG Statblocks Plugin.
+2. Download [BnB-TTRPG-Statblock-Monsters](_attachments/BnB-TTRPG-Statblock-Monsters.css) and place into your `.obsidian/snippets` directory.
 3. Enable the snippet.
 4. Copy the code block above and surround with the ` ```statblock ` codeblock. Confirm you see a screenshot similar to above.
 

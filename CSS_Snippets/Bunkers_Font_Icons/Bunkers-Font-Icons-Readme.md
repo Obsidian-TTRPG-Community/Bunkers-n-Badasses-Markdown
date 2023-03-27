@@ -14,7 +14,7 @@ Please note… You will not be able to see the icons in this Readme properly unt
 
 ## Files You Will Need
 
-1. [Bunkers-Font-Icons-V1](zz-attachment/Bunkers-Font-Icons-V1.css)
+1. [Bunkers-Font-Icons-V1](_attachments/Bunkers-Font-Icons-V1.css)
 2. All the files in the [Fonts](../Fonts) directory if you want the physical fonts to encode into your site.
 
 ### Optional Files
@@ -64,7 +64,7 @@ Statblocks is already set up to skin these two variables towards `p` and `h1-h6`
 `e1119`
 
 *Image for those who still are working to install the font.*
-![](zz-attachment/HTML-As-Icon.png)
+![](_attachments/HTML-As-Icon.png)
 
 ***
 
@@ -92,7 +92,7 @@ As a result, now after the system-ui font, the glyphs will render in any of the 
 󡄛, 󡄝, and 󡄙  as well.
 
 *Image rendition*
-![](zz-attachment/image-example-2.png)
+![](_attachments/image-example-2.png)
 
 ***
 
@@ -118,9 +118,9 @@ However the font file does contain individual classes for each icon, so you can 
 ```
 
 *Image Rendition*
-![Example Image 3](zz-attachment/image-example-3.png)
+![Example Image 3](_attachments/image-example-3.png)
 
 ***
 
 ### Image Table of Font Icons
-![](zz-attachment/Bunkers-Font-Icons.png)
+![](_attachments/Bunkers-Font-Icons.png)

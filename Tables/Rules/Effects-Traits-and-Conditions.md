@@ -1,5 +1,6 @@
 ---
 alias: ["Bunkers & Badasses Effects, Traits, and Conditions"]
+dg-publish: true
 tags: 
 - BnB/Tables/Effects
 - BnB/Tables/EnemyTraits
@@ -42,4 +43,4 @@ tags:
 | Movement             | Teleport       | A type of Movement where the player or Enemy instantly changes location to a target square, ignoring normal Movement rules.                                                                    |
 | Trait                | Tough          | Takes a max of 10 Damage from each Attack.                                                                                                                                                     |
 | Trait                | Wood           | Physical Trait. Susceptible to Incendiary Damage.                                                                                                                                              |
-^BunkersNBadassesComboETCTable
+^BnBNBadassesComboETCTable

@@ -1,0 +1,26 @@
+.statblock[class*=bunkers] .dice-roller {
+  align-items: unset;
+  cursor: grab;
+  display: contents;
+  gap: unset;
+  margin: unset;
+  position: relative;
+  vertical-align: unset;
+}
+.statblock[class*=bunkers] .dice-roller > .dice-roller-button {
+  color: rgb(210, 56, 110);
+  display: inline-block;
+  font-size: inherit;
+  margin-left: 0.25em;
+  position: relative;
+}
+.statblock[class*=bunkers] .dice-roller .dice-roller-result {
+  color: rgb(183, 85, 108);
+  font-weight: var(--statblock-font-weight);
+}
+.statblock[class*=bunkers] .dice-roller .roller-result {
+  color: rgb(183, 85, 108);
+  font-weight: var(--statblock-font-weight);
+}
+
+/*# sourceMappingURL=bunkers-rollerresults.css.map */

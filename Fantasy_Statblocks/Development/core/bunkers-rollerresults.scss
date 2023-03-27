@@ -1,0 +1,32 @@
+.statblock[class*='bunkers'] {
+  $bnb-dice-roller-button: rgba(210, 56, 110, 1);
+  $bnb-dice-roller-result: rgba(183, 85, 108, 1);
+
+  .dice-roller {
+    align-items: unset;
+    cursor: grab;
+    display: contents;
+    gap: unset;
+    margin: unset;
+    position: relative;
+    vertical-align: unset;
+
+    > .dice-roller-button {
+      color: $bnb-dice-roller-button;
+      display: inline-block;
+      font-size: inherit;
+      margin-left: 0.25em;
+      position: relative;
+    }
+
+    .dice-roller-result {
+      color: $bnb-dice-roller-result;
+      font-weight: var(--statblock-font-weight);
+    }
+
+    .roller-result {
+      color: $bnb-dice-roller-result;
+      font-weight: var(--statblock-font-weight);
+    }
+  }
+}

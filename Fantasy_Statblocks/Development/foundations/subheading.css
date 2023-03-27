@@ -1,0 +1,8 @@
+.subheading {
+  font-weight: var(--bnb-subheading-font-weight);
+  font-style: var(--bnb-subheading-font-style);
+  font-size: var(--bnb-subheading-font-size);
+  margin: 0;
+}
+
+/*# sourceMappingURL=subheading.css.map */

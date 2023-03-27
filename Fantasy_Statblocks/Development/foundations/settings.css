@@ -1,0 +1,135 @@
+.statblock-filter-container {
+  /*! Settings */
+}
+.statblock-filter-container .search-input-container {
+  margin-bottom: 0;
+}
+.statblock-filter-container .no-border-top {
+  border-top: 0;
+}
+.statblock-filter-container .statblock-edit-block .statblock-additional-container > .additional > .setting-item {
+  color: var(--text-muted);
+}
+.statblock-filter-container .statblock-edit-block .statblock-additional-container > .additional > .setting-item .setting-item-name {
+  font-size: small;
+  font-style: italic;
+}
+.statblock-filter-container .statblock-edit-block .statblock-additional-container > :not(.additional) {
+  padding-bottom: 0;
+}
+.statblock-filter-container .statblock-edit-block .setting-item {
+  border: 0;
+  padding-top: 0;
+}
+.statblock-filter-container .statblock-edit-block textarea {
+  width: 100%;
+  resize: vertical;
+  overflow: hidden;
+}
+.statblock-filter-container .statblock-additional-container.statblock-monsters button {
+  margin-right: 0;
+}
+.statblock-filter-container .statblock-file-upload > input[type=file] {
+  display: none;
+}
+.statblock-filter-container .statblock-additional-container {
+  border-top: 1px solid var(--background-modifier-border);
+  border-bottom: 0 solid var(--background-modifier-border);
+  padding: 18px 0;
+  background-color: inherit;
+}
+.statblock-filter-container .statblock-additional-container details {
+  padding: 18px 0;
+}
+.statblock-filter-container .statblock-additional-container .clickable-icon {
+  margin: 0 6px;
+}
+.statblock-filter-container .statblock-additional-container .task-list-inline {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0 3em;
+  padding-bottom: 0;
+  margin: 0;
+}
+.statblock-filter-container .statblock-additional-container > .setting-item-heading:only-child {
+  padding-bottom: 18px;
+}
+.statblock-filter-container .statblock-additional-container > .additional {
+  margin: 6px 12px;
+}
+.statblock-filter-container .statblock-additional-container > .additional > .setting-item {
+  padding-top: 9px;
+}
+.statblock-filter-container .statblock-additional-container > .additional > .setting-item > .setting-item-control > *:first-child {
+  margin: 0 6px;
+}
+.statblock-filter-container .statblock-additional-container .setting-item {
+  border-top: 0;
+}
+.statblock-filter-container .statblock-monster-filter {
+  position: sticky;
+  top: calc(-1 * var(--statblock-filter-offset));
+  background-color: var(--statblock-filter-bg);
+  z-index: 99999;
+}
+.statblock-filter-container .statblock-settings .coffee {
+  width: 60%;
+  color: var(--text-faint);
+  margin: 1rem auto;
+  text-align: center;
+}
+.statblock-filter-container .statblock-settings .coffee img {
+  height: 30px;
+}
+.statblock-filter-container .statblock-block-editor details > summary {
+  border-top-left-radius: 0.1rem;
+  border-top-right-radius: 0.1rem;
+  cursor: pointer;
+  display: block !important;
+  list-style-type: none !important;
+  list-style: none !important;
+  margin-bottom: 1rem;
+  min-height: 1rem;
+  outline: none;
+  position: relative;
+}
+.statblock-filter-container .statblock-block-editor details > summary .collapser {
+  position: absolute;
+  top: 50%;
+  right: 8px;
+  transform: translateY(-50%);
+  content: "";
+}
+.statblock-filter-container .statblock-block-editor details > summary .handle {
+  -webkit-mask-image: var(--admonition-details-icon);
+  -webkit-mask-repeat: no-repeat;
+  -webkit-mask-size: contain;
+  background-color: currentColor;
+  height: 20px;
+  mask-image: var(--admonition-details-icon);
+  mask-repeat: no-repeat;
+  mask-size: contain;
+  transform: rotate(0deg);
+  transition: transform 0.25s;
+  width: 20px;
+}
+.statblock-filter-container .statblock-nested-settings {
+  padding-bottom: 18px;
+}
+.statblock-filter-container .statblock-nested-settings .cm-editor {
+  margin-bottom: 1rem;
+}
+.statblock-filter-container .statblock-block-editor details > summary::-webkit-details-marker,
+.statblock-filter-container .statblock-block-editor details .statblock-block-editor details > summary::marker {
+  display: none !important;
+}
+.statblock-filter-container .statblock-block-editor details .statblock-block-editor details[open] > summary > .collapser > .handle {
+  transform: rotate(90deg);
+}
+.statblock-filter-container .statblock-nested-settings[open] .setting-item-heading,
+.statblock-filter-container .statblock-nested-settings:not(details) .setting-item-heading {
+  border-top: 0;
+  border-bottom: 1px solid var(--background-modifier-border);
+}
+
+/*# sourceMappingURL=settings.css.map */

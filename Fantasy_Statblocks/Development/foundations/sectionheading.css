@@ -1,0 +1,14 @@
+.section-header {
+  border-bottom: var(--statblock-section-heading-border-size) solid var(--statblock-section-heading-border-color);
+  color: var(--statblock-section-heading-font-color);
+  font-size: var(--statblock-section-heading-font-size);
+  font-variant: var(--statblock-section-heading-font-variant);
+  font-weight: var(--statblock-section-heading-font-weight);
+  letter-spacing: 1px;
+  margin: 0;
+  margin-bottom: 0.3em;
+  break-inside: avoid-column;
+  break-after: avoid-column;
+}
+
+/*# sourceMappingURL=sectionheading.css.map */

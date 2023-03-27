@@ -1,0 +1,126 @@
+/*!
+/* @settings
+name: Bunkers & Badasses Statblocks
+id: bunkersnbadasses
+collapsed: true
+settings:
+  -
+    id: statblock-theme-creature
+    title: Creature Statblock Theme
+    description: The theme of the creature statblock
+    type: class-select
+    allowEmpty: false
+    default: path2eblock-theme-default
+    options:
+    -
+        label: Default
+        value: path2eblock-theme-default
+    -
+        label: Kingmaker
+        value: path2eblock-theme-kingmaker
+  -
+    id: statblock-theme-action
+    title: Action Statblock Theme
+    description: The theme of the action statblock
+    type: class-select
+    allowEmpty: false
+    default: path2eblockact-theme-default
+    options:
+    -
+        label: Default
+        value: path2eblockact-theme-default
+    -
+        label: Kingmaker
+        value: path2eblockact-theme-kingmaker
+  -
+    id: statblock-theme-hazard
+    title: Hazard Statblock Theme
+    description: The theme of the hazard statblock
+    type: class-select
+    allowEmpty: false
+    default: path2eblockhaz-theme-default
+    options:
+    -
+        label: Default
+        value: path2eblockhaz-theme-default
+    -
+        label: Kingmaker
+        value: path2eblockhaz-theme-kingmaker
+  -
+    id: statblock-theme-influence
+    title: Influence Statblock Theme
+    description: The theme of the influence subsystem statblock
+    type: class-select
+    allowEmpty: false
+    default: path2eblockinf-theme-default
+    options:
+    -
+        label: Default
+        value: path2eblockinf-theme-default
+    -
+        label: Kingmaker
+        value: path2eblockinf-theme-kingmaker
+  -
+    id: statblock-theme-misc
+    title: Misc Statblock Theme
+    description: The theme of the misc statblock
+    type: class-select
+    allowEmpty: false
+    default: path2eblockmisc-theme-default
+    options:
+    -
+        label: Default
+        value: path2eblockmisc-theme-default
+    -
+        label: Kingmaker
+        value: path2eblockmisc-theme-kingmaker
+  -
+    id: statblock-theme-quest
+    title: Quest Statblock Theme
+    description: The theme of the quest statblock
+    type: class-select
+    allowEmpty: false
+    default: path2eblockquest-theme-default
+    options:
+    -
+        label: Default
+        value: path2eblockquest-theme-default
+    -
+        label: Kingmaker
+        value: path2eblockquest-theme-kingmaker
+  -
+    id: statblock-theme-set
+    title: Settlement Statblock Theme
+    description: The theme of the settlement statblock
+    type: class-select
+    allowEmpty: false
+    default: path2eblockset-theme-default
+    options:
+    -
+        label: Bestiary
+        value: path2eblockset-theme-default
+    -
+        label: Quest
+        value: path2eblockset-theme-kingmaker
+ */
+
+@use "statblock-types" as statblocks;
+@use "themes/default" as default;
+@use "themes/kingmaker" as kingmaker;
+
+@each $block_name in statblocks.$names {
+  body.path2e#{$block_name}-theme-default {
+    .statblock.path2e#{$block_name} {
+      @include default.theme;
+    }
+  }
+}
+
+
+@each $block_name in statblocks.$names {
+  body.bunkers#{$block_name}-theme-kingmaker {
+    .statblock.path2e#{$block_name} {
+      @include kingmaker.theme;
+    }
+  }
+}

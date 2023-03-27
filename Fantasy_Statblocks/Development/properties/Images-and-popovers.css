@@ -1,0 +1,82 @@
+.statblock[class*=bunkers] img {
+  border: var(--statblock-image-border-size) solid var(--statblock-image-border-color);
+  border-radius: unset;
+  height: 100%;
+  margin: -0.5em;
+  object-fit: fill;
+  object-position: center;
+  padding-top: 5px;
+  width: 100%;
+}
+.statblock[class*=bunkers] .image {
+  height: var(--statblock-image-height);
+  width: var(--statblock-image-width);
+}
+.statblock[class*=bunkers] .image-container {
+  text-align: center;
+}
+.statblock[class*=bunkers] .image.pointer {
+  cursor: pointer;
+}
+.statblock[class*=bunkers] .ImageBig a {
+  display: inline-block;
+}
+
+.popover:has(.obsidian-statblock-plugin) {
+  background-color: var(--background-primary);
+  border-radius: var(--radius-m);
+  border: rgb(226, 105, 134) 1px dashed;
+  box-shadow: var(--shadow-s);
+  max-height: max-content;
+  padding: var(--size-4-5);
+  position: relative;
+}
+
+.popover.hover-popover:has(.obsidian-statblock-plugin) {
+  max-width: 80vw;
+  min-height: 100px;
+  overflow: unset;
+  padding: 0;
+  position: absolute;
+  width: fit-content;
+  z-index: 30;
+}
+
+/*! Statblock and Embed */
+.popover .hover-popover {
+  /*! Statblock and Embed */
+}
+.popover .hover-popover .markdown-embed:has(.obsidian-statblock-plugin) {
+  /*! Statblock and Embed */
+  border: rgb(226, 105, 134) 1px dashed;
+  display: contents;
+  min-height: 100px;
+  max-height: max-content;
+  width: fit-content;
+}
+
+/*
+body {
+  > .popover.hover-popover {
+    > .markdown-embed {
+      > .markdown-embed-content {
+        overflow: unset;
+        > .markdown-preview-view {
+          > .obsidian-statblock-plugin {
+            > * {
+              !*! Applied to TTRPG Statblock Class Bunkers Only *!
+              border: $statbest-popover-border;
+              display: contents;
+              height: $statbest-popover-height;
+              max-height: $statbest-popover-max-height;
+              width: $statbest-popover-width;
+            }
+          }
+        }
+      }
+    }
+  }
+}
+*/
+
+/*# sourceMappingURL=Images-and-popovers.css.map */

@@ -1,0 +1,46 @@
+$bunkers-bomb-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Ccircle cx='11' cy='13' r='9'%3E%3C/circle%3E%3Cpath d='m19.5 9.5 1.8-1.8a2.4 2.4 0 0 0 0-3.4l-1.6-1.6a2.41 2.41 0 0 0-3.4 0l-1.8 1.8'%3E%3C/path%3E%3Cpath d='m22 2-1.5 1.5'%3E%3C/path%3E%3C/svg%3E");
+.statblock[class*='bunkers'] {
+  details > summary {
+    border-top-left-radius: 0.1rem;
+    border-top-right-radius: 0.1rem;
+    cursor: pointer;
+    display: block !important;
+    list-style: none !important;
+    margin-bottom: 1rem;
+    min-height: 1rem;
+    outline: none;
+    position: relative;
+  }
+
+  details > summary::-webkit-details-marker,
+  details > summary::marker {
+    display: none !important;
+  }
+
+  details > summary > .collapser {
+    content: '';
+    position: absolute;
+    right: 8px;
+    top: 50%;
+    transform: translateY(-50%);
+  }
+
+  details > summary > .collapser > .handle {
+    -webkit-mask-image: $bunkers-bomb-icon;
+    -webkit-mask-repeat: no-repeat;
+    -webkit-mask-size: contain;
+    background-color: currentColor;
+    height: 20px;
+    mask-image: $bunkers-bomb-icon;
+    mask-repeat: no-repeat;
+    mask-size: contain;
+    transform: rotate(0deg);
+    transition: transform 0.25s;
+    width: 20px;
+  }
+
+  details[open] > summary > .collapser > .handle {
+    transform: rotate(90deg);
+  }
+
+}

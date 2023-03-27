@@ -1,0 +1,20 @@
+.statblock[class*='bunkers'] {
+  .property-name {
+    /*! Span.property-name controls the name of every property */
+    display: inline;
+    font-family: var(--statbest-property-name-font-family);
+    font-size: var(--statbest-property-name-font-size);
+    font-style: var(--statblock-property-name-font-style);
+    font-weight: var(--statblock-property-name-font-weight);
+    margin: 0 0.25em 0 0;
+
+    > p {
+      /*! Span.property-name controls the name of every property */
+      font-family: var(--bnb-thin-name-font-family);
+      font-size: var(--bnb-thin-name-font-size);
+      font-style: var(--bnb-thin-name-font-style);
+      font-weight: var(--bnb-thin-name-font-weight);
+    }
+  }
+}
+

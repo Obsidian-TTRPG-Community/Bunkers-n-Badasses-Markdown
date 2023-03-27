@@ -1,0 +1,19 @@
+.image {
+  width: var(--statblock-image-width);
+  height: var(--statblock-image-height);
+}
+
+.image.pointer {
+  cursor: pointer;
+}
+
+img {
+  border-radius: 100%;
+  border: var(--statblock-image-border-size) solid var(--statblock-image-border-color);
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
+  width: 100%;
+}
+
+/*# sourceMappingURL=image.css.map */

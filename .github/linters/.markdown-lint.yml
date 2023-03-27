@@ -26,7 +26,7 @@ no-missing-space-atx: false
 no-multiple-space-atx: true
 no-missing-space-closed-atx: false
 no-multiple-space-closed-atx: false
-lanks-around-headings: false
+blanks-around-headings: false
 heading-start-left: false
 no-duplicate-heading: true
 allow_different_nesting: true

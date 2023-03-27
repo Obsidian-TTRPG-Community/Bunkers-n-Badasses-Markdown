@@ -1,0 +1,13 @@
+// Default Property Line Styling
+.line {
+  line-height: var(--statblock-property-line-height);
+  display: block;
+  color: var(--statblock-property-font-color);
+}
+.property-name {
+  margin: 0;
+  margin-right: 0.25em;
+  display: inline;
+  color: var(--statblock-property-name-font-color);
+  font-weight: var(--statblock-property-name-font-weight);
+}

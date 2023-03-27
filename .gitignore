@@ -5,6 +5,7 @@
 .obsidian
 .trash
 .development
+.fonts
 
 # Ignore vscode and friends
 .vscode
@@ -32,3 +33,6 @@ pw.*
 *.kdbx
 *.pfx
 *.key
+
+# Ignore Custom defined files
+.foundations

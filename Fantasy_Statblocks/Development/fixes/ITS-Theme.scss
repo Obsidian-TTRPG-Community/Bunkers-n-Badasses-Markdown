@@ -1,0 +1,25 @@
+// ITS Theme Fixes
+:is(.dnd, .wotc, .wotc-beyond):not(.illusion, .bunkersbestiary):not(.h-line):not(.hcl):not(.sphd-und-1) :is(.markdown-preview-view,
+.markdown-source-view):not(.h-line) :is(h1, .HyperMD-header-1):after {
+  /*! Fixes H1 Underlines */
+  width : unset;
+}
+
+:is(h1, .HyperMD-header-1):not(.bunkersbestiary)::after {
+  /*! Fixes H1 Underlines Too */
+  width: unset;
+}
+
+/* Fixes H3 Underlines */
+:is(.dnd, .wotc, .wotc-beyond):not(.illusion, .bunkersbestiary):not(.h-line):not(.hcl):not(.sphd-und-3) :is(.markdown-preview-view,
+.markdown-source-view):not(.h-line) :is(h3, .HyperMD-header-3):after {
+  /*! Fixes H3 Underlines */
+  width : unset;
+  height: unset;
+  background: unset;
+}
+
+:is(h3, .HyperMD-header-3)::after {
+  /*! Fixes H3 Underlines Too*/
+  width: unset;
+}

@@ -1,0 +1,26 @@
+.statblock[class*='bunkers'] {
+  div {
+    box-sizing: content-box;
+
+    @each $class in ('Shield', 'Health', 'Armor', 'Traits') {
+      & .#{$class} {
+        background-color: var(--bnb-traits-background-color);
+        color: var(--bnb-traits-font-color);
+        padding-left: 0.188em;
+        position: relative;
+        width: 10em;
+
+        @if $class == 'Health' {
+          border-top-left-radius: 0.625em 0.625em;
+          border-top-right-radius: 0.625em 0.625em;
+        }
+
+        @if $class == 'Traits' {
+          border-bottom-left-radius: 0.625em 0.625em;
+          border-bottom-right-radius: 0.625em 0.625em;
+          padding-bottom: 0.188em;
+        }
+      }
+    }
+  }
+}

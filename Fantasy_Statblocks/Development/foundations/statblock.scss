@@ -1,0 +1,14 @@
+// These are the current Statblock.svelte Defaults.
+.container {
+  display: flex;
+  margin: 0.25rem 0;
+  width: 100%;
+}
+.statblock {
+  margin: 0 auto;
+  position: relative;
+}
+.icons {
+  position: absolute;
+  right: 0;
+}

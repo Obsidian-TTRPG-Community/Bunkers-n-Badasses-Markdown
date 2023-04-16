@@ -4,9 +4,6 @@ tags: BnB/Homebrew/Bestiary/Undead
 title: Deathclaw Ravager
 ---
 
-
-
-
 ### Statblock
 ```statblock
 layout: BunkersBestiary

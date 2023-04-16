@@ -19,7 +19,7 @@ title: "Recipe: Matcha Latcha"
 - Three Fresh [GOB-lin](Gob-Lins.md) Bouncing Beans from unwilling donors, mashed.
 > [!quote] **Note**: *Pickled and Dried GOB-Lin Bouncing Beans will produce hallucinogenic effects, and may be considered a poison. I and the Handsome Hag are not liable for any resulting deaths as the result of any misapplication of the recipe.*
 - Two [Troll](Troll.md) Toes, crushed. Any variant will do.
-- One barrel of [Adult-Skag](../../../60%20Wyrmscriber/0%20Courier/Resort%20Me/Adult-Skag.md)'s blood; Normal Variant Only. May also be found as [Blood-of-the-Skag](../../../60%20Wyrmscriber/0%20Courier/Resort%20Me/Blood-of-the-Skag.md).
+- One barrel of [Adult Skag](Adult%20Skag.md)'s blood; Normal Variant Only. May also be found as [Blood of the Skag](Blood%20of%20the%20Skag.md).
 >[!abstract] What happens if the reader uses a different variant of Skag, such as a Spitter or a baby skag? \- Devvie
 >> [!quote] The recipe tastes like a horses ass. Moving on…
 - One satchel of powdered Green Tea Leaf, available for purchase at any purveyor of fine Tea Leaf.

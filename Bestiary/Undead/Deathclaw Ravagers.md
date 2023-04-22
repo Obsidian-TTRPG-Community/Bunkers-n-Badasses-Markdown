@@ -1,6 +1,6 @@
 ---
-alias: [Deathclaw Ravager]
-tags: BnB/Homebrew/Bestiary/Undead
+aliases: [Deathclaw Ravager]
+tags: BunkersNBadasses/Homebrew/Bestiary/Undead
 title: Deathclaw Ravager
 ---
 
@@ -40,4 +40,3 @@ Loot:
   desc: "This sharp talon can be used to craft deadly weapons."
 ImageBig: ""
 ```
-

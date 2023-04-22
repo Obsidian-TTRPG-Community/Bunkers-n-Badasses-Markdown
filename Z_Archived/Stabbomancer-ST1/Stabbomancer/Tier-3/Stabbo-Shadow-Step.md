@@ -1,5 +1,5 @@
 ---
-alias: ["Stabbomancer Shadow Step"]
+aliases: ["Stabbomancer Shadow Step"]
 cssclass: 
 slevel: 0
 slevelmax: 1

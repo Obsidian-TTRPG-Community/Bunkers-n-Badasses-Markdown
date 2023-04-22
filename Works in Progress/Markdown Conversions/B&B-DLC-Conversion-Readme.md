@@ -1,5 +1,5 @@
 ---
-alias: [B&B DLC Conversion Readme]
+aliases: [B&B DLC Conversion Readme]
 cssclass: 
 title: "B&B DLC's Conversion Readme"
 ---

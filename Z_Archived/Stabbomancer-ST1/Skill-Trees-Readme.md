@@ -1,5 +1,5 @@
 ---
-alias: 
+aliases: 
 cssclass: 
 title: Skill Trees Readme
 ---

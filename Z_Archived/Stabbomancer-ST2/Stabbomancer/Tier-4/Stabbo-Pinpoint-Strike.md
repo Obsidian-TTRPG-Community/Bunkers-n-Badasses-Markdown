@@ -1,5 +1,5 @@
 ---
-alias: ["Stabbomancer Pinpoint Strike"]
+aliases: ["Stabbomancer Pinpoint Strike"]
 class: Assassin
 cssclass: 
 skilltree: Stabbomancer

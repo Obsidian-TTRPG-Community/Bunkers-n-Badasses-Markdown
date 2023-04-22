@@ -1,9 +1,0 @@
-.statblock[class*=bunkers] .Type {
-  /*! Make Type Property Better */
-  /*! Make Type Property Better */
-  font-family: "exo_2regular", "BnBFont", sans-serif;
-  font-size: clamp(0.8125em, 10px + 1.5vw, 12px);
-  font-style: italic;
-}
-
-/*# sourceMappingURL=bunkers-type.css.map */

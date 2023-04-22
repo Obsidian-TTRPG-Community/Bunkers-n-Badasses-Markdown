@@ -1,12 +1,12 @@
 ---
 ac: 0
-alias: ["Brittle Crab King"]
+aliases: ["Brittle Crab King"]
 cr: 3
 hp: 30
 modifier: 
 statblock: inline
 tags:
-- BnB/Homebrew/Bestiary/Wildlife/Crab
+- BunkersNBadasses/Homebrew/Bestiary/Wildlife/Crab
 title: "Brittle Crab King"
 ---
 
@@ -55,5 +55,4 @@ ImageBig: ""
 > [!quest]
 > If spared from death in it's defeat, it may offer a quest to players to help find its beloved mate.
 >
-> See [The Queen of the Mellow Crustaceans](../../../Quests/Rescue/The-Queen-of-the-Mellow-Crustaceans.md)
-
+> See [The Queen of the Mellow Crustaceans](The%20Queen%20of%20the%20Mellow%20Crustaceans.md)

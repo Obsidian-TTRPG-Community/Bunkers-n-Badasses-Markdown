@@ -1,7 +1,7 @@
 ---
-alias: ["Assassin: Stabbomancer"]
+aliases: ["Assassin: Stabbomancer"]
 tags:
-- BnB/Homebrew/Classes/Assassin/Stabbomancer
+- BunkersNBadasses/Homebrew/Classes/Assassin
 title: Stabbomancer
 ---
 
@@ -36,7 +36,7 @@ Whether wielding guns, melee weapons, or magic spells, the Stabbomancers are a t
 **(MST Mod per Day + 1/Encounter)**
 
 ### Skill Tree - Canvas
-![](2000%20BunkerShare/Z_Archived/Stabbomancer-ST2/Stabbomancer/zz-attachment/Stabbo-Skill-Tree.canvas)
+![](Bunkers%20and%20Badasses/Z_Archived/Stabbomancer-ST2/Stabbomancer/zz-attachment/Stabbo-Skill-Tree.canvas)
 
 ### Skill Tree - Table
 | Tier 1 Skills          |                                                                                                                                                           |
@@ -69,7 +69,7 @@ Whether wielding guns, melee weapons, or magic spells, the Stabbomancers are a t
 
 >[!meta]- Class Inline Metadata
 > accuracy:: 0
-> classfeat:: [Dirty Fighting](2000%20BunkerShare/Scouts%20DLCs%20Converted/DLC%203/Class-Feats/Dirty-Fighting.md)
+> classfeat:: [Dirty Fighting](Bunkers%20and%20Badasses/Works%20in%20Progress/Markdown%20Conversions/Scouts%20DLCs%20Converted/DLC%203/Class-Feats/Dirty-Fighting.md)
 > damage:: 1
 > filetype:: Skilltree
 > image:: [Stabbomancer.png](Stabbomancer.png)

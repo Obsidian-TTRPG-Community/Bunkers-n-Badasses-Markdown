@@ -36,3 +36,10 @@ pw.*
 
 # Ignore Custom defined files
 .foundations
+/1 Creating a Vault Hunter/
+/2 Playing The Game/
+/3 Running the Game/
+/05 Loot Generation/
+/0 Introduction/
+/_attachments/
+/Resources/

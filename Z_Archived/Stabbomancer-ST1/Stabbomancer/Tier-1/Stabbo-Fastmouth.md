@@ -1,5 +1,5 @@
 ---
-alias: ["Stabbomancer Fast Mouth"]
+aliases: ["Stabbomancer Fast Mouth"]
 class: Assassin
 cssclass: 
 skilltree: Stabbomancer

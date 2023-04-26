@@ -1,0 +1,17 @@
+.statblock[class*=bunkers] .clickable-icon,
+.statblock[class*=bunkers] .markdown-source-view.mod-cm6 .edit-block-button {
+  -webkit-app-region: no-drag;
+  align-items: center;
+  background-color: transparent;
+  border-radius: var(--clickable-icon-radius);
+  color: var(--icon-color);
+  cursor: var(--cursor);
+  display: flex;
+  height: auto;
+  justify-content: center;
+  opacity: var(--icon-opacity);
+  padding: var(--size-2-2) var(--size-2-3);
+  transition: opacity 0.15s ease-in-out;
+}
+
+/*# sourceMappingURL=editbutton.css.map */

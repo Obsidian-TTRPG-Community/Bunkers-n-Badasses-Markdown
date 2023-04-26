@@ -1,0 +1,22 @@
+.statblock[class*=bunkers] div {
+  box-sizing: content-box;
+}
+.statblock[class*=bunkers] div .Actions, .statblock[class*=bunkers] div .Mayhem, .statblock[class*=bunkers] div .Loot {
+  /*! Controls the name of Properties */
+  font-family: var(--bnb-mat-name-font-family);
+  font-size: var(--statblock-property-name-font-size);
+  font-weight: var(--bnb-thin-name-font-weight);
+  font-style: var(--statblock-property-name-font-style);
+  display: inline;
+  margin: 0 0.25em 0 0;
+}
+.statblock[class*=bunkers] div .Actions p, .statblock[class*=bunkers] div .Mayhem p, .statblock[class*=bunkers] div .Loot p {
+  /*! Controls the Description of Properties */
+  font-family: var(--statblock-content-font);
+  font-size: var(--statblock-content-font-size);
+  font-weight: var(--statblock-content-font-weight);
+  font-style: var(--bnb-content-font-style);
+  display: inline-block;
+}
+
+/*# sourceMappingURL=AMT.css.map */

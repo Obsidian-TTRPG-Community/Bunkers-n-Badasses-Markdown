@@ -1,0 +1,33 @@
+.statblock[class*=bunkers] .is-live-preview .statblock[class*=bunkers] .cm-header::before,
+.statblock[class*=bunkers] h1::before,
+.statblock[class*=bunkers] h2::before,
+.statblock[class*=bunkers] h3::before,
+.statblock[class*=bunkers] h4::before,
+.statblock[class*=bunkers] h5::before,
+.statblock[class*=bunkers] h6::before,
+.markdown-rendered .is-live-preview .statblock[class*=bunkers] .cm-header::before,
+.markdown-rendered h1::before,
+.markdown-rendered h2::before,
+.markdown-rendered h3::before,
+.markdown-rendered h4::before,
+.markdown-rendered h5::before,
+.markdown-rendered h6::before,
+.workspace .is-live-preview .statblock[class*=bunkers] .cm-header::before,
+.workspace h1::before,
+.workspace h2::before,
+.workspace h3::before,
+.workspace h4::before,
+.workspace h5::before,
+.workspace h6::before,
+.print .is-live-preview .statblock[class*=bunkers] .cm-header::before,
+.print h1::before,
+.print h2::before,
+.print h3::before,
+.print h4::before,
+.print h5::before,
+.print h6::before {
+  /*! Fix for Ebullient Header Styling */
+  display: none;
+}
+
+/*# sourceMappingURL=Ebullient-Theme.css.map */

@@ -6,7 +6,7 @@ hp: 30
 modifier: 
 statblock: inline
 tags:
-- BunkersNBadasses/Homebrew/Bestiary/Wildlife/Crab
+- Bunkers-N-Badasses/Homebrew/Bestiary/Wildlife/Crab
 title: "Brittle Crab King"
 ---
 

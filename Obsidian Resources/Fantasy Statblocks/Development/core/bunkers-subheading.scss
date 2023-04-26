@@ -1,0 +1,9 @@
+// Default Subheading
+.statblock[class*='bunkers'] {
+  .subheading {
+    font-weight: var(--bnb-subheading-font-weight);
+    font-style: var(--bnb-subheading-font-style);
+    font-size: var(--bnb-subheading-font-size);
+    margin: 0;
+  }
+}

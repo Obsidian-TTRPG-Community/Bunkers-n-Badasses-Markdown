@@ -1,0 +1,37 @@
+.statblock[class*=bunkers] .section-header,
+.statblock[class*=bunkers] h3.section-header {
+  /*! Improve Section Headings */
+  background-color: var(--bnb-traits-background-color);
+  border-bottom-right-radius: 0.9375em 0.5em;
+  border-left-width: 1.875em;
+  border-top-right-radius: 0.9375em 0.5em;
+  break-after: avoid-column;
+  break-inside: avoid-column;
+  color: var(--statblock-section-heading-font-color);
+  display: inline-block;
+  font-size: var(--statblock-section-heading-font-family);
+  font-variant: var(--statblock-section-heading-font-variant);
+  font-weight: var(--statblock-section-heading-font-weight);
+  letter-spacing: 0.0625em;
+  margin: 0 0 0.3em;
+  overflow-x: visible;
+  padding: 0.125em;
+  right: 0.625em;
+  width: 11.25em;
+}
+.statblock[class*=bunkers] .section-header p,
+.statblock[class*=bunkers] h3.section-header p {
+  /*! Alters p Text in the Section Heading */
+  font-family: var(--statblock-section-heading-font-family);
+  font-size: var(--statblock-section-heading-font-size);
+  font-style: normal;
+  margin: 0.3125em;
+  padding-left: 0.125em;
+}
+.statblock[class*=bunkers] h3.section-header {
+  /*! Corrects H3 Section Header to be Special */
+  font-family: var(--statblock-section-heading-font-family);
+  font-style: var(--statblock-section-heading-font-style);
+}
+
+/*# sourceMappingURL=bunkers-sectionheading.css.map */

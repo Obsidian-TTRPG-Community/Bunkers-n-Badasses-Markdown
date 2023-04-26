@@ -1,0 +1,21 @@
+.statblock[class*="bunkers"] {
+  /*! Improve Tables */
+  .statblock-table-header {
+    font-weight: var(--bnb-table-header-font-weight);
+  }
+
+  .table {
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+  }
+
+  .table-item {
+    align-items: center;
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: center;
+  }
+}
+

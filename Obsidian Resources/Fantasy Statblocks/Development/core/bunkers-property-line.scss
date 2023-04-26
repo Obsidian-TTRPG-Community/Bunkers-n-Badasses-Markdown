@@ -1,12 +1,14 @@
 .statblock[class*='bunkers'] {
-  .statblock-item-inline:has(.statblock-inline-item .BadassRank) {
+  .statblock-item-inline:has(.BadassRank):has(.MovementType) {
     /*! Make the header with image, name, and type a flexbox */
-    display: flex;
-    align-items: flex-end;
-    flex-direction: row;
-    flex-wrap: wrap;
+      display: flex;
+      align-content: space-around;
+      align-items: center;
+      flex-direction: row;
+      flex-wrap: wrap;
+      justify-content: space-between;
   }
-  .statblock-item-inline:has(.statblock-inline-item .Name) {
+  .statblock-item-inline:has(.Name) {
     $gap-inline: 0.25rem;
     display: flex;
     flex-direction: row;
@@ -27,8 +29,14 @@
   .line {
     line-height: var(--statblock-property-line-height);
     display: inline-flex;
+    align-content: space-around;
+    align-items: baseline;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
     color: var(--statblock-property-font-color);
   }
+  
 
   .property-name {
     font-weight: var(--statblock-property-name-font-weight);

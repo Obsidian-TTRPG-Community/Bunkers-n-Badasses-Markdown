@@ -1,0 +1,17 @@
+/* Error: Expected identifier.
+ *   ,
+ * 2 |   &. statblock-rendered-text-content{
+ *   |     ^
+ *   '
+ *   bunkers-statblock-rendered-text.scss 2:5  root stylesheet */
+
+body::before {
+  font-family: "Source Code Pro", "SF Mono", Monaco, Inconsolata, "Fira Mono",
+      "Droid Sans Mono", monospace, monospace;
+  white-space: pre;
+  display: block;
+  padding: 1em;
+  margin-bottom: 1em;
+  border-bottom: 2px solid black;
+  content: "Error: Expected identifier.\a   \2577 \a 2 \2502    &. statblock-rendered-text-content{\a   \2502      ^\a   \2575 \a   bunkers-statblock-rendered-text.scss 2:5  root stylesheet";
+}

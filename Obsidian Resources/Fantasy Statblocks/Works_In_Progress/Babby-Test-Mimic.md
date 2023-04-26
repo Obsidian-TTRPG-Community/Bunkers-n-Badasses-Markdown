@@ -1,11 +1,15 @@
 ---
 aliases: 
-cssclass: 
+created: +002023-02-07 2321
+description: 
+image: 
+permalink: 
+publish: true
 title: Babby-Test-Mimic
+updated: +002023-04-25 2336
 ---
 
-# Babby-Test-Mimic
-
+## Babby-Test-Mimic
 
 ```statblock
 layout: BunkersBestiary
@@ -18,15 +22,17 @@ TitleOfMob:
 FlavorText: 
 TypeOfBoss: 
 
+Badass: [[badass.png]]
 BadassRank: "2"
+Movement: [[Movement.png]]
 MovementType: "move 4"
 Health: "12"
 Shield: 
 Armor: 
-Traits: Shapechanging, Clingy
-Weapon: "Baby Teeth"
+Traits: Shapechanging
+Weapon: "Baby Teeth +1"
 
-Special: "When reduced to half health or below, Baby mimic flee the encounter to an adjacent room and use shapechanging to look like a small chest or other object. This ability is only usable once ☹ per Babby Mimic and wears off after 1 Hour."
+Special: "When reduced to half health or below, Baby mimic flee the encounter to an adjacent room and use shapechanging to look like a small chest or other object. This ability is only usable once per Babby Mimic and wears off after 1 Hour."
 SuperSpecial:
 Actions:
 - name: Bite

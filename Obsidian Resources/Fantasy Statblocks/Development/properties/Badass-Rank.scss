@@ -1,0 +1,22 @@
+/* Background Image for Badass Ranks in Statblocks */
+.statblock[class*='bunkers'] {
+  & .badassRank {
+    /*! Background Image for Badass Ranks in Statblocks */
+    background-image: url(/badass.png) no-repeat;
+    background-size: var(--statblock-background-image-size);
+    bottom: 0.3125em;
+    font-family: var(--statblock-content-font);
+    min-height: 6.875em;
+    width: 6.25em;
+
+
+    & p {
+      font-size: var(--statblock-content-font-size);
+      font-weight: var(--statblock-content-font-weight);
+      //left: 42px;
+      line-height: 1.5;
+      min-height: fit-content;
+      //top: 42px;
+    }
+  }
+}

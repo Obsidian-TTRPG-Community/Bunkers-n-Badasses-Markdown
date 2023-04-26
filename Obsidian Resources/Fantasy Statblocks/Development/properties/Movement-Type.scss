@@ -1,0 +1,19 @@
+.statblock[class*='bunkers'] {
+  & .movementType {
+    /*! MovementType Box and Background */
+    font-family: var(--statblock-content-font);
+    position: relative;
+    top: 40px;
+    display: inline-block;
+    text-align: center;
+
+    > p {
+      font-size: var(--statblock-content-font-size);
+      font-weight: var(--statblock-content-font-weight);
+      line-height: 1.2;
+    }
+  }
+  & .movement {
+    cursor: none;
+  }
+}

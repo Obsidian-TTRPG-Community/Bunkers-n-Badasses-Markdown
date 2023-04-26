@@ -1,5 +1,5 @@
 ---
-alias: [Stabbomancer Canvas]
+aliases: [Stabbomancer Canvas]
 cssclass: bunkers
 title: Stabbomancer Canvas Proof of Concept Readme
 ---
@@ -18,7 +18,7 @@ This is a proof of concept for using canvas as a skill/progression tree tracker.
 
 ## Instructions
 1. Download the [Stabbomancer](../Stabbomancer/) folder in full and place it in your vault.
-2. Open [Stabbo-Skill-Tree](2000%20BunkerShare/Z_Archived/Stabbomancer-ST2/Stabbomancer/zz-attachment/Stabbo-Skill-Tree.canvas).
+2. Open [Stabbo-Skill-Tree](Bunkers%20and%20Badasses/Z_Archived/Stabbomancer-ST2/Stabbomancer/zz-attachment/Stabbo-Skill-Tree.canvas).
 3. You may need to rename and re-attach the individual canvas pieces. I have  moved everything to root to try to prevent this issue, but no guarantees.
 4. Explore. Make it better, and share it with the world. :)
 

@@ -1,11 +1,11 @@
 ---
 ac: 0
-alias: [Carved Treant]
+aliases: [Carved Treant]
 cr: 11
 hp: 100
 modifier: 
 statblock: inline
-tags: BnB/Homebrew/Bestiary/Plant
+tags: BunkersNBadasses/Homebrew/Bestiary/Plant
 title: "Carved Treant
 ---
 

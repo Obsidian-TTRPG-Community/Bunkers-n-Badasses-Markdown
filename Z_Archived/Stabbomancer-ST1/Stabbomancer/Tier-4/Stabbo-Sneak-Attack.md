@@ -1,5 +1,5 @@
 ---
-alias: ["Stabbomancer Sneak Attack"]
+aliases: ["Stabbomancer Sneak Attack"]
 class: Assassin
 cssclass: 
 skilltree: Stabbomancer

@@ -1,15 +1,17 @@
 ---
-alias: [Enemy Trait Sampler]
-tags:
-- BnB/Tables/Homebrew/EnemyTraits/Sampler
+aliases: [Enemy Trait Sampler]
+created: +002023-02-07 2321
+description: 
+image: 
+permalink: 
+publish: true
 title: Enemy Trait Sampler
+updated: +002023-04-19 1823
 ---
-
-## Enemy Trait Sampler
 
 These Enemy Traits can be used for NPC's, Enemies, Badasses, Superbadasses, and Bosses alike. 
 
-These were in my playtested and approved folder, so assume they have *some* value. You may still need to adjust them for your table.
+> [!note] These were in my playtested and approved folder, so assume they have *some* value. You may still need to adjust them for your table.
 
 | `dice: 1d20` | **Varied Enemy Traits**                                                                                       |
 | ------------ | --------------------------------------------------------------------------------------------------------------- |
@@ -33,4 +35,7 @@ These were in my playtested and approved folder, so assume they have *some* valu
 | 18           | **ARMOR PIERCING**: This creature is carrying special armor-piercing rounds that ignore up to 5 points of a creature's armor. |
 | 19           | **BOON OF LEVIATHAN**: This creature can attack all adjacent squares with its melee attack, and has `dice: 1d100` increased health.                               |
 | 20             |  **CURSED REGENERATION**: This cursed creature can regenerate lost limbs, but each time it does so, it loses one base stat point or a badass token. The GM chooses the outcome.                                                                                                             |
-^BnBEnemyTraitSamplerTable
+^BnB-Table-Traits-Enemy-1
+
+>[!inline-meta]- Metadata
+> **tags**:: #BunkersNBadasses/Homebrew/Tables/EnemyTraits/Sampler

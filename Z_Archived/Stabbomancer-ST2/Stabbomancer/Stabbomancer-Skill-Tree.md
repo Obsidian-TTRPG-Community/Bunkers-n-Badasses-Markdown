@@ -1,5 +1,5 @@
 ---
-alias: 
+aliases: 
 cssclass: 
 title: Stabbomancer-Skill-Tree
 ---
@@ -35,6 +35,6 @@ title: Stabbomancer-Skill-Tree
 
 ^BnBStabbomancerTree
 
-> [!abstract]- Note Metadata
+> [!inline-meta] Metadata
 > sourceurl:: [B&B DLC 3 - Into the Wonderlands](https://docs.google.com/document/d/1MLOgrWwcLNTnP9PuXrKiLImy7SUh4hXO8arVUAlmdp0/edit)
 > type:: Homebrew

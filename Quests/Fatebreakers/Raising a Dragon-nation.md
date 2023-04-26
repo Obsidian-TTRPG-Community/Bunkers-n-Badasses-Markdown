@@ -1,27 +1,31 @@
 ---
-alias: [Raising a Dragon Nation]
+aliases: [Raising a Dragon Nation]
 class:
 - Blightcaller
 - Graveborn
 cssclass: bunkers
-tags: BnB/Homebrew/Quests/Wonderlands
+tags: Bunkers-N-Badasses/Homebrew/Quest/Wonderlands
 title: Raising a Dragon Nation
 ---
 
-# Raising a Dragon Nation
 > [!warning]
 > If some party members wanted to Spare and Some wanted to destroy, hold off on starting this quest just yet.
 
-Throughout the Wonderlands campaign, a sharp-eyed adventurer may observe that there are more than Goblins,  GOB-lins, and Humans who make their home within the Wonderlands; the Undead do as well. Those whom are raised but do not actively fight for the Dragon Lord unless actively called upon. For the most part, their Lord lets them unlive out their undead unlives in peace. When your Players are tasked by the Diamonguard to destroy one of these settlements in [Them or Us](Them%20or%20Us), your players must make a choice: Destroy or Spare this undead settlement. In this case, your players choose to spare the settlement. This is what happens to your Graveborn and Blightcaller classes as a result.
+Throughout the Wonderlands campaign, a sharp-eyed adventurer may observe that there are more than Goblins,  GOB-lins, and Humans who make their home within the Wonderlands; the Undead do as well. Those whom are raised but do not actively fight for the Dragon Lord unless actively called upon. For the most part, their Lord lets them unlive out their undead unlives in peace. 
+
+When your Players are tasked by the Diamonguard to destroy one of these settlements in [Them or Us](Them%20or%20Us.md), your players must make a choice: Destroy or Spare this undead settlement. In this case, your players choose to spare the settlement. 
+
+This is what happens to your Graveborn and Blightcaller classes as a result.
 
 > [!quest] Class Quest Line: Raising a Dragon Nation
-> **Requires**: [Graveborn](Graveborn.md) or [Blightcaller](../../../../60-Wyrmscriber/Gamemaster/Mechanics/Classes/Commando/Blightcaller.md)
-> **Requires**: Spare decision of [Them or Us](Them%20or%20Us)
+> **Requires**: [[Graveborn|Graveborn Siren]] or [[Scouts Blightcaller|Commando: Blightcaller]]
+> **Requires**: Spare decision of [Them or Us](Them%20or%20Us.md)
 >
 > You've returned to the Diamondguard Barracks with your decision, and if you thought Paladin Mike could swear before you had no clue how he was when he was *pissed* and **angry**. Dismissed, rewardless, and statueless faster than you could say teapot, you find yourself back at square one. Until…
 >
 > "<Playername> Fatemaker. Our Boss wants to have a word with you."
-> **Turn In**: [Them or Us](Them%20or%20Us)
+> **Turn In**: [[Them or Us]]
+
 ***
 
 > [!sourcebook] BM'ing The Order of the Horned Skull
@@ -60,8 +64,8 @@ If the player decides they want to seek out Ribula again, begin next quest.
 > Raising dead dragons is the pinnacle of any necromancers power. However, to learn that ability can be hard for the living indeed. It requires undeniable proof of putting the needs of the undead above the needs of the living. And currently the only one who can teach any tenacious living necromancer to raise undead of this magnitude is the Dragon Lord. Like the dragon that he represents, he guards his secrets carefully.
 >
 > **Objectives**
-> - [ ] Betray the [Diamondguard](../../../60%20Wyrmscriber/0%20Courier/Resort%20Me/Diamondguard.md). This may be done in secret
-> - [ ] Assist the [Undead](../../../../30-Sathe-Shuna/01-ObsidianTTRPGShare/TTRPGShare_Community_Vaults/Pathfinder_2E/Traits/Undead.md) or [Skeleton Army](Skeleton-Army.md) in destroying six Humanoid settlements
+> - [ ] Betray the [Diamondguard](Diamondguard.md). This may be done in secret
+> - [ ] Assist the [Undead](../../../../30-Sathe-Shuna/01-ObsidianTTRPGShare/TTRPGShare_Community_Vaults/Pathfinder_2E/Traits/Undead.md) or [Skeleton Army](Skeleton%20Army.md) in destroying six Humanoid settlements
 > - [ ] Fortify six undead settlements by raising additional undead; at least ten per settlement of BR 10 or higher.
 > - [ ] Kill [Peter Fill](Peter%20Fill), the Archbishop of Rainbow's Blossom, quietly
 > - [ ] Learn, or Know, Draconic
@@ -82,6 +86,6 @@ If the player decides they want to seek out Ribula again, begin next quest.
 ## BM Explanation
 Throughout the Wonderlands campaign, a sharp-eyed adventurer may observe that there are more than Goblins,  GOB-lins, and Humans who make their home within the Wonderlands; the Undead do as well. Those whom are raised but do not actively fight for the Dragon Lord unless actively called upon. For the most part, their Lord lets them unlive out their undead unlives in peace.
 
-When your Players are tasked by the Diamonguard to destroy one of these settlements in [Them or Us](Them%20or%20Us), your players must make a choice: Destroy or Spare this undead settlement. Should they choose to spare the undead village, the Graveborn and Blightcaller players are later approached by the human members of the [Order of the Horned Skull](Order%20of%20the%20Horned%20Skull). They are offered an olive branch by a representative of the Dragon Lord; the secrets of necromancy in exchange for consideration that perhaps the players are currently misled, and on the wrong side.
+When your Players are tasked by the Diamonguard to destroy one of these settlements in [Them or Us](Them%20or%20Us.md), your players must make a choice: Destroy or Spare this undead settlement. Should they choose to spare the undead village, the Graveborn and Blightcaller players are later approached by the human members of the [Order of the Horned Skull](Order%20of%20the%20Horned%20Skull). They are offered an olive branch by a representative of the Dragon Lord; the secrets of necromancy in exchange for consideration that perhaps the players are currently misled, and on the wrong side.
 
 Should that path continue, and the conversations, revelations (or machinations- its your choice) continue between Dragon Lord and player, the

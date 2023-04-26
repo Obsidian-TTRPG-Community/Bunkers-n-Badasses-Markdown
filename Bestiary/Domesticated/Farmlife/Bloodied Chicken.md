@@ -1,20 +1,21 @@
 ---
-alias: ["Chicken"]
+aliases: ["Chicken"]
+created: +002023-02-07 2321
 tags:
-- BnB/Homebrew/Bestiary/Domesticated/Farmlife/
+- Bunkers-N-Badasses/Homebrew/Bestiary/Domesticated/Farmlife
 title: "Bloodied Chicken"
+updated: +002023-04-18 2456
 ---
 
 The Lone Survivor of the events after [The Hills Have Eggs](https://www.youtube.com/watch?v=Tl_TTTUd_y0)(18+, NSFW).
 
-### Statblock
+## Statblock
 ```statblock
 layout: BunkersBestiary
 source: Bunkers-Domesticated
 columns: 1
 force-columns: true
 dice: true
-
 Name: Bloodied Chicken
 Type: Farm Animal
 Bossextra: 

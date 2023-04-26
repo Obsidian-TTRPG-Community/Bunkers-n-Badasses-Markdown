@@ -1,0 +1,19 @@
+.statblock[class*='bunkers'] {
+  .property-name:not(.special):not(.weapon):not(.health):not(.shield) {
+    /*! Span.property-name controls the name of every property */
+    font-family: var(--statblock-property-name-font-family);
+    font-size: var(--statblock-property-name-font-size);
+    font-weight: var(--statblock-property-name-font-weight);
+    font-style: var(--statblock-property-name-font-style);
+    display: block;
+    margin: 0 0.25em 0 0;
+
+    > p {
+      /*! Span.property-name controls the name of every property */
+      font-family: var(--bnb-thin-name-font-family);
+      font-size: var(--bnb-thin-name-font-size);
+      font-weight: var(--bnb-thin-name-font-weight);
+      font-style: var(--bnb-thin-name-font-style);
+    }
+  }
+}

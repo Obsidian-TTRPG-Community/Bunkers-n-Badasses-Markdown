@@ -1,5 +1,5 @@
 ---
-alias: ["Stabbomancer Potent Poisons"]
+aliases: ["Stabbomancer Potent Poisons"]
 class: Assassin
 cssclass: 
 skilltree: Stabbomancer

@@ -9,7 +9,7 @@ Version 1 focuses on mimicking the "normal" monster statblock.
 
 A 2nd and 3rd version will be added to allow for the statblock coloration we have seen for bosses in the campaigns. However, boss functionality is available in Version 1.
 
-Please ensure that you read the [Layout Readme](Fantasy_Statblocks/Bestiary/BnB-Statblock-Readme.md) for details on how to use some functions.
+Please ensure that you read the [Layout Readme](Bunkers%20and%20Badasses%20for%20Fantasy%20Statblocks%20Readme.md) for details on how to use some functions.
 
 ## WIP
 

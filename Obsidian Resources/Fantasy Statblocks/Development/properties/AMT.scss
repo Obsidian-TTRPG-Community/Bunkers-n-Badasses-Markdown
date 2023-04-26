@@ -1,13 +1,13 @@
 .statblock[class*='bunkers'] {
     & .Actions,
     & .Mayhem,
-    & .Loot {
+    & .Loot
+    & .Skill {
       /*! Controls the name of Properties */
       font-family: var(--bnb-mat-name-font-family);
       font-size: var(--statblock-property-name-font-size);
       font-weight: var(--bnb-thin-name-font-weight);
       font-style: var(--statblock-property-name-font-style);
-      display: block !important;
       margin: 0 0.25em 0 0;
 
       & p {
@@ -16,6 +16,7 @@
         font-size: var(--statblock-content-font-size);
         font-weight: var(--statblock-content-font-weight);
         font-style: var(--bnb-content-font-style);
+        display: table-cell;
       }
     }
   }

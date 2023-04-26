@@ -26,7 +26,7 @@
 
   .line {
     line-height: var(--statblock-property-line-height);
-    display: block;
+    display: inline-flex;
     color: var(--statblock-property-font-color);
   }
 

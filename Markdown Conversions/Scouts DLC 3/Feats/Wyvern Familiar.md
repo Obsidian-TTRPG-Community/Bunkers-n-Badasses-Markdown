@@ -16,7 +16,7 @@ If it dies, it respawns at the end of the Encounter.
 
 ## Statblock
 
-![[wyvern-familiar-statblock.png]]
+![Wyvern Familiar](https://github.com/sigrunixia/Bunkers-n-Badasses-Markdown/blob/main/Obsidian%20Resources/Fantasy%20Statblocks/screenshots/wyvern-familiar-statblock.png?raw=true)
 
 ```statblock
 layout: BunkersFamiliar

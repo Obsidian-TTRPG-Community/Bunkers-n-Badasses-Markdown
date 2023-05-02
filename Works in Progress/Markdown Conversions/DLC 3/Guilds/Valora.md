@@ -59,4 +59,4 @@ Roll on the Elemental Table.
 > modified:: Sigrunixia
 > sourceurl:: [B&B DLC 3 - Into the Wonderlands](https://docs.google.com/document/d/1MLOgrWwcLNTnP9PuXrKiLImy7SUh4hXO8arVUAlmdp0/edit)
 > type:: Homebrew
-> **tags**:: #Bunkers-N-Badasses/Guilds
+> **tags**:: #BnB/Guilds

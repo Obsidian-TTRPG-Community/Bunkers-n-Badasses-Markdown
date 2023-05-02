@@ -4,7 +4,7 @@ class:
 - Blightcaller
 - Graveborn
 cssclass: bunkers
-tags: Bunkers-N-Badasses/Homebrew/Quest/Wonderlands
+tags: BnB/Homebrew/Quest/Wonderlands
 title: Raising a Dragon Nation
 ---
 

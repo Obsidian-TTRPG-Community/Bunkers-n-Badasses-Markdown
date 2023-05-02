@@ -47,4 +47,4 @@ In the despair of the harshness of the environment, the remaining residents and 
 
 
 >[!inline-meta] Metadata
-> **tags**:: #Bunkers-N-Badasses/Lore/Arid-Badlands, #Bunkers-N-Badasses/Homebrew/Tables/EnemyTraits
+> **tags**:: #BnB/Lore/Arid-Badlands, #BnB/Homebrew/Tables/EnemyTraits

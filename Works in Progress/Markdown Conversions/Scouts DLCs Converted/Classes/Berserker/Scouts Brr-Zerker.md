@@ -13,7 +13,7 @@ updated: +002023-04-25 2414
 
 >[!infobox|right]
 >## `=this.skilltree` `=this.class`
->![](Bunkers%20and%20Badasses/Works%20in%20Progress/Markdown%20Conversions/Scouts%20DLCs%20Converted/Classes/Berserker/zz-attachment/Brr-Zerker.png)
+>![](_image/Scouts%20Brr-Zerker_image_1.png)
 > ### Class Features
 > | ***Type*** | ***Stat*** |
 > |:---|:---|
@@ -73,7 +73,7 @@ But beware, for the Brr-Zerker is not to be underestimated. They are bound to sp
 > actionskill:: [feral Surge](Feral%20Surge.md)
 > classfeat:: [Rage of the Ancients](Rage-of-the-Ancients.md)
 > damage:: 2
-> image:: [Brr-Zerker.png](Bunkers%20and%20Badasses/Works%20in%20Progress/Markdown%20Conversions/Scouts%20DLCs%20Converted/Classes/Berserker/zz-attachment/Brr-Zerker.png)
+> image:: [Scouts Brr-Zerker_image_1.png](_image/Scouts%20Brr-Zerker_image_1.png)
 > mastery:: 1
 > meleedie:: **1d10**
 > skilltree:: Brr-Zerker

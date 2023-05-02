@@ -13,7 +13,7 @@ updated: +002023-04-25 2414
 
 >[!infobox|right]
 ># `=this.skilltree` `=this.class`
->![](Graveborn.png)
+>![](_image/Graveborn_image_1.png)
 > ###### Class Features
 >
 > | ***Type*** | ***Stat*** |
@@ -80,7 +80,7 @@ While in this form, roll an extra 6(2d12) when rolling for Damage.
 > actionskill:: [Reaper of Bones](Reaper-Of-Bones.md)
 > classfeat:: [Demi-Lich Familiar](Demi-Lich-Familiar.md)
 > damage:: 0
-> image:: [Graveborn.png](Graveborn.png)
+> image:: [Graveborn_image_1.png](_image/Graveborn_image_1.png)
 > mastery:: 2
 > meleedie:: **1d8**
 > skilltree:: Graveborn

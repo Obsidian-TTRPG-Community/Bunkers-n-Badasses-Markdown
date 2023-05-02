@@ -10,7 +10,7 @@ updated: +002023-04-25 2228
 ---
 ### What Does it Looks Like?
 
-![BnB Layout Version 1](BNB-V1.png)
+![BnB Layout Version 1](_image/Bunkers%20and%20Badasses%20for%20Fantasy%20Statblocks%20Readme_image_1.png)
 
 ### The Codeblock: Bestiary
 
@@ -34,7 +34,7 @@ monster: monstername
 layout: BunkersBestiary
 source: Bunkers-Example
 dice: true
-# If Its a Badass or a SuperBadass, make sure to put that First... Badass Potion Master... SuperBadass Treant
+# If It's a Badass or a SuperBadass, make sure to put that First... Badass Potion Master... SuperBadass Treant
 Name: "Super Badass Deep Dragon"
 # "Landshark."
 Type: "Dragon."
@@ -44,7 +44,7 @@ TitleOfMob: "Cruncher of Rocks"
 FlavorText: "Rocks means your bones actually"
 # Miniboss, NPC, Made-Up Boss…
 TypeOfBoss: "Miniboss"
-# Self Explanatory, right? What is its BR
+# Self-Explanatory, right? What is its BR?
 BadassRank: 63
 # Options are move, flight, swim, burrow, teleport, hover, Leap,climb, 
 MovementType: "move 4 flight 6 teleport 2"
@@ -117,6 +117,8 @@ Traits currently will wrap text if you have a monster that has many traits. Howe
 
 ### How to Use: Loot
 
-The Loot section is intended only for the weird, obscure loot items you want to absolutely include on a monster in that bestiary at all times, typically bosses who drop a peculiar quest item. The is optional and if there is nothing entered in loot, the field disappears.
+The Loot section is intended only for the weird, obscure loot items you want to absolutely include on a monster in that bestiary at all times, typically bosses who drop a peculiar quest item.
+
+This is optional, and if there is nothing entered in loot, the field disappears.
 
 ### Explanatory Codeblocks

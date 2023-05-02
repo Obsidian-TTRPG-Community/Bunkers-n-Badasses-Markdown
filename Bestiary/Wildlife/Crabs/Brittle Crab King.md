@@ -2,12 +2,18 @@
 ac: 0
 aliases: ["Brittle Crab King"]
 cr: 3
+created: +002023-02-07 2321
+description: 
 hp: 30
+image: 
 modifier: 
+permalink: 
+publish: true
 statblock: inline
 tags:
-- Bunkers-N-Badasses/Homebrew/Bestiary/Wildlife/Crab
+- BnB/Homebrew/Bestiary/Wildlife/Crab
 title: "Brittle Crab King"
+updated: +002023-04-30 2403
 ---
 
 >[!tina] Bunkermaster Tina
@@ -19,8 +25,7 @@ In terms of appearance, the Brittle Crab King sports a hard, brown shell covered
 
 Normally not an overly aggressive species, the Brittle Crab King has recently been attacking anything that crosses its path as it searches frantically for its missing queen.
 
-
-### Statblock
+## Statblock
 
 ```statblock
 layout: BunkersBestiary
@@ -38,9 +43,9 @@ MovementType: move 2 swim 1
 Health: "10"
 Shield: "10"
 Armor: "10"
-Traits: [[Tiny Armor|Tiny Armor]]. [[Impaled|Impaled]].
+Traits: [[Tiny Armor]] [[Impaled]]
 Weapon: Head, Pincers
-Special: When first encountered, King Brittle Crab will summon 3 [[Brittle-Crab|Brittle Crab]].
+Special: When first encountered, King Brittle Crab will summon 3 [[Brittle Crab]].
 SuperSpecial:
 Actions:
 - name: Pinch

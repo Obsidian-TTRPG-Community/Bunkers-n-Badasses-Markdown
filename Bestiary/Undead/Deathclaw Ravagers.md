@@ -1,6 +1,6 @@
 ---
 aliases: [Deathclaw Ravager]
-tags: Bunkers-N-Badasses/Homebrew/Bestiary/Undead
+tags: BnB/Homebrew/Bestiary/Undead
 title: Deathclaw Ravager
 ---
 

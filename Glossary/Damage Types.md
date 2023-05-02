@@ -15,7 +15,7 @@ Corrosive Damage is a type of magical attack that deals significant damage to ar
 
 > [!inline-meta]-  Corrosive Damage Metadata
 > source:: **Sourcebook**
-> **tags**:: #Bunkers-N-Badasses/Combat/Damage/Types/Corrosive
+> **tags**:: #BnB/Combat/Damage/Types/Corrosive
 
 ## Cryo Damage
 
@@ -23,7 +23,7 @@ Cryo damage refers to extremely low temperatures that can significantly slow dow
 
 > [!inline-meta]-  Cryo Damage Metadata
 > source:: **Sourcebook**
-> **tags**:: #Bunkers-N-Badasses/Combat/Damage/Types/Cryo
+> **tags**:: #BnB/Combat/Damage/Types/Cryo
 
 ## Eldritch Damage
 
@@ -33,7 +33,7 @@ It has the ability to bypass traditional defenses such as health, armor, and shi
 
 > [!inline-meta]-  Eldritch Damage Metadata
 > source:: ***Homebrew***
-> **tags**:: #Bunkers-N-Badasses/Homebrew/Combat/Damage/Types/Eldritch
+> **tags**:: #BnB/Homebrew/Combat/Damage/Types/Eldritch
 
 ## Explosive Damage
 
@@ -42,7 +42,7 @@ When a target is hit with explosive damage, the resulting explosion will splash 
 
 > [!inline-meta]-  Explosive Damage Metadata
 > source:: **Sourcebook**
-> **tags**:: #Bunkers-N-Badasses/Combat/Damage/Types/Explosive
+> **tags**:: #BnB/Combat/Damage/Types/Explosive
 
 ## Incendiary Damage
 
@@ -52,7 +52,7 @@ Incendiary Damage ignites targets, burning their flesh and causing double damage
 
 > [!inline-meta]-  Incendiary Damage Metadata
 > source:: **Sourcebook**
-> **tags**:: #Bunkers-N-Badasses/Combat/Damage/Types/Incendiary
+> **tags**:: #BnB/Combat/Damage/Types/Incendiary
 
 ## Radiation Damage
 
@@ -61,7 +61,7 @@ Arguably, a terrifying type of damage. Unlike other damage types, it can penetra
 
 > [!inline-meta]-  Radiation Damage Metadata
 > source:: **Sourcebook**
-> **tags**:: #Bunkers-N-Badasses/Combat/Damage/Types/Radiation
+> **tags**:: #BnB/Combat/Damage/Types/Radiation
 
 ## Shock Damage
 
@@ -72,4 +72,4 @@ For the unfortunate lifeform with a heart or a brain, it also has a chance at ca
 
 > [!inline-meta]-  Shock Damage Metadata
 > source:: **Sourcebook** and ***Homebrew***
-> **tags**:: #Bunkers-N-Badasses/Combat/Damage/Types/Shock #Bunkers-N-Badasses/Homebrew/Combat/Damage/Types/Shock 
+> **tags**:: #BnB/Combat/Damage/Types/Shock #BnB/Homebrew/Combat/Damage/Types/Shock 

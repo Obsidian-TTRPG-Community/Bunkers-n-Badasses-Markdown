@@ -13,7 +13,7 @@ updated: +002023-04-25 2414
 
 >[!infobox|right]
 >## `=this.skilltree` `=this.class`
->![](Bunkers%20and%20Badasses/Works%20in%20Progress/Markdown%20Conversions/Scouts%20DLCs%20Converted/Classes/Commando/zz-attachment/Blightcaller.png)
+>![](_image/Scouts%20Blightcaller_image_1.png)
 > ### Class Features
 >
 > | ***Type*** | ***Stat*** |
@@ -85,7 +85,7 @@ But the Blightcaller's power is not without its cost. They walk a fine line betw
 > accuracy:: 1
 > classfeat:: [Whisper of Rot](Whisper-of-Rot.md)
 > damage:: 0
-> image:: [Blightcaller.png](Bunkers%20and%20Badasses/Works%20in%20Progress/Markdown%20Conversions/Scouts%20DLCs%20Converted/Classes/Commando/zz-attachment/Blightcaller.png)
+> image:: [Scouts Blightcaller_image_1.png](_image/Scouts%20Blightcaller_image_1.png)
 > mastery:: 2
 > meleedie:: **1d8**
 > skilltree:: Blightcaller
@@ -94,4 +94,4 @@ But the Blightcaller's power is not without its cost. They walk a fine line betw
 > speed:: 1
 > stats:: 1 ACC 0 DMG 1 SPD 2 MST
 > class:: Commando
- #Bunkers-N-Badasses/Homebrew/Classes #Bunkers-N-Badasses/Classes/Commando
+ #BnB/Homebrew/Classes #BnB/Classes/Commando

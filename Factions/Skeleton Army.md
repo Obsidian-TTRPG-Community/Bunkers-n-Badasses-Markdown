@@ -7,7 +7,7 @@ tags: []
 ---
 
 >[!faction] Skeleton Army
-> The Skeleton Army is a formidable force comprised of the reanimated remains of individuals who have passed on and been interred. However, the malevolent [Dragon Lord](Dragon%20Lord.md) has utilized necromancy to raise these individuals as undead soldiers in his relentless army of skellypeople. These bony minions seem to have no recollection of their past lives and are solely dedicated to attacking their enemies with a variety of deadly weapons and savage taunts.
+> The Skeleton Army is a formidable force comprised of the reanimated remains of individuals who have passed on and been interred. However, the malevolent [Sarkantu](Sarkantu.md) has utilized necromancy to raise these individuals as undead soldiers in his relentless army of skellypeople. These bony minions seem to have no recollection of their past lives and are solely dedicated to attacking their enemies with a variety of deadly weapons and savage taunts.
 
 
 ## Faction Details

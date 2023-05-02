@@ -16,4 +16,4 @@ You get +5 to Checks for that Skill. You get -1 to all other Skill Checks.
 
 > [!inline-meta]- Metadata
 > sourceurl:: [Scout's B&B DLC 3: Into the Wonderlands](https://docs.google.com/document/d/1MLOgrWwcLNTnP9PuXrKiLImy7SUh4hXO8arVUAlmdp0/edit)
-> **tags**:: #Bunkers-N-Badasses/Homebrew/Feats/Commando
+> **tags**:: #BnB/Homebrew/Feats/Commando

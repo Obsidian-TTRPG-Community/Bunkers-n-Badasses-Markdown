@@ -64,7 +64,7 @@ Statblocks is already set up to skin these two variables towards `p` and `h1-h6`
 `e1119`
 
 *Image for those who still are working to install the font.*
-![](HTML-As-Icon.png)
+![](_image/Bunkers%20Font%20Icons%20Readme_image_1.png)
 
 ***
 
@@ -92,7 +92,7 @@ As a result, now after the system-ui font, the glyphs will render in any of the 
 󡄛, 󡄝, and 󡄙  as well.
 
 *Image rendition*
-![](image-example-2.png)
+![](_image/Bunkers%20Font%20Icons%20Readme_image_2.png)
 
 ***
 
@@ -118,9 +118,9 @@ However the font file does contain individual classes for each icon, so you can 
 ```
 
 *Image Rendition*
-![Example Image 3](image-example-3.png)
+![Example Image 3](_image/Bunkers%20Font%20Icons%20Readme_image_3.png)
 
 ***
 
 ### Image Table of Font Icons
-![](Bunkers-Font-Icons.png)
+![](_image/Bunkers%20Font%20Icons%20Readme_image_4.png)

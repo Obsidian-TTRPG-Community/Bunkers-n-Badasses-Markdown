@@ -24,6 +24,7 @@ Name: Wyvern Familiar
 Type: Dragon
 Health: 20
 Health-Regen: "+0"
+movement:
 MovementType: flight 5
 Weapon: "__Breath Weapon__"
 Special: "If Wyvern Familiar dies, it respawns at the end of the Encounter."
@@ -72,10 +73,10 @@ Skills:
   - name: "Explosive Return 0/3"
     desc: "When your Wyvern Familiar dies, it explodes, dealing 2d6 (2d6) Incendiary and Shock Damage per Skill Level to all adjacent Targets. The first time it does this each Encounter, it respawns immediately next to you."
 
-ImageBig: 
+ImageBig: [[baby-wyvern.png]]
 ```
 ````
 
 > [!inline-meta]- Metadata
 > sourceurl:: [Scout's B&B DLC 3: Into the Wonderlands](https://docs.google.com/document/d/1MLOgrWwcLNTnP9PuXrKiLImy7SUh4hXO8arVUAlmdp0/edit)
-> **tags**:: #Bunkers-N-Badasses/Homebrew/Feats/Psycho
+> **tags**:: #BnB/Homebrew/Feats/Psycho

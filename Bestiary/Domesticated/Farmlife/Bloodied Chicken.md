@@ -2,7 +2,7 @@
 aliases: ["Chicken"]
 created: +002023-02-07 2321
 tags:
-- Bunkers-N-Badasses/Homebrew/Bestiary/Domesticated/Farmlife
+- BnB/Homebrew/Bestiary/Domesticated/Farmlife
 title: "Bloodied Chicken"
 updated: +002023-04-18 2456
 ---

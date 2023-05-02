@@ -3,10 +3,10 @@ aliases: ["The Siren of Renewal"]
 cssclass: 
 filetype: Skilltree
 tags:
-- Bunkers-N-Badasses/Homebrew/Classes/Siren
-- Bunkers-N-Badasses/Classes/Siren/Renewal
-- Bunkers-N-Badasses/Classes/Siren/Phasewalk
-- Bunkers-N-Badasses/Homebrew/WIP
+- BnB/Homebrew/Classes/Siren
+- BnB/Classes/Siren/Renewal
+- BnB/Classes/Siren/Phasewalk
+- BnB/Homebrew/WIP
 title: The Siren of Renewal
 ---
 

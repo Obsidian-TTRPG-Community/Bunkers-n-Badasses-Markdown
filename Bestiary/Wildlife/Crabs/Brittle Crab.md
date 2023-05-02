@@ -6,7 +6,7 @@ hp: 8
 modifier: 
 statblock: inline
 tags:
-- Bunkers-N-Badasses/Homebrew/Bestiary/Wildlife/Crab
+- BnB/Homebrew/Bestiary/Wildlife/Crab
 title: "Brittle Crab"
 ---
 

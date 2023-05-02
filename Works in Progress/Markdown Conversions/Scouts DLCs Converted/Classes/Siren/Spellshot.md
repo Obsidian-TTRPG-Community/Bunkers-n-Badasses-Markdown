@@ -13,7 +13,7 @@ updated: +002023-04-25 2414
 
 >[!infobox|right]
 >## `=this.skilltree` `=this.class`
->![](Spellshot.png)
+>![](_image/Spellshot_image_1.png)
 > ### Class Features
 >
 > | ***Type*** | ***Stat*** |
@@ -78,7 +78,7 @@ Whenever you find a Grenade Mod, you can make it your Action Skill, replacing th
 > actionskill:: [Ambihexterous](Ambihexterous.md)
 > classfeat:: [Spellweaving](Bunkers%20and%20Badasses/Works%20in%20Progress/Markdown%20Conversions/DLC%203/Class-Feats/Spellweaving.md)
 > damage:: 2
-> image:: [Spellshot.png](Spellshot.png)
+> image:: [Spellshot_image_1.png](_image/Spellshot_image_1.png)
 > mastery:: 1
 > meleedie:: **1d6**
 > skilltree:: Spellshot

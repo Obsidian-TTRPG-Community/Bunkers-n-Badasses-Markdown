@@ -1,8 +1,0 @@
-.statblock[class*=bunkers] .statblock-markdown {
-  display: inline;
-}
-.statblock[class*=bunkers] .statblock-markdown :global(p) {
-  display: inline;
-}
-
-/*# sourceMappingURL=bunkers-markdownholder.css.map */

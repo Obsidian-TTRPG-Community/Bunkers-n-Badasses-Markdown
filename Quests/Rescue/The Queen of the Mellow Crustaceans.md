@@ -1,9 +1,15 @@
 ---
 aliases: ["The Queen of the Mellow Crustaceans"]
+created: +002023-02-07 2321
+description: 
+image: 
+permalink: 
+publish: true
 tags:
-- Bunkers-N-Badasses/Homebrew/Quest
-- Bunkers-N-Badasses/Homebrew/WIP
+- BnB/Homebrew/Quest
+- BnB/Homebrew/WIP
 title: The Queen of the Mellow Crustaceans
+updated: +002023-04-30 2407
 ---
 
 > [!quest] Side Quest

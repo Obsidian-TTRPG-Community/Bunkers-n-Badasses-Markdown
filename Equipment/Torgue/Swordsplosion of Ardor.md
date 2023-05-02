@@ -59,4 +59,3 @@ As a shotgun, this weapon has the following innate properties:
 - **Two-Handed.** This weapon requires two hands to use. This property is relevant only when you attack with the weapon, not when you simply hold it.
 
 ### Image
-![](WL-torge-swordsplosion.webp)

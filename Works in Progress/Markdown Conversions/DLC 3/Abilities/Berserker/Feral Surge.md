@@ -20,4 +20,4 @@ Leap forward up to 4 squares, dealing `dice: 1d6` Cryo Damage to each Target in 
 > skilltree:: Brr-Zerker
 > source:: **Homebrew**
 > sourceurl:: [Scout's B&B DLC 3: Into the Wonderlands](https://docs.google.com/document/d/1MLOgrWwcLNTnP9PuXrKiLImy7SUh4hXO8arVUAlmdp0/edit)
-> **tags**:: #Bunkers-N-Badasses/Actionskill/Berserker
+> **tags**:: #BnB/Actionskill/Berserker

@@ -38,4 +38,4 @@ These Enemy Traits can be used for NPC's, Enemies, Badasses, Superbadasses, and 
 ^BnB-Table-Traits-Enemy-1
 
 >[!inline-meta]- Metadata
-> **tags**:: #BunkersNBadasses/Homebrew/Tables/EnemyTraits/Sampler
+> **tags**:: #BnB/Homebrew/Tables/EnemyTraits/Sampler

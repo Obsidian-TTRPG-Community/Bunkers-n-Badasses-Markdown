@@ -14,7 +14,7 @@ updated: +002023-04-25 2112
 >## Stabby Stab Stab
 > | [**Class**:: [[Bunkers and Badasses/1 Creating a Vault Hunter/The Classes/Assassin/Assassin\|Assassin]] ] | [**Tree**:: Stabbomancer] |
 > |:---:|:---:|
-> ![[Stabbomancer.png]]
+> ![[_image/Stabbomancer_image_1.png]]
 > ### Class Features
 > | ***Stats*** |
 > |:---|
@@ -80,4 +80,4 @@ Whether wielding guns, melee weapons, or magic spells, the Stabbomancers are a t
 >[!inline-meta]- Metadata
 > source:: **Homebrew**
 > sourceurl:: [Scout's B&B DLC 3: Into the Wonderlands](https://docs.google.com/document/d/1MLOgrWwcLNTnP9PuXrKiLImy7SUh4hXO8arVUAlmdp0/edit)
-> tags:: #Bunkers-N-Badasses/Homebrew/Classes/Assassin
+> tags:: #BnB/Homebrew/Classes/Assassin

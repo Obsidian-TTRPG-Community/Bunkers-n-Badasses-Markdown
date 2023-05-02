@@ -28,4 +28,4 @@ Additionally, they get **two** modifiers from the sourcebook's Enemy Trait Table
 
 > [!inline-Meta]- Metadata
 > **source**:: Bunkers & Badasses Sourcebook and Sigrunixia Homebrew.
-> **tags**:: #Bunkers-N-Badasses/Bunkermaster/Enemies/SuperBadass #Bunkers-N-Badasses/Homebrew/Rules/Enemies
+> **tags**:: #BnB/Bunkermaster/Enemies/SuperBadass #BnB/Homebrew/Rules/Enemies

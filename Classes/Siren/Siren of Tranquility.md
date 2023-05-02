@@ -3,9 +3,9 @@ aliases: ["The Siren of Tranquility"]
 cssclass: 
 filetype: Skilltree
 tags:
-- Bunkers-N-Badasses/Homebrew/Classes/Siren
-- Bunkers-N-Badasses/Classes/Siren/Tranquility
-- Bunkers-N-Badasses/Homebrew/WIP
+- BnB/Homebrew/Classes/Siren
+- BnB/Classes/Siren/Tranquility
+- BnB/Homebrew/WIP
 ---
 
 # The Siren of Tranquility

@@ -3,9 +3,9 @@ aliases: ["The Siren of Revolution"]
 cssclass: bunkers
 filetype: Skilltree 
 tags:
-- Bunkers-N-Badasses/Homebrew/Classes/Siren
-- Bunkers-N-Badasses/Classes/Siren/Revolution
-- Bunkers-N-Badasses/Homebrew/WIP
+- BnB/Homebrew/Classes/Siren
+- BnB/Classes/Siren/Revolution
+- BnB/Homebrew/WIP
 title: The Siren of Revolution
 ---
 

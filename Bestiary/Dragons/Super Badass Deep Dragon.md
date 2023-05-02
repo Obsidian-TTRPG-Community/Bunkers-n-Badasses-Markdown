@@ -1,6 +1,6 @@
 ---
 aliases: [Super Badass Deep Dragon]
-tags: Bunkers-N-Badasses/Homebrew/Bestiary/Dragon
+tags: BnB/Homebrew/Bestiary/Dragon
 ---
 
 

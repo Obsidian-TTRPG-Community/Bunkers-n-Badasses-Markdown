@@ -1,8 +1,8 @@
 ---
 aliases: ["The Siren of Harmony"]
 tags:
-- Bunkers-N-Badasses/Homebrew/Classes/Siren
-- Bunkers-N-Badasses/Homebrew/WIP
+- BnB/Homebrew/Classes/Siren
+- BnB/Homebrew/WIP
 title: The Siren of Harmony
 ---
 

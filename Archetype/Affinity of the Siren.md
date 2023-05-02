@@ -5,8 +5,9 @@ description:
 image: 
 permalink: 
 publish: true
+tags: [BnB/Homebrew/Archetype]
 title: Affinity of the Siren
-updated: +002023-04-19 2003
+updated: +002023-04-27 1536
 ---
 
 >[!tip] Technically its an Archetype but its a Siren-only Archetype so here it belongs!
@@ -138,7 +139,3 @@ Rather nab an Affinity Feat? Check your Skill Tree Page Instead.
 | Element of Surprise | +3 DMG Mod on your next Action Skill when you make a successful Sneak Check.                                                                                           | Lvl 20+, *Master of Disguise*  |
 | Leader of the Gang  | Adjacent allies within two squares gain +1 DMG Mod on all their attacks, including unintentional attacks.                                                              | Lvl 25+, *Element of Surprise* |
 ^BunkersNBadassesSirenCheckFeats
-
->[!inline-meta] Metadata
-> class:: Siren
-> **tags**:: #Bunkers-N-Badasses/Homebrew/Archetype

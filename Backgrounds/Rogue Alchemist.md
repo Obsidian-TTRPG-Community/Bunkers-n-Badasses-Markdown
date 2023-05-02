@@ -12,4 +12,4 @@ The Royal Alchemist Society strictly regulates transmutation magic. ***Screw. Th
 >[!inline-Meta] Metadata
 > **archetype**:: Savvy
 > **source**:: [Tiny Tina's Wonderlands](https://playwonderlands.2k.com)
-> **tags**:: #Bunkers-N-Badasses/Homebrew/Backgrounds/Any
+> **tags**:: #BnB/Homebrew/Backgrounds/Any

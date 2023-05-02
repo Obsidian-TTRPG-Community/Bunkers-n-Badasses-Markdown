@@ -16,4 +16,4 @@ updated: +002023-04-25 2054
 >[!inline-Meta] Metadata
 > **archetype**:: Thicc
 > **source**:: [Tiny Tina's Wonderlands](https://playwonderlands.2k.com)
-> **tags**:: #Bunkers-N-Badasses/Homebrew/Backgrounds/Any
+> **tags**:: #BnB/Homebrew/Backgrounds/Any

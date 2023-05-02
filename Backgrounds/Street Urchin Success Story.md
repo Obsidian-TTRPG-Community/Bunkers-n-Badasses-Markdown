@@ -14,4 +14,4 @@ It's the oldest story in the book. You and your filthy crew of pickpockets, and 
 >[!inline-Meta] Metadata
 > **archetype**:: Cunning
 > **source**:: [Tiny Tina's Wonderlands](https://playwonderlands.2k.com)
-> **tags**:: #Bunkers-N-Badasses/Homebrew/Backgrounds/Any
+> **tags**:: #BnB/Homebrew/Backgrounds/Any

@@ -7,4 +7,4 @@ You once scrambled across your fantastical world, stuffing your pockets with eve
 >[!inline-Meta] Metadata
 > **archetype**:: Packrat
 > **source**:: [Tiny Tina's Wonderlands](https://playwonderlands.2k.com)
-> **tags**:: #Bunkers-N-Badasses/Homebrew/Backgrounds/Any
+> **tags**:: #BnB/Homebrew/Backgrounds/Any

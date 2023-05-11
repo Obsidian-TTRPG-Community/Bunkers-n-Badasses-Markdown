@@ -18,7 +18,7 @@ Note: `Layout: BunkersBestiary` Must be placed within the codeblock during the f
 1. If BunkersBestiary is not your default layout.
 2. If you have a monster or entity that shares the same name in another universe and thus would have a stat block in another layout. Example. Ancient Red Dragon.
 
-Once the Code Block is saved the first time, you will be able to call the entity manually with the following codeblock.
+Once you save the Code Block the first time, you will be able to call the entity manually with the following codeblock.
 
 ````yaml
 ```statblock
@@ -46,7 +46,7 @@ FlavorText: "Rocks means your bones actually"
 TypeOfBoss: "Miniboss"
 # Self-Explanatory, right? What is its BR?
 BadassRank: 63
-# Options are move, flight, swim, burrow, teleport, hover, Leap,climb, 
+# Options are move, flight, swim, burrow, teleport, hover, Leap, climb.
 MovementType: "move 4 flight 6 teleport 2"
 # Hitpoints
 Health: 600
@@ -54,8 +54,8 @@ Health: 600
 Shield: 150
 # Armor Points
 Armor: 100
-# Any existing Traits. Want to randomize it? Add Random, Random 2, or Random 3. 
-Traits: Large. Random 3.
+# Any existing Traits.
+Traits: Large.
 # What weapon does it use?
 Weapon: "Breath, Bite (+6 Damage)"
 # Any special stuff we ought to know?
@@ -92,11 +92,11 @@ ImageBig: ""
 1. Download [Bunkers.json](Bunkers.json) and import it into your Obsidian TTRPG Statblocks Plugin.
 2. Download [BnB-TTRPG-Statblock-Monsters](BnB-TTRPG-Statblock-Monsters.css) and place into your `.obsidian/snippets` directory.
 3. Enable the snippet.
-4. Copy the code block above and surround with the ` ```statblock ` codeblock. Confirm you see a screenshot similar to above.
+4. Copy the code block above and surround with the ` ```statblock ` codeblock. Confirm you see a screenshot like above.
 
 ### How to Use: Movement
 
-The Movement property currently supports the following items:
+The Movement property now supports the following items:
 
 - move x
 - leap x
@@ -109,16 +109,16 @@ The Movement property currently supports the following items:
 
 You can use any of these, and it will list them under the movement arrow, along with an icon indicating what type of movement and how many squares it will move. Do not use commas.
 
-*Hover can be treated the same as flight, or be utilized as a Trait.*
+*You can treat Hover the same as flight, or utilize a hover ability as a Trait.*
 
 ### How to Use: Traits
 
-Traits currently will wrap text if you have a monster that has many traits. However, this can make your code-block very, very big and weird looking. If possible, try to make your custom traits a special or an action.
+Traits now will wrap text if you have a monster that has many traits. However, this can make your code-block very, very big and weird looking. If possible, try to make your custom traits a special or an action.
 
 ### How to Use: Loot
 
-The Loot section is intended only for the weird, obscure loot items you want to absolutely include on a monster in that bestiary at all times, typically bosses who drop a peculiar quest item.
+I intend the Loot section only for the weird, obscure loot items you want to absolutely include on a monster in that bestiary always; typically bosses who drop a peculiar quest item.
 
-This is optional, and if there is nothing entered in loot, the field disappears.
+This is optional, and if nothing entered in loot, the field disappears.
 
 ### Explanatory Codeblocks

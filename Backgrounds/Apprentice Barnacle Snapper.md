@@ -1,76 +1,73 @@
 ---
 aliases: ["Apprentice Barnacle Snapper"]
-created: +002023-01-25 1020
+cover: 
+created: +002023-05-09 2400
 description: 
 image: 
 permalink: 
-publish: 
-updated: +002023-04-19 1852
+publish: true
+tags: [BnB/Homebrew/Backgrounds/Any]
+updated: +002023-05-11 1408
 ---
 
-## Apprentice Barnacle Snapper
+> [!skill] Apprentice Barnacle Snapper
+> **Archetype**:: Plucky
+> **Benefit**:: +1 DMG, +3 to Stats of Choice, +1 to Specific Check of Choice
+> **Details**:: You have been fascinated by galleons encrusted with sea warts ever since you laid your eyes on one, battered by the Umpteen Seas. You have always dreamt of getting your hands on one and scraping away those warts. Fortunately, that dream came true, and you have spent a considerable amount of time working as a dockworker, which has helped you develop both physical strength and financial stability. However, you now realize that it is time to move on from this career and pursue a more meaningful and fulfilling dream.
+> **Detriment**:: -3 MST, -1 to Stealth Sneak Checks
+> **DnD-PF2E**:: +3 STR, -6 INT, +7 CHA
+> **Source**:: [Tiny Tina's Wonderlands](https://playwonderlands.2k.com).
 
-From the day you laid eyes on your first galleon, encrusted in sea warts from the pox'd kiss of the Umpteen Seas, it was your dream to someday wedge a chisel underneath those bad boys. It wasn't long before that dream became reality. You have a dockworker's brawn and a union paycheck, but now it's time for a new, less stupid dream.
+## Optional Background Traits
 
-### Background Traits
+### Personality Traits
 
-**Ability Score Modifiers:** Str +3; Int -6; Att +7
+| `dice: 1d6` | **Description**                                                                                    |
+|-------------|----------------------------------------------------------------------------------------------------|
+| 1           | **Adventurous**: Always seeking new experiences and thrills.                                       |
+| 2           | **Meticulous**: Pays great attention to detail and strives for perfection.                         |
+| 3           | **Charismatic**: Has a natural charm and easily wins people over.                                  |
+| 4           | **Cautious**: Approaches situations with careful thought and consideration.                        |
+| 5           | **Creative**: Possesses a vivid imagination and enjoys expressing it through various forms of art. |
+| 6           | **Analytical**: Has a logical and systematic approach to problem-solving.                          |
 
-### ?
+### Ideals
 
-#### Feature
+| `dice: 1d6` | Ideal                                                                                                                  |
+|-------------|------------------------------------------------------------------------------------------------------------------------|
+| 1           | **Any**: Striving for personal growth and achieving greatness in your chosen path.                                     |
+| 2           | **Lawful**: Believing in the importance of rules, structure, and following a disciplined approach to achieve success.  |
+| 3           | **Neutral**: Valuing personal liberty and the ability to make independent choices without unnecessary restrictions.    |
+| 4           | **Evil**: Seeking dominance and control over others, willing to use any means necessary to achieve it.                 |
+| 5           | **Good**: Having a genuine concern for the well-being of others and striving to make a positive impact on their lives. |
+| 6           | **Chaotic**: Embracing change, unpredictability, and the thrill of venturing into the unknown.                         |
 
-A possible feature for this background could be an ability to detect the presence of magical creatures, including barnacles and snappers. This could be done through a special sense or even a limited form of magical divination. This would allow the character to find hidden creatures or areas of magical activity, giving them an edge when exploring unknown lands.
+### Bonds
 
-#### Suggested Characteristics
+| `dice: 1d10` 	 | Bond 	                                                                                                                 |
+|----------------|------------------------------------------------------------------------------------------------------------------------|
+| 1 	            | "I owe a debt to a wealthy merchant who helped me get started in my career." 	                                         |
+| 2 	            | "My family has worked on the docks for generations, and I feel a strong sense of duty to carry on that tradition." 	   |
+| 3 	            | "I have a close friend who is a fellow dockworker, and we have been through many trials together." 	                   |
+| 4 	            | "I fell in love with a sailor who sailed away and promised to return, and I am still waiting for them to come back." 	 |
+| 5 	            | "I am fiercely protective of the ships I work on and will go to great lengths to ensure their safety." 	               |
+| 6 	            | "I have a deep respect for the sea and all its creatures, and I strive to protect them from harm." 	                   |
+| 7 	            | "I am constantly seeking new challenges and opportunities to prove myself and advance in my career." 	                 |
+| 8 	            | "I have a bitter rivalry with another dockworker, and we are always trying to outdo each other." 	                     |
+| 9 	            | "I have a secret that could destroy my reputation and career if it ever got out." 	                                    |
+| 10 	           | "I am haunted by a past mistake that cost me dearly, and I am always seeking redemption." 	                            |
 
-##### Personality Traits
+### Flaws
 
-| d6 | `dice: 1d6` Personality Trait |
-| --- | --- |
-| 1 | Adventurous: Always looking for a new challenge and willing to take risks to get the job done. |
-| 2 |Resourceful: Able to think on their feet and come up with creative solutions to any problem they may face. |
-| 3 | Diligent: They will always put in the hard work and effort needed to get the job done right. |
-| 4 | Disciplined: Understands limits and boundaries, working within them to make sure the job is carried out safely and efficiently. |
-| 5 |Inquisitive: Always asking questions and wanting to learn more about the many facets of barnacle-snapping in order to become a master barnacle-snapper one day.   |
-| 6 | Confident: Unafraid of failure, they are not scared of making mistakes as they strive towards their goals, knowing that from each setback comes knowledge and growth.|
-
-##### Ideals
-
-Generate six ideals on a rollable table for the background of the Apprentice Barnacle Snapper.  One for Any, one for Lawful, One for Neutral, One for Evil, One for Good, and one for Chaotic.
-
-| d6 | `dice: 1d6` Ideal |
-| --- | --- |
-| 1 | (Any) To live a life of simplicity, learning the ways of the sea and embracing a simple and sustainable lifestyle.|
-| 2 |  (Lawful)  To serve the sea with relentless determination, tirelessly protecting its bounty and striving for maritime rule and order.|
-| 3 |  (Neutral) To explore the depths of the ocean, harvesting its secrets and discovering its treasures.|
-| 4 |  (Evil) To ravage the sea with greed and cruelty, plundering everything in sight for personal gain. |
-| 5 |  (Good) To honor the sea creatures that inhabit it, showing compassion and mercy to all marine life. |
-| 6 |  (Chaotic) To live wild and free, taking whatever the ocean offers without thought or care for consequence.|
-
-##### Bonds
-
-| d6 | `dice: 1d6` Bond |
-| --- | --- |
-| 1 |  |
-| 2 |  |
-| 3 | |
-| 4 |  |
-| 5 | |
-| 6 |  |
-
-##### Flaws
-
-| d6  | `dice: 1d6` Flaw |
-| --- | ---------------- |
-| 1   |                  |
-| 2   |                  |
-| 3   |                  |
-| 4   |                  |
-| 5   |                  |
-| 6   |                  |
-
-> [!abstract]- Note Metadata
-> archetype:: Plucky
-> sourceurl:: Tiny Tinas Wonderlands
-> sourceurl:: Sigrunixia
+| `dice: 1d10` | Flaw                                                                                                                            |
+|--------------|---------------------------------------------------------------------------------------------------------------------------------|
+| 1            | You are addicted to gambling and can't resist a wager.                                                                          |
+| 2            | You have a tendency to exaggerate your accomplishments and tell tall tales.                                                     |
+| 3            | You have a hot temper and are quick to anger, especially when provoked about your former occupation.                            |
+| 4            | You have a weakness for pretty faces and can be easily distracted by a charming smile.                                          |
+| 5            | You have a crippling fear of drowning or being trapped underwater.                                                              |
+| 6            | You have a tendency to take unnecessary risks and put yourself and others in danger.                                            |
+| 7            | You are haunted by a traumatic event from your past that still affects you to this day.                                         |
+| 8            | You have a habit of stealing small trinkets and items that catch your eye, even if you don't need them.                         |
+| 9            | You struggle with alcoholism and often drink to excess to cope with stress and anxiety.                                         |
+| 10           | You have a deep-seated fear of failure and will go to great lengths to avoid it, even if it means taking shortcuts or cheating. |

@@ -1,0 +1,39 @@
+.statblock[class*='bunkers'] {
+  & .section-header {
+    border-bottom: var(--statblock-section-heading-border-size) solid
+    var(--statblock-section-heading-border-color);
+    color: var(--statblock-section-heading-font-color);
+    font-size: var(--statblock-section-heading-font-size);
+    font-variant: var(--statblock-section-heading-font-variant);
+    font-weight: var(--statblock-section-heading-font-weight);
+    letter-spacing: 1px;
+    margin: 0;
+    margin-bottom: 0.3em;
+    break-inside: avoid-column;
+    break-after: avoid-column;
+  }
+  & h3.section-header {
+    /*! Makes h3 Awesome */
+    $h3-section-heading-font-family: 'Din-Rundschrift-Eng', 'BnBFont', sans-serif;
+    $bnb-section-background-color: rgba(224, 225, 221, 0.3);
+    $break-ident: avoid-column;
+    font-family: $h3-section-heading-font-family;
+    font-size: var(--statblock-section-heading-font-size);
+    font-weight: var(--statblock-section-heading-font-weight);
+    font-variant: var(--statblock-section-heading-font-variant);
+    right: 0.625em;
+    display: inline-block;
+    overflow-x: visible;
+    width: 11.25em;
+    margin: 0 0 0.3em;
+    padding: 0.125em;
+    letter-spacing: 0.0625em;
+    color: var(--statblock-section-heading-font-color);
+    border-left-width: 1.875em;
+    border-top-right-radius: 0.9375em 0.5em;
+    border-bottom-right-radius: 0.9375em 0.5em;
+    background-color: $bnb-section-background-color;
+    break-after: $break-ident;
+    break-inside: $break-ident;
+  }
+}

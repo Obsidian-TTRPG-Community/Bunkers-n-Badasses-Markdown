@@ -1,22 +1,22 @@
 ---
 aliases: ["Wyvern Familiar"]
-created: +002023-02-07 1319
+cover: 
+created: 2023-05-09
 description: 
 image: 
 permalink: bnb/scout/dlc-3/feat/wyvern-familiar
 publish: true
-updated: +002023-04-25 2130
+tags: [BnB/Homebrew/Feats/Psycho]
+updated: 2023-05-11
 ---
 
-***Requires***: [[Clawbringer]]
-
-You gain a Wyvern Familiar that deals `dice: 1d6` Incendiary Damage to any Target it flies past. 
-
-If it dies, it respawns at the end of the Encounter.
+> [!skill] Wyvern Familiar
+> **Requires**: [[Clawbringer]]
+> Details:: You gain a Wyvern Familiar that deals `dice: 1d6` Incendiary Damage to any Target it flies past. If it dies, it respawns at the end of the Encounter.
+> Source:: [Scout's B&B DLC 3: Into the Wonderlands](https://docs.google.com/document/d/1MLOgrWwcLNTnP9PuXrKiLImy7SUh4hXO8arVUAlmdp0/edit)
 
 ## Statblock
 
-![Wyvern Familiar](https://github.com/sigrunixia/Bunkers-n-Badasses-Markdown/blob/main/Obsidian%20Resources/Fantasy%20Statblocks/screenshots/wyvern-familiar-statblock.png?raw=true)
 
 ```statblock
 layout: BunkersFamiliar
@@ -79,4 +79,4 @@ ImageBig: [[baby-wyvern.png]]
 
 > [!inline-meta]- Metadata
 > sourceurl:: [Scout's B&B DLC 3: Into the Wonderlands](https://docs.google.com/document/d/1MLOgrWwcLNTnP9PuXrKiLImy7SUh4hXO8arVUAlmdp0/edit)
-> **tags**:: #BnB/Homebrew/Feats/Psycho
+> **tags**::

@@ -1,0 +1,19 @@
+.statblock[class*='bunkers'] {
+  & .line.weapon {
+    padding-top: 1rem;
+    display: block;
+  }
+
+  & .line.special {
+    font-size: 0.9375rem;
+    display: revert;
+    margin-top: 0.3125rem;
+    margin-bottom: 0.3125rem;
+    padding-top: 0.3125rem;
+    padding-bottom: 0.3125rem;
+  }
+
+  & .line.type {
+    font-style: italic;
+  }
+}

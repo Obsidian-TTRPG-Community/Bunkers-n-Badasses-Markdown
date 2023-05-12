@@ -1,0 +1,14 @@
+.statblock[class*=Bunkers] {
+  .property {
+    & .Actions, .Mayhem, .Loot {
+      & .property-name {
+        font-style: italic;
+      }
+    }
+  }
+}
+
+
+.statblock.bunkersbestiary.tams.statblock-markdown p {
+  display: grid !important;
+}

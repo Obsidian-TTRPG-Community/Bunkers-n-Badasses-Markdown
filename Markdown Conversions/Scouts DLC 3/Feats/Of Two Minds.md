@@ -1,11 +1,13 @@
 ---
 aliases: ["Of Two Minds"]
-created: +002023-02-07 1319
+cover: 
+created: 2023-05-09
 description: 
 image: 
 permalink: bnb/scout/dlc-3/feat/of-two-minds
 publish: true
-updated: +002023-04-25 2216
+tags: [BnB/Homebrew/Feats/Psycho]
+updated: 2023-05-11
 ---
 
 ***Requires:*** [Fire and Blood](Fire-and-Blood)
@@ -18,4 +20,4 @@ You must use the other result for your next Skill Check.
 
 > [!inline-meta]- Metadata
 > sourceurl:: [Scout's B&B DLC 3: Into the Wonderlands](https://docs.google.com/document/d/1MLOgrWwcLNTnP9PuXrKiLImy7SUh4hXO8arVUAlmdp0/edit)
-> **tags**:: #BnB/Homebrew/Feats/Psycho
+> **tags**::

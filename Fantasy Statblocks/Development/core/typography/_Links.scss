@@ -1,0 +1,8 @@
+$bnb-link-color: rgb(184, 76, 130, 1);
+
+.statblock[class*='bunkers'] {
+  a {
+    color: $bnb-link-color;
+    text-decoration: none;
+  }
+}

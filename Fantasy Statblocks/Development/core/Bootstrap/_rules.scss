@@ -1,0 +1,23 @@
+.statblock[class*='bunkers'] {
+  --statblock-bar-border-color: rgba(98, 97, 108, 1);
+  --statblock-bar-border-size: 0.0625em;
+  --statblock-bar-color: rgba(98, 97, 108, 1);
+
+
+  & .bar {
+    /*! Sets configuration of regular bar */
+    z-index: 1;
+    width: fit-content;
+    height: 0.0625em;
+    border: var(--statblock-bar-border-size) solid var(--statblock-bar-border-color);
+    background: var(--statblock-bar-color);
+  }
+
+  & .tapered-rule {
+    width: auto;
+    height: 0.1875em;
+    margin: 0;
+    background: var(--statblock-bar-color);
+    clip-path: unset;
+  }
+}

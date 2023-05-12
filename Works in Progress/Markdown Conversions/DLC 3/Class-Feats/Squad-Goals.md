@@ -11,7 +11,7 @@ updated: +002023-04-25 2414
 
 ## Squad Goals
 
-***Requires:*** [Fortune](../../../../30-Sathe-Shuna/01-ObsidianTTRPGShare/TTRPGShare_Community_Vaults/Pathfinder_2E/Traits/Fortune.md)
+**Tree**:: [Fortune](../../../../30-Sathe-Shuna/01-ObsidianTTRPGShare/TTRPGShare_Community_Vaults/Pathfinder_2E/Traits/Fortune.md)
 All Players gain +3 Health Regen.
 
 > [!inline-meta]- Metadata

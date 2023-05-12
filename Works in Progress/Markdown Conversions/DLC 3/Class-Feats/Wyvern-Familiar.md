@@ -11,7 +11,7 @@ updated: +002023-04-25 2414
 
 ## Wyvern Familiar
 
-***Requires:*** [Clawbringer](Clawbringer.md)
+**Tree**:: [Clawbringer Psycho](Clawbringer%20Psycho.md)
 You gain a Wyvern Familiar that deals `dice: 1d6`(1d6) Incendiary Damage to any Target it flies past.
 If it dies, it respawns at the end of the Encounter.
 

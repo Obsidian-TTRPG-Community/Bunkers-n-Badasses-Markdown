@@ -4,11 +4,9 @@ equipment: Weapon
 weapon: SMG
 5_system: 
 aliases: ["Dahlia Starter SMG"]
-cssclass: bunkers, wonderlands
 equipped: Signia
 favored: Yes
 slot: 01
-weapon: Signia
 ---
 # `=this.guild` Starter `=this.weapon_type`
 >[!cards|1] `=this.name`
@@ -22,7 +20,7 @@ __Accuracy__
 > | 8-15 | 3 - 0           |
 > | 16+  | 5 - 0               |
 __Damage__
-![](_image/Dahlia%20Starter%20Submachine%20Gun_image_1.png) per `=this.damage_mod` Mod
+![](Dahlia%20Starter%20Submachine%20Gun_image_1.png) per `=this.damage_mod` Mod
 __Range__ 
 `=this.range` Squares
 __Element__

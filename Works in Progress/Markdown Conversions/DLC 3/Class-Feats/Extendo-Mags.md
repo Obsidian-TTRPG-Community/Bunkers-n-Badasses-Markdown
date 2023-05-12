@@ -11,7 +11,7 @@ updated: +002023-04-25 2414
 
 ## Extendo-Mags
 
-***Requires:*** [Gun Lust](Gun%20Lust.md)
+**Tree**:: [Gun Lust](Gun%20Lust.md)
 You can equip a 4th Gun.
 
 > [!meta]- Feat Inline Metadata

@@ -11,7 +11,7 @@ updated: +002023-04-25 2414
 
 ## Elemental Amplification
 
-***Requires:*** [Lightwalk](Lightwalk.md)
+**Tree**:: [Lightwalk](Lightwalk.md)
 Choose an Elemental Type.
 All Damage you deal of that type gains +1d4 Damage.
 If it matches your Siren Element, instead gain +2d4 Damage.

@@ -8,7 +8,7 @@ publish: true
 updated: +002023-04-25 2130
 ---
 
-***Requires***: [[Graveborn|Graveborn Siren]]
+***Requires***: [[Bunkers and Badasses/Markdown Conversions 1/Scouts DLC 3/Skill Trees/Graveborn|Graveborn Siren]]
 
 An arcane Demi-Lich Familiar floats around you and will automatically Melee Attack (using your stats) any Target that enters an adjacent square. 
 

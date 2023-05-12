@@ -11,7 +11,7 @@ updated: +002023-04-25 2414
 
 ## Military Intelligence
 
-***Requires:*** [Sabre](Sabre.md)
+**Tree**:: [Sabre](Sabre.md)
 Choose a Skill.
 You get +5 to Checks for that Skill. You get -1 to all other Skill Checks.
 

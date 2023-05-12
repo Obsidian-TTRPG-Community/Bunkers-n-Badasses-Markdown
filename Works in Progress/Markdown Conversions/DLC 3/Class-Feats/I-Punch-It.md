@@ -11,7 +11,7 @@ updated: +002023-04-25 2414
 
 ## I Punch It
 
-***Requires:*** [Brute Berserker](Brute%20Berserker.md)
+**Tree**:: [Brute Berserker](Brute%20Berserker.md)
 Add +1 Melee Die to the 8-15 Accuracy Range for your Melee Attacks.
 
 > [!meta]- Feat Inline Metadata

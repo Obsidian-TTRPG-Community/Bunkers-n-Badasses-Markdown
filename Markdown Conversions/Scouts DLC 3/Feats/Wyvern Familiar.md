@@ -1,30 +1,35 @@
 ---
 aliases: ["Wyvern Familiar"]
-cover: 
-created: 2023-05-09
+created: +002023-02-07 1319
 description: 
 image: 
 permalink: bnb/scout/dlc-3/feat/wyvern-familiar
 publish: true
-tags: [BnB/Homebrew/Feats/Psycho]
-updated: 2023-05-11
+updated: +002023-04-25 2130
 ---
 
-> [!skill] Wyvern Familiar
-> **Requires**: [[Clawbringer]]
-> Details:: You gain a Wyvern Familiar that deals `dice: 1d6` Incendiary Damage to any Target it flies past. If it dies, it respawns at the end of the Encounter.
-> Source:: [Scout's B&B DLC 3: Into the Wonderlands](https://docs.google.com/document/d/1MLOgrWwcLNTnP9PuXrKiLImy7SUh4hXO8arVUAlmdp0/edit)
+***Requires***: [[../../../1%20Creating%20a%20Vault%20Hunter/The%20Classes/Clawbringer.md]]
+
+You gain a Wyvern Familiar that deals `dice: 1d6` Incendiary Damage to any Target it flies past. 
+
+If it dies, it respawns at the end of the Encounter.
 
 ## Statblock
 
+![Wyvern Familiar](https://github.com/sigrunixia/Bunkers-n-Badasses-Markdown/blob/main/Obsidian%20Resources/Fantasy%20Statblocks/screenshots/wyvern-familiar-statblock.png?raw=true)
 
 ```statblock
 layout: BunkersFamiliar
+Token: 
 Name: Wyvern Familiar
-Type: Dragon
-Health: 20
-Health-Regen: "+0"
-movement:
+Type: "Dragon."
+Health: "20"
+Health-Regen: "0"
+Shield: "0"
+Shield-Charge: "0"
+Armor: "0"
+Armor-Repair: "0"
+Traits:
 MovementType: flight 5
 Weapon: "__Breath Weapon__"
 Special: "If Wyvern Familiar dies, it respawns at the end of the Encounter."
@@ -43,7 +48,7 @@ Skills:
   - name: "Explosive Return 0/3"
     desc: "When your Wyvern Familiar dies, it explodes, dealing 2d6 (2d6) Incendiary and Shock Damage per Skill Level to all adjacent Targets. The first time it does this each Encounter, it respawns immediately next to you."
 
-ImageBig: [[baby-wyvern.png]]
+Image: [[baby-wyvern.png]]
 ```
 
 ### Codeblock
@@ -51,10 +56,14 @@ ImageBig: [[baby-wyvern.png]]
 ````yaml
 ```statblock
 layout: BunkersFamiliar
+Token: 
 Name: Wyvern Familiar
 Type: Dragon
 Health: 20
 Health-Regen: "+0"
+Shield:
+Armor:
+Traits:
 MovementType: flight 5
 Weapon: "__Breath Weapon__"
 Special: "If Wyvern Familiar dies, it respawns at the end of the Encounter."
@@ -73,10 +82,10 @@ Skills:
   - name: "Explosive Return 0/3"
     desc: "When your Wyvern Familiar dies, it explodes, dealing 2d6 (2d6) Incendiary and Shock Damage per Skill Level to all adjacent Targets. The first time it does this each Encounter, it respawns immediately next to you."
 
-ImageBig: [[baby-wyvern.png]]
+Image: [[baby-wyvern.png]]
 ```
 ````
 
 > [!inline-meta]- Metadata
 > sourceurl:: [Scout's B&B DLC 3: Into the Wonderlands](https://docs.google.com/document/d/1MLOgrWwcLNTnP9PuXrKiLImy7SUh4hXO8arVUAlmdp0/edit)
-> **tags**::
+> **tags**:: #BnB/Homebrew/Feats/Psycho

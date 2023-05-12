@@ -1,20 +1,28 @@
 ---
 aliases: [Deathclaw Ravager]
-tags: BnB/Homebrew/Bestiary/Undead
-title: Deathclaw Ravager
+cover: 
+created: +002023-03-27 2419
+description: 
+image: 
+permalink: 
+publish: true
+tags: [BnB/Homebrew/Bestiary/Undead]
+updated: +002023-05-12 0116
 ---
 
-### Statblock
+## Statblock
+
 ```statblock
 layout: BunkersBestiary
 source: Bunkers-Undead
 dice: true
+Token:
 Name: "Deathclaw Ravager"
 Type: "Undead"
 TitleOfMob: "Conqueror of Graves"
-FlavorText: "Once a ferocious predator, now a mindless hunter of the living."
+FlavorText: "Once a ferocious predator, now a mindless hunter of the living"
 TypeOfBoss: "Boss"
-BadassRank: 100
+BadassRank: 15
 MovementType: "move 5 burrow 2"
 Health: "500"
 Shield: 0
@@ -22,9 +30,7 @@ Armor: 200
 Traits: Large, Undead
 Weapon: "Slashing claws (+10 damage)"
 Special: "The Deathclaw Ravager is immune to poison and disease."
-SuperSpecial:
-- name: Death Frenzy
-  desc: "When reduced to 25% health, the Deathclaw Ravager enters a Death Frenzy, gaining +10 to its attack rolls and becoming immune to all player-initiated conditions."
+SuperSpecial: "__Death Frenzy__: When reduced to 25% health, the Deathclaw Ravager enters a Death Frenzy, gaining +4 to its attack rolls and becoming immune to all player-initiated conditions."
 Actions:
 - name: Claw Swipe
   desc: "The Deathclaw Ravager swipes at one target with an adjacent square, dealing 2d10 (2d10) damage."
@@ -38,5 +44,5 @@ Mayhem:
 Loot:
 - name: Deathclaw Talon
   desc: "This sharp talon can be used to craft deadly weapons."
-ImageBig: ""
+Image: ""
 ```

@@ -11,7 +11,7 @@ updated: +002023-04-25 2414
 
 ## Efficient
 
-***Requires:*** [Gladiator](Gladiator.md)
+**Tree**:: [Gladiator](Gladiator.md)
 When you deal Damage with a Favored Gun or Melee Attack, treat any die result of 1 as a 2 instead.
 
 > [!meta]- Feat Inline Metadata

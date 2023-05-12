@@ -36,7 +36,7 @@ But the Blightcaller's power is not without its cost. They walk a fine line betw
 
 ### Action Skill
 
-***[Bog Totem](Bog%20Totem.md)***
+***[Bog Totem](Bunkers%20and%20Badasses/Markdown%20Conversions%201/Scouts%20DLC%203/Action%20Skills/Bog%20Totem.md)***
 *Conjure* a Bog Totem Familiar in a space you can see to fire Bog Spirits that seek the nearest enemy and explode.
 - Whenever you or your Familiar kill an enemy, the Bog Totem’s duration increases by 1 turn.
 *Destroyed when its Armor is depleted*

@@ -11,7 +11,7 @@ updated: +002023-04-25 2414
 
 ## Of Two Minds
 
-***Requires:*** [Fire and Blood](Fire-and-Blood)
+**Tree**:: [Fire and Blood](Fire-and-Blood)
 
 When you make a Skill Check, you can roll `dice: 2d20` instead.
 If you do, pick one die and use that result.

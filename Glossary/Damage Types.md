@@ -27,7 +27,7 @@ Cryo damage refers to extremely low temperatures that can significantly slow dow
 
 ## Eldritch Damage
 
-Eldritch damage is a unique combination the elemental damage types Radiation, Incendiary, and [[Damage Types#Cryo Damage|Cryo]].
+Eldritch damage is a unique combination the elemental damage types Radiation, Incendiary, and [[Bunkers and Badasses/Glossary/Damage Types#Cryo Damage|Cryo]].
 
 It has the ability to bypass traditional defenses such as health, armor, and shields with ease, and can even penetrate through barriers. Its power is derived from the manipulation of dark, otherworldly energies, making it highly effective against supernatural and otherworldly creatures.
 
@@ -68,7 +68,7 @@ Arguably, a terrifying type of damage. Unlike other damage types, it can penetra
 Shock Damage is like 100 potato batteries directed at you, dealing double damage to Shields. Shock Damage can also [[stun]] electronic devices and robotic enemies, leaving them temporarily inoperable.
 
 ***Homebrew***
-For the unfortunate lifeform with a heart or a brain, it also has a chance at catastrophic neurological effects such as [[Paralysis]], [[Sudden Death]], or even [[Drooling]].
+For the unfortunate lifeform with a heart or a brain, it also has a chance at catastrophic neurological effects such as [[Paralysis]], [[Bunkers and Badasses/Glossary/Sudden Death]], or even [[Drooling]].
 
 > [!inline-meta]-  Shock Damage Metadata
 > source:: **Sourcebook** and ***Homebrew***

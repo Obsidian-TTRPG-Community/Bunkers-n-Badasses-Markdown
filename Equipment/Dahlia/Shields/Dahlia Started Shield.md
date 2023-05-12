@@ -7,7 +7,7 @@ equipped: Signia
 aliases: ["Dahlia Starter Shield"]
 cssclass: 
 ---
-# Dahlia-Starter-Shield
+
 >[!cards|1] `=this.name`
 > `=this.guild` lvl. `=this.level` Shield
 >

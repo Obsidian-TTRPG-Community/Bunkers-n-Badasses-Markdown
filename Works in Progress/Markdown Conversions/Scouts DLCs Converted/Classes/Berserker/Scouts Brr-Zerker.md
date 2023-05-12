@@ -70,7 +70,7 @@ But beware, for the Brr-Zerker is not to be underestimated. They are bound to sp
 
 >[!danger]- Berserker Inline Metadata
 > accuracy:: 0
-> actionskill:: [feral Surge](Feral%20Surge.md)
+> actionskill:: [feral Surge](Bunkers%20and%20Badasses/Markdown%20Conversions%201/Scouts%20DLC%203/Action%20Skills/Feral%20Surge.md)
 > classfeat:: [Rage of the Ancients](Rage-of-the-Ancients.md)
 > damage:: 2
 > image:: [Scouts Brr-Zerker_image_1.png](_image/Scouts%20Brr-Zerker_image_1.png)

@@ -11,7 +11,7 @@ updated: +002023-04-25 2414
 
 ## The Professional
 
-***Requires:*** [Mercenary Assassin](Mercenary%20Assassin.md)
+**Tree**:: [Mercenary Assassin](Mercenary%20Assassin.md)
 Choose a Skill.
 When you make a Skill Check for that Skill and roll an 8 or lower on the d20, treat the result as a 9 instead.
 

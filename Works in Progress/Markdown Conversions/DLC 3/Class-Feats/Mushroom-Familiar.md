@@ -11,7 +11,7 @@ updated: +002023-04-25 2414
 
 ## Mushroom Familiar
 
-***Requires:*** [Sporewarden](Sporewarden)
+**Tree**:: [Sporewarden](Sporewarden)
 You are followed by a Mushroom Familiar that attacks the nearest Target each turn, (as a Ranged Melee Attack using your stats,) dealing `dice: 1d4+2`(1d4+2) Corrosive Damage.
 If it dies, it respawns at the end of the Encounter.
 

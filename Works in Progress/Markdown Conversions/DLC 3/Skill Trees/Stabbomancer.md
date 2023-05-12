@@ -12,9 +12,9 @@ updated: +002023-04-25 2112
 
 >[!infobox|right]
 >## Stabby Stab Stab
-> | [**Class**:: [[Bunkers and Badasses/1 Creating a Vault Hunter/The Classes/Assassin/Assassin\|Assassin]] ] | [**Tree**:: Stabbomancer] |
+> | [**Class**:: [[Bunkers-n-Badasses-Markdown/1 Creating a Vault Hunter/The Classes/Assassin/Assassin|Assassin]] ] | [**Tree**:: Stabbomancer] |
 > |:---:|:---:|
-> ![[_image/Stabbomancer_image_1.png]]
+> ![[Stabbomancer_image_1.png]]
 > ### Class Features
 > | ***Stats*** |
 > |:---|
@@ -23,11 +23,11 @@ updated: +002023-04-25 2112
 > | [**DMG**:: +1] |
 > | [**SPD**:: +2] |
 > |[**MST**::  +1] |
-> | [**Action-Skill**:: [[Ghost Blade]] ] |
+> | [**Action-Skill**:: [[Bunkers and Badasses/Markdown Conversions 1/Scouts DLC 3/Action Skills/Ghost Blade]] ] |
 > #### Optional
 > | ***Feats*** |
 > |:---|
-> | [**Class Feat**:: [[Dirty Fighting]] ] |
+> | [**Class Feat**:: [[Bunkers and Badasses/Markdown Conversions 1/Scouts DLC 3/Feats/Dirty Fighting]] ] |
 
 The Stabbomancers are a shadowy group of assassins who have mastered the art of Critical Hits and Status Effects. Hailing from various walks of life, these cunning individuals have united under a common goal: to strike from the shadows and take down their enemies with swift, precise strikes.
 
@@ -40,7 +40,7 @@ Whether wielding guns, melee weapons, or magic spells, the Stabbomancers are a t
 
 ## Action Skill
 
-**[Ghost Blade](Ghost%20Blade.md)**: Fire a spinning blade at a square you can see that deals `dice: 2d6` (2d6) *Melee* **Damage** to all enemies it passes through and all Targets adjacent to the chosen square for **2** Turns.
+**[Ghost Blade](Bunkers%20and%20Badasses/Markdown%20Conversions%201/Scouts%20DLC%203/Action%20Skills/Ghost%20Blade.md)**: Fire a spinning blade at a square you can see that deals `dice: 2d6` (2d6) *Melee* **Damage** to all enemies it passes through and all Targets adjacent to the chosen square for **2** Turns.
 **(MST Mod per Day + 1/Encounter)**
 
 ## Skill Tree - Canvas

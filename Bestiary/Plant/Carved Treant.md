@@ -18,6 +18,7 @@ source: Bunkers-Plants
 # Ensures Dice Rolls Turned on even if Off Elsewhere
 dice: true
 # Entity Stats
+Token: 
 Name: Carved Treant
 Type: "Treant."
 # Boss/Subtitle Sttuff Below
@@ -49,5 +50,5 @@ Mayhem:
   desc: "CarvedTreant pushes 3 branches into the ground that sprout up to 2 squares away and turn into fully grown plants in 1 turn. Once fully grown, the plants explode when any target is adjacent, dealing 6 (2d6) Corrosive Damage."
 - name: Ground Slam x2
   desc: "Carved Treant slams the ground with its trunk twice, dealing 12 (2d12) Damage per slam to all adjacent targets."
-ImageBig: "[[Carved-Treant.png|Show to Players]]"
+Image: "[[Carved-Treant.png|Show to Players]]"
 ```

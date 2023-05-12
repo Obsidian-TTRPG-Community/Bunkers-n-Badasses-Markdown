@@ -1,12 +1,13 @@
 ---
 aliases: ["Super Badass Enemies"]
+cover: 
 created: +002023-02-07 2321
 description: 
 image: 
 permalink: bnb/rules/super-badass-enemies
 publish: true
-title: Super Badass Enemies
-updated: +002023-04-25 2125
+tags: 
+updated: +002023-05-11 2335
 ---
 
 Super Badass Enemies are an even greater threat than regular Badass Enemies as they possess increased speed, strength, and lethality. To spawn a Super Badass of an enemy type, multiply the Badass Rank (BR) by three when spawning enemies.
@@ -24,8 +25,7 @@ Super Badass Enemies also have the following compared to their normal, unbadass 
 
 Additionally, they get **two** modifiers from the sourcebook's Enemy Trait Table or any homebrewed Enemy Trait Table, rolled at random or chosen by the Bunkermaster, whomever is more *sadistic*.
 
----
 
-> [!inline-Meta]- Metadata
-> **source**:: Bunkers & Badasses Sourcebook and Sigrunixia Homebrew.
+> [!Weather] Metadata
+> **source**:: Bunkers & Badasses Sourcebook, and Sigrunixia Homebrew.
 > **tags**:: #BnB/Bunkermaster/Enemies/SuperBadass #BnB/Homebrew/Rules/Enemies

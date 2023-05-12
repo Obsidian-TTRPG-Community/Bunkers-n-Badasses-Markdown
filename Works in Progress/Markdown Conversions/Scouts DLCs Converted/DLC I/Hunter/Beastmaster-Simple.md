@@ -24,7 +24,7 @@ updated: +002023-04-25 2414
 > | -------------------- | ------------ | --------------------- | ---------------------------- |
 > | **Accuracy**         | +1           | **Damage**            | +1                           |
 > | **Speed**            | +0           | **Mastery**           | +2                           |
-> | **Melee Die**        | 1d8          | **Action Skill**      | **[Gamma Burst](Gamma%20Burst.md)** |
+> | **Melee Die**        | 1d8          | **Action Skill**      | **[Gamma Burst](Bunkers%20and%20Badasses/Markdown%20Conversions%201/Scouts%20DLC%201/Action%20Skills/Gamma%20Burst.md)** |
 > | **Favored Gun**      | Sniper Rifle | **Favored Gun**       | Pistol                       |
 > | ***Familiar Melee*** | ***Score***      | ***Familiar Ranged*** | ***Score***                      |
 > | **2-7**              | -1 DMG       | **2-7**                   | 1 - 0                          |

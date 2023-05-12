@@ -11,7 +11,7 @@ updated: +002023-04-25 2414
 
 ## Whisper of Rot
 
-***Requires:*** [Scouts Blightcaller](Scouts%20Blightcaller.md)
+**Tree**:: [Scouts Blightcaller](Scouts%20Blightcaller.md)
 After dealing Elemental Damage, gain +1d4 Elemental Damage for 2 turns.
 
 > [!inline-meta]- Metadata

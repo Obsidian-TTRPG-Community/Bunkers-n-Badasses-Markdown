@@ -11,7 +11,7 @@ updated: +002023-04-25 2414
 
 ## Rage of the Ancients
 
-***Requires:*** [Scouts Brr-Zerker](Scouts%20Brr-Zerker.md)
+**Tree**:: [Scouts Brr-Zerker](Scouts%20Brr-Zerker.md)
 
 After activating your Action Skill, become *Enraged* for 2 turns.
 

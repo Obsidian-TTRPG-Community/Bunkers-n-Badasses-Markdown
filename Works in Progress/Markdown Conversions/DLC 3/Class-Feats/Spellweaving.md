@@ -11,7 +11,7 @@ updated: +002023-04-25 2414
 
 ## Spellweaving
 
-***Requires:*** [Spellshot](Spellshot.md)
+**Tree**:: [Spellshot](Bunkers%20and%20Badasses/Markdown%20Conversions%201/Scouts%20DLC%203/Skill%20Trees/Spellshot.md)
 
 Tossing a Grenade or Reloading grants you a point of Spellweaving, up to 5, until the end of the Day.
 Gain +1 Grenade Damage for each point of Spellweaving.

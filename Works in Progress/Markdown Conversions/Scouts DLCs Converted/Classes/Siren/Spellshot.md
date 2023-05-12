@@ -13,7 +13,7 @@ updated: +002023-04-25 2414
 
 >[!infobox|right]
 >## `=this.skilltree` `=this.class`
->![](_image/Spellshot_image_1.png)
+>![](Spellshot_image_1.png)
 > ### Class Features
 >
 > | ***Type*** | ***Stat*** |
@@ -34,7 +34,7 @@ As a Spellshot, you will be be respected, revered, and feared by the people of t
 
 ### Action Skill
 
-***[Ambihexterous](Ambihexterous.md)***
+***[Ambihexterous](Bunkers%20and%20Badasses/Markdown%20Conversions%201/Scouts%20DLC%203/Action%20Skills/Ambihexterous.md)***
 Whenever you find a Grenade Mod, you can make it your Action Skill, replacing the previous Grenade Mod, if any.
 - You can Toss this Grenade whenever you activate your Action Skill.
 - Grenades that are your Action Skill can’t be Tossed using your Grenade Stock.
@@ -75,10 +75,10 @@ Whenever you find a Grenade Mod, you can make it your Action Skill, replacing th
 
 >[!abstract]- Spellshot Inline Metadata
 > accuracy:: 1
-> actionskill:: [Ambihexterous](Ambihexterous.md)
+> actionskill:: [Ambihexterous](Bunkers%20and%20Badasses/Markdown%20Conversions%201/Scouts%20DLC%203/Action%20Skills/Ambihexterous.md)
 > classfeat:: [Spellweaving](Bunkers%20and%20Badasses/Works%20in%20Progress/Markdown%20Conversions/DLC%203/Class-Feats/Spellweaving.md)
 > damage:: 2
-> image:: [Spellshot_image_1.png](_image/Spellshot_image_1.png)
+> image:: [Spellshot_image_1.png](Spellshot_image_1.png)
 > mastery:: 1
 > meleedie:: **1d6**
 > skilltree:: Spellshot

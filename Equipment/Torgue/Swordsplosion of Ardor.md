@@ -26,7 +26,7 @@ source_homebrew:
 value: 16,239 gp
 weight: 25 lb
 ---
-# Description
+## Description
 Swordsplosion of Ardor is a legendary shotgun with an impact ammunition mode and sticky ammunition mode. In impact mode, the ammunition acts typical of any shotgun. In sticky ammunition mode, the shotgun activates its special effects, described below. 
 
 This weapon also comes in Fire, Lightning, Poison, Frost, Dark Magic, or no special element variants.

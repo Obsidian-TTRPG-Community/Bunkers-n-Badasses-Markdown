@@ -1,17 +1,24 @@
 ---
 aliases: [Super Badass Deep Dragon]
-tags: BnB/Homebrew/Bestiary/Dragon
+cover: 
+created: +002023-03-27 1002
+description: 
+image: 
+permalink: 
+publish: true
+tags: [BnB/Homebrew/Bestiary/Dragon]
+updated: +002023-05-11 1947
 ---
 
+## Statblock
 
-
-### Statblock
 ```statblock
 # Layouts until other style of releases should be BunkersBestiary
 layout: BunkersBestiary
 source: Bunkers-Example
 dice: true
 # If Its a Badass or a SuperBadass, make sure to put that First… Badass Potion Master… SuperBadass Treant
+Token: "[[Dragon-Deep.png]]"
 Name: "Super Badass Deep Dragon"
 # "Landshark."
 Type: "Dragon."
@@ -24,7 +31,7 @@ TypeOfBoss: "Miniboss"
 # Self Explanatory, right? What is its BR
 BadassRank: 63
 # Options are move, flight, swim, burrow, teleport, hover, leap, climb, 
-MovementType: "move 4 flight 6 teleport 2"
+MovementType: "move 4 flight 6"
 # Hitpoints
 Health: "200"
 # Shield Points
@@ -32,15 +39,13 @@ Shield: 150
 # Armor Points
 Armor: 100
 # Any existing Traits. Want to randomize it? Add Random, Random 2, or Random 3. 
-Traits: Large. Random 3.
+Traits: "Large. Chubby. Explosive. Dargon."
 # What weapon does it use?
-Weapon: "Breath, Bite (+6 Damage)"
+Weapon: "Breath +6. Bite +6"
 # Any special stuff we ought to know?
 Special: "If the [[dragon]] gains any elemental traits upon starting the encounter, it will gain elemental aura with a range of three squares, dealing 2d6 (2d6) elemental trait damage to all creatures besides itself per turn."
 # Super_Special is for use with some weird entities like Potion Master and some Bosses. Usually leave the name blank as "".
-SuperSpecial:
-- name: Fixation
-  desc: "After performing an Air Bite the Dragon will become fixated on the target for two turns, and will pursue the target up to its maximum flight speed per turn."
+SuperSpecial: "___Fixation___: After performing an Air Bite the Dragon will become fixated on the target for two turns, and will pursue the target up to its maximum flight speed per turn."
 # Main Actions. Leave Empty if None
 Actions:
 - name: Breath Missiles
@@ -60,6 +65,6 @@ Loot:
  - name: A Purple Scale
    desc: "This Deep Dragon was carrying a strange, purple scale, embossed with a series of scratches."
 # Does this Entity Have an Image? Accepts Wikilink or Markdown Link. Leave Empty if None
-ImageBig: ""
+Image: "[Show to Players](Dragon-Deep.png)"
 ```
 ^BnBBestiarySBDeepDragon

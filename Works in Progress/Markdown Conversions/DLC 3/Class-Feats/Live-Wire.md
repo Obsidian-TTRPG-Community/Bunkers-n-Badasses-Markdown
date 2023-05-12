@@ -11,7 +11,7 @@ updated: +002023-04-25 2414
 
 ## Live Wire
 
-***Requires:*** [Shock and Claws](Shock-and-Claws)
+**Tree**:: [Shock and Claws](Shock-and-Claws)
 When you deal Shock Damage, gain 1+MST Mod Health.
 
 > [!meta]- Feat Inline Metadata

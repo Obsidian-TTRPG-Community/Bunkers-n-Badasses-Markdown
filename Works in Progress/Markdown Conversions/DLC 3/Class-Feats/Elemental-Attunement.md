@@ -11,7 +11,7 @@ updated: +002023-04-25 2414
 
 ## Elemental Attunement
 
-***Requires:*** [Phaselock](Bunkers%20and%20Badasses/1%20Creating%20a%20Vault%20Hunter/The%20Classes/Siren/Phaselock.md)
+**Tree**:: [Phaselock](Phaselock.md)
 Choose an Elemental Type.
 Gain +1d4 Damage Resistance against that Element.
 If it matches your Siren Element, instead gain +2d4 Damage Resistance.

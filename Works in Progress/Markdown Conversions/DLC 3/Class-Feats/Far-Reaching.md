@@ -11,7 +11,7 @@ updated: +002023-04-25 2414
 
 ## Far Reaching
 
-***Requires:*** [Sharp Shooter](Sharp-Shooter.md)
+**Tree**:: [Sharp Shooter](Sharp-Shooter.md)
 All Favored Guns get +2 Range.
 Attacks beyond Range 5 get +1 Crit Die.
 

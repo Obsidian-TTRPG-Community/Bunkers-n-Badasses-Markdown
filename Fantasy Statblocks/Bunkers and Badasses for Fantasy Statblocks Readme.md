@@ -10,7 +10,7 @@ updated: +002023-04-25 2228
 ---
 ### What Does it Looks Like?
 
-![BnB Layout Version 1](_image/Bunkers%20and%20Badasses%20for%20Fantasy%20Statblocks%20Readme_image_1.png)
+![BnB Layout Version 1](Bunkers%20and%20Badasses%20for%20Fantasy%20Statblocks%20Readme_image_1.png)
 
 ### The Codeblock: Bestiary
 

@@ -42,3 +42,7 @@ pw.*
 /3 Running the Game/
 /Resources/
 .idea
+.idea/vcs.xml
+.idea/modules.xml
+.idea/misc.xml
+.idea/inspectionProfiles/Project_Default.xml

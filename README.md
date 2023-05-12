@@ -3,7 +3,7 @@
 
 A repository of resources the TTRPG game Bunkers and Badasses by [Nerdvana Games](https://nerdvanagames.com), primarily oriented towards utilization within [Obsidian](https://obsidian.md/).
 
-_Please review the the [[License]] before using any of the resources contained within this repository._
+_Please review the [[License]] before using any of the resources contained within this repository._
 
 ### Publish Preview
 

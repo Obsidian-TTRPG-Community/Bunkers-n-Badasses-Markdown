@@ -1,0 +1,29 @@
+ .statblock[class*='bunkers'] {
+    & .statblock-item-container.image-container.smallies {
+      img {
+        border-radius: 50%;
+        border: 2px solid #fff;
+        height: 2rem;
+        width: 2rem;
+        object-fit: cover;
+        object-position: center;
+        overflow: visible;
+        position: relative; /* Add position relative to parent container */
+        top: -10px; /* Move the image up */
+        left: -10px; /* Move the image left */
+      }
+    }
+
+  & .statblock-item-container.image-container.Image {
+    & IMG {
+      width: calc(100% + 1em);
+      max-width: unset;
+      margin: -0.5em;
+      border: unset;
+      border-radius: unset;
+      object-fit: cover;
+      object-position: center;
+      image-rendering: auto;
+    }
+  }
+}

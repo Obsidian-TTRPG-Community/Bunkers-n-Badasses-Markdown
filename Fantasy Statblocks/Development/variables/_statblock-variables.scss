@@ -1,0 +1,52 @@
+.statblock[class*='bunkers'] {
+  /*! Default Variables */
+  --statblock-background-color: #FAFAFA;
+  --statblock-border-color: rgba(203, 206, 208, 1);
+  --statblock-border-size: 0.0625em;
+  --statblock-box-shadow-blur: 0;
+  --statblock-box-shadow-color: rgba(254, 254, 254, 1);
+  --statblock-box-shadow-x-offset: 0;
+  --statblock-box-shadow-y-offset: 0;
+  --statblock-font-color: rgba(79, 82, 93, 1);
+  --statblock-font-weight: 300;
+  --statblock-heading-font-color: rgba(79, 82, 93, 1);
+  --statblock-heading-font-size: clamp(1rem, calc(18px + 1.5vw), 24px);
+  --statblock-heading-font-variant: petite-caps;
+  --statblock-heading-font-weight: 700;
+  --statblock-heading-font: 'Probert-Regular', 'BnB-Font', sans-serif;
+  --statblock-heading-line-height: 1;
+  --statblock-section-heading-border-color: rgba(98, 97, 108, 1);
+  --statblock-section-heading-border-size: 0.0625em;
+  --statblock-section-heading-font-color: rgba(79, 82, 93, 1);
+  --statblock-section-heading-font-family: 'Roadgeek-2005-Engschrift-Regular', 'BnB-Font', sans-serif;
+  --statblock-section-heading-font-size: clamp(1.0625rem, calc(1.125rem + 0.8333vw), 1.25rem);
+  --statblock-section-heading-font-variant: small-caps;
+  --statblock-section-heading-font-weight: 600;
+  --statblock-subheading-font-size: 0.90rem;
+  --statblock-subheading-font-style: italic;
+  --statblock-subheading-font-weight: normal;
+
+  --statblock-primary-color: rgba(98, 97, 108, 1);
+  --statblock-rule-color: rgba(98, 97, 108, 1);
+  --statblock-saves-line-height: 1.4;
+
+  --statblock-spells-font-color: rgba(79, 82, 93, 1);
+  --statblock-spells-font-style: italic;
+
+  --statblock-property-font-color: rgba(79, 82, 93, 1);
+  --statblock-property-line-height: 1;
+  --statblock-property-name-font-color: rgba(79, 82, 93, 1);
+  --statblock-property-name-font-family: 'Roadgeek 2005 Series 1w', 'BnB-Font', sans-serif;
+  --statblock-property-name-font-size: 1rem;
+  --statblock-property-name-font-weight: 700;
+  --statblock-content-font-size: 16px;
+  --statblock-content-font-weight: 400;
+  --statblock-content-font: 'Exo2-Regular', 'BnB-Font', sans-serif;
+
+  --statblock-table-header-font-weight: bold;
+  --statblock-link-style: italic;
+  --statblock-image-border-color: rgba(78, 84, 94, 1);
+  --statblock-image-border-size: 0;
+  --statblock-image-height: unset;
+  --statblock-image-width: unset;
+}

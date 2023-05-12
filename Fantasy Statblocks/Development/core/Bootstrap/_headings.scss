@@ -1,0 +1,90 @@
+$bunkers-type-font-family: 'Exo2-Regular', 'BnBFont', sans-serif;
+$bunkers-type-font-style: italic;
+$bunkers-type-size: clamp(0.8125em, calc(10px + 1.5vw), 12px);
+$h3-section-heading-font-family: 'Din-Rundschrift-Eng', 'BnBFont', sans-serif;
+$bnb-section-background-color: rgba(224, 225, 221, 0.3);
+$bnb-traits-font-style: italic;
+$bnb-traits-font-weight: bold;
+$bnb-heading-letter-spacing: 0.0714rem;
+$bnb-heading-font-weight: 300;
+$bnb-heading-font-style: italic;
+
+
+// default heading
+.statblock[class*='bunkers'] {
+
+  /*! Improve Headings in General*/
+  .flex-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  .heading {
+    align-items: center;
+    color: var(--statblock-heading-font-color);
+    display: flex;
+    font-family: var(--statblock-heading-font);
+    font-size: var(--statblock-heading-font-size);
+    font-style: $bnb-heading-font-style;
+    font-variant: var(--statblock-heading-font-variant);
+    font-weight: $bnb-heading-font-weight;
+    justify-content: space-between;
+    letter-spacing: $bnb-heading-letter-spacing;
+    line-height: var(--statblock-heading-line-height);
+    margin: 0;
+  }
+
+  .section-header {
+    /*! Improve Section Headings */
+    $break-ident: avoid-column;
+    font-family: var(--statblock-section-heading-font-family);
+    font-size: var(--statblock-section-heading-font-size);
+    font-weight: var(--statblock-section-heading-font-weight);
+    font-variant: var(--statblock-section-heading-font-variant);
+    right: 0.625em;
+    display: inline-block;
+    overflow-x: visible;
+    width: 11.25em;
+    margin: 0 0 0.3em;
+    padding: 0.125em;
+    letter-spacing: 0.0625em;
+    color: var(--statblock-section-heading-font-color);
+    border-left-width: 1.875em;
+    border-top-right-radius: 0.9375em 0.5em;
+    border-bottom-right-radius: 0.9375em 0.5em;
+    background-color: $bnb-section-background-color;
+    break-after: $break-ident;
+    break-inside: $break-ident;
+  }
+
+  h3.section-header {
+    /*! Makes h3 Awesome */
+    $break-ident: avoid-column;
+    font-family: $h3-section-heading-font-family;
+    font-size: var(--statblock-section-heading-font-size);
+    font-weight: var(--statblock-section-heading-font-weight);
+    font-variant: var(--statblock-section-heading-font-variant);
+    right: 0.625em;
+    display: inline-block;
+    overflow-x: visible;
+    width: 11.25em;
+    margin: 0 0 0.3em;
+    padding: 0.125em;
+    letter-spacing: 0.0625em;
+    color: var(--statblock-section-heading-font-color);
+    border-left-width: 1.875em;
+    border-top-right-radius: 0.9375em 0.5em;
+    border-bottom-right-radius: 0.9375em 0.5em;
+    background-color: $bnb-section-background-color;
+    break-after: $break-ident;
+    break-inside: $break-ident;
+  }
+
+  & .subheading {
+    font-weight: var(--statblock-subheading-font-weight);
+    font-style: var(--statblock-subheading-font-style);
+    font-size: var(--statblock-subheading-font-size);
+    margin: 0;
+  }
+}

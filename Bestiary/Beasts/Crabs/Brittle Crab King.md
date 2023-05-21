@@ -1,6 +1,7 @@
 ---
 ac: 0
 aliases: ["Brittle Crab King"]
+cover: 
 cr: 3
 created: +002023-02-07 2321
 description: 
@@ -10,10 +11,8 @@ modifier:
 permalink: 
 publish: true
 statblock: inline
-tags:
-- BnB/Homebrew/Bestiary/Wildlife/Crab
-title: "Brittle Crab King"
-updated: +002023-04-30 2403
+tags: [BnB/Homebrew/Bestiary/Wildlife/Crab]
+updated: +002023-05-14 0547
 ---
 
 >[!tina] Bunkermaster Tina
@@ -31,8 +30,8 @@ Normally not an overly aggressive species, the Brittle Crab King has recently be
 layout: BunkersBestiary
 source: Bunkers-Wildlife
 dice: true
-name: "Brittle Crab King"
-type: "Wildlife."
+Name: "Brittle Crab King"
+Type: "Crab."
 
 TitleOfMob: King Brittle Crabby
 FlavorText: Only Semi-Brittle
@@ -43,7 +42,7 @@ MovementType: move 2 swim 1
 Health: "10"
 Shield: "10"
 Armor: "10"
-Traits: [[Tiny Armor]] [[Impaled]]
+Traits: Tiny Armor. Impaled
 Weapon: Head, Pincers
 Special: When first encountered, King Brittle Crab will summon 3 [[Brittle Crab]].
 SuperSpecial:

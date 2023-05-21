@@ -11,7 +11,7 @@ updated: +002023-04-19 1823
 
 These Enemy Traits can be used for NPC's, Enemies, Badasses, Superbadasses, and Bosses alike. 
 
-> [!note] These were in my playtested and approved folder, so assume they have *some* value. You may still need to adjust them for your table.
+> [!info] These were in my playtested and approved folder, so assume they have *some* value. You may still need to adjust them for your table.
 
 | `dice: 1d20` | **Varied Enemy Traits**                                                                                       |
 | ------------ | --------------------------------------------------------------------------------------------------------------- |

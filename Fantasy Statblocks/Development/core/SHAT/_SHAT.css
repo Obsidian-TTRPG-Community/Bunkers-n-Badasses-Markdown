@@ -1,0 +1,39 @@
+.statblock.BunkersBestiary .health, .statblock.BunkersBestiary .shield, .statblock.BunkersBestiary .armor, .statblock.BunkersBestiary .traits {
+  background-color: rgba(224, 225, 221, 0.9);
+  border-color: rgba(224, 225, 221, 0.9);
+  border-width: 1rem;
+  box-sizing: border-box;
+  display: inline-block;
+  line-height: 1;
+  padding-left: 0.1875rem;
+  position: relative;
+  width: 10.3125rem;
+}
+.statblock.BunkersBestiary .health.property-name, .statblock.BunkersBestiary .shield.property-name, .statblock.BunkersBestiary .armor.property-name, .statblock.BunkersBestiary .traits.property-name {
+  font-weight: 700;
+  font-family: var(--statblock-property-name-font-family);
+}
+.statblock.BunkersBestiary .health p, .statblock.BunkersBestiary .shield p, .statblock.BunkersBestiary .armor p, .statblock.BunkersBestiary .traits p {
+  font-family: var(--statblock-content-font);
+}
+
+.statblock.BunkersFamiliar .health, .statblock.BunkersFamiliar .regen, .statblock.BunkersFamiliar .shield, .statblock.BunkersFamiliar .charge, .statblock.BunkersFamiliar .armor, .statblock.BunkersFamiliar .repair, .statblock.BunkersFamiliar .traits {
+  background-color: rgba(224, 225, 221, 0.9);
+  border-color: rgba(224, 225, 221, 0.9);
+  border-width: 1rem;
+  box-sizing: border-box;
+  display: inline-block;
+  line-height: 1;
+  padding-left: 0.1875rem;
+  position: relative;
+  width: 1rem;
+}
+.statblock.BunkersFamiliar .health.property-name, .statblock.BunkersFamiliar .regen.property-name, .statblock.BunkersFamiliar .shield.property-name, .statblock.BunkersFamiliar .charge.property-name, .statblock.BunkersFamiliar .armor.property-name, .statblock.BunkersFamiliar .repair.property-name, .statblock.BunkersFamiliar .traits.property-name {
+  font-weight: 700;
+  font-family: var(--statblock-property-name-font-family);
+}
+.statblock.BunkersFamiliar .health p, .statblock.BunkersFamiliar .regen p, .statblock.BunkersFamiliar .shield p, .statblock.BunkersFamiliar .charge p, .statblock.BunkersFamiliar .armor p, .statblock.BunkersFamiliar .repair p, .statblock.BunkersFamiliar .traits p {
+  font-family: var(--statblock-content-font);
+}
+
+/*# sourceMappingURL=_SHAT.css.map */

@@ -43,8 +43,6 @@ In the despair of the harshness of the environment, the remaining residents and 
 | 20                                                             | **SKAG HANDLER**: This creature has the ability to summon `dice: 1d4` Skags to fight for it once per encounter. The summoned Skags will obey the creature's commands until they or the creature are defeated.                                       |
 ^BnB-Tables-Traits-Enemy-AridBadlands
 
----
-
 
 >[!inline-meta] Metadata
-> **tags**:: #BnB/Lore/Arid-Badlands, #BnB/Homebrew/Tables/EnemyTraits
+> **Tags**:: #BnB/Lore/Arid-Badlands, #BnB/Homebrew/Tables/EnemyTraits

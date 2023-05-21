@@ -1,0 +1,9 @@
+.statblock[class*=Bunkers] .property .Actions .property-name, .statblock[class*=Bunkers] .property .Mayhem .property-name, .statblock[class*=Bunkers] .property .Loot .property-name {
+  font-style: italic;
+}
+
+.statblock.bunkersbestiary.tams.statblock-markdown p {
+  display: grid !important;
+}
+
+/*# sourceMappingURL=_index.css.map */

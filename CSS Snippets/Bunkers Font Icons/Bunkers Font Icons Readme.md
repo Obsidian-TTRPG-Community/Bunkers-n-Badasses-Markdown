@@ -14,7 +14,7 @@ Please note… You will not be able to see the icons in this Readme properly unt
 
 ## Files You Will Need
 
-1. [Bunkers-Font-Icons-V1](Bunkers-Font-Icons-V1.css)
+1. [Bunkers-Font-Icons-V1](Github/Bunkers%20and%20Badasses/CSS%20Snippets/Bunkers%20Font%20Icons/_attachments/Bunkers-Font-Icons-V1.css)
 2. All the files in the [Fonts](../Fonts) directory if you want the physical fonts to encode into your site.
 
 ### Optional Files
@@ -29,7 +29,7 @@ In most cases, it is as simple as taking the contents of the CSS file, and pasti
 ```css
 .statblock.bunkers,
 .statblock.bunkerscharacters,
-.statblock.bunkersfamiliars,
+.statblock.basic-bnb-familiar-layout,
 .statblock.bunkersvehicles {
 
 /* Statblock Font Types */

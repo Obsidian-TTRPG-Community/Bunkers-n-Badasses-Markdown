@@ -14,7 +14,7 @@ This is a proof of concept for using canvas as a skill/progression tree tracker.
 
 ### Snippets for the Looks (Optional)
 1. [S - Callouts](https://github.com/SlRvb/Obsidian--ITS-Theme/tree/main/Snippets)
-2. [BnB-Sourcebook-No-Statblock](Bunkers%20and%20Badasses/_Archived/Stabbomancer-ST2/Stabbomancer/zz-attachment/BnB-Sourcebook-No-Statblock.css) or [BnB-Sourcebook-Yes-Statblock](Bunkers%20and%20Badasses/_Archived/Stabbomancer-ST2/Stabbomancer/zz-attachment/BnB-Sourcebook-Yes-Statblock.css)
+2. [BnB-Sourcebook-No-Statblock](Github/Bunkers%20and%20Badasses/_Archived/Stabbomancer-ST2/Stabbomancer/zz-attachment/BnB-Sourcebook-No-Statblock.css) or [BnB-Sourcebook-Yes-Statblock](Github/Bunkers%20and%20Badasses/_Archived/Stabbomancer-ST2/Stabbomancer/zz-attachment/BnB-Sourcebook-Yes-Statblock.css)
 
 ## Instructions
 1. Download the [Stabbomancer](../Stabbomancer/) folder in full and place it in your vault.

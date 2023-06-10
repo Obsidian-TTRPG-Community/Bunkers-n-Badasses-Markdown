@@ -16,7 +16,7 @@ Corrosive Damage is a type of magical attack that deals significant damage to ar
 
 > [!weather]  Corrosive Damage Metadata
 > **Source**:: **Sourcebook**
-> **tags**:: #BnB/Combat/Damage/Types/Corrosive
+> **Tags**:: #BnB/Combat/Damage/Types/Corrosive
 
 ## Cryo Damage
 
@@ -24,17 +24,17 @@ Cryo damage refers to extremely low temperatures that can significantly slow dow
 
 > [!weather]  Cryo Damage Metadata
 > **Source**:: **Sourcebook**
-> **tags**:: #BnB/Combat/Damage/Types/Cryo
+> **Tags**:: #BnB/Combat/Damage/Types/Cryo
 
 ## Eldritch Damage
 
-Eldritch damage is a unique combination the elemental damage types Radiation, Incendiary, and [[Damage Types#Cryo Damage|Cryo]].
+Eldritch damage is a unique combination the elemental damage types Radiation, Incendiary, and [[Github/Bunkers and Badasses/Glossary/Damage Types#Cryo Damage|Cryo]].
 
 It has the ability to bypass traditional defenses such as health, armor, and shields with ease, and can even penetrate through barriers. Its power is derived from the manipulation of dark, otherworldly energies, making it highly effective against supernatural and otherworldly creatures.
 
 > [!weather]  Eldritch Damage Metadata
 > **Source**:: ***Homebrew***
-> **tags**:: #BnB/Homebrew/Combat/Damage/Types/Eldritch
+> **Tags**:: #BnB/Homebrew/Combat/Damage/Types/Eldritch
 
 ## Explosive Damage
 
@@ -43,7 +43,7 @@ When a target is hit with explosive damage, the resulting explosion will splash 
 
 > [!weather]  Explosive Damage Metadata
 > **Source**:: **Sourcebook**
-> **tags**:: #BnB/Combat/Damage/Types/Explosive
+> **Tags**:: #BnB/Combat/Damage/Types/Explosive
 
 ## Incendiary Damage
 
@@ -53,7 +53,7 @@ Incendiary Damage ignites targets, burning their flesh and causing double damage
 
 > [!weather]  Incendiary Damage Metadata
 > **Source**:: **Sourcebook**
-> **tags**:: #BnB/Combat/Damage/Types/Incendiary
+> **Tags**:: #BnB/Combat/Damage/Types/Incendiary
 
 ## Radiation Damage
 
@@ -62,7 +62,7 @@ Arguably, a terrifying type of damage. Unlike other damage types, it can penetra
 
 > [!weather]  Radiation Damage Metadata
 > **Source**:: **Sourcebook**
-> **tags**:: #BnB/Combat/Damage/Types/Radiation
+> **Tags**:: #BnB/Combat/Damage/Types/Radiation
 
 ## Shock Damage
 
@@ -73,4 +73,4 @@ For the unfortunate lifeform with a heart or a brain, it also has a chance at ca
 
 > [!weather]  Shock Damage Metadata
 > **Source**:: **Sourcebook** and ***Homebrew***
-> **tags**:: #BnB/Combat/Damage/Types/Shock #BnB/Homebrew/Combat/Damage/Types/Shock 
+> **Tags**:: #BnB/Combat/Damage/Types/Shock #BnB/Homebrew/Combat/Damage/Types/Shock 

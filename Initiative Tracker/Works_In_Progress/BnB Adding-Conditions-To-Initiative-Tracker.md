@@ -10,7 +10,7 @@ title: How to use these conditions
 - You have the [Initiative Tracker plugin](https://github.com/valentine195/obsidian-initiative-tracker) installed and enabled.
 
 ## Instructions
-1. If you don't have prior data in Initiative Tracker, download [data.json](Bunkers%20and%20Badasses/Initiative%20Tracker/Works_In_Progress/_attachments/data.json) and paste it into your `.obsidian/plugins/initiative-tracker/` directory, replacing your existing one if necessary. If you *do* have prior data, open `.obsidian/plugins/initiative-tracker/data.json` and copy the contents of [pf2e-conditions.json](pf2e-conditions.json) into the `statuses` array. If you don't have a `statuses` array, add one after the `homebrew` array.
+1. If you don't have prior data in Initiative Tracker, download [data.json](Github/Bunkers%20and%20Badasses/Initiative%20Tracker/Works_In_Progress/_attachments/data.json) and paste it into your `.obsidian/plugins/initiative-tracker/` directory, replacing your existing one if necessary. If you *do* have prior data, open `.obsidian/plugins/initiative-tracker/data.json` and copy the contents of [pf2e-conditions.json](Github/Bunkers%20and%20Badasses/Initiative%20Tracker/Works_In_Progress/_attachments/pf2e-conditions.json) into the `statuses` array. If you don't have a `statuses` array, add one after the `homebrew` array.
 2. Open Obsidian and go to Settings > Initiative Tracker. Verify that you see conditions with the `PF-` prefix in the list of conditions.
 3. Open the Initiative Tracker pane and add combatants.
 4. Click on the HP of a combatant to open the HP dialog.

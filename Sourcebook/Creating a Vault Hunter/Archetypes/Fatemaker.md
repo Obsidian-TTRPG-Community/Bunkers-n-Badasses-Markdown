@@ -12,7 +12,7 @@ updated: 2023-06-02
 
 Fatemakers are Badasses that often find themselves at the center of many dire-goings-on and legends-in-the-making across the world. Whether driven forth by powerful gods, ancient prophecies, or the occasional macguffin, Fatemakers know that success is a team effort.
 
->[!tina] Bunkermaster Tina
+>[!Tiny-Tina] Bunkermaster Tina
 > And remember…. “Fate doesn’t divide us, Fate brings us Together!”
 
 >[!dragon-lord] The Dragon Lord

@@ -1,13 +1,11 @@
 ---
 aliases: ["Super Badass Enemies"]
 cover: 
-created: 2321-02-07
 description: 
+fileClass: Yes-Publish
 image: 
 permalink: bnb/rules/super-badass-enemies
 publish: true
-tags: []
-updated: 2023-06-02
 ---
 
 Super Badass Enemies are an even greater threat than regular Badass Enemies as they possess increased speed, strength, and lethality. To spawn a Super Badass of an enemy type, multiply the Badass Rank (BR) by three when spawning enemies.
@@ -29,7 +27,7 @@ Super Badass Enemies also have the following compared to their normal, unbadass 
 > Want an extra challenge? 
 > Add Health Regen, Shield Charge, and Armor Repair of `dice: 1d10` to `dice: 1d20` **per** player **per** turn. 😱
 
-Additionally, they get **two** modifiers from the sourcebook's [[Github/Bunkers and Badasses/Sourcebook/Running the Game/Crafting A Campaign/Encounters/Enemies/Badass Enemies#^BnB-Traits-Enemy|Badass Enemies]] Trait Table or any homebrewed Enemy Trait Table, rolled at random or chosen by the Bunkermaster, whomever is *more sadistic*.
+Additionally, they get **two** modifiers from the sourcebook's [[WyrmGamemaster/BnB/Sourcebook/Running the Game/Crafting A Campaign/Encounters/Enemies/Badass Enemies#^BnB-Traits-Enemy|Badass Enemies]] Trait Table or any homebrewed Enemy Trait Table, rolled at random or chosen by the Bunkermaster, whomever is *more sadistic*.
 
 > [!Reference] Mechanic: Super Badass Enemy
 > **Source**:: Bunkers & Badasses Sourcebook, and Sigrunixia Homebrew.

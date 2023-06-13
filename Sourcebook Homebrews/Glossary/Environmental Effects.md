@@ -26,11 +26,11 @@ Elemental Damage that deals **2x** Damage to Armour and Metal.
 
 ### Cryo
 
-Elemental Damage that [[Compendium/BnB/Sourcebook Homebrews/Glossary/Conditions#Slowed|slows]] targets. 
-If Hit again by Cryo, target becomes [[Compendium/BnB/Sourcebook Homebrews/Glossary/Conditions#Frozen|Frozen]].
+Elemental Damage that [[Compendium/BnB/Github/Sourcebook Homebrews/Glossary/Conditions#Slowed|slows]] targets. 
+If Hit again by Cryo, target becomes [[Compendium/BnB/Github/Sourcebook Homebrews/Glossary/Conditions#Frozen|Frozen]].
 
 ### Explosive
 
 Elemental Damage that always has Splash. 
-Has a **30%** chance to [[Compendium/BnB/Sourcebook Homebrews/Glossary/Quick Effects#Knockback|Knockback]] targets.
+Has a **30%** chance to [[Compendium/BnB/Github/Sourcebook Homebrews/Glossary/Quick Effects#Knockback|Knockback]] targets.
 

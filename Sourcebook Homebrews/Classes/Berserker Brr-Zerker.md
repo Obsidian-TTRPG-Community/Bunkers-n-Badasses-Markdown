@@ -1,13 +1,8 @@
 ---
-aliases: ["Berserker: Brr-Zerker"]
-cover: 
-created: 2321-02-07
+aliases: ["Brr-Zerker", "Brr-Zerker Berserker"]
 description: 
-image: 
 permalink: 
 publish: true
-tags: []
-updated: 2023-06-02
 ---
 
 > [!EchoDesc] Brr-Zerker Berserker 🍻
@@ -17,45 +12,25 @@ updated: 2023-06-02
 > **DMG**:: 2
 > **SPD**:: 1
 > **MST**::  1
-> **Class**:: [[Compendium/BnB/Sourcebook/Creating a Vault Hunter/The Classes/Berserker/Berserker|Berserker]]
-> **Action-Skill**:: [[Compendium/BnB/Sourcebook Homebrews/Creating a Vault Hunter/The Classes/Berserker/Brr-Zerker Berserker/Feral Surge|Feral Surge]]
-> **Tree-Feat**:: [[Compendium/BnB/Sourcebook Homebrews/Creating a Vault Hunter/The Classes/Berserker/Brr-Zerker Berserker/Rage of the Ancients|Rage of the Ancients]] 🍻
+> **Action-Skill**:: [[Compendium/BnB/Sourcebook Homebrews/Classes/Berserker Brr-Zerker/Feral Surge|Feral Surge]]
 > ### Metadata
+> **Class**:: [[Compendium/BnB/Sourcebook/Creating a Vault Hunter/The Classes/Berserker/Berserker|Berserker]]
 > **Source**:: [Scout's B&B DLC 3: Into the Wonderlands](https://docs.google.com/document/d/1MLOgrWwcLNTnP9PuXrKiLImy7SUh4hXO8arVUAlmdp0/edit).
 > **Tags**:: #BnB/Homebrew/Classes/Berserker #BnB/Homebrew/Scout/DLC3 
+> **Tree-Feat**:: [[Compendium/BnB/Sourcebook Homebrews/Feats/Rage of the Ancients|Rage of the Ancients]] 🍻
 
-<<<<<<<< Updated upstream:Sourcebook/Creating a Vault Hunter/The Classes/Brr-Zerker Berserker/Brr-Zerker Berserker.md
-> [!infobox]
->## `=this.skilltree` `=this.class`
->![](_image/Scouts%20Brr-Zerker_image_1.png)
-> ### Class Features
-> | ***Type*** | ***Stat*** |
-> |:---|:---|
-> | **Melee Die** | `=this.meleedie` |
-> | **ACC** | +`=this.accuracy`|
-> | **DMG** | +`=this.damage` |
-> | **SPD** | +`=this.speed` |
-> | **MST** | +`=this.mastery` |
-> | **Class Feat** (*Optional Homebrew*) | `=this.classfeat` |
->
 
-========
->>>>>>>> Stashed changes:Creating a Vault Hunter/The Classes/Berserker/Brr-Zerker Berserker/Brr-Zerker Berserker.md
- The Brr-Zerker is a frostastic of warrior, one who has honed their body and spirit to withstand the harsh realities of their frozen home. Trained from birth in the art of battle, these warriors are as comfortable wielding a mighty two-handed axe as they are summoning the power of frost to freeze their enemies in place.
+The Brr-Zerker is a frostastic of warrior, one who has honed their body and spirit to withstand the harsh realities of their frozen home. Trained from birth in the art of battle, these warriors are as comfortable wielding a mighty two-handed axe as they are summoning the power of frost to freeze their enemies in place.
 
 However, there is more to the Brr-Zerker than just brute strength and icy abilities. These warriors are also skilled in the use of occult magic, able to leech life from their foes and fuel their own rage in the heat of battle. And when their fury reaches a boiling point, they can unleash their full potential through their Action Skills, transforming into a whirling maelstrom of destruction.
 
 But beware, for the Brr-Zerker is not to be underestimated. They are bound to spectral entities, ancient spirits who lend their power to the warrior in exchange for their unwavering loyalty. It is this bond that allows the Brr-Zerker to harness the power of frost and channel it into their melee attacks, turning their weapons into instruments of icy death. So beware, for the Brr-Zerker is a force to be reckoned with on the battlefield, a relentless warrior who will stop at nothing to see their enemies defeated.
 
-### Action Skill
+## Action Skill
 
-<<<<<<<< Updated upstream:Sourcebook/Creating a Vault Hunter/The Classes/Brr-Zerker Berserker/Brr-Zerker Berserker.md
-![[Github/Bunkers and Badasses/Sourcebook/Creating a Vault Hunter/The Classes/Brr-Zerker Berserker/Feral Surge]]
-========
-![[Compendium/BnB/Sourcebook Homebrews/Creating a Vault Hunter/The Classes/Berserker/Brr-Zerker Berserker/Feral Surge]]
->>>>>>>> Stashed changes:Creating a Vault Hunter/The Classes/Berserker/Brr-Zerker Berserker/Brr-Zerker Berserker.md
+![[Compendium/BnB/Sourcebook Homebrews/Classes/Berserker Brr-Zerker/Feral Surge|Feral Surge]]
 
-### Skill Tree
+## Skill Tree
 
 | Tier 1 Skills |  |
 |---|---|

@@ -14,7 +14,11 @@ Please note… You will not be able to see the icons in this Readme properly unt
 
 ## Files You Will Need
 
+<<<<<<< Updated upstream
 1. [Bunkers-Font-Icons-V1](Github/Bunkers%20and%20Badasses/CSS%20Snippets/Bunkers%20Font%20Icons/_attachments/Bunkers-Font-Icons-V1.css)
+=======
+1. [Bunkers-Font-Icons-V1](Compendium/BnB/Sourcebook%20Homebrews/CSS%20Snippets/Bunkers%20Font%20Icons/_attachments/Bunkers-Font-Icons-V1.css)
+>>>>>>> Stashed changes
 2. All the files in the [Fonts](../Fonts) directory if you want the physical fonts to encode into your site.
 
 ### Optional Files

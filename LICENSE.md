@@ -1,13 +1,7 @@
 ---
 aliases: [Bunkers and Badass Repo License]
-cover: 
-created: +002023-02-07 2321
-description: 
-image: 
-permalink: 
+permalink: bnb/license
 publish: true
-tags: 
-updated: +002023-05-25 2126
 ---
 
 ## Legal Disclaimers
@@ -59,3 +53,7 @@ DIN Rundschrift Mittel is a creation of Robert Jablonski, and is licensed under 
 **Used For**: Property Content Fonts 
 
 Roadgeek 2005 Engschrift is a trademark of Michael D. Adams and is licensed as freely distributed and used provided copyright notifications remain intact.
+
+### Icons
+
+- Dread Skull Icon for Mayhem by [Lorc](https://lorcblog.blogspot.com/) under [CC BY 3.0](http://creativecommons.org/licenses/by/3.0/)

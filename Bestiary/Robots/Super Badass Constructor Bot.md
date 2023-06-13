@@ -1,11 +1,11 @@
 ---
 ac: 
-aliases: ["Super Badass Constructor Bot"]
 cr: 12
-description: 
-modifier: 1
 hp: 600
 name: Super Badass Constructor Bot
+modifier: 1
+aliases: ["Super Badass Constructor Bot"]
+description: 
 obsidianUIMode: preview
 permalink: 
 publish: true

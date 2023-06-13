@@ -1,7 +1,12 @@
 ---
-obsidianUIMode: preview
+ac: 
+cr: 4
+hp: 100
+name: Constructor Bot
+modifier: 1
 aliases: [Constructor Bot]
 description: 
+obsidianUIMode: preview
 permalink: 
 publish: true
 statblock: true

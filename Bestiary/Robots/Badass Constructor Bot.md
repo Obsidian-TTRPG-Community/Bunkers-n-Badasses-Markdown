@@ -1,7 +1,12 @@
 ---
-obsidianUIMode: preview
+ac: 
+cr: 8
+hp: 200
+name: Super Badass Constructor Bot
+modifier: 1
 aliases: [Badass Constructor Bot]
 description: 
+obsidianUIMode: preview
 permalink: 
 publish: true
 statblock: true

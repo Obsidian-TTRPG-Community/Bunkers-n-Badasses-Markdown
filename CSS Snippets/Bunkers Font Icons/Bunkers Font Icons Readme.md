@@ -14,7 +14,11 @@ Please note… You will not be able to see the icons in this Readme properly unt
 
 ## Files You Will Need
 
-1. [Bunkers-Font-Icons-V1](Bunkers-Font-Icons-V1.css)
+<<<<<<< Updated upstream
+1. [Bunkers-Font-Icons-V1](Github/Bunkers%20and%20Badasses/CSS%20Snippets/Bunkers%20Font%20Icons/_attachments/Bunkers-Font-Icons-V1.css)
+=======
+1. [Bunkers-Font-Icons-V1](Compendium/BnB/Sourcebook%20Homebrews/CSS%20Snippets/Bunkers%20Font%20Icons/_attachments/Bunkers-Font-Icons-V1.css)
+>>>>>>> Stashed changes
 2. All the files in the [Fonts](../Fonts) directory if you want the physical fonts to encode into your site.
 
 ### Optional Files
@@ -29,7 +33,7 @@ In most cases, it is as simple as taking the contents of the CSS file, and pasti
 ```css
 .statblock.bunkers,
 .statblock.bunkerscharacters,
-.statblock.bunkersfamiliars,
+.statblock.basic-bnb-familiar-layout,
 .statblock.bunkersvehicles {
 
 /* Statblock Font Types */
@@ -64,7 +68,7 @@ Statblocks is already set up to skin these two variables towards `p` and `h1-h6`
 `e1119`
 
 *Image for those who still are working to install the font.*
-![](_image/Bunkers%20Font%20Icons%20Readme_image_1.png)
+![](Bunkers%20Font%20Icons%20Readme_image_1.png)
 
 ***
 
@@ -92,7 +96,7 @@ As a result, now after the system-ui font, the glyphs will render in any of the 
 󡄛, 󡄝, and 󡄙  as well.
 
 *Image rendition*
-![](_image/Bunkers%20Font%20Icons%20Readme_image_2.png)
+![](Bunkers%20Font%20Icons%20Readme_image_2.png)
 
 ***
 
@@ -118,9 +122,9 @@ However the font file does contain individual classes for each icon, so you can 
 ```
 
 *Image Rendition*
-![Example Image 3](_image/Bunkers%20Font%20Icons%20Readme_image_3.png)
+![Example Image 3](Bunkers%20Font%20Icons%20Readme_image_3.png)
 
 ***
 
 ### Image Table of Font Icons
-![](_image/Bunkers%20Font%20Icons%20Readme_image_4.png)
+![](Bunkers%20Font%20Icons%20Readme_image_4.png)

@@ -1,42 +1,7 @@
 ---
-<<<<<<<< Updated upstream:Sourcebook/Creating a Vault Hunter/The Classes/Blightcaller Commando/Blightcaller Commando.md
-aliases: ["Commando: Blightcaller"]
-cover: 
-created: 2321-02-07
-========
-aliases: ["Blightcaller Commando"]
-cover: 
->>>>>>>> Stashed changes:Creating a Vault Hunter/The Classes/Commando/Blightcaller Commando/Blightcaller Commando.md
-description: 
-fileClass: 
-image: 
-permalink: 
-<<<<<<<< Updated upstream:Sourcebook/Creating a Vault Hunter/The Classes/Blightcaller Commando/Blightcaller Commando.md
-publish: 
-tags: []
-updated: 2023-06-02
----
-
-## Blightcaller
-
-> [!infobox]
->## Blightcaller Commando
-> ![[Krindornothin/Files/_image/Blightcaller Commando_image_1.png]]
->
-> ### Class Features
-> | ***Stats***                                 |
-> |:--------------------------------------------|
-> | [**Melee-Die**:: 1d8]                            |
-> | [**ACC**:: 1]                                |
-> | [**DMG**:: 0]                                   |
-> | [**SPD**:: 1]                                    |
-> | [**MST**::  2]                                   |
-> | [**Action-Skill**:: [[Github/Bunkers and Badasses/Sourcebook/Creating a Vault Hunter/The Classes/Blightcaller Commando/Bog Totem]].] |
-> | [**Class-Feat**:: [[Github/Bunkers and Badasses/Sourcebook/Creating a Vault Hunter/The Classes/Blightcaller Commando/Whisper of Rot]] 🍻] |
-> | [**Source**:: [Scout's B&B DLC 3: Into the Wonderlands](https://docs.google.com/document/d/1MLOgrWwcLNTnP9PuXrKiLImy7SUh4hXO8arVUAlmdp0/edit).] |
-> | [**Tags**:: #BnB/Homebrew/Classes/Commando #BnB/Homebrew/Scout/DLC3] |
-========
-publish: true
+aliases: Blightcaller Commando
+fileClass: Yes-Publish
+publish: True
 ---
 
 > [!EchoDesc] Blightcaller Commando
@@ -47,12 +12,11 @@ publish: true
 > **SPD**:: 1
 > **MST**::  2
 > **Class**:: [[Compendium/BnB/Sourcebook/Creating a Vault Hunter/The Classes/Commando/Commando|Commando]]
-> **Action-Skill**:: [[Compendium/BnB/Sourcebook Homebrews/Creating a Vault Hunter/The Classes/Commando/Blightcaller Commando/Bog Totem|Bog Totem]]
-> **Tree-Feat**:: [[Compendium/BnB/Sourcebook Homebrews/Creating a Vault Hunter/The Classes/Commando/Blightcaller Commando/Whisper of Rot|Whisper of Rot]] 🍻 
+> **Action-Skill**:: [[Compendium/BnB/Github/Sourcebook Homebrews/Creating a Vault Hunter/The Classes/Blightcaller Commando/Bog Totem|Bog Totem]]
+> **Tree-Feat**:: [[Compendium/BnB/Github/Sourcebook Homebrews/Creating a Vault Hunter/The Classes/Blightcaller Commando/Whisper of Rot|Whisper of Rot]] 🍻 
 > ### Metadata
 > **Source**:: [Scout's B&B DLC 3: Into the Wonderlands](https://docs.google.com/document/d/1MLOgrWwcLNTnP9PuXrKiLImy7SUh4hXO8arVUAlmdp0/edit).
 > **Tags**:: #BnB/Homebrew/Classes/Commando #BnB/Homebrew/Scout/DLC3 
->>>>>>>> Stashed changes:Creating a Vault Hunter/The Classes/Commando/Blightcaller Commando/Blightcaller Commando.md
 
 The Blightcaller is a master of the dark arts, harnessing the power of rot and decay to bring ruin upon their enemies. Through ancient rituals and forbidden magic, they call forth spirits from the swamps and bogs, binding them to their will and using them as instruments of destruction.
 
@@ -64,11 +28,7 @@ The Blightcaller's power is not without its cost. They walk a fine line between 
 
 ### Action Skill
 
-<<<<<<<< Updated upstream:Sourcebook/Creating a Vault Hunter/The Classes/Blightcaller Commando/Blightcaller Commando.md
-![[Bunkers and Badasses/1 Creating a Vault Hunter/The Classes/Commando/Blightcaller Commando/Bog Totem|Bog Totem]]
-========
-![[Compendium/BnB/Sourcebook Homebrews/Creating a Vault Hunter/The Classes/Commando/Blightcaller Commando/Bog Totem|Bog Totem]]
->>>>>>>> Stashed changes:Creating a Vault Hunter/The Classes/Commando/Blightcaller Commando/Blightcaller Commando.md
+![[Compendium/BnB/Github/Sourcebook Homebrews/Creating a Vault Hunter/The Classes/Blightcaller Commando/Bog Totem|Bog Totem]]
 
 ### Skill Tree
 

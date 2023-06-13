@@ -36,11 +36,17 @@ pw.*
 
 # Ignore Custom defined files
 .foundations
-/Sourcebook/
-/Resources/
 .idea
 .idea/vcs.xml
 .idea/modules.xml
 .idea/misc.xml
 .idea/inspectionProfiles/Project_Default.xml
 *.pdf
+
+/Sourcebook/
+/Arbiters of Fate/
+/Resources/
+/Characters/
+/NPCs/
+/Quests/
+/Encounters/

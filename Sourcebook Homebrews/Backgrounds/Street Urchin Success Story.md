@@ -1,13 +1,8 @@
 ---
 aliases: ["Street Urchin Success Story"]
-cover: 
-created: 1020-01-25
-description: 
-image: 
+description: [In this classic tale, you and your crew of unsavory pickpockets and thieves were down on your luck and struggling to make ends meet. That's when you stumbled upon what appeared to be the job of a lifetime...]
 permalink: bnb/backgrounds/street-urchin-success
 publish: true
-tags: [BnB/Homebrew/Backgrounds/Any]
-updated: 2023-06-02
 ---
 
 > [!skill] Street Urchin Success Story
@@ -15,9 +10,10 @@ updated: 2023-06-02
 > **Benefit**:: +2 DMG, +2 MST, +1 to Loot Search Checks
 > **Details**:: In this classic tale, you and your crew of unsavory pickpockets and thieves were down on your luck and struggling to make ends meet. That's when you stumbled upon what appeared to be the job of a lifetime—the one last job that could set you up for life. Although there was something off about it, you were desperate enough to take the risk. As it turns out, the heist went surprisingly smoothly, and you all made a tidy profit. With your newfound wealth, you were able to move out to the suburbs and start a new life. Despite the distance, you still occasionally keep in touch with your former crewmates.
 > **Detriment**:: -3 Max HP, -1 to a Random Check\*
-> **Source**:: [Tiny Tina's Wonderlands](https://playwonderlands.2k.com)
-> **DND-PF2E**:: +4 STR, +5 INT, -6 CON
 > ### Metadata
+> **DND-PF2E**:: +4 STR, +5 INT, -6 CON
+> **Source**:: [Tiny Tina's Wonderlands](https://playwonderlands.2k.com)
+> **Tags**:: #BnB/Homebrew/Backgrounds/Any
 > \* As Determined by the Bunker Master
 
 ## Optional Background Traits

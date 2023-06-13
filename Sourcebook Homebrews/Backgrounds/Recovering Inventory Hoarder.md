@@ -1,13 +1,8 @@
 ---
 aliases: ["Recovering Inventory Hoarder"]
-cover: 
-created: 1020-01-25
-description: 
-image: 
+description: [In the past, you would roam through the nooks and crannies of your every realm, grabbing every candlestick and wheel of cheese you could lay your hands on. You've since abandoned your hoarding...]
 permalink: bnb/backgrounds/recovering-inventory-hoarder
 publish: true
-tags: [BnB/Homebrew/Backgrounds/Any]
-updated: 2023-06-02
 ---
 
 > [!skill] Recovering Inventory Hoarder
@@ -15,8 +10,10 @@ updated: 2023-06-02
 > **Benefit**:: +1 MST, +2 Stats of Choice, +1 Traverse Checks when Carrying Stolen Loot 
 > **Details**:: In the past, you would roam through the nooks and crannies of your every realm, grabbing every candlestick and wheel of cheese you could lay your hands on. You've since abandoned your hoarding tendencies after being shunned by the Order of the Golden Loot, but still you find yourself drawn to weapons of war, and the alluring glint of valuable spoils. Old Habits Die Hard.
 > **Detriment**:: -1 ACC, -1 Max HP
+> ### Metadata
 > **DND-PF2E**:: -2 Dex, +2 Int, -2 Con, +5 Cha
-> **Source**:: [Tiny Tina's Wonderlands](https://playwonderlands.2k.com).
+> **Source**:: [Tiny Tina's Wonderlands](https://playwonderlands.2k.com)
+> **Tags**:: #BnB/Homebrew/Backgrounds/Any
 
 ## Optional Background Traits
 

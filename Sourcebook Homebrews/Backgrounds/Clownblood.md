@@ -1,13 +1,8 @@
 ---
 aliases: [Clownblood]
-cover: 
-created: 1020-01-25
-description: 
-image: 
+description: [Oh, dear stranger, it appears that a peculiar curse runs through your bloodline. Deep within the twisted branches of your family tree lies an enchantment tied to a pair of outrageously large shoes.]
 permalink: bnb/backgrounds/clownblood
 publish: true
-tags: [BnB/Homebrew/Backgrounds/Any]
-updated: 2023-06-02
 ---
 
 > [!skill] Clownblood
@@ -15,8 +10,10 @@ updated: 2023-06-02
 > **Benefit**:: +1 DMG, +4 MST, +1 Comedic Talk Checks, +1 to Comedic Interact Checks
 > **Details**:: Oh, dear stranger, it appears that a peculiar curse runs through your bloodline. Deep within the twisted branches of your family tree lies an enchantment tied to a pair of outrageously large shoes. Can you sense it? The echoes of honking laughter and joyous chortles resonating within you? Yes, indeed! The forbidden wisdom of the clown courses through your very veins, bestowing upon you the secrets of mirth and merriment.
 > **Detriment**:: -1 ACC, -1 to Two Stats of Choice
+> ### Metadata
 > **DnD-PF2E**:: Str +2; Int +8; Wis-3; Cha -4
-> **Source**:: [Tiny Tina's Wonderlands](https://playwonderlands.2k.com).
+> **Source**:: [Tiny Tina's Wonderlands](https://playwonderlands.2k.com)
+> **Tags**:: #BnB/Homebrew/Backgrounds/Any
 
 ## Optional Background Traits
 

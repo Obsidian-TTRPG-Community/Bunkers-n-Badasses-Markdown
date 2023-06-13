@@ -1,13 +1,8 @@
 ---
-aliases: ["Nerfed By The Bunker Master"]
-cover: 
-created: 1020-01-25
-description: 
-image: 
+aliases: [Nerfed By The Bunker Master]
+description: [Oh mortal, you have been born in a wondrous way! Like a hero of old, you have emerged fully formed from the mind of a deity, gifted with extraordinary abilities beyond the reach of mere mortals...]
 permalink: bnb/backgrounds/nerfed-by-bunkermaster
 publish: true
-tags: [BnB/Homebrew/Backgrounds/Any]
-updated: 2023-06-02
 ---
 
 > [!skill] Nerfed by the Bunker Master
@@ -15,8 +10,10 @@ updated: 2023-06-02
 > **Benefit**:: +1 DMG, +1 MST, +1 ACC, +1 Max HP, +1 Stat of Choice
 > **Details**:: Oh mortal, you have been born in a wondrous way! Like a hero of old, you have emerged fully formed from the mind of a deity, gifted with extraordinary abilities beyond the reach of mere mortals. But alas, such power comes at a cost, for you are too skilled for the world that awaits you. The divine hand that has crafted you has deemed it necessary to impose a penalty upon you, and so you shall be not as dextrous as your divine parentage. Worry not, for even with this limitation, you shall remain a force of fate. Go forth and let your legend be written!
 > **Detriment**:: -4 SPD, -1 Intimidating Talk Checks, -1 Quest Related Insight Checks
+> ### Metadata
 > **DnD-PF2E**:: Str +2; Dex -8; Int +2; Wis +2; Con +2; Cha +2
 > **Source**:: [Tiny Tina's Wonderlands](https://playwonderlands.2k.com)
+> **Tags**:: #BnB/Homebrew/Backgrounds/Any
 
 ## Optional Background Traits
 

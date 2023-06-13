@@ -1,13 +1,8 @@
 ---
 aliases: ["Apprentice Barnacle Snapper"]
-cover: 
-created: 2400-05-09
-description: 
-image: 
+description: [You have been fascinated by galleons encrusted with sea warts ever since you laid your eyes on one, battered by the Umpteen Seas. You have always dreamt of getting your hands on one and scraping away those warts...]
 permalink: bnb/backgrounds/barnacle-snapper
 publish: true
-tags: [BnB/Homebrew/Backgrounds/Any]
-updated: 2023-06-02
 ---
 
 > [!skill] Apprentice Barnacle Snapper
@@ -15,8 +10,10 @@ updated: 2023-06-02
 > **Benefit**:: +1 DMG, +3 to Stats of Choice, +1 to Specific Check of Choice
 > **Details**:: You have been fascinated by galleons encrusted with sea warts ever since you laid your eyes on one, battered by the Umpteen Seas. You have always dreamt of getting your hands on one and scraping away those warts. Fortunately, that dream came true, and you have spent a considerable amount of time working as a dockworker, which has helped you develop both physical strength and financial stability. However, you now realize that it is time to move on from this career and pursue a more meaningful and fulfilling dream.
 > **Detriment**:: -3 MST, -1 to Stealth Sneak Checks
+> ### Metadata
 > **DnD-PF2E**:: +3 STR, -6 INT, +7 CHA
-> **Source**:: [Tiny Tina's Wonderlands](https://playwonderlands.2k.com).
+> **Source**:: [Tiny Tina's Wonderlands](https://playwonderlands.2k.com)
+> **Tags**:: #BnB/Homebrew/Backgrounds/Any
 
 ## Optional Background Traits
 

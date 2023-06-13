@@ -12,8 +12,8 @@ publish: True
 > **SPD**:: 1
 > **MST**::  2
 > **Class**:: [[Compendium/BnB/Sourcebook/Creating a Vault Hunter/The Classes/Commando/Commando|Commando]]
-> **Action-Skill**:: [[Compendium/BnB/Github/Sourcebook Homebrews/Creating a Vault Hunter/The Classes/Blightcaller Commando/Bog Totem|Bog Totem]]
-> **Tree-Feat**:: [[Compendium/BnB/Github/Sourcebook Homebrews/Creating a Vault Hunter/The Classes/Blightcaller Commando/Whisper of Rot|Whisper of Rot]] 🍻 
+> **Action-Skill**:: [[Compendium/BnB/Sourcebook Homebrews/The Classes/Blightcaller Commando/Bog Totem|Bog Totem]]
+> **Tree-Feat**:: [[Compendium/BnB/Sourcebook Homebrews/The Classes/Blightcaller Commando/Whisper of Rot|Whisper of Rot]] 🍻 
 > ### Metadata
 > **Source**:: [Scout's B&B DLC 3: Into the Wonderlands](https://docs.google.com/document/d/1MLOgrWwcLNTnP9PuXrKiLImy7SUh4hXO8arVUAlmdp0/edit).
 > **Tags**:: #BnB/Homebrew/Classes/Commando #BnB/Homebrew/Scout/DLC3 
@@ -28,7 +28,7 @@ The Blightcaller's power is not without its cost. They walk a fine line between 
 
 ### Action Skill
 
-![[Compendium/BnB/Github/Sourcebook Homebrews/Creating a Vault Hunter/The Classes/Blightcaller Commando/Bog Totem|Bog Totem]]
+![[Compendium/BnB/Sourcebook Homebrews/The Classes/Blightcaller Commando/Bog Totem|Bog Totem]]
 
 ### Skill Tree
 

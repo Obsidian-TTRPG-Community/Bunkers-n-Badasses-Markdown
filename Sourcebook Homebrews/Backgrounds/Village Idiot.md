@@ -1,13 +1,8 @@
 ---
 aliases: ["Village Idiot"]
-cover: 
-created: 2400-05-09
-description: 
-image: 
+description: [You, my dear, are a large and charming child, blessed with both a handsome appearance and an impressive physique. However, you seem to lack any semblance of intellect...]
 permalink: bnb/backgrounds/village-idiot
 publish: true
-tags: [BnB/Homebrew/Backgrounds/Any]
-updated: 2023-06-02
 ---
 
 > [!skill] The Village Idiot
@@ -15,8 +10,10 @@ updated: 2023-06-02
 > **Benefit**:: +4 DMG, +1 Climbing Traverse Check, +1 Throwing Accuracy Check
 > **Details**:: You, my dear, are a large and charming child, blessed with both a handsome appearance and an impressive physique. However, you seem to lack any semblance of intellect, possessing only two brain cells that rarely communicate with each other. It appears as though you were created in the likeness of Bellothion, the God of Himbos. Your future is uncertain, as you may either rise to great heights or be relegated to the status of inanimate construction equipment.
 > **Detriment**:: -1 MST, -1 ACC
+> ### Metadata
 > **DnD-PF2E**:: +8 STR, -3 INT, -3 WIS
-> **Source**:: [Tiny Tina's Wonderlands](https://playwonderlands.2k.com).
+> **Source**:: [Tiny Tina's Wonderlands](https://playwonderlands.2k.com)
+> **Tags**:: #BnB/Homebrew/Backgrounds/Any
 
 ## Optional Background Traits
 

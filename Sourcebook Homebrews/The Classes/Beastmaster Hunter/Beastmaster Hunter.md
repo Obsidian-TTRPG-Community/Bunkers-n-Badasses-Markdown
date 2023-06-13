@@ -30,7 +30,7 @@ publish: true
 
 ## Action Skill
 
-![[Compendium/BnB/Sourcebook Homebrews/Creating a Vault Hunter/The Classes/Hunter/Beastmaster Hunter/Gamma Burst|Gamma Burst]]
+![[Compendium/BnB/Sourcebook Homebrews/The Classes/Beastmaster Hunter/Gamma Burst|Gamma Burst]]
 
 ## Familiars
 

@@ -1,13 +1,11 @@
 ---
 aliases: ["Raised by Elves"]
 cover: 
-created: 1020-01-25
 description: 
+fileClass: 
 image: 
 permalink: bnb/backgrounds/raised-by-elves
 publish: true
-tags: [BnB/Homebrew/Backgrounds/Any]
-updated: 2023-06-02
 ---
 
 > [!skill] Raised by Elves
@@ -15,8 +13,10 @@ updated: 2023-06-02
 > **Benefit**:: +2 ACC, +1 Stat of Choice
 > **Details**:: Ah, I sense that you hail from an Elven commune, my dear friend. Though it is a topic you may not be particularly fond of discussing, the secrets of your upbringing have not gone unnoticed. Your diet, consisting of raw leaves and tree sap, has granted you an enviable agility, but at the cost of physical strength. And the constant presence of harp solos in your life has left you with an aversion to such musical performances.
 > **Detriment**:: -2 Max HP
+> ### Metadata
 > **DND-PF2E**:: Dex +4; Con -4; Cha +2
-> **Source**:: [Tiny Tina's Wonderlands](https://playwonderlands.2k.com).
+> **Source**:: [Tiny Tina's Wonderlands](https://playwonderlands.2k.com)
+> **Tags**:: #BnB/Homebrew/Backgrounds/Any
 
 ## Optional Background Traits
 

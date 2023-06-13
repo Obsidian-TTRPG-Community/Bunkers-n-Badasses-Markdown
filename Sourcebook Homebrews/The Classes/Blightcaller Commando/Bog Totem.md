@@ -10,7 +10,7 @@ publish: true
 
 > [!skill] Bog Totem 🍻
 > **Details**:: *Conjure* a Bog Totem Familiar in a space you can see to fire Bog Spirits that seek the nearest enemy and explode. Whenever you or your Familiar kill an enemy, the Bog Totem’s duration increases by 1 turn. ***Destroyed when its Armor is depleted***. 
-> **Tree**:: [[Compendium/BnB/Github/Sourcebook Homebrews/Creating a Vault Hunter/The Classes/Blightcaller Commando/Blightcaller Commando|Blightcaller Commando]]
+> **Tree**:: [[Compendium/BnB/Sourcebook Homebrews/The Classes/Blightcaller Commando/Blightcaller Commando|Blightcaller Commando]]
 > **Uses**::  MST Mod per Day + 1/Encounter
 >
 > ### Familiar (Bog Totem)

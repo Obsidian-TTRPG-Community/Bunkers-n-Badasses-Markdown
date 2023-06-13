@@ -25,7 +25,7 @@ Corrosive Damage is a type of magical attack that deals significant damage to ar
 
 ### Cryo Damage
 
-Cryo damage refers to extremely low temperatures that can significantly slow down the movement of the affected targets. Upon being hit by Cryo damage, the target's mobility is reduced to *one square for a turn* (target gains [[Compendium/BnB/Github/Sourcebook Homebrews/Glossary/Conditions#Slowed|Slow]]), and their ability to traverse is also reduced by **-2**. In case the target is hit with Cryo damage again, they become [[Compendium/BnB/Github/Sourcebook Homebrews/Glossary/Conditions#Frozen|Frozen]], which allows them to *either* make a melee attack **or** move one square on their turn.
+Cryo damage refers to extremely low temperatures that can significantly slow down the movement of the affected targets. Upon being hit by Cryo damage, the target's mobility is reduced to *one square for a turn* (target gains [[Compendium/BnB/Sourcebook Homebrews/Glossary/Conditions#Slowed|Slow]]), and their ability to traverse is also reduced by **-2**. In case the target is hit with Cryo damage again, they become [[Compendium/BnB/Sourcebook Homebrews/Glossary/Conditions#Frozen|Frozen]], which allows them to *either* make a melee attack **or** move one square on their turn.
 
 > [!weather]-  Cryo Damage Metadata
 > **Source**:: **Sourcebook**
@@ -35,7 +35,7 @@ Cryo damage refers to extremely low temperatures that can significantly slow dow
 ### Explosive Damage
 
 Explosive damage is all about making as much damage as possible. 
-When a target is hit with explosive damage, the resulting explosion will splash outwards, dealing *additional half damage* to **all adjacent squares**. Additionally, there is a **30%** chance that the force of the blast will cause [[Compendium/BnB/Github/Sourcebook Homebrews/Glossary/Quick Effects#Knockback|Knockback]], sending the target flying **one** square away from the source of the damage.
+When a target is hit with explosive damage, the resulting explosion will splash outwards, dealing *additional half damage* to **all adjacent squares**. Additionally, there is a **30%** chance that the force of the blast will cause [[Compendium/BnB/Sourcebook Homebrews/Glossary/Quick Effects#Knockback|Knockback]], sending the target flying **one** square away from the source of the damage.
 
 > [!weather]-  Explosive Damage Metadata
 >>>>>>> Stashed changes
@@ -73,7 +73,7 @@ Shock Damage is like 100 potato batteries directed at you, dealing double damage
 
 ### Eldritch Damage
 
-Eldritch damage is a unique combination the elemental damage types Radiation, Incendiary, and [[Compendium/BnB/Github/Sourcebook Homebrews/Glossary/Damage Types#Cryo Damage|Cryo]].
+Eldritch damage is a unique combination the elemental damage types Radiation, Incendiary, and [[Compendium/BnB/Sourcebook Homebrews/Glossary/Damage Types#Cryo Damage|Cryo]].
 
 It has the ability to bypass traditional defences such as health, armour, and shields with ease, and can even penetrate through barriers. Its power is derived from the manipulation of dark, otherworldly energies, making it highly effective against supernatural and otherworldly creatures.
 
@@ -85,7 +85,7 @@ It has the ability to bypass traditional defences such as health, armour, and sh
 
 Shock Damage can also [[stun]] electronic devices and robotic enemies, leaving them temporarily inoperable.
 
-For the unfortunate lifeform with a heart or a brain, Shock Damage also has a chance at catastrophic neurological effects such as [[Compendium/BnB/Github/Sourcebook Homebrews/Glossary/Conditions#Paralysis|Paralysis]], [[Compendium/BnB/Github/Sourcebook Homebrews/Glossary/Conditions#Sudden Death|Sudden Death]], or even [[Compendium/BnB/Github/Sourcebook Homebrews/Glossary/Quick Effects#Drooling|Drooling]].
+For the unfortunate lifeform with a heart or a brain, Shock Damage also has a chance at catastrophic neurological effects such as [[Compendium/BnB/Sourcebook Homebrews/Glossary/Conditions#Paralysis|Paralysis]], [[Compendium/BnB/Sourcebook Homebrews/Glossary/Conditions#Sudden Death|Sudden Death]], or even [[Compendium/BnB/Sourcebook Homebrews/Glossary/Quick Effects#Drooling|Drooling]].
 
 > [!weather]-  Shock Damage Effects Metadata
 > **Source**:: ***Homebrew***

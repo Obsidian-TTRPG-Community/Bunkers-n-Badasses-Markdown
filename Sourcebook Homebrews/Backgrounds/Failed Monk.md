@@ -1,13 +1,8 @@
 ---
 aliases: ["Failed Monk"]
-cover: 
-created: 1020-01-25
-description: 
-image: 
+description: [A strong inner voice that urged you to leave your mundane existence behind and venture to a secluded mountain monastery to study ancient teachings and meditate upon the mysteries of the universe once called you. However...]
 permalink: bnb/backgrounds/failed-monk
 publish: true
-tags: [BnB/Homebrew/Backgrounds/Any]
-updated: 2023-06-02
 ---
 
 > [!skill] Failed Monk
@@ -15,8 +10,10 @@ updated: 2023-06-02
 > **Benefit**:: +1 MST, +3 ACC, +1 to theology insight checks
 > **Details**:: A strong inner voice that urged you to leave your mundane existence behind and venture to a secluded mountain monastery to study ancient teachings and meditate upon the mysteries of the universe once called you. However, one morning, as you were emptying a chamber pot out the window, you accidentally hit the head monk, who was just about to yawn. Worried that you had broken your vow of nonviolence; you fled the monastery under the cover of darkness, searching for a new path to follow.
 > **Detriment**:: -2 DMG, -1 SPD
+> ### Metadata
 > **DnD-PF2E**:: Str -4; Dex -2; Int +3; Wis +6
-> **Source**:: [Tiny Tina's Wonderlands](https://playwonderlands.2k.com).
+> **Source**:: [Tiny Tina's Wonderlands](https://playwonderlands.2k.com)
+> **Tags**:: #BnB/Homebrew/Backgrounds/Any
 
 ## Background Traits
 

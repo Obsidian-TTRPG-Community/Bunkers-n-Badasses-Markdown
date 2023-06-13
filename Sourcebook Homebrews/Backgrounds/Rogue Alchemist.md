@@ -1,14 +1,8 @@
 ---
 aliases: ["Rogue Alchemist"]
-archtype: Savvy
-cover: 
-created: 1020-01-25
-description: 
-image: 
+description: [You have never been a fan of the strict regulations imposed by the Royal Alchemist Society on transmutation magic. In fact, you despise them. You've built a reputation for yourself by selling...]
 permalink: bnb/backgrounds/rogue-alchemist
 publish: true
-tags: [BnB/Homebrew/Backgrounds/Any]
-updated: 2023-06-02
 ---
 
 > [!skill] Rogue Alchemist
@@ -17,8 +11,10 @@ updated: 2023-06-02
 > **Details**:: You have never been a fan of the strict regulations imposed by the Royal Alchemist Society on transmutation magic. In fact, you ***despise*** them. You've built a reputation for yourself by selling knockoff, yet affordable jewelry that utilizes transmutation magic. However, things have taken a turn for the worse recently. You've lost your job and now find yourself on the run from the local baron;
 > he discovered that the golden amulet he purchased from you was, in fact, made of Feriore chocolate.
 > **Detriment**:: 1 SPD, `dice: -1d3` Decay per Combat Turn
+> ### Metadata
 > **DnD-PF2E**:: -2 Dex, +8 Wis, -5 Con, +2 Cha
 > **Source**:: [Tiny Tina's Wonderlands](https://playwonderlands.2k.com)
+> **Tags**:: #BnB/Homebrew/Backgrounds/Any
 
 ## Optional Background Traits
 

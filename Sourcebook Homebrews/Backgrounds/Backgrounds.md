@@ -1,27 +1,24 @@
 ---
 aliases: [Backgrounds Readme]
 cover: 
-created: 2400-05-09
 description: 
+fileClass: 
 image: 
-permalink: bnb/backgrounds/
+permalink: bnb/backgrounds
 publish: true  
-tags: [BnB/Homebrew/Backgrounds/Readme]
-updated: 2023-06-02
 ---
 
 ## Index
 
-- [Apprentice Barnacle Snapper](Github/Bunkers%20and%20Badasses/Sourcebook/Creating%20a%20Vault%20Hunter/Backgrounds/Apprentice%20Barnacle%20Snapper.md)
-- [Backgrounds](Github/Bunkers%20and%20Badasses/Sourcebook/Creating%20a%20Vault%20Hunter/Backgrounds/Backgrounds.md)
-- [Clownblood](Github/Bunkers%20and%20Badasses/Sourcebook/Creating%20a%20Vault%20Hunter/Backgrounds/Clownblood.md)
-- [Failed Monk](Github/Bunkers%20and%20Badasses/Sourcebook/Creating%20a%20Vault%20Hunter/Backgrounds/Failed%20Monk.md)
-- [Nerfed By The Bunker Master](Github/Bunkers%20and%20Badasses/Sourcebook/Creating%20a%20Vault%20Hunter/Backgrounds/Nerfed%20By%20The%20Bunker%20Master.md)
-- [Raised By Elves](Github/Bunkers%20and%20Badasses/Sourcebook/Creating%20a%20Vault%20Hunter/Backgrounds/Raised%20By%20Elves.md)
-- [Recovering Inventory Hoarder](Github/Bunkers%20and%20Badasses/Sourcebook/Creating%20a%20Vault%20Hunter/Backgrounds/Recovering%20Inventory%20Hoarder.md)
-- [Rogue Alchemist](Github/Bunkers%20and%20Badasses/Sourcebook/Creating%20a%20Vault%20Hunter/Backgrounds/Rogue%20Alchemist.md)
-- [Street Urchin Success Story](Github/Bunkers%20and%20Badasses/Sourcebook/Creating%20a%20Vault%20Hunter/Backgrounds/Street%20Urchin%20Success%20Story.md)
-- [Village Idiot](Github/Bunkers%20and%20Badasses/Sourcebook/Creating%20a%20Vault%20Hunter/Backgrounds/Village%20Idiot.md)
+- [[Compendium/BnB/Sourcebook Homebrews/Backgrounds/Apprentice Barnacle Snapper|Apprentice Barnacle Snapper]]
+- [[Compendium/BnB/Sourcebook Homebrews/Backgrounds/Clownblood|Clownblood]]
+- [[Compendium/BnB/Sourcebook Homebrews/Backgrounds/Failed Monk|Failed Monk]]
+- [[Compendium/BnB/Sourcebook Homebrews/Backgrounds/Nerfed By The Bunker Master|Nerfed By The Bunker Master]]
+- [[Compendium/BnB/Sourcebook Homebrews/Backgrounds/Raised By Elves|Raised by Elves]]
+- [[Compendium/BnB/Sourcebook Homebrews/Backgrounds/Recovering Inventory Hoarder|Recovering Inventory Hoarder]]
+- [[Compendium/BnB/Sourcebook Homebrews/Backgrounds/Rogue Alchemist|Rogue Alchemist]]
+- [[Compendium/BnB/Sourcebook Homebrews/Backgrounds/Street Urchin Success Story|Street Urchin Success Story]]
+- [[Compendium/BnB/Sourcebook Homebrews/Backgrounds/Village Idiot|Village Idiot]]
 
 ## Formatting
 
@@ -29,7 +26,7 @@ These backgrounds are:
 - Searchable with the [Dataview](https://github.com/blacksmithgu/obsidian-dataview) plugin out of the box, by utilising Inline Keys in front of each description stat.  
 - Additionally, I have added tags to each file to make them more useful in inquiries.  
 - Each page comes with optional traits that are in the style of DnD personality trait tables. There may be repetition between backgrounds in the flaws and `any` alignments, because it's meant to be more generic for those.  
-- The instructions for the Admonitions/Callout for `> [!skill]` can be found in [[Krindornothin/Legend/Callmonitions/Skill|[!skill]]]. 
+- The instructions for the Admonitions/Callout for `> [!skill]` can be found in [[Krindornothin/Legend/Callmonitions/Skill|[!skill]]. 
   
 
 ### Suggestions for Wonderlands Backgrounds
@@ -52,7 +49,6 @@ These backgrounds are:
 
 ### Checks
 
-  
 Additionally, I recommend that you change all odd stats above/below **5** to a check of that appropriate stat.  
 - In the cases of STR conversion to checks, rotate starting at `SPD -> ACC -> MST -> SPD`.  
 - CON will not convert to Checks as these are Modifiers. Instead, Odd stats above **5** will add `1d3 regen per turn`. Odd Stats below -5 will add `1d3 decay per turn`.  

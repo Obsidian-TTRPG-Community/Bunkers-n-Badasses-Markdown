@@ -39,6 +39,7 @@ updated: 2023-06-02
 | 93-96  | ❄                | ❄+`dice: 1d6`            | ❄+2d6            | ❄+2d6            | ❄+2d6                 |
 | 97-100 | Roll Next Column | Roll Next Column | Roll Next Column | Roll 2x Common** | Roll 2x Common** +`dice: 1d6` |
 ^BnB-Alt-Elemental-Table
+
 \*\***Roll 2x Common:** Duplicate element adds `dice: 1d6` Damage.
 
 > [!reference]-

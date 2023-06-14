@@ -1,13 +1,8 @@
 ---
 aliases: ["Prefixes: Into the Wonderlands"]
-cover: 
-created: 2023-01-25
 description: 
-image: 
 permalink: 
 publish: True
-tags: []
-updated: 2023-06-02
 ---
 
 | Prefix           | Effect                                                                                                                                              |

@@ -5,7 +5,7 @@ permalink:
 publish: true
 ---
 
-> [!skill] Ghost Blade 🍻
+> [!skill] Ghost Blade
 > **Details**:: Leap forward up to 4 squares, dealing `dice: 1d6` Cryo Damage to each Target in or adjacent to any square moved past.
 > **Uses**::  MST Mod per Day + 1/Encounter
 > ### Metadata

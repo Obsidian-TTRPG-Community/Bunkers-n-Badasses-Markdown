@@ -1,14 +1,9 @@
 ---
 aliases: ["Shields: Into The Wonderlands"]
-cover: 
-created: 2023-02-07
 cssclass: bunkers, wonderlands
 description: 
-image: 
 permalink: 
 publish: true
-tags: []
-updated: 2023-06-02
 ---
 
 >[!quote] Scout's Words of Wisdom
@@ -56,13 +51,14 @@ Then roll 1d6 for Shield Type, and 1d12 for each Shield Mod, based on the itemâ€
 | 12 | **Turtle** | Massively increase Shield Capacity. Reduce Max Health. |
 ^BnB-Alt-Shield-Mod
 
-(Roll d6 for Element\*) 
+\*Roll d6 for Element
 - 1: Incendiary
 - 2: Shock
 - 3: Corrosive
 - 4: Cryo
 - 5: Radiation
 - 6: Explosive. 
+
 Choice shared between similar parts.
 
 #### Mod Effects per Level

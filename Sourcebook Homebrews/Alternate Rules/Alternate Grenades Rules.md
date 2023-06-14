@@ -1,14 +1,9 @@
 ---
 aliases: ["Grenades: Into the Wonderlands"]
-cover: 
-created: 2023-02-07
 cssclass: bunkers, wonderlands
 description: 
-image: 
 permalink: 
 publish: true
-tags: []
-updated: 2023-06-02
 ---
 
 > [!quote] Scout's Words of Wisdom

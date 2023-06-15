@@ -5,7 +5,7 @@ description:
 fileClass: 
 image: 
 permalink: bnb/backgrounds
-publish: true  
+publish:   
 ---
 
 ## Index

@@ -2,7 +2,7 @@
 aliases: ["Intangibility Shift"]
 description: "This page describes the effects of Intagibility Shift, a skill for the homebrew skilltree Siren of Death for the Bunkers and Badasses TTRPG."
 permalink: 
-publish: True
+publish: 
 ---
 
 >[!skill] Intagibility Shift

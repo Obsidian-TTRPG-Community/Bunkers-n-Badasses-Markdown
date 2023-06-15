@@ -5,7 +5,7 @@ description:
 fileClass: 
 image: 
 permalink: bnb/scout/dlc-3/feat/whisper-of-rot
-publish: true
+publish: 
 ---
 
 > [!skill] Whisper of Rot 🍻
@@ -14,4 +14,3 @@ publish: true
 > ### Metadata
 > **Source**:: [Scout's B&B DLC 3: Into the Wonderlands](https://docs.google.com/document/d/1MLOgrWwcLNTnP9PuXrKiLImy7SUh4hXO8arVUAlmdp0/edit).
 > **Tags**:: #BnB/Homebrew/Feats/Commando #BnB/Homebrew/Scout/DLC3
-

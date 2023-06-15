@@ -5,7 +5,7 @@ description:
 fileClass: 
 image: 
 permalink: bnb/backgrounds/raised-by-elves
-publish: true
+publish: 
 ---
 
 > [!skill] Raised by Elves

@@ -2,7 +2,7 @@
 aliases: ["Wonderlands Spells"]
 description: 
 permalink: 
-publish: true
+publish: 
 ---
 
 ## Spells

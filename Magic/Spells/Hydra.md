@@ -2,7 +2,7 @@
 aliases: ["Hydra"]
 description: 
 permalink: 
-publish: true
+publish: 
 ---
 
 ## Hydra

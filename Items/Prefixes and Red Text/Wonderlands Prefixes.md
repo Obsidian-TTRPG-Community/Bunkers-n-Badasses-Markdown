@@ -2,7 +2,7 @@
 aliases: ["Prefixes: Into the Wonderlands"]
 description: 
 permalink: 
-publish: True
+publish: 
 ---
 
 | Prefix           | Effect                                                                                                                                              |

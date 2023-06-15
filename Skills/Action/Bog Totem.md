@@ -2,7 +2,7 @@
 aliases: ["Bog Totem"]
 description: 
 permalink: 
-publish: true
+publish: 
 ---
 
 > [!skill] Bog Totem

@@ -2,7 +2,7 @@
 aliases: ["Siren of Death"]
 description: "The Siren of Death is a Siren Skilltree that specializes in utilizing their own health and the life energy of their environment and enemies to power their abilities."
 permalink: 
-publish: true
+publish: 
 ---
 
 ## The Siren of Death

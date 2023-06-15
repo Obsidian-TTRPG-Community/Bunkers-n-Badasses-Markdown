@@ -1,6 +1,6 @@
 ---
 fileClass: Yes-Publish
-publish: true
+publish: 
 ---
 
 ## RAW
@@ -33,4 +33,3 @@ If Hit again by Cryo, target becomes [[Compendium/BnB/Sourcebook Homebrews/Gloss
 
 Elemental Damage that always has Splash. 
 Has a **30%** chance to [[Compendium/BnB/Sourcebook Homebrews/Glossary/Quick Effects#Knockback|Knockback]] targets.
-

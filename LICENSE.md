@@ -1,7 +1,7 @@
 ---
 aliases: [Bunkers and Badass Repo License]
 permalink: bnb/license
-publish: true
+publish: 
 ---
 
 ## Legal Disclaimers

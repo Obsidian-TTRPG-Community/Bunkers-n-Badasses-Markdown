@@ -2,7 +2,7 @@
 aliases: ["Rogue Alchemist"]
 description: [You have never been a fan of the strict regulations imposed by the Royal Alchemist Society on transmutation magic. In fact, you despise them. You've built a reputation for yourself by selling...]
 permalink: bnb/backgrounds/rogue-alchemist
-publish: true
+publish: 
 ---
 
 > [!skill] Rogue Alchemist

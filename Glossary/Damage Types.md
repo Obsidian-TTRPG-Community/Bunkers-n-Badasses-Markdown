@@ -5,7 +5,7 @@ description: This page describes the different damage types that are available w
 fileClass: Yes-Publish
 image: 
 permalink: bnb/damage/types
-publish: true
+publish: 
 ---
 
 ## RAW

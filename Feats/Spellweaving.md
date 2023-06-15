@@ -5,7 +5,7 @@ created: 1319-02-07
 description: 
 image: 
 permalink: bnb/scout/dlc-3/feat/spellweaving
-publish: true
+publish: 
 tags: []
 updated: 2023-06-02
 ---

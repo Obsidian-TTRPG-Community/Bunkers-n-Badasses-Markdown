@@ -2,7 +2,7 @@
 aliases: [Wyrd Weaver Arc Torrent]
 description: 
 permalink: 
-publish: true
+publish: 
 ---
 
 > [!charm]  Wyrd Weaver Arc Torrent

@@ -2,7 +2,7 @@
 aliases: ["Hellfire Strike"]
 description: "This page describes the effects of Hellfire Strike, a skill for the homebrew skilltree Siren of Death for the Bunkers and Badasses TTRPG."
 permalink: 
-publish: True
+publish: 
 ---
 
 > [!skill] Hellfire Strike

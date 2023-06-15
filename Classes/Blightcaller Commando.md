@@ -1,7 +1,7 @@
 ---
 aliases: Blightcaller Commando
 fileClass: Yes-Publish
-publish: True
+publish: 
 ---
 
 > [!EchoDesc] Blightcaller Commando

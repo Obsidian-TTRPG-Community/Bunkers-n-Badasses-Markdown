@@ -3,7 +3,7 @@ aliases: ["Sigil"]
 cssclass: 
 description: 
 permalink: 
-publish: true
+publish: 
 ---
 
 ## Sigil

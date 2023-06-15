@@ -2,7 +2,7 @@
 aliases: ["Rage of the Ancients"]
 description: 
 permalink: 
-publish: true
+publish: 
 ---
 
 > [!skill] Efficient 🍻
@@ -12,4 +12,3 @@ publish: true
 > **Source**:: [Scout's B&B DLC 3: Into the Wonderlands](https://docs.google.com/document/d/1MLOgrWwcLNTnP9PuXrKiLImy7SUh4hXO8arVUAlmdp0/edit)
 > **Tags**:: #BnB/Homebrew/Feats #BnB/Feats/Berserker/Brr-Zerker
 > **Tree**:: [[Compendium/BnB/Sourcebook Homebrews/Classes/Berserker Brr-Zerker|Brr-Zerker Berserker]]
-

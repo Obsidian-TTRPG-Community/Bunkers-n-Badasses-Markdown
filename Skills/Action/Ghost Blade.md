@@ -2,7 +2,7 @@
 aliases: ["Ghost Blade"]
 description: 
 permalink: 
-publish: true
+publish: 
 ---
 
 > [!skill] Ghost Blade
@@ -12,5 +12,3 @@ publish: true
 > **Source**:: [Scout's B&B DLC 3: Into the Wonderlands](https://docs.google.com/document/d/1MLOgrWwcLNTnP9PuXrKiLImy7SUh4hXO8arVUAlmdp0/edit).
 > **Tags**:: #BnB/Homebrew/Scout/DLC3 #BnB/Feats/Assassin/Stabbomancer
 > **Tree**:: [[Compendium/BnB/Sourcebook Homebrews/Classes/Stabbomancer Assassin|Stabbomancer Assassin]]
-
-

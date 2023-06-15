@@ -3,7 +3,7 @@ aliases: ["Fireball"]
 cssclass: 
 description: 
 permalink: 
-publish: true
+publish: 
 ---
 
 ## Fireball

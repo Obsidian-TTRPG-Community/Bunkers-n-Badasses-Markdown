@@ -2,7 +2,7 @@
 aliases: ["Echoing Visage"]
 description: "This page describes the effects of Echoing Visage, a skill for the homebrew skilltree Siren of Death for the Bunkers and Badasses TTRPG."
 permalink: 
-publish: True
+publish: 
 ---
 
 >[!skill] Echoing Visage

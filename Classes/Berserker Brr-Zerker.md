@@ -2,7 +2,7 @@
 aliases: ["Brr-Zerker", "Brr-Zerker Berserker"]
 description: 
 permalink: 
-publish: true
+publish: 
 ---
 
 > [!EchoDesc] Brr-Zerker Berserker 🍻

@@ -5,7 +5,7 @@ description:
 fileClass: Yes-Publish
 image: 
 permalink: bnb/scout/dlc-3/feat/animal-companion
-publish: true
+publish: 
 ---
 
 > [!skill] Animal Companion 🍻
@@ -14,5 +14,3 @@ publish: true
 > ### Metadata
 > **Source**:: [Scout's B&B DLC 3: Into the Wonderlands](https://docs.google.com/document/d/1MLOgrWwcLNTnP9PuXrKiLImy7SUh4hXO8arVUAlmdp0/edit).
 > **Tags**:: #BnB/Homebrew/Feats/Hunter #BnB/Homebrew/Scout/DLC3
-
-

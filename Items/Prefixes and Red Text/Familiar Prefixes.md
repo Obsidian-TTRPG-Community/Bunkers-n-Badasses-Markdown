@@ -1,6 +1,6 @@
 ---
 aliases: [Familiar Prefixes]
-publish: True
+publish: 
 ---
 
 | `dice: 1D100` | Prefix      | Effect                                                                                                                                                                      |

@@ -2,7 +2,7 @@
 aliases: ["feral Surge"]
 description: 
 permalink: 
-publish: true
+publish: 
 ---
 
 > [!skill] Ghost Blade

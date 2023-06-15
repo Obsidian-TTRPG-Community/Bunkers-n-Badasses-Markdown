@@ -8,7 +8,7 @@ aliases: [Constructor Bot]
 description: 
 obsidianUIMode: preview
 permalink: 
-publish: true
+publish: 
 statblock: true
 statblock-link: "#^statblock"
 ---

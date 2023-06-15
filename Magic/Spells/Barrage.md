@@ -3,7 +3,7 @@ aliases: ["Barrage"]
 cssclass: bunkers, wonderlands
 description: 
 permalink: 
-publish: true
+publish: 
 ---
 
 > [!charm]  Barrage
@@ -24,4 +24,3 @@ publish: true
 > **Source**:: [B&B DLC 3 - Into the Wonderlands](https://docs.google.com/document/d/1MLOgrWwcLNTnP9PuXrKiLImy7SUh4hXO8arVUAlmdp0/edit)
 > **Tags**:: #BnB/Homebrew/Weapons/Spells #BnB/Homebrew/Scout/DLC3 
 ^BnB-Spells-Barrage
-

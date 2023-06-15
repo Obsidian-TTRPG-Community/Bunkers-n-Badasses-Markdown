@@ -3,7 +3,7 @@ aliases: ["Eruption"]
 cssclass: 
 description: 
 permalink: 
-publish: true
+publish: 
 ---
 
 ## Eruption

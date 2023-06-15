@@ -8,6 +8,7 @@
 .fonts
 
 # Ignore vscode and friends
+/.idea/
 .vscode
 .prettierrc
 .eslint
@@ -17,37 +18,5 @@ sync.log
 some.log
 dlFolderLastChange
 
-# redundant
-.config/karabiner/automatic_backups
-
-# default location of (large) coc extensions; actually not necessary because of `g.coc_data_home` is changed in the coc-config, but still put here as a safety net
-.config/coc
-
-# in case of accidental saving of such files in the repo
-*.mp4
-*.part
-
-# safety net in case sensitive data is accidentally moved
-pw.*
-*.kdb
-*.kdbx
-*.pfx
-*.key
-
-# Ignore Custom defined files
-.foundations
-.idea
-.idea/vcs.xml
-.idea/modules.xml
-.idea/misc.xml
-.idea/inspectionProfiles/Project_Default.xml
-*.pdf
-
-/Sourcebook/
-/Arbiters of Fate/
-/Resources/
-/Characters/
-/NPCs/
-/Quests/
-/Encounters/
-.idea/workspace.xml
+# Specific Folders
+/Bunkers and Badasses/Mechanics/

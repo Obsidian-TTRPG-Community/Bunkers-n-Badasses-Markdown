@@ -88,4 +88,3 @@ ImageBig: ""
 
 > [!reference]-
 > **Tags**:: #Bestiary/Robots/Constructors #Worldbuilding/Multiverse/Borderlands
-

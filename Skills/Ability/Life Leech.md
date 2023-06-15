@@ -2,7 +2,7 @@
 aliases: ["Life Leech"]
 description: "This page describes the effects of Life Leech, a skill for the homebrew skilltree Siren of Death for the Bunkers and Badasses TTRPG."
 permalink: 
-publish: 
+publish: false
 ---
 
 > [!skill] Life Leech

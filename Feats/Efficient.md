@@ -5,7 +5,7 @@ created: 1319-02-07
 description: "This page is for the Efficient feat, a custom feat for Gladiator Assassins created by Scout."
 image: 
 permalink: bnb/scout/dlc-3/feat/efficient
-publish: 
+publish: false
 tags: []
 updated: 2023-06-02
 ---

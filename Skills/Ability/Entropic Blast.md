@@ -2,7 +2,7 @@
 aliases: ["Entropic Blast"]
 description: "This page describes the effects of Entropic Blast, a skill for the homebrew skilltree Siren of Death for the Bunkers and Badasses TTRPG."
 permalink: 
-publish: 
+publish: false
 ---
 
 >[!skill] Entropic Blast

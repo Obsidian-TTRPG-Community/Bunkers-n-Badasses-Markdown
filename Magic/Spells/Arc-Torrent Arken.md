@@ -3,13 +3,13 @@ aliases: [Arken Arc Torrent]
 cssclass: 
 description: 
 permalink: 
-publish: 
+publish: false
 ---
 
 > [!charm]  Arken Arc Torrent
 > *Spell classified as Shock.*
 > ___
-> - **Damage-Type**:: [[Compendium/BnB/Sourcebook Homebrews/Glossary/Damage Types#Shock Damage|Shock Damage]]
+> - **Damage-Type**:: [[Damage Types#Shock Damage|Shock Damage]]
 > - **Effect**:: Calls down additional bolts that do Damage when cast. Each time you Charge the spell, add Bolts equal to the Charges.  The 1st Charge adds 1 Bolt when cast, the 2nd adds 2 Bolts for 3 total, the 3rd adds 3 Bolts for 6 total.
 > - **Manufacturer**:: Arken
 > - **Range**:: *Hit* ≤ DMG Mod. ≥ DMG Mod *Roll* 1d20 + ACC MOD

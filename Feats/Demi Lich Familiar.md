@@ -5,7 +5,7 @@ created: 1319-02-07
 description: "Demi Lich Familiar; a feat for Graveborn players in Bunkers & Badasses."
 image: 
 permalink: bnb/scout/dlc-3/feat/demi-lich-familiar
-publish: 
+publish: false
 tags: []
 updated: 2023-06-02
 ---

@@ -1,8 +1,9 @@
 ---
 aliases: ["Wonderlands Spells"]
 description: 
-permalink: 
-publish: 
+obsidianUIMode: preview
+permalink: bnb/scout/spell
+publish: falsefalse
 ---
 
 ## Spells

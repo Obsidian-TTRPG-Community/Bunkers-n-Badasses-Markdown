@@ -2,7 +2,7 @@
 aliases: [Gamma Burst]
 description: 
 permalink: bnb/action-skill/gamma-burst
-publish: 
+publish: false
 ---
 
 > [!skill] Gamma Burst

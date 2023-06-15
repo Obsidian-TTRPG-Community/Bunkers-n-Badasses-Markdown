@@ -6,7 +6,7 @@ description:
 fileClass: Yes-Publish
 image: 
 permalink: bnb/archetypes/fatemaker
-publish: 
+publish: false
 updated: 2023-06-02
 ---
 

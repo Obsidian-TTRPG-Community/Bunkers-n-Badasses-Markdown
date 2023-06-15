@@ -2,7 +2,7 @@
 aliases: ["Dirty Fighting"]
 description: 
 permalink: 
-publish: 
+publish: false
 ---
 
 > [!skill] Dirty Fighting 🍻

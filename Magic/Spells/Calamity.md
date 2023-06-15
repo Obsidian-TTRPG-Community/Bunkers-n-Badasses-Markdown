@@ -3,7 +3,7 @@ aliases: ["Calamity"]
 cssclass: bunkers, wonderlands
 description: 
 permalink: true
-publish: 
+publish: false
 ---
 
 ## Calamity

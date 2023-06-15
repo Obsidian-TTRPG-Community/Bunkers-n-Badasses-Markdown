@@ -7,7 +7,7 @@ description:
 filetype: Skilltree
 image: 
 permalink: 
-publish: 
+publish: false
 tags: [BnB/Homebrew/Classes/Siren, BnB/Classes/Siren/Law, BnB/Homebrew/WIP]
 updated: 2023-06-02
 ---

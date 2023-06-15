@@ -5,7 +5,7 @@ description:
 fileClass: Yes-Publish
 image: 
 permalink: bnb/scout/dlc-3/feat/animal-companion
-publish: 
+publish: false
 ---
 
 > [!skill] Animal Companion 🍻

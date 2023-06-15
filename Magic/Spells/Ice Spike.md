@@ -3,7 +3,7 @@ aliases: ["Ice Spike"]
 cssclass: bunkers, wonderlands
 description: 
 permalink: 
-publish: 
+publish: false
 ---
 
 ## Ice Spike

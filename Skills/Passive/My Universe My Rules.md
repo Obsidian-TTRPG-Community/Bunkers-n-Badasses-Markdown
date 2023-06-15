@@ -7,7 +7,7 @@ description:
 filetype: PassiveSkill
 image: 
 permalink: 
-publish: 
+publish: false
 tags: [BnB/HomeBrew/Passiveskill, BnB/Classes/Siren/Affinity/Law/PassiveSkill]
 updated: 2023-06-02
 ---

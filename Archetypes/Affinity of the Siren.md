@@ -9,7 +9,7 @@ description:
 fileClass: Yes-Publish
 image: 
 permalink: bnb/archetypes/affinity-of-siren
-publish: 
+publish: false
 <<<<<<<< Updated upstream:Sourcebook/Creating a Vault Hunter/Archetypes/Affinity of the Siren.md
 updated: 2023-06-02
 ========

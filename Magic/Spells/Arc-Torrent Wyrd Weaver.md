@@ -2,13 +2,13 @@
 aliases: [Wyrd Weaver Arc Torrent]
 description: 
 permalink: 
-publish: 
+publish: false
 ---
 
 > [!charm]  Wyrd Weaver Arc Torrent
 > *Spell classified as Shock.*
 > ___
-> - **Damage-Type**:: [[Compendium/BnB/Sourcebook Homebrews/Glossary/Damage Types#Shock Damage|Shock Damage]]
+> - **Damage-Type**:: [[Damage Types#Shock Damage|Shock Damage]]
 > - **Effect**:: Calls down a Bolt, doing Damage in a target square. Each Echo calls down an additional Bolt. *The initial cast calls down 1 Bolt, the 1st Echo calls down 2 Bolts, the 2nd Echo calls down 3 Bolts.*
 > - **Manufacturer**:: Wyrd Weaver
 > - **Range**:: *Hit* ≤ DMG Mod. ≥ DMG Mod *Roll* 1d20 + ACC MOD

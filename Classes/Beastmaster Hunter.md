@@ -5,7 +5,7 @@ description:
 fileClass: Yes-Publish
 image: 
 permalink: 
-publish: 
+publish: false
 ---
 
 > [!EchoDesc] Beastmaster Hunter 🍻

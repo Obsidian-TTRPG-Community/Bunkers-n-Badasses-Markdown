@@ -3,13 +3,13 @@ aliases: [Conjura Arc Torrent]
 cssclass: 
 description: 
 permalink: 
-publish: 
+publish: falsefalse
 ---
 
 > [!charm]  Conjura Arc Torrent
 > *Spell classified as Shock.*
 > ___
-> - **Damage-Type**:: [[Compendium/BnB/Sourcebook Homebrews/Glossary/Damage Types#Shock Damage|Shock Damage]]
+> - **Damage-Type**:: [[Damage Types#Shock Damage]]
 > - **Effect**:: Damage Dice become d10’s. Call down a Lightning Bolt, dealing Damage in a target square.
 > - **Manufacturer**:: Conjura
 > - **Range**:: *Hit* ≤ DMG Mod. ≥ DMG Mod *Roll* 1d20 + ACC MOD

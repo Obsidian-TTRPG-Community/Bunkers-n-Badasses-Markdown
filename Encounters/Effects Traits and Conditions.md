@@ -4,7 +4,7 @@ description:
 fileClass: 
 image: 
 permalink: 
-publish: 
+publish: false
 ---
 
 | Type                 | Effect Name    | Description                                                                                                                                                                                    |

@@ -1,7 +1,7 @@
 ---
 aliases: [The World, The World of Bunkers and Badasses]
 obsidianUIMode: preview
-publish: False
+publish: falseFalse
 ---
 
 PAN’DORAH IS much like the real world in which we all live: death is plentiful, loot even more so, and only the strongest and/or most insane will survive. Both Pan’Dorah and the real world are filled with dangerous beasties, powerful guns, courageous Vault Hunters, and epic quests.

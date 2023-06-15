@@ -2,7 +2,7 @@
 aliases: ["Lightning Tear"]
 description: 
 permalink: 
-publish: 
+publish: false
 ---
 
 > [!skill] Lightning Tear

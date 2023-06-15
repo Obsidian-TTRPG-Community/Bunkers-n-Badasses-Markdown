@@ -2,7 +2,7 @@
 aliases: ["Soul Repair"]
 description: 
 permalink: 
-publish: 
+publish: false
 ---
 
 > [!skill] Soul Repair

@@ -7,7 +7,7 @@ description:
 filetype: ActionSkill
 image: 
 permalink: 
-publish: 
+publish: false
 tags: [BnB/Homebrew/Actionskill, BnB/Classes/Siren/Law/Abilities]
 updated: 2023-06-02
 ---

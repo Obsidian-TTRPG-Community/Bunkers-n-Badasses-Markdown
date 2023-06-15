@@ -2,7 +2,7 @@
 aliases: ["Ghost Blade"]
 description: 
 permalink: 
-publish: 
+publish: false
 ---
 
 > [!skill] Ghost Blade

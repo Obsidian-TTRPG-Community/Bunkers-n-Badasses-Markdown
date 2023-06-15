@@ -2,7 +2,7 @@
 aliases: [Iron Bear]
 description: 
 permalink: 
-publish: 
+publish: false
 ---
 
 > [!skill] Iron Bear

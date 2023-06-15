@@ -3,7 +3,7 @@ aliases: ["Shields: Into The Wonderlands"]
 cssclass: bunkers, wonderlands
 description: 
 permalink: 
-publish: 
+publish: false
 ---
 
 >[!quote] Scout's Words of Wisdom

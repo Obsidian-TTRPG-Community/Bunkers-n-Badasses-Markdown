@@ -8,7 +8,7 @@ aliases: [Badass Constructor Bot]
 description: 
 obsidianUIMode: preview
 permalink: 
-publish: 
+publish: false
 statblock: true
 statblock-link: "#^statblock"
 ---

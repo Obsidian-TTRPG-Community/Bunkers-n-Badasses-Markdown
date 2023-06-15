@@ -1,7 +1,7 @@
 ---
 aliases: [BnB Traits, Traits]
 fileClass: Yes-Publish
-publish: 
+publish: false
 ---
 
 ## RAW

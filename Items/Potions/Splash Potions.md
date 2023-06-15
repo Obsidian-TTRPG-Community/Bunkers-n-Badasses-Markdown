@@ -1,7 +1,7 @@
 ---
 aliases: [Splash Potions]
 fileClass: Yes-Publish
-publish: 
+publish: false
 ---
 
 > [!quote] HEY, I’M MISTER TORGUE! 

@@ -2,7 +2,7 @@
 aliases: ["Rage of the Ancients"]
 description: 
 permalink: 
-publish: 
+publish: false
 ---
 
 > [!skill] Efficient 🍻

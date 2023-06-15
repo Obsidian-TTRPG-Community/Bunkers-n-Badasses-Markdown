@@ -3,14 +3,14 @@ aliases: [Miraculum Arc Torrent]
 cssclass: 
 description: 
 permalink: 
-publish: 
+publish: false
 ---
 
 
 > [!charm]  Miraculum Arc Torrent
 > *Spell classified as Shock.*
 > ___
-> - **Damage-Type**:: [[Compendium/BnB/Sourcebook Homebrews/Glossary/Damage Types#Shock Damage|Shock Damage]]
+> - **Damage-Type**:: [[Damage Types#Shock Damage|Shock Damage]]
 > - **Effect**:: Lightning Bolts strike each adjacent enemy each turn.
 > - **Manufacturer**:: Miraculum
 > - **Range**:: *Hit* ≤ DMG Mod. ≥ DMG Mod *Roll* 1d20 + ACC MOD

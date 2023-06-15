@@ -2,7 +2,7 @@
 aliases: [Clownblood]
 description: [Oh, dear stranger, it appears that a peculiar curse runs through your bloodline. Deep within the twisted branches of your family tree lies an enchantment tied to a pair of outrageously large shoes.]
 permalink: bnb/backgrounds/clownblood
-publish: 
+publish: false
 ---
 
 > [!skill] Clownblood

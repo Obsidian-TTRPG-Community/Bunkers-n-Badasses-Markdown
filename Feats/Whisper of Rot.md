@@ -5,7 +5,7 @@ description:
 fileClass: 
 image: 
 permalink: bnb/scout/dlc-3/feat/whisper-of-rot
-publish: 
+publish: false
 ---
 
 > [!skill] Whisper of Rot 🍻

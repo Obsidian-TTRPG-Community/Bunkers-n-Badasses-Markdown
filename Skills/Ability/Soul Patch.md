@@ -2,7 +2,7 @@
 aliases: ["Soul Patch"]
 cssclass: 
 permalink: 
-publish: 
+publish: false
 ---
 
 > [!skill] Soul Patch

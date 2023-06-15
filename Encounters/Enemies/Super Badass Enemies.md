@@ -5,7 +5,7 @@ description:
 fileClass: Yes-Publish
 image: 
 permalink: bnb/rules/super-badass-enemies
-publish: 
+publish: false
 ---
 
 Super Badass Enemies are an even greater threat than regular Badass Enemies as they possess increased speed, strength, and lethality. To spawn a Super Badass of an enemy type, multiply the Badass Rank (BR) by three when spawning enemies.

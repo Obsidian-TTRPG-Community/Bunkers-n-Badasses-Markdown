@@ -1,7 +1,7 @@
 ---
 aliases: [Eridian Galactic Standard Calendar, EGSC]
 fileClass: Yes-Publish
-publish: 
+publish: false
 ---
 
 > [!scene] This appears to be a badly preserved guide on the Eridian Galactic Standard Calendar

@@ -1,7 +1,7 @@
 ---
 aliases: [Status Effects]
 fileClass: Yes-Publish
-publish: 
+publish: false
 ---
 
 ## Raw

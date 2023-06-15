@@ -2,7 +2,7 @@
 aliases: ["Street Urchin Success Story"]
 description: [In this classic tale, you and your crew of unsavory pickpockets and thieves were down on your luck and struggling to make ends meet. That's when you stumbled upon what appeared to be the job of a lifetime...]
 permalink: bnb/backgrounds/street-urchin-success
-publish: 
+publish: false
 ---
 
 > [!skill] Street Urchin Success Story

@@ -2,7 +2,7 @@
 aliases: ["Failed Monk"]
 description: [A strong inner voice that urged you to leave your mundane existence behind and venture to a secluded mountain monastery to study ancient teachings and meditate upon the mysteries of the universe once called you. However...]
 permalink: bnb/backgrounds/failed-monk
-publish: 
+publish: false
 ---
 
 > [!skill] Failed Monk

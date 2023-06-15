@@ -1,7 +1,7 @@
 ---
 aliases: [Introduction, Introduction to Bunkers and Badasses]
 obsidianUIMode: preview
-publish: False
+publish: falseFalse
 ---
 
 ## Introduction

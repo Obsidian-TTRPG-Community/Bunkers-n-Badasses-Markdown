@@ -4,7 +4,7 @@ description:
 fileClass: 
 image: 
 permalink: 
-publish: 
+publish: false
 ---
 
 These Enemy Traits can be used for NPC's, Enemies, Badasses, Superbadasses, and Bosses alike. 

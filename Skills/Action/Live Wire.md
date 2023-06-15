@@ -5,7 +5,7 @@ created: 1319-02-07
 description: 
 image: 
 permalink: bnb/scout/dlc-3/feat/live-wire
-publish: 
+publish: false
 tags: []
 updated: 2023-06-02
 ---

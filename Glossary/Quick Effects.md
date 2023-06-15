@@ -1,7 +1,7 @@
 ---
 aliases: [Quick Effects, BnB Quick Effects]
 fileClass: Yes-Publish
-publish: 
+publish: false
 ---
 
 ## RAW

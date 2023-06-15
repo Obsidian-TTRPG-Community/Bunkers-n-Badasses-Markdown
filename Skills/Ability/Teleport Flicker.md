@@ -2,7 +2,7 @@
 aliases: ["Teleport Flicker"]
 description: 
 permalink: 
-publish: 
+publish: false
 ---
 
 > [!skill] Teleport Flicker

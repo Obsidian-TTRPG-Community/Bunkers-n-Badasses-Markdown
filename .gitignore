@@ -20,3 +20,6 @@ dlFolderLastChange
 
 # Specific Folders
 /Bunkers and Badasses/Mechanics/
+
+# Specific File Types
+*.pdf

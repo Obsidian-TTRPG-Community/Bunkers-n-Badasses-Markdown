@@ -55,3 +55,4 @@ pw.*
 # Specific File Types
 *.pdf
 .ds_store
+/Mechanics/

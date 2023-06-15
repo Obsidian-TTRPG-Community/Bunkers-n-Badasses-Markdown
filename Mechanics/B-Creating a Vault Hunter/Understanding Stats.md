@@ -1,7 +1,7 @@
 ---
 aliases: [Understanding Stats, Understanding Stats in Bunkers and Badasses]
 obsidianUIMode: preview
-publish: falseFalse
+publish: false
 ---
 
 ## Understanding Stats

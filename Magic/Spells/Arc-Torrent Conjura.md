@@ -3,7 +3,7 @@ aliases: [Conjura Arc Torrent]
 cssclass: 
 description: 
 permalink: 
-publish: falsefalse
+publish: false
 ---
 
 > [!charm]  Conjura Arc Torrent

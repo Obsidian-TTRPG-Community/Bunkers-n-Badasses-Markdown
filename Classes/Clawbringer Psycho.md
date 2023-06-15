@@ -6,7 +6,7 @@ created: 1319-02-07
 description: 
 image: 
 permalink: 
-publish: falsefalse
+publish: false
 section: [Skill Tree]
 tags: []
 updated: 2023-06-02

@@ -1,7 +1,7 @@
 ---
 aliases: [About the Author, About the Author of Bunkers and Badasses]
 obsidianUIMode: preview
-publish: falseFalse
+publish: false
 ---
 
 I’M MS. GRAYGAX PERENNIA DARNESON -- call me “Gray” for short -- and I am a firm believer in two things:

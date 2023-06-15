@@ -1,7 +1,7 @@
 ---
 aliases: [The System, The System of Bunkers and Badasses]
 obsidianUIMode: preview
-publish: falseFalse
+publish: false
 ---
 
 ## Overview

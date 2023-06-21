@@ -1,14 +1,14 @@
 ---
 ac: 
-cr: 4
-hp: 100
-name: Constructor Bot
-modifier: 1
 aliases: [Constructor Bot]
+cr: 4
 description: 
+hp: 100
+modifier: 1
+name: Constructor Bot
 obsidianUIMode: preview
 permalink: 
-publish: false
+publish: true
 statblock: true
 statblock-link: "#^statblock"
 ---
@@ -85,6 +85,6 @@ ImageBig: ""
 ```
 %%
 
-
 > [!reference]-
+> **Source**:: Gearbox
 > **Tags**:: #Bestiary/Robots/Constructors #Worldbuilding/Multiverse/Borderlands

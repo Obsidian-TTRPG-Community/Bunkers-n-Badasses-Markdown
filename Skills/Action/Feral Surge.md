@@ -1,8 +1,9 @@
 ---
 aliases: ["feral Surge"]
 description: 
+obsidianUIMode: preview
 permalink: 
-publish: false
+publish: true
 ---
 
 > [!skill] Ghost Blade
@@ -11,4 +12,4 @@ publish: false
 > ### Metadata
 > **Source**:: [Scout's B&B DLC 3: Into the Wonderlands](https://docs.google.com/document/d/1MLOgrWwcLNTnP9PuXrKiLImy7SUh4hXO8arVUAlmdp0/edit).
 > **Tags**:: #BnB/Homebrew/Scout/DLC1  #BnB/Feats/Berserker
-> **Tree**:: [[Compendium/BnB/Sourcebook Homebrews/Classes/Berserker Brr-Zerker|Brr-Zerker Berserker]]
+> **Tree**:: [[Bunkers and Badasses/Classes/Berserker/Berserker Brr-Zerker|Brr-Zerker Berserker]]

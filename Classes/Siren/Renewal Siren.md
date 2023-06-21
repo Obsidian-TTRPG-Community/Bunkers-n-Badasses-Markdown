@@ -1,15 +1,10 @@
 ---
 aliases: ["The Siren of Renewal"]
-cover: 
-created: 2321-02-07
-cssclass: 
 description: 
 filetype: Skilltree
-image: 
+obsidianUIMode: preview
 permalink: 
 publish: false
-tags: [BnB/Homebrew/Classes/Siren, BnB/Classes/Siren/Renewal, BnB/Classes/Siren/Phasewalk, BnB/Homebrew/WIP]
-updated: 2023-06-02
 ---
 
 ## The Siren of Renewal

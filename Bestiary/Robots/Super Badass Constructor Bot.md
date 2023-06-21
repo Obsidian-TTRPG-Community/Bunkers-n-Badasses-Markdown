@@ -1,14 +1,14 @@
 ---
 ac: 
-cr: 12
-hp: 600
-name: Super Badass Constructor Bot
-modifier: 1
 aliases: ["Super Badass Constructor Bot"]
+cr: 12
 description: 
+hp: 600
+modifier: 1
+name: Super Badass Constructor Bot
 obsidianUIMode: preview
 permalink: 
-publish: false
+publish: true
 statblock: true
 statblock-link: "#^statblock"
 ---
@@ -84,4 +84,5 @@ ImageBig: ""
 %%
 
 > [!reference]-
+> **Source**:: Gearbox
 > **Tags**:: #Bestiary/Robot #Worldbuilding/Multiverse/Borderlands

@@ -1,6 +1,7 @@
 ---
 aliases: ["Brr-Zerker", "Brr-Zerker Berserker"]
 description: 
+obsidianUIMode: preview
 permalink: 
 publish: false
 ---

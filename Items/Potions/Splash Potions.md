@@ -1,7 +1,7 @@
 ---
 aliases: [Splash Potions]
-fileClass: Yes-Publish
-publish: false
+obsidianUIMode: preview
+publish: true
 ---
 
 > [!quote] HEY, I’M MISTER TORGUE! 
@@ -20,6 +20,7 @@ publish: false
 ## About
 
 Splash potions function just like regular potions, except in that you can’t use them like regular potions.  So not like regular potions. 
+
 Instead they work like grenades. You still keep them in your potion slots, but unlike regular potions you can’t drink them, but you can Throw them, using the same rules for throwing Grenades. (You automatically hit if within your DMG Mod in squares, and beyond that you need to make an Accuracy (12) roll to get it to land where you want.)
 
 When you Throw a Splash Potion, it splashes, (duh,) affecting everyone in the square it lands in and everyone in the adjacent squares, with the effects of the potion. Yes, that means you can accidentally heal enemies with splash health potions, or cause allies to start throwing up uncontrollably for a few turns because you used a Vomit potion.

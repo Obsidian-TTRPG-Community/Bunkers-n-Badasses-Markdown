@@ -1,15 +1,9 @@
 ---
 aliases: ["The Siren of Time"]
-cover: 
-created: 2321-02-07
-cssclass: bunkers
 description: 
-filetype: SkillTree
-image: 
+obsidianUIMode: preview
 permalink: 
 publish: false
-tags: [BnB/Homebrew/Classes/Siren, BnB/Classes/Siren/Time, BnB/Homebrew/WIP]
-updated: 2023-06-02
 ---
 
 ## The-Siren-of-Time

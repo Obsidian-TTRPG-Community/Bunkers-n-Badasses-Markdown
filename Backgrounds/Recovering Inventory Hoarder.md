@@ -1,8 +1,9 @@
 ---
 aliases: ["Recovering Inventory Hoarder"]
 description: [In the past, you would roam through the nooks and crannies of your every realm, grabbing every candlestick and wheel of cheese you could lay your hands on. You've since abandoned your hoarding...]
+obsidianUIMode: preview
 permalink: bnb/backgrounds/recovering-inventory-hoarder
-publish: false
+publish: true
 ---
 
 > [!skill] Recovering Inventory Hoarder

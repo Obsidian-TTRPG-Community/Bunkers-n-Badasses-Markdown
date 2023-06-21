@@ -1,8 +1,9 @@
 ---
 aliases: ["Lightning Tear"]
 description: 
+obsidianUIMode: preview
 permalink: 
-publish: false
+publish: true
 ---
 
 > [!skill] Lightning Tear
@@ -14,4 +15,4 @@ publish: false
 > ### Metadata
 > **Source**:: Sigrunixia
 > **Tags**:: #BnB/Classes/Siren/Death/Abilities
-> **Tree**:: [[Compendium/BnB/Sourcebook Homebrews/Classes/Siren of Death|Siren of Death]]
+> **Tree**:: [[Bunkers and Badasses/Classes/Siren/Death Siren|Siren of Death]]

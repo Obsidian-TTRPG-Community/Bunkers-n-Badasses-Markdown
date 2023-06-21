@@ -1,8 +1,9 @@
 ---
 aliases: [Gamma Burst]
 description: 
+obsidianUIMode: preview
 permalink: bnb/action-skill/gamma-burst
-publish: false
+publish: true
 ---
 
 > [!skill] Gamma Burst
@@ -20,4 +21,4 @@ publish: false
 > ### Metadata
 > **Source**:: [Scout's DLC 1](https://docs.google.com/document/d/1mjXpoVLi-NuoOolvlEiYb9cNrDb_v0MtbY8qv0hTrJw/)
 > **Tags**:: #BnB/Homebrew/Scout/DLC1 #BnB/Homebrew/Actionskill/Hunter
-> **Tree**:: [[Compendium/BnB/Sourcebook Homebrews/Classes/Beastmaster Hunter|Beastmaster Hunter]]
+> **Tree**:: [[Bunkers and Badasses/Classes/Hunter/Beastmaster Hunter|Beastmaster Hunter]]

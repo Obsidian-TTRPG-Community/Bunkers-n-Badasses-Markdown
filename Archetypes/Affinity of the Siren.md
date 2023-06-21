@@ -1,27 +1,14 @@
 ---
 aliases: ["Affinity of the Siren"]
-cover: 
-<<<<<<<< Updated upstream:Sourcebook/Creating a Vault Hunter/Archetypes/Affinity of the Siren.md
-created: 2321-02-07
-========
->>>>>>>> Stashed changes:Creating a Vault Hunter/Archetypes/Affinity of the Siren.md
-description: 
-fileClass: Yes-Publish
-image: 
+description: "You were chosen, ambitious, or perhaps unlucky. Whatever the reason, you are a Siren. Yet a Siren is not just about flashing tattoos and looking like a tribal psycho's bride, though that could be described as a perk, it is so much more."
+obsidianUIMode: preview
 permalink: bnb/archetypes/affinity-of-siren
-publish: false
-<<<<<<<< Updated upstream:Sourcebook/Creating a Vault Hunter/Archetypes/Affinity of the Siren.md
-updated: 2023-06-02
-========
->>>>>>>> Stashed changes:Creating a Vault Hunter/Archetypes/Affinity of the Siren.md
+publish: true
 ---
 
-> [!tip] Limited Archetype
+> [!EchoDesc] Limited Archetype
 > If you play this Archetype, your class must be Siren.
-<<<<<<<< Updated upstream:Sourcebook/Creating a Vault Hunter/Archetypes/Affinity of the Siren.md
-========
 > ### Metadata
->>>>>>>> Stashed changes:Creating a Vault Hunter/Archetypes/Affinity of the Siren.md
 > **Source**:: Sigrunixia
 > **Tags**:: #BnB/Homebrew/Archetype
 
@@ -35,22 +22,17 @@ The player must pick the affinity by their figurehead name after the Bunker Mast
 
 | **Figurehead**                                                                           | **Sphere** | **Primary Stat** | **Secondary Stat** |
 |------------------------------------------------------------------------------------------|------------|------------------|--------------------|
-<<<<<<<< Updated upstream:Sourcebook/Creating a Vault Hunter/Archetypes/Affinity of the Siren.md
-| [[Github/Bunkers and Badasses/Sourcebook/Creating a Vault Hunter/The Classes/Siren/Siren of Death/Siren of Death|Protection]] | Balance    | MST              | DMG                |
-========
-| [[Github/Bunkers and Badasses/Sourcebook/Creating a Vault Hunter/The Classes/Siren/Siren of Death/Siren of Death\|Protection]] | Balance    | MST              | DMG                |
->>>>>>>> Stashed changes:Creating a Vault Hunter/Archetypes/Affinity of the Siren.md
+|Protection | Balance    | MST              | DMG                |
 | War                                                                                      | Chaos      | DMG              | SPD                |
 | Peace                                                                                    | Order      | ACC              | DMG                |
 | Justice                                                                                  | Order      | ACC              | DMG                |
 | Evolution                                                                                | Balance    | MST              | DMG                |
 | Life                                                                                     | Balance    | MST              | DMG                |
 | Mayhem                                                                                   | Chaos      | DMG              | SPD                |
-<<<<<<<< Updated upstream:Sourcebook/Creating a Vault Hunter/Archetypes/Affinity of the Siren.md
-\* All Sirens gain [[Multiverse/Borderlands/Mechanics/Fight for your Life]] when they select their first talent.
-========
+\* All Sirens gain when they select their first talent.
+
 \* All Sirens gain [[Multiverse/Borderlands/Mechanics/Fight for your Life|Fight for your Life]] when they select their first talent.
->>>>>>>> Stashed changes:Creating a Vault Hunter/Archetypes/Affinity of the Siren.md
+
 
 The **Primary Stat** also controls the **Siren Mod** for Siren-Specific Abilities and additional Elemental Rolls.
 

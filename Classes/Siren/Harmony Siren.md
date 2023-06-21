@@ -1,13 +1,9 @@
 ---
 aliases: ["The Siren of Harmony"]
-cover: 
-created: 2321-02-07
 description: 
-image: 
+obsidianUIMode: preview
 permalink: 
 publish: false
-tags: [BnB/Homebrew/Classes/Siren, BnB/Homebrew/WIP]
-updated: 2023-06-02
 ---
 
 ## The Siren of Harmony

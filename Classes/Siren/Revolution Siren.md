@@ -1,15 +1,10 @@
 ---
 aliases: ["The Siren of Revolution"]
-cover: 
-created: 2321-02-07
-cssclass: bunkers
 description: 
 filetype: Skilltree 
-image: 
+obsidianUIMode: preview
 permalink: 
 publish: false
-tags: [BnB/Homebrew/Classes/Siren, BnB/Classes/Siren/Revolution, BnB/Homebrew/WIP]
-updated: 2023-06-02
 ---
 
 ## The Siren of Revolution

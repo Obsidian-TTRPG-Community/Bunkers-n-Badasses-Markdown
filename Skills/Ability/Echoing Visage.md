@@ -1,8 +1,9 @@
 ---
 aliases: ["Echoing Visage"]
 description: "This page describes the effects of Echoing Visage, a skill for the homebrew skilltree Siren of Death for the Bunkers and Badasses TTRPG."
+obsidianUIMode: preview
 permalink: 
-publish: false
+publish: true
 ---
 
 >[!skill] Echoing Visage
@@ -14,4 +15,4 @@ publish: false
 > ### Metadata
 > **Source**:: Sigrunixia
 > **Tags**:: #BnB/Classes/Siren/Death/Abilities
-> **Tree**:: [[Compendium/BnB/Sourcebook Homebrews/Classes/Siren of Death|Siren of Death]]
+> **Tree**:: [[Bunkers and Badasses/Classes/Siren/Death Siren|Siren of Death]]

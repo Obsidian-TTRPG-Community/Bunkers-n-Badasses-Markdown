@@ -1,9 +1,60 @@
 ---
-aliases: ["Prefixes: Into the Wonderlands"]
+aliases: ["Wonderlands Prefixes", "Prefixes Wonderlands"]
 description: 
+obsidianUIMode: preview
 permalink: 
-publish: false
+publish: true
 ---
+
+## Melee Weapons
+
+| `dice: 1d20` | Effect |
+|---|---|
+| 1-6 | None. |
+| 7-8 | **Ancient**: When you deal Melee Damage, roll a `dice: 1d20`. On a 20, recover one daily use of your Action Skill. |
+| 9-10 | **Amp’d**: When you deal Melee Damage, your Gun Attacks get +`dice: 2d4` Damage until the end of your next turn. |
+| 11-12 | **Archmage’s**: When you deal Melee Damage, roll a `dice: 1d20`, on 20, gain a grenade. |
+| 13-14 | **Caustic**: When you deal Melee Damage, gain +`dice: 2d4` Elemental Damage until the start of your next Turn. |
+| 15-16 | **Echoing**: Your Melee Attacks gain +`dice: 1d4` Damage for each Gun Attack you made on the previous Turn. |
+| 17-18 | **Vampiric**: When you deal Melee Damage, gain `dice: 1d4` Health, or `dice: 1d4` Shield Capacity, whichever is lower. |
+| 19-20 | **Warrior’s**: When you deal Melee Damage, gain +`die: 1d4` Damage Reduction and +`dice: 1d4` Melee Damage until the start of your next turn. |
+^BnB-Scouts-Prefixes-Wonderlands-Melee
+
+## Spells and Grenades
+
+### Rarity
+
+| Rarity | Prefix # Bonus                |
+| --------------- | -------------- |
+| Common          | 1              |
+| Uncommon        | 2              |
+| Rare            | 3              |
+| Epic            | 4              |
+| Legendary       | 5              |
+^BnB-Scouts-Prefixes-Wonderlands-Rarity
+
+### Prefixes
+
+| `dice: 1d20` | Prefix | Effect |
+|---|---|---|
+| 1-10 | - | None |
+| 11 | Social | Spend a Grenade to get +X\* to a Skill Check. |
+| 12 | Sorcerous | At the start of your turn, roll `dice: 1d10`. On a # or lower, gain a Grenade. |
+| 13 | Grenadier | +X Throw Range. |
+| 14 | Rapid | +X SPD. |
+| 15 | Visceral | Enemies killed by Grenade explode, dealing Xd4 Damage to all adjacent. |
+| 16 | Surplus | +X Max Grenades. |
+| 17 | Potent | +X MST. |
+| 18 | Chromatic | +#d4 Elemental Damage. |
+| 19 | Targeted | +X ACC |
+| 20 | Critical | +X Crit Dice. |
+
+^c88705
+
+^BnB-Scouts-Prefixes-Wonderlands-Spells-Grenades
+\* Where X = the result of the rarity roll.
+
+## Additional
 
 | Prefix           | Effect                                                                                                                                              |
 | ---------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |

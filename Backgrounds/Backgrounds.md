@@ -1,24 +1,22 @@
 ---
 aliases: [Backgrounds Readme]
-cover: 
 description: 
-fileClass: 
-image: 
+obsidianUIMode: preview
 permalink: bnb/backgrounds
-publish: false  
+publish: true  
 ---
 
 ## Index
 
-- [[Compendium/BnB/Sourcebook Homebrews/Backgrounds/Apprentice Barnacle Snapper|Apprentice Barnacle Snapper]]
-- [[Compendium/BnB/Sourcebook Homebrews/Backgrounds/Clownblood|Clownblood]]
-- [[Compendium/BnB/Sourcebook Homebrews/Backgrounds/Failed Monk|Failed Monk]]
-- [[Compendium/BnB/Sourcebook Homebrews/Backgrounds/Nerfed By The Bunker Master|Nerfed By The Bunker Master]]
-- [[Compendium/BnB/Sourcebook Homebrews/Backgrounds/Raised By Elves|Raised by Elves]]
-- [[Compendium/BnB/Sourcebook Homebrews/Backgrounds/Recovering Inventory Hoarder|Recovering Inventory Hoarder]]
-- [[Compendium/BnB/Sourcebook Homebrews/Backgrounds/Rogue Alchemist|Rogue Alchemist]]
-- [[Compendium/BnB/Sourcebook Homebrews/Backgrounds/Street Urchin Success Story|Street Urchin Success Story]]
-- [[Compendium/BnB/Sourcebook Homebrews/Backgrounds/Village Idiot|Village Idiot]]
+- [[Apprentice Barnacle Snapper|Apprentice Barnacle Snapper]]
+- [[Clownblood|Clownblood]]
+- [[Failed Monk|Failed Monk]]
+- [[Nerfed By The Bunker Master|Nerfed By The Bunker Master]]
+- [[Raised By Elves|Raised by Elves]]
+- [[Recovering Inventory Hoarder|Recovering Inventory Hoarder]]
+- [[Rogue Alchemist|Rogue Alchemist]]
+- [[Street Urchin Success Story|Street Urchin Success Story]]
+- [[Village Idiot|Village Idiot]]
 
 ## Formatting
 
@@ -26,8 +24,6 @@ These backgrounds are:
 - Searchable with the [Dataview](https://github.com/blacksmithgu/obsidian-dataview) plugin out of the box, by utilising Inline Keys in front of each description stat.  
 - Additionally, I have added tags to each file to make them more useful in inquiries.  
 - Each page comes with optional traits that are in the style of DnD personality trait tables. There may be repetition between backgrounds in the flaws and `any` alignments, because it's meant to be more generic for those.  
-- The instructions for the Admonitions/Callout for `> [!skill]` can be found in [[Krindornothin/Legend/Callmonitions/Skill|[!skill]]. 
-  
 
 ### Suggestions for Wonderlands Backgrounds
 

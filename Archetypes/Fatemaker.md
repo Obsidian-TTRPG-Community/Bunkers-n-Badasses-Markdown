@@ -1,19 +1,16 @@
 ---
 aliases: ["Archetype: Fatemaker", "Fatemaker"]
-cover: 
-created: 2321-02-07
-description: 
-fileClass: Yes-Publish
-image: 
+description: Fatemakers are Badasses that often find themselves at the center of many dire-goings-on and legends-in-the-making across the world.
+obsidianUIMode: preview
 permalink: bnb/archetypes/fatemaker
-publish: false
-updated: 2023-06-02
+publish: true
 ---
 
 Fatemakers are Badasses that often find themselves at the center of many dire-goings-on and legends-in-the-making across the world. Whether driven forth by powerful gods, ancient prophecies, or the occasional macguffin, Fatemakers know that success is a team effort.
 
->[!Tiny-Tina] Bunkermaster Tina
-> And remember…. “Fate doesn’t divide us, Fate brings us Together!”
+> [!tiny-tina] Bunkermaster Tina
+> And remember…. “Fate doesn’t divide us, Fate brings us together!”
+
 
 >[!dragon-lord] The Dragon Lord
 > "Fate "Brings Us Together"? ***She*** got that *off a fanfic* on the ECHO-net!"
@@ -85,4 +82,5 @@ Fatemakers are Badasses that often find themselves at the center of many dire-go
 ^BnB-Archetypes-Fatemaker-Feats
 
 > [!reference]-
-> 
+> **Source**:: [B&B DLC 3 - Into the Wonderlands](https://docs.google.com/document/d/1MLOgrWwcLNTnP9PuXrKiLImy7SUh4hXO8arVUAlmdp0/edit)
+> **Tags**:: #BnB/Homebrew/Archetype #BnB/Homebrew/Scout/DLC3 

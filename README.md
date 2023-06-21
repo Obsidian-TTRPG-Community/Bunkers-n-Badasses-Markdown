@@ -1,5 +1,5 @@
 ---
-publish: false
+publish: true
 ---
 
 ## Obsidian Bunkers and Badasses Resource Repository

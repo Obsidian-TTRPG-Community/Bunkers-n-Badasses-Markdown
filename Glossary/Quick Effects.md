@@ -18,8 +18,18 @@ Deals half Damage to targets adjacent to the original target.
 
 Target’s next Attack must be against the Taunter.
 
+> [!reference]-
+> **Source**:: Nerdvana
+> **Tags**::
+
+
 ## Homebrew
 
 ### Drooling
 
 Targets experience excessive salivation and are required to succeed an interact check in order to prevent squandering their turn by wiping their mouths.
+
+
+> [!reference]-
+> **Source**:: Homebrew
+> **Tags**::

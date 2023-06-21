@@ -1,14 +1,14 @@
 ---
 ac: 
-cr: 8
-hp: 200
-name: Super Badass Constructor Bot
-modifier: 1
 aliases: [Badass Constructor Bot]
+cr: 8
 description: 
+hp: 200
+modifier: 1
+name: Super Badass Constructor Bot
 obsidianUIMode: preview
 permalink: 
-publish: false
+publish: true
 statblock: true
 statblock-link: "#^statblock"
 ---

@@ -1,13 +1,9 @@
 ---
 aliases: ["Commando: Gunner"]
-cover: 
-created: 2321-02-07
 description: 
-image: 
+obsidianUIMode: preview
 permalink: 
 publish: false
-tags: []
-updated: 2023-06-02
 ---
 
 ## Commando Gunner

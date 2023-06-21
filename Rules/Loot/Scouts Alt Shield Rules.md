@@ -1,9 +1,9 @@
 ---
-aliases: ["Shields: Into The Wonderlands"]
+aliases: ["Scouts Alt Shield Rules"]
 cssclass: bunkers, wonderlands
 description: 
 permalink: 
-publish: false
+publish: true
 ---
 
 >[!quote] Scout's Words of Wisdom

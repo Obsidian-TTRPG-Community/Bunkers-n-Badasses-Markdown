@@ -2,7 +2,7 @@
 aliases: [Conditions, BnB Conditions]
 description: The conditions that can affect a player in Bunkers and Badasses
 fileClass: Yes-Publish
-publish: false
+publish: true
 ---
 
 ## RAW
@@ -45,7 +45,7 @@ Paralysis effects can stack.
 
 ### Stun
 
-
+#todo
 
 ### Sudden Death
 

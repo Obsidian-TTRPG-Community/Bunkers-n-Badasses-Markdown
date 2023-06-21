@@ -1,20 +1,20 @@
 ---
-aliases: Blightcaller Commando
-fileClass: Yes-Publish
-publish: false
+aliases: [Blightcaller Commando]
+obsidianUIMode: preview
+publish: true
 ---
 
 > [!EchoDesc] Blightcaller Commando
-> *Speaker of Spirits* ![[Krindornothin/Files/_image/Blightcaller Commando_image_1.png|circle right]]
+> *Speaker of Spirits* ![[0 Data/9 Images/Bunkers and Badasses/Classes/blightcaller.png|circle right]]
 > **Melee-Die**:: 1d8                            
 > **ACC**:: 1
 > **DMG**:: 0
 > **SPD**:: 1
 > **MST**::  2
-> **Class**:: [[Compendium/BnB/Sourcebook/Creating a Vault Hunter/The Classes/Commando/Commando|Commando]]
-> **Action-Skill**:: [[Compendium/BnB/Sourcebook Homebrews/Action Skills/Bog Totem|Bog Totem]]
-> **Tree-Feat**:: [[Compendium/BnB/Sourcebook Homebrews/Feats/Whisper of Rot|Whisper of Rot]] 🍻 
+> **Action-Skill**:: [[Bunkers and Badasses/Skills/Action/Bog Totem|Bog Totem]]
+> **Tree-Feat**:: [[Bunkers and Badasses/Feats/Whisper of Rot|Whisper of Rot]]
 > ### Metadata
+> **Class**:: [[Compendium/BnB/Sourcebook/Creating a Vault Hunter/The Classes/Commando/Commando|Commando]]
 > **Source**:: [Scout's B&B DLC 3: Into the Wonderlands](https://docs.google.com/document/d/1MLOgrWwcLNTnP9PuXrKiLImy7SUh4hXO8arVUAlmdp0/edit).
 > **Tags**:: #BnB/Homebrew/Classes/Commando #BnB/Homebrew/Scout/DLC3 
 
@@ -26,11 +26,13 @@ But the Blightcaller's true strength lies in their connection to the spirits of 
 
 The Blightcaller's power is not without its cost. They walk a fine line between life and death, balancing on the edge of rot and rebirth. And as they embrace their dark powers, they risk becoming consumed by their own dark desires, forever lost to the swamp and the spirits that dwell within it.
 
-### Action Skill
+## Action Skill
 
-![[Compendium/BnB/Sourcebook Homebrews/Action Skills/Bog Totem|Bog Totem]]
+![[Bunkers and Badasses/Skills/Action/Bog Totem|Bog Totem]]
 
-### Skill Tree
+## Skill Tree
+
+#todo 
 
 | Tier 1 Skills |  |
 |---|---|

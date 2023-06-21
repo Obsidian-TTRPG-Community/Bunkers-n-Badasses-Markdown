@@ -1,9 +1,7 @@
 ---
 aliases: ["Beastmaster Hunter"]
-cover: 
 description: 
-fileClass: Yes-Publish
-image: 
+obsidianUIMode: preview
 permalink: 
 publish: false
 ---
@@ -15,22 +13,24 @@ publish: false
 > **DMG**:: 1
 > **SPD**:: 0
 > **MST**::  2
-> **Action-Skill**:: [[Compendium/BnB/Sourcebook Homebrews/Creating a Vault Hunter/The Classes/Hunter/Beastmaster Hunter/Gamma Burst|Gamma Burst]]
-> **Tree-Feat**:: [[Compendium/BnB/Sourcebook Homebrews/Creating a Vault Hunter/The Classes/Hunter/Beastmaster Hunter/Animal Companion|Animal Companion]]
+> **Action-Skill**:: [[Bunkers and Badasses/Skills/Action/Gamma Burst|Gamma Burst]]
+> **Tree-Feat**:: [[Bunkers and Badasses/Feats/Animal Companion|Animal Companion]]
 > ### Familiar Stats
+>
 > | Familiar Melee | Score | Familiar Ranged | Score |
 > | -------------------- | ----------- | --------------------- | ----------- |
 > | **2-7**              | -1 DMG       | **2-7**                   | 1 - 0                          |
 > | **8-15**             | Normal       | **8-15**                  | 2 - 0                          |
 > | **16+**              | +1 DMG       | **16+**                   | 3 - 0                             |
 > ### Metadata
-> **Class**:: [[Hunter
+>
+> **Class**:: [[Hunter]]
 > **Source**:: [Scout's DLC 1](https://docs.google.com/document/d/1mjXpoVLi-NuoOolvlEiYb9cNrDb_v0MtbY8qv0hTrJw/)
 > **Tags**:: #BnB/Homebrew/Classes/Commando #BnB/Homebrew/Scout/DLC3 
 
 ## Action Skill
 
-![[Compendium/BnB/Sourcebook Homebrews/Action Skills/Gamma Burst|Gamma Burst]]
+![[Bunkers and Badasses/Skills/Action/Gamma Burst|Gamma Burst]]
 
 ## Familiars
 

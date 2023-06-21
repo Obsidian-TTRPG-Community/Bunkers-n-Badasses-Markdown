@@ -1,15 +1,18 @@
 ---
 aliases: [BnB Traits, Traits]
-fileClass: Yes-Publish
-publish: false
+description:
+image:
+obsidianUIMode: preview
+publish: true
 ---
 
 ## RAW
 
 ### Armoured
+
 **Aliases**: `Armor, Amored`
 
-A type of defence that Enemies can have that is susceptible to [[Compendium/BnB/Sourcebook Homebrews/Glossary/Damage Types#Corrosive Damage|Corrosive Damage]]. Does not Recharge like Shields.
+A type of defence that Enemies can have that is susceptible to [[Bunkers and Badasses/Glossary/Damage Types#Corrosive Damage|Corrosive Damage]]. Does not Recharge like Shields.
 
 ### Chubby
 
@@ -17,7 +20,7 @@ The enemy has Triple Health/Armour and always drops a Legendary item.
 
 ### Corrosive
 
-Deals and is Immune to [[Compendium/BnB/Sourcebook Homebrews/Glossary/Damage Types#Corrosive Damage|Corrosive Damage]].
+Deals and is Immune to [[Bunkers and Badasses/Glossary/Damage Types#Corrosive Damage|Corrosive Damage]].
 
 ### Explosive
 
@@ -29,11 +32,11 @@ Gains [[Compendium/BnB/Sourcebook/Playing The Game/Combat in Pandorah/Encounter 
 
 ### Fire
 
-Deals and is Immune to [[Compendium/BnB/Sourcebook Homebrews/Glossary/Damage Types#Incendiary Damage|Incendiary Damage]].
+Deals and is Immune to [[Damage Types#Incendiary Damage|Incendiary Damage]].
 
 ### Flesh
 
-Physical trait. Susceptible to [[Compendium/BnB/Sourcebook Homebrews/Glossary/Damage Types#Incendiary Damage|Incendiary Damage]].
+Physical trait. Susceptible to [[Damage Types#Incendiary Damage|Incendiary Damage]].
 
 ### Large
 
@@ -41,14 +44,18 @@ Enemy or character takes up a 2x2 square area.
 
 ### Metal
 
-A type of defence that Enemies can have that is susceptible to [[Compendium/BnB/Sourcebook Homebrews/Glossary/Damage Types#Corrosive Damage|Corrosive]].
+A type of defence that Enemies can have that is susceptible to [[Bunkers and Badasses/Glossary/Damage Types#Corrosive Damage|Corrosive]].
 
 ### Shield
 
 Damage is dealt to Shields first before Health. 
 Depletes when Hit. 
-Susceptible to [[Compendium/BnB/Sourcebook Homebrews/Glossary/Damage Types#Shock Damage|Shock]].
+Susceptible to [[Bunkers and Badasses/Glossary/Damage Types#Shock Damage|Shock Damage]].
 
 ### Wood
 
-Physical Trait. Susceptible to [[Compendium/BnB/Sourcebook Homebrews/Glossary/Damage Types#Incendiary Damage|Incendiary Damage]].
+Physical Trait. Susceptible to [[Damage Types#Incendiary Damage|Incendiary Damage]].
+
+> [!reference]-
+> **Source**:: Nerdvana
+> **Tags**:: 

@@ -1,8 +1,9 @@
 ---
 aliases: ["Intangibility Shift"]
 description: "This page describes the effects of Intagibility Shift, a skill for the homebrew skilltree Siren of Death for the Bunkers and Badasses TTRPG."
+obsidianUIMode: preview
 permalink: 
-publish: false
+publish: true
 ---
 
 >[!skill] Intagibility Shift
@@ -14,4 +15,4 @@ publish: false
 > ### Metadata
 > **Source**:: Sigrunixia
 > **Tags**:: #BnB/Classes/Siren/Death/Abilities
-> **Tree**:: [[Compendium/BnB/Sourcebook Homebrews/Classes/Siren of Death|Siren of Death]]
+> **Tree**:: [[Bunkers and Badasses/Classes/Siren/Death Siren|Siren of Death]]

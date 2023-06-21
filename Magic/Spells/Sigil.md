@@ -1,7 +1,7 @@
 ---
 aliases: ["Sigil"]
-cssclass: 
 description: 
+obsidianUIMode: preview
 permalink: 
 publish: false
 ---

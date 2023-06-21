@@ -1,9 +1,9 @@
 ---
-aliases: ["Grenades: Into the Wonderlands"]
+aliases: ["Scouts Alt Grenade Rules"]
 cssclass: bunkers, wonderlands
 description: 
 permalink: 
-publish: false
+publish: true
 ---
 
 > [!quote] Scout's Words of Wisdom

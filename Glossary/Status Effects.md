@@ -1,7 +1,7 @@
 ---
 aliases: [Status Effects]
 fileClass: Yes-Publish
-publish: false
+publish: true
 ---
 
 ## Raw
@@ -9,3 +9,8 @@ publish: false
 ### Incendiary
 
 Elemental Damage that deals **2x** Damage to Flesh. When Shield/Armour is depleted, Health Damage is double for Flesh targets.
+
+
+> [!reference]-
+> **Source**:: Nerdvana
+> **Tags**::

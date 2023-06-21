@@ -1,8 +1,9 @@
 ---
 aliases: ["Apprentice Barnacle Snapper"]
 description: [You have been fascinated by galleons encrusted with sea warts ever since you laid your eyes on one, battered by the Umpteen Seas. You have always dreamt of getting your hands on one and scraping away those warts...]
+obsidianUIMode: preview
 permalink: bnb/backgrounds/barnacle-snapper
-publish: false
+publish: true
 ---
 
 > [!skill] Apprentice Barnacle Snapper

@@ -1,8 +1,9 @@
 ---
 aliases: ["Ambihexterous"]
 description: 
+obsidianUIMode: preview
 permalink: 
-publish: false
+publish: true
 ---
 
 > [!skill] Ambihextrous
@@ -11,4 +12,4 @@ publish: false
 > ### Metadata
 > **Source**:: [Scout's B&B DLC 3: Into the Wonderlands](https://docs.google.com/document/d/1MLOgrWwcLNTnP9PuXrKiLImy7SUh4hXO8arVUAlmdp0/edit)
 > **Tags**:: #BnB/Homebrew/Scout/DLC3 #BnB/Feats/Siren
-> **Tree**:: [[Compendium/BnB/Sourcebook Homebrews/Classes/Spellshot Siren|Spellshot Siren]]
+> **Tree**:: [[Bunkers and Badasses/Classes/Siren/Spellshot Siren|Spellshot Siren]]

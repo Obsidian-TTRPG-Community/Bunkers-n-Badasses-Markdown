@@ -3,10 +3,10 @@ aliases: ["Wonderlands Spells"]
 description: 
 obsidianUIMode: preview
 permalink: bnb/scout/spell
-publish: false
+publish: true
 ---
 
-## Spells
+> [!warning] These Rules are from a prior iteration of Scouts Rules. For the most up-to-date rules, see [[Bunkers and Badasses/Rules/Loot/Scouts Spells and Grenades|Scouts Spells and Grenades]].
 
 Spells function like Grenades, but are more magical in nature. They take up the grenade slot and use the maximum number of Grenades to determine how many times you can cast the equipped Spell. This is similar to spell slots. When equipped, Spells transform Grenades into spell slots. Any skills, weapons, or feats that allow for throwing Grenades also allow for casting spells, and those that give Grenades back or allow for finding Grenades will also recover spell slots to allow for continuous casting.
 
@@ -127,6 +127,8 @@ Spells can have one of six prefixes that boost the spell’s performance. How th
 | 25-30 | 5d8 | 5d4 | 5d8 | 5d10 | 5d8 | 5d6 | 5d6 | 5d8 | 5d4 | 5d12 |
 ^BnB-Spell-Damage-Level
 
+
+
 > [!reference]-
-> **Source**:: [B&B DLC 3 - Into the Wonderlands](https://docs.google.com/document/d/1MLOgrWwcLNTnP9PuXrKiLImy7SUh4hXO8arVUAlmdp0/edit)
+> **Source**:: [B&B DLC 3 - Into the Wonderlands](https://docs.google.com/document/d/1MLOgrWwcLNTnP9PuXrKiLImy7SUh4hXO8arVUAlmdp0/edit) V.1
 > **Tags**:: #BnB/Homebrew/Weapons/Spells #BnB/Homebrew/Scout/DLC3 

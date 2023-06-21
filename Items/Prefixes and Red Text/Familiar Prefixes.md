@@ -1,6 +1,7 @@
 ---
 aliases: [Familiar Prefixes]
-publish: false
+obsidianUIMode: preview
+publish: true
 ---
 
 | `dice: 1D100` | Prefix      | Effect                                                                                                                                                                      |

@@ -5,17 +5,13 @@ description: This page describes the different damage types that are available w
 fileClass: Yes-Publish
 image: 
 permalink: bnb/damage/types
-publish: false
+publish: true
 ---
 
 ## RAW
 
 ### Corrosive Damage
 
-> [!weather]  Corrosive Damage Metadata
-> **Source**:: **Sourcebook**
-> **Tags**:: #BnB/Combat/Damage/Types/Corrosive
-=======
 Corrosive Damage is a type of magical attack that deals significant damage to armour and metal objects, as well as living creatures. This damage is caused by a magical substance that eats away at the target, leaving it weakened and vulnerable. When a creature is hit with corrosive damage, the substance continues to work on the target, causing **double damage** to the affected area.
 
 
@@ -90,4 +86,3 @@ For the unfortunate lifeform with a heart or a brain, Shock Damage also has a ch
 > [!weather]-  Shock Damage Effects Metadata
 > **Source**:: ***Homebrew***
 > **Tags**:: #BnB/Homebrew/Combat/Damage/Types/Shock
->>>>>>> Stashed changes

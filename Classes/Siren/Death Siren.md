@@ -1,19 +1,20 @@
 ---
 aliases: ["Siren of Death"]
 description: "The Siren of Death is a Siren Skilltree that specializes in utilizing their own health and the life energy of their environment and enemies to power their abilities."
+obsidianUIMode: preview
 permalink: 
 publish: false
 ---
 
 ## The Siren of Death
 
-*Requires [[Github/Bunkers and Badasses/Sourcebook/Creating a Vault Hunter/Archetypes/Affinity of the Siren]]*
+*Requires [[Bunkers and Badasses/Archetypes/Affinity of the Siren|Affinity of the Siren]]*
 
 | Holder  | Figurehead | Manifestation                                                                         | Sphere  |
 |---------|------------|---------------------------------------------------------------------------------------|---------|
 | Unknown | Protection | [[../../../../Wyrmscriber/Multiverse/Draleimshí%20Véní/Genus/Shuna/Shuna.md\|Dragon]] | Balance |
 
-*In another time and reality, it was rumored that an ancient Siren warned those who would listen not to seek out the seventh Siren. In my reality, however, no such warning was ever given, and the seventh Siren was discovered just like the others and thought to be one of the six. Perhaps that is why things are happening the way they are now, and why we hunt for **them**.*
+*In another time and reality, it was rumoured that an ancient Siren warned those who would listen not to seek out the seventh Siren. In my reality, however, no such warning was ever given, and the seventh Siren was discovered just like the others and thought to be one of the six. Perhaps that is why things are happening the way they are now, and why we hunt for **them**.*
 
 >[!warning] This Skill Tree is Now Undergoing Play testing.
 
@@ -21,20 +22,21 @@ publish: false
 
 The Siren of Death is a being of fable and fairy tale due to their holders never being fully human, who are closely tied to the forces of death and mortality. They are often portrayed as a dark and ominous figure, feared and respected by those who encounter them. However, even with their association with death, the Siren of Death is not viewed in these tales as evil, but rather is seen as a necessary aspect of the cycle of life and death. You still never want to see them arrive at your doorstep though!
 
-Outside the myth, The Siren of Death is a primordial of nature. They are highly skilled in the arts of magic and the arcane, including the use of necromancy, and are rumored to possess powerful psychic abilities as well. They also possess a range of abilities at their disposal that allow them to control and manipulate the speed of death itself, which has made them an enemy of [The Siren of Time](Github/Bunkers%20and%20Badasses/Sourcebook/Creating%20a%20Vault%20Hunter/The%20Classes/Siren%20of%20Time/Siren%20of%20Time.md).
+Outside the myth, The Siren of Death is a primordial of nature. They are highly skilled in the arts of magic and the arcane, including the use of necromancy, and are rumoured to possess powerful psychic abilities as well. They also possess a range of abilities at their disposal that allow them to control and manipulate the speed of death itself, which has made them an enemy of [The Siren of Time](Github/Bunkers%20and%20Badasses/Sourcebook/Creating%20a%20Vault%20Hunter/The%20Classes/Siren%20of%20Time/Siren%20of%20Time.md).
 
 Although these Sirens are seemingly steeped in the realm of Death, the Siren of Death is not immune to the forces of life, and can be swayed by the motivations and circumstances of those who seek their aid. It is through this they have earned a reputation as a protector of life the ages of old, before the affinity faded into obscurity.
 
 ### Stat Modifiers
 
-Favored-Gun:: Shotgun or Submachine Gun
-Accuracy:: +1 
-Damage:: +1 
-Speed:: +2
-Mastery:: +0
-Melee-Die:: 1d6
-Action-Skill:: [[Github/Bunkers and Badasses/Sourcebook/Creating a Vault Hunter/The Classes/Siren of Death/Entropic Blast]]
-Backgrounds:: Refer to the Backgrounds found in the [[WyrmGamemaster/BnB/Sourcebook/Creating a Vault Hunter/The Classes/Siren/Siren]] section.
+> [!skill]
+> Favoured-Gun:: Shotgun or Submachine Gun
+> Accuracy:: +1 
+> Damage:: +1 
+> Speed:: +2
+> Mastery:: +0
+> Melee-Die:: 1d6
+> Action-Skill:: [[Bunkers and Badasses/Skills/Ability/Phase Blast|Entropic Blast]]
+> Backgrounds:: Refer to the Backgrounds found in the [[WyrmGamemaster/BnB/Sourcebook/Creating a Vault Hunter/The Classes/Siren/Siren]] section.
 
 ### Abilities of the Siren of Death
 

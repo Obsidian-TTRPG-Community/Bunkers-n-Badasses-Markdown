@@ -1,8 +1,9 @@
 ---
 aliases: [Nerfed By The Bunker Master]
 description: [Oh mortal, you have been born in a wondrous way! Like a hero of old, you have emerged fully formed from the mind of a deity, gifted with extraordinary abilities beyond the reach of mere mortals...]
+obsidianUIMode: preview
 permalink: bnb/backgrounds/nerfed-by-bunkermaster
-publish: false
+publish: true
 ---
 
 > [!skill] Nerfed by the Bunker Master

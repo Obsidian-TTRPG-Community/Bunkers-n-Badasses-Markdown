@@ -31,7 +31,4 @@ The Kleave Guild is a group of skilled blacksmiths who specialize in crafting ax
 
 Roll on the Elemental Table.
 
-![[Compendium/BnB/Sourcebook Homebrews/Alternate Rules/Alternate Elemental Table#^BnB-Alt-Elemental-Table|Alternate Elemental Table]]
-> [!reference]-
-> **Source**:: [B&B DLC 3 - Into the Wonderlands](https://docs.google.com/document/d/1MLOgrWwcLNTnP9PuXrKiLImy7SUh4hXO8arVUAlmdp0/edit)
-> **Tags**:: #BnB/Homebrew/Guilds #BnB/Homebrew/Scout/DLC3 
+![[Bunkers and Badasses/Rules/Loot/Scouts Elemental Table]]

@@ -1,11 +1,9 @@
 ---
 aliases: ["Raised by Elves"]
-cover: 
-description: 
-fileClass: 
-image: 
+description: [Ah, I sense that you hail from an Elven commune, my dear friend. Though it is a topic you may not be particularly fond of discussing, the secrets of your upbringing have not gone unnoticed.]
+obsidianUIMode: preview
 permalink: bnb/backgrounds/raised-by-elves
-publish: false
+publish: true
 ---
 
 > [!skill] Raised by Elves

@@ -1,14 +1,9 @@
 ---
 aliases: ["Alternate Elemental Table"]
-cover: 
-created: 2023-01-25
-cssclass: 
 description: 
-image: 
+obsidianUIMode: preview
 permalink: 
-publish: false
-tags: []
-updated: 2023-06-02
+publish: true
 ---
 
 | `dice: 1d%`     | Common           | Uncommon         | Rare             | Epic             | Legendary             |

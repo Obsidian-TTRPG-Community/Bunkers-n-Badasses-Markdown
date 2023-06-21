@@ -1,8 +1,9 @@
 ---
 aliases: ["Village Idiot"]
 description: [You, my dear, are a large and charming child, blessed with both a handsome appearance and an impressive physique. However, you seem to lack any semblance of intellect...]
+obsidianUIMode: preview
 permalink: bnb/backgrounds/village-idiot
-publish: false
+publish: true
 ---
 
 > [!skill] The Village Idiot

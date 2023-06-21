@@ -4,7 +4,7 @@ created: +002023-02-07 2321
 description: 
 image: 
 permalink: 
-publish: 
+publish: false
 title: Font License
 updated: +002023-04-19 1825
 ---

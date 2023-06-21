@@ -36,14 +36,24 @@ pw.*
 
 # Ignore Custom defined files
 .foundations
-/0 Introduction/
-/1 Creating a Vault Hunter/
-/2 Playing The Game/
-/3 Running the Game/
-/Resources/
 .idea
 .idea/vcs.xml
 .idea/modules.xml
 .idea/misc.xml
 .idea/inspectionProfiles/Project_Default.xml
 *.pdf
+
+/Sourcebook/
+/Arbiters of Fate/
+/Resources/
+/Characters/
+/NPCs/
+/Quests/
+/Encounters/
+.idea/workspace.xml
+
+# Specific File Types
+*.pdf
+.ds_store
+/Mechanics/
+/Mechanics/

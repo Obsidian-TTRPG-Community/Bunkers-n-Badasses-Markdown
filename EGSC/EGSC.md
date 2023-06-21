@@ -1,7 +1,7 @@
 ---
 aliases: [Eridian Galactic Standard Calendar, EGSC]
 fileClass: Yes-Publish
-publish: true
+publish: false
 ---
 
 > [!scene] This appears to be a badly preserved guide on the Eridian Galactic Standard Calendar
@@ -95,4 +95,3 @@ An era marked by the resurgence of Vault Hunters, skilled individuals driven by 
 **Circa**: *1,100,000 - 1,200,000 Ticks*
 
 The era when the Vault of the Destroyer was opened, unleashing chaos and upheaval across the galaxies. It signifies the ultimate clash between ancient powers and the heroes who rise to confront the impending catastrophe.
-

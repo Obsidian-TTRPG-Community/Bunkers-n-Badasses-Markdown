@@ -1,0 +1,64 @@
+@mixin callout-core {
+  --callout-border-opacity: 0.4;
+  --callout-padding: 0;
+  --callout-radius: var(--radius-m);
+  --callout-content-padding: 0 var(--size-4-2);
+  --callout-title-padding: var(--size-4-2);
+  --callout-border-width: 0 0.05rem 0 0.1rem;
+
+  & strong {
+    color: rgba(127, 164, 202, 1);
+    font-weight: 600;
+  }
+
+  & em {
+    color: rgba(222, 170, 184, 1);
+  }
+
+  & strong+em {
+    color: rgba(224, 177, 94, 1);
+  }
+}
+
+
+@mixin content-header {
+  > :is(h1, h2, h4, h5, h6) {
+    font-size: 1.25rem;
+    margin: 0;
+    padding: 0.125rem;
+    text-align: left;
+  }
+}
+
+@mixin content-hidden-table {
+  > table {
+    border: none;
+
+    > thead tr {
+      background-color: transparent;
+
+      > th {
+        display: none;
+
+      }
+    }
+
+    tbody tr {
+      background-color: transparent;
+
+      > td:first-child {
+        border: none;
+      }
+
+      > td:nth-child(2n+2) {
+        border: none;
+        background-color: transparent;
+      }
+
+      > td:last-child {
+        border: none;
+        background-color: transparent;
+      }
+    }
+  }
+}

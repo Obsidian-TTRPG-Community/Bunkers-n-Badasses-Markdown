@@ -11,6 +11,7 @@ permalink:
 publish: true
 statblock: true
 statblock-link: "#^statblock"
+title: Constructor Bot
 ---
 
 > [!statblock-bnb] Constructor Bot
